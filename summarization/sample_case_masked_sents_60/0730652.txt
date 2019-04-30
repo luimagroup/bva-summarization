@@ -1,0 +1,180 @@
+round 0, index 83: 
+Entitlement to service connection for post-traumatic stress disorder (PTSD) is denied.
+
+round 1, index 82: 
+Hence, the appeal is denied.
+
+round 2, index 81: 
+Thus, as the veteran has failed to produce credible supporting evidence that a claimed in-service stressor actually occurred, the Board finds that the preponderance of the evidence is against the claim of entitlement to service connection for PTSD.
+
+round 3, index 80: 
+The veteran's statements do not provide a basis to obtain more information regarding the alleged stressors or provide a basis to grant PTSD.
+
+round 4, index 79: 
+In this case, the Board finds that the veteran's stressors do not provide a basis to grant service connection for PTSD.
+
+round 5, index 78: 
+The Board is not required to accept an appellant's uncorroborated account of his active service experiences.
+
+round 6, index 8: 
+PTSD was not incurred during active service.
+
+round 7, index 10: 
+VA must request that the claimant provide any evidence in the claimant's possession that pertains to a claim.
+
+round 8, index 11: 
+The notice requirements apply to all five elements of a service connection claim: 1) veteran status; 2) existence of a disability; (3) a connection between the veteran's service and the disability; 4) degree of disability; and 5) effective date of the disability.
+
+round 9, index 12: 
+The notice must be provided to a claimant before the initial unfavorable adjudication by the RO.
+
+round 10, index 13: 
+The notice requirements may be satisfied if any errors in the timing or content of such notice are not prejudicial to the claimant.
+
+round 11, index 14: 
+The RO provided the appellant pre-adjudication notice by letter dated in July 2002 and additional notice in April 2004, subsequent to the initial adjudication.
+
+round 12, index 16: 
+The claim was subsequently readjudicated in a July 2004 and February 2005 supplemental statements of the case, following the provision of notice.
+
+round 13, index 9: 
+Duties to Notify and AssistUpon receipt of a complete or substantially complete application, VA must notify the claimant of the information and evidence not of record that is necessary to substantiate a claim, which information and evidence VA will obtain, and which information and evidence the claimant is expected to provide.
+
+round 14, index 15: 
+The claimant has had the opportunity to submit additional argument and evidence, and to meaningfully participate in the adjudication process.
+
+round 15, index 17: 
+The veteran has not alleged any prejudice as a result of the untimely notification, nor has any been shown.
+
+round 16, index 18: 
+While the notification did not advise the veteran of the laws regarding degrees of disability or effective dates for any grant of service connection, no new disability rating or effective date for award of benefits will be assigned as the claim for service connection was denied.
+
+round 17, index 19: 
+Accordingly, any defect with respect to that aspect of the notice requirement is rendered moot.
+
+round 18, index 20: 
+VA has obtained service medical records, assisted the veteran in obtaining evidence, afforded the veteran a physical examination, obtained a medical opinion as to the etiology of the claimed disability, and afforded the veteran the opportunity to give testimony before the Board.
+
+round 19, index 21: 
+All known and available records relevant to the issues on appeal have been obtained and associated with the veteran's claims file;
+
+round 20, index 71: 
+Although the veteran has been diagnosed with PTSD, the Board finds no credible evidence which verifies any of his claimed stressors.
+
+round 21, index 22: 
+the veteran has not contended otherwise.
+
+round 22, index 32: 
+Continuity of symptomatology may be established if a claimant can demonstrate (1) that a condition was "noted" during service; (2) evidence of post-service continuity of the same symptomatology" and (3) medical or, in certain circumstances, lay evidence of a nexus between the present disability and the post-service symptomatology.
+
+round 23, index 84: 
+Acting Veterans Law Judge, Board of Veterans' Appeals Department of Veterans Affairs
+
+round 24, index 33: 
+Evidence of a chronic condition must be medical, unless it relates to a condition to which lay observation is competent.
+
+round 25, index 72: 
+The veteran has not submitted any evidence such as lay statements from other soldiers to verify any of his stressors.
+
+round 26, index 7: 
+There is no competent diagnosis of PTSD based on a verifiable in-service stressor.
+
+round 27, index 34: 
+If service connection is established by continuity of symptomatology, there must be medical evidence that relates a current condition to that symptomatology.
+
+round 28, index 5: 
+This hearing was held before the undersigned Acting Veterans Law Judge at the RO in March 2007.
+
+round 29, index 70: 
+After reviewing the record, the Board finds that the veteran has not provided credible supporting evidence that a claimed in-service stressor actually occurred.
+
+round 30, index 35: 
+Service connection for PTSD requires medical evidence diagnosing the condition in accordance with VA regulations; a link, established by medical evidence, between current symptoms and an in-service stressor; and credible supporting evidence that the claimed in-service stressor occurred.
+
+round 31, index 0: 
+The veteran had active service from May 1952 to April 1954.
+
+round 32, index 1: 
+This matter comes before the Board of Veterans' Appeals (Board) on appeal of a July 2003 rating decision issued by the Department of Veterans Affairs (VA) Regional Office (RO) in Cleveland, Ohio, that denied the veteran's claim for service connection for post-traumatic stress disorder (PTSD).
+
+round 33, index 48: 
+The veteran also reported that, after having been warned about Korean civilians arming themselves with hand grenades to kill American soldiers, he shot a Korean girl whom he thought was carrying explosives.
+
+round 34, index 31: 
+If there is no evidence of a chronic condition during service or an applicable presumptive period, then a showing of continuity of symptomatology after service may serve as an alternative method of establishing the second and/or third element of a service connection claim.
+
+round 35, index 2: 
+This decision was issued to the veteran and his service representative in August 2003.
+
+round 36, index 3: 
+He disagreed with this decision in April 2004.
+
+round 37, index 64: 
+In such cases, no further developmental or corroborative evidence is necessary.
+
+round 38, index 73: 
+Moreover, verification of the veteran's claimed stressors is not possible based on the nature of the stressors and the lack of details provided.
+
+round 39, index 4: 
+When he perfected a timely appeal in July 2004, the veteran also requested a Travel Board hearing.
+
+round 40, index 36: 
+The veteran's service medical records show no complaints of or treatment for PTSD or for injuries that may have been sustained in a jeep accident.
+
+round 41, index 63: 
+If it is shown through military citation or other appropriate evidence that a veteran engaged in combat with the enemy, and the claimed stressors are related to combat, the veteran's lay testimony regarding the reported stressors must be accepted as conclusive evidence of their actual occurrence, provided the testimony is found to be satisfactory, e.g., credible and "consistent with the circumstances, conditions, or hardships of such service."
+
+round 42, index 30: 
+Establishing service connection generally requires (1) medical evidence of a current disability; (2) medical, or in certain circumstances, lay evidence of in-service occurrence or aggravation of a disease or injury; and (3) medical evidence of a nexus between the claimed in-service disease or injury and the present disability.
+
+round 43, index 65: 
+In this case, no competent evidence shows that the veteran engaged in combat with an enemy force.
+
+round 44, index 47: 
+The veteran was spared from injury.
+
+round 45, index 75: 
+As noted, service medical records do not bear that out.
+
+round 46, index 6: 
+In June 2006, the veteran notified VA that he had moved to the jurisdiction of the RO in Waco, Texas.
+
+round 47, index 49: 
+The VA examiner stated, "I cannot confirm the specific events of the combat, but his history is believable."
+
+round 48, index 43: 
+The detailed history of that organization does not show that it was involved in combat during the veteran's time on active duty.
+
+round 49, index 77: 
+Moreover, a medical opinion diagnosing PTSD does not suffice to verify the occurrence of the claimed in-service stressors.
+
+round 50, index 68: 
+However, no in-service stressor has been verified because the veteran has failed to provide enough details concerning his alleged stressors.
+
+round 51, index 37: 
+The report of an April 1954 separation examination noted no pertinent defects, diagnoses or significant interval history.
+
+round 52, index 76: 
+Although there is evidence that the person identified by the veteran as having been killed in that accident was in fact killed in 1953, there is no indication that the veteran was present for that event.
+
+round 53, index 29: 
+Service connection may be granted if the evidence demonstrates that a current disability resulted from an injury or disease incurred or aggravated in active military service.
+
+round 54, index 67: 
+In such cases, the record must contain other corroborative evidence that substantiates or verifies the veteran's statements as to the occurrence of the claimed stressors.
+
+round 55, index 24: 
+In November 2002, the National Personnel Records Center (NPRC) notified VA that, after conducting an extensive and thorough search, it had determined that the veteran's service personnel records either did not exist, NPRC did not have them, or that further efforts to locate the veteran's service personnel records at NPRC would be futile.
+
+round 56, index 74: 
+For instance, with regard to the claimed jeep accident, the veteran told RO personnel that any information he gave as to that incident was based on what others told him because he had been in a coma at the time.
+
+round 57, index 69: 
+Despite repeated attempts to verify the veteran's claimed in-service stressors based on the limited information that he provided to VA, they could not be verified.
+
+round 58, index 46: 
+While driving in a jeep, it struck a mine, killing a lieutenant and the driver who were in the jeep with the veteran.
+
+round 59, index 53: 
+The VA examiner commented, "Although I was not able to document from the claims file evidence to confirm he served in the combat as he reports, his reporting of that history appears valid."
+

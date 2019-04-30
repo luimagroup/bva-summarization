@@ -1,0 +1,180 @@
+round 0, index 58: 
+Entitlement to service connection for PTSD is granted.
+
+round 1, index 57: 
+Therefore, the claim for entitlement to service connection for PTSD is granted.
+
+round 2, index 14: 
+Service Connection ClaimIn general, service connection will be granted for disability resulting from injury or disease incurred in or aggravated by active military service.
+
+round 3, index 15: 
+In order to prevail on the issue of service connection on the merits, there must be medical evidence of (1) a current disability;
+
+round 4, index 56: 
+The veteran's claimed in-service stressor of rocket fire around Nha Trang was verified by a search of his unit's records.
+
+round 5, index 55: 
+Those opinions provided the necessary medical nexus between the veteran's current PTSD and an in-service stressor.
+
+round 6, index 38: 
+Mr.
+
+round 7, index 39: 
+P. found that the veteran suffered from PTSD secondary to his service in Vietnam.
+
+round 8, index 37: 
+In a December 2005 statement, a licensed clinical social worker, R. P., related that that the veteran started therapy with him in June 1983.
+
+round 9, index 36: 
+In responding to a U. S. Army and Joint Services Records Research Center (JSRRC) request, a Defense Personnel Records Image Retrieval System report states that on February 24, 1969, mortar rounds impacted the area where the HHC was stationed by Nha Trang and one person was wounded.
+
+round 10, index 40: 
+In December 1993, the veteran entered the Southern Maine Medical Center for psychological treatment.
+
+round 11, index 35: 
+The veteran stated that in late February 1969 while serving with the HHC in Nha Trang he was exposed to heavy mortar and rocket fire.
+
+round 12, index 34: 
+His military occupational specialty (MOS) was 94B (cook).
+
+round 13, index 59: 
+Veterans Law Judge, Board of Veterans' Appeals Department of Veterans Affairs
+
+round 14, index 17: 
+medical, or in certain circumstances, lay evidence of in-service incurrence or aggravation of a disease or injury; and (3) medical evidence of a nexus between the claimed in-service disease or injury and the present disease or injury.
+
+round 15, index 33: 
+In this case, the veteran's service records show that he served in Vietnam with the Headquarters and Headquarters Company (HHC) 54th General Support Group.
+
+round 16, index 13: 
+In light of the favorable disposition of this claim, further discussion of the VCAA is unnecessary.
+
+round 17, index 41: 
+There, B. B., D.O., provided diagnoses of  major depression and PTSD.
+
+round 18, index 16: 
+(2)
+
+round 19, index 18: 
+A veteran seeking disability benefits must establish the existence of a disability and a connection between service and the disability.
+
+round 20, index 32: 
+however, the reasonable doubt rule is not a means for reconciling actual conflict or a contradiction in the evidence.
+
+round 21, index 12: 
+There has been substantial compliance with all pertinent VA law and regulations.
+
+round 22, index 42: 
+May to December 1996, the veteran received treatment from M. H., D.O. for depression and seasonal affective disorder.
+
+round 23, index 54: 
+The Board finds the medical examiner's May 2005 opinion and July 2005 addendum persuasive.
+
+round 24, index 43: 
+From January 2002 to September 2003, C. A. P., D.O.  treated the veteran for depression and PTSD.
+
+round 25, index 44: 
+In October 2003, the veteran renewed his therapy sessions with Mr. P.In April 2004, the veteran applied for Social Security (SSA)
+
+round 26, index 4: 
+All relevant evidence necessary for the equitable disposition of the issue on appeal was obtained.
+
+round 27, index 19: 
+In addition, service connection may be granted for any disease diagnosed after discharge, when all of the evidence, including that pertinent to service, establishes the disease was incurred in service.
+
+round 28, index 53: 
+Based upon the evidence of record, the Board finds the veteran has a present PTSD disability.
+
+round 29, index 52: 
+These statements discuss the veteran's behavior and social interactions since returning from Vietnam.
+
+round 30, index 11: 
+The Board finds the available medical evidence is sufficient for adequate determination of the issue addressed in this decision.
+
+round 31, index 1: 
+July 1966 to July 1969, including service in the Republic of Vietnam from September 1968 to July 1969.
+
+round 32, index 2: 
+He also served in the Army National Guard from October 1973 to April 1991.
+
+round 33, index 3: 
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a May 2004 rating decision by the Togus, Maine, Regional Office (RO) of the Department of Veterans Affairs (VA).1.
+
+round 34, index 5: 
+The evidence of record demonstrates the veteran's presently diagnosed PTSD is a result of a verified stressor that occurred during active service in Vietnam.
+
+round 35, index 20: 
+For the showing of chronic disease in service, there are required a combination of manifestations sufficient to identify a disease entity, and sufficient observation to establish chronicity at the time, as distinguished from merely isolated findings or a diagnosis including the word chronic.
+
+round 36, index 21: 
+Continuity of symptomatology is required only where the condition noted during service is not, in fact, shown to be chronic or when the diagnosis of chronicity may be legitimately questioned.
+
+round 37, index 25: 
+Section 4.125(a) of 38 C.F.R. incorporates the 4th edition of the American Psychiatric Association's Diagnostic and Statistical Manual for Mental Disorders (DSM-IV) as the governing criteria for diagnosing PTSD.
+
+round 38, index 24: 
+and credible supporting evidence that the claimed in-service stressor occurred.
+
+round 39, index 26: 
+The Court further held the sufficiency of a stressor was now a clinical determination for an examining mental health professional.
+
+round 40, index 45: 
+In conjunction with that claim, he was examined by J. F. W., Ph.D. in June 2004.
+
+round 41, index 27: 
+rather an appellant only needs to offer independent evidence of a stressful event that is sufficient to imply his or her personal exposure).
+
+round 42, index 10: 
+An additional notice as to this matter was provided in March 2006.
+
+round 43, index 23: 
+For PTSD claims VA law provides that service connection "requires medical evidence diagnosing the condition in accordance with § 4.125(a) of this chapter; a link, established by medical evidence, between current symptoms and an in-service stressor;
+
+round 44, index 0: 
+The appellant is a veteran who served on active duty from
+
+round 45, index 22: 
+When the fact of chronicity in service is not adequately supported, then a showing of continuity after discharge is required to support the claim.
+
+round 46, index 31: 
+It is the policy of VA to administer the law under a broad interpretation, consistent with the facts in each case with all reasonable doubt to be resolved in favor of the claimant;
+
+round 47, index 51: 
+The veteran also submitted statements from his sister, his former spouse, and his current spouse.
+
+round 48, index 46: 
+In his notes, Dr. W. explained that the veteran had PTSD secondary to his military service due to his exposure to combat in Vietnam.  SSA benefits were awarded effective from March 2004.
+
+round 49, index 50: 
+In a July 2005 addendum, the psychiatrist reiterated that the single stressor of mortar fire in Nha Trang would meet the DSM-IV criteria for PTSD.
+
+round 50, index 30: 
+The Court has held that where the determinative issue involves medical causation or a medical diagnosis, competent medical evidence is required.
+
+round 51, index 28: 
+The Court has held that credible supporting evidence of the actual occurrence of an in-service stressor cannot consist solely of after-the-fact medical nexus evidence.
+
+round 52, index 49: 
+Of those stressors, the psychiatrist specifically mentioned that the verified mortar fire in Nha Trang on February 24, 1969, would be enough of a stressor on its own to meet the criteria for a credible diagnosis of PTSD.
+
+round 53, index 29: 
+Pertinent case law also provides that 38 U.S.C.A. § 1154(b) does not create a presumption of service connection for a combat veteran's alleged disability, and that the veteran is required to meet his evidentiary burden as to service connection such as whether there is a current disability or whether there is a nexus to service which both require competent medical evidence.
+
+round 54, index 47: 
+In conjunction with the present claim, a VA examination was provided in May 2005.
+
+round 55, index 7: 
+The Veterans Claims Assistance Act of 2000 (VCAA) describes VA's duty to notify and assist claimants in substantiating a claim for VA benefits.
+
+round 56, index 6: 
+The veteran's presently diagnosed PTSD was incurred during his active service.
+
+round 57, index 8: 
+In this case, the veteran was notified of the VCAA duties to assist and of the information and evidence necessary to substantiate his PTSD claim by correspondence dated in November 2003, February 2004, March 2004 and November 2005.
+
+round 58, index 48: 
+The psychiatrist reviewed the claims file and noted that the veteran claimed multiple PTSD stressors based on his time in Vietnam.
+
+round 59, index 9: 
+During the pendency of this appeal, the United States Court of Appeals for Veterans Claims (hereinafter "the Court") in Dingess/Hartman v. Nicholson, 19 Vet. App. 473 (2006), found that the VCAA notice requirements applied to all elements of a claim.
+

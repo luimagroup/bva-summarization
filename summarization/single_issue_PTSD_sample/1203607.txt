@@ -1,0 +1,105 @@
+Citation Nr: 1203607	
+Decision Date: 02/01/12    Archive Date: 02/13/12
+
+DOCKET NO.  06-21 612	)	DATE
+	)
+	)
+
+On appeal from the
+Department of Veterans Affairs Regional Office in San Juan, the Commonwealth of Puerto Rico
+
+
+THE ISSUE
+
+Entitlement to service connection for an acquired psychiatric disorder, diagnosed as major depressive disorder and posttraumatic stress disorder (PTSD).  
+
+
+REPRESENTATION
+
+Appellant represented by:	Vietnam Veterans of America
+
+
+ATTORNEY FOR THE BOARD
+
+B. Thomas Knope, Associate Counsel
+
+
+
+INTRODUCTION
+
+The Veteran served on active duty from October 1968 to May 1970.
+
+This matter is on appeal from an April 2005 decision by the Department of Veterans Affairs (VA) Regional Office (RO) in San Juan, Puerto Rico.
+
+The appeal is REMANDED to the RO via the Appeals Management Center (AMC), in Washington, DC.  VA will notify the appellant if further action is required.
+
+
+REMAND
+
+The Veterans Claims Assistance Act of 2000 (VCAA) describes VA's duty to notify and assist claimants in substantiating a claim for VA benefits. 38 U.S.C.A. §§ 5100, 5102, 5103(a), 5103A, 5107, 5126 (West 2002 & Supp. 2011); 38 C.F.R. §§ 3.102, 3.159, 3.326(a) (2011).  For a number of reasons, further development is required prior to adjudication.  
+
+In this case, the Veteran submitted a claim seeking entitlement to service connection for PTSD resulting from his service as a combat engineer in the Republic of Vietnam from April 1969 to May 1970.  In a September 2006 statement, he specifically recounted a time where his unit was installing drainage systems along roadways in June or July of 1969 which required a detached infantry unit for protection.  He stated that he was fearful of sniper attacks, and recalled an incident where he was subject to mortar fire.  He also recalled patrolling roadways in search of land mines, where he once saw enemy bodies being moved by loading trucks.  Since that time, he asserts that he has experienced symptoms such as nightmares and hypervigilance.  
+
+In April 2005, the RO recognized that the Veteran had been diagnosed with PTSD by some treating physicians, but denied the Veteran's claim on the basis that his stressors could not be corroborated unless he could provide more accurate information.  Notably, the Joint Records and Research Center (JSRRC) stated that, in order to conduct a meaningful search, the Veteran must "provide the location of the attack and the unit designation for the unit providing security for the project."
+
+As an initial matter, although the Veteran stated that the mortar attack in June or July 1969, it appears that the JSRRC only reviewed records from July 1969.  In order to prevent prejudice to the Veteran, the relevant records from June 1969 should be reviewed as well. 
+
+The JSRRC also recommended that the RO conduct a search of the morning reports submitted by the 20th Engineering Battalion, in order to confirm whether any attacks occurred on that unit from June through August, 1969.  While the RO attempted to obtain more information from the Veteran, it is unclear whether the morning reports were actually investigated.  From the Board's view, the PIES response did not answer the RO's request in this matter, and there is no reference to a morning reports search in the RO's June 2010 formal determination that the stressor information was insufficient.  Another attempt should be made to acquire these morning reports.  
+
+Next, as was noted by the Veteran's representative in May 2011, the provisions relating to the establishment of service connection for PTSD, found at 38 C.F.R. § 3.304(f), were amended effective July 13, 2010.  See 75 Fed. Reg. 39,843-39,852 (Jul. 13, 2010) and 75 Fed. Reg. 41,092 (Jul. 15, 2010) (effectuating a correction to the July 13, 2010 Federal Register).  
+
+Under the amended 38 C.F.R. § 3.304(f), if a veteran's claimed stressor claimed is related to his or her fear of hostile military or terrorist activity and a VA psychiatrist or psychologist (or a psychiatrist or psychologist with whom VA has contracted) confirms that the claimed stressor is adequate to support a diagnosis of PTSD related to the claimed stressor, then the veteran's lay testimony may alone be sufficient to establish the occurrence of the claimed in-service stressor, so long as the claimed stressor is consistent with the places, types, and circumstances of the veteran's service.
+
+"Fear of hostile military or terrorist activity" means that a veteran experienced, witnessed, or was confronted with an event or circumstance that involved actual or threatened death or serious injury, or a threat to the physical integrity of the veteran or others, such as from an actual or potential improvised explosive device; vehicle-imbedded explosive device; incoming artillery, rocket, or mortar fire; grenade; small arms fire, including suspected sniper fire; or attack upon friendly military aircraft, and the veteran's response to the event or circumstance involved a psychological or psycho-physiological state of fear, helplessness, or horror.
+
+The amended regulations may be applicable to the Veteran's situation.  However, the Board notes that he has not been diagnosed with PTSD by a VA examiner.  To the contrary, the VA examiners both in October 2001 and in February 2005 diagnosed depression rather than PTSD.  
+
+Recognition is given to the Veteran's argument that he has been diagnosed with PTSD during various VA outpatient appointments.  However, the Board stresses that, while the amended regulations provide for a way to establish PTSD without supporting evidence, the lower evidentiary standard applies only of a VA psychologist or psychiatrist (or a psychiatrist or psychologist with whom VA has contracted) confirms the claimed stressor which supports the diagnosis.  
+
+Moreover, the comments associated with the proposal of the amended regulations indicate the intent that the VA examiner's diagnosis must be within the context of a Compensation and Pension examination.   As was noted very recently by the U.S. Court of Appeals for the Federal Circuit, the reasons for this were several:  (1) VA practitioners are given specific instruction on how to conduct PTSD examinations, including guidance materials and a certification process.  (2) The VA reviews the quality of its practitioners' examinations, including taking steps to address identifiable problems with feedback and training.  (3) The VA provides VA associated practitioners with the veterans' claims folders in connection with all mental-disorder examinations, including PTSD examinations, who are instructed that a PTSD diagnosis cannot occur without a review of the folder.  (4) The VA noted that limiting the rule to VA associated practitioners, accompanied by periodic review of these examinations, would ensure standardization and consistency.  Nat'l Org. of Veterans' Advocates, Inc. v. Shinseki, ___ F.3d ___ (Fed. Cir. 2012) (citing 75 Fed.Reg. 39,843, 39,847-48 (July 13, 2010)).  Therefore, while the Veteran has been diagnosed with PTSD by outpatient physicians, these assessments are not sufficient to warrant service connection under the amended regulations.  
+
+Nevertheless, the Board concludes that a new VA examination is warranted, given the recent change to 38 C.F.R. § 3.304 and the receipt of evidence since February 2005.  Specifically, while the VA examiner at that time did not diagnose PTSD, the Veteran did not articulate his stressors until September 2006.  Therefore, there is relevant evidence that is now part of the record that the examiner did not consider.  
+
+Next, while the Veteran's claim has been primarily characterized as a claim for PTSD, the Court of Appeals for Veterans Claims has held that, a claim describing only one particular psychiatric disorder should not necessarily be limited to that disorder.  Clemons v. Shinseki, 23 Vet. App. 1 (2009).  Rather, VA should consider the Veteran's claim as one for any psychiatric disability that may reasonably be encompassed by several factors including: the claimant's description of the claim, the symptoms the claimant describes, and information the claimant submits or VA develops and obtains in connection with the claim. Id.  The Veteran has also been diagnosed with major depressive disorder, which has never been considered by the RO, despite the Veteran's statements that he has been experiencing symptoms since active duty.  Therefore, given the Veteran's statements of continuous psychiatric symptoms since active duty, a VA opinion is also necessary to consider this issue as well.  McLendon v. Nicholson, 20 Vet. App. 79 (2006).  
+
+Finally, the Board notes that the Veteran is in receipt of disability benefits from the Social Security Administration (SSA) since 1999, but there is no indication that there has been an attempt to acquire the treatment records the SSA may possess.  In general, VA is required to obtain relevant records held by any Federal department or agency that the claimant adequately identifies and authorizes the Secretary to obtain. 38 U.S.C.A § 5103A(c)(3); Diorio v. Nicholson, 20 Vet. App. 193, 199-200 (2006). 
+
+Indeed, the Court has specifically held that where there has been a determination with regard to SSA benefits, the records concerning that decision must be obtained, if relevant. Tetro v. Gober, 14 Vet. App. 100, 108-09 (2000); Murincsak v. Derwinski, 2 Vet. App. 363, 372 (1992); cf. Golz v. Shinseki, 590 F.3d 1317 (Fed. Cir. 2010) (there is no duty to get SSA records when there is no evidence that they are relevant).  Given the likelihood that these records are relevant to the issues on appeal, an attempt should be made to acquire them.
+
+Accordingly, the case is REMANDED for the following action:
+
+1.  Provide the Veteran with notice regarding the information required by the JSRRC in order to verify a claimed stressor, while allowing him an appropriate amount of time to provide additional information.
+
+If, the Veteran provides relevant additional information related to his claimed stressors, and the stressors are of sufficient specificity, the RO should attempt to corroborate his allegations with the appropriate research facilities.  If the stressors are of inadequate specificity to be verified, such a determination should be noted in the record.
+
+The AMC should contact the JSRRC in order to review all relevant records related to the Veteran's claimed stressors for the period from June 1 to July 1, 1969.  The AMC should also take action on the JSRRC recommendation to conduct a search of the morning reports submitted by the 20th Engineering Battalion, in order to confirm whether any attacks occurred on that unit from June through August, 1969.  
+
+
+2.  Acquire all available VA treatment records from the VA Medical Center in San Juan, Puerto Rico, since 2006 as well as any prior records not already of record should be associated with the claims file.
+
+The Veteran should also be requested to provide any information regarding additional treatment records that he may have in his possession relating to his psychiatric disorders.  If he has received additional treatment since this claim was certified for appeal, the RO should attempt to acquire the associated records, after obtaining the Veteran's authorization.
+
+3.  Obtain the Veteran's SSA records, including the medical evidence used to determine disability eligibility. If no SSA records are available, it should be so noted in the claims file.
+
+4.  After the above development has been completed and all outstanding records have been associated with the claims file, the Veteran should be scheduled for a VA psychiatric examination, to be conducted by a VA staff or contracted psychiatrist, or a VA staff or contracted psychologist. 
+
+The VA examiner should determine whether any of the stressors claimed by the Veteran are related to his fear of hostile military or terrorist activity.  Thereafter, the VA examiner should confirm whether any of the claimed stressors are adequate to support a diagnosis of PTSD and whether the Veteran's symptoms are related to the claimed stressor(s).  If a diagnosis of PTSD is deemed appropriate, the examiner must identify the specific stressor(s) underlying the diagnosis, and should comment upon the link between the current symptomatology and the Veteran's claimed stressor(s).
+
+If the examiner determines that the clinical evidence does not support a diagnosis of PTSD, to include that the claimed stressors do not support the diagnosis, the examiner should list all diagnosed psychiatric disorders and specifically state whether it is at least as likely as not (a 50 percent probability of greater) that any diagnosed psychiatric disorder either began during or was otherwise caused by the Veteran's military service.   
+
+The claims file must be made available to and reviewed by the examiner.  The psychiatrist must provide a complete rationale for all opinions offered.  In this regard, the examiner should note 1) the Veteran's various alleged service stressors/incidents, which are found in written statements; 2) medical records; and 3) lay statements of record. 
+
+5.  After completing the above, and any other development deemed necessary, the RO should readjudicate the Veteran's claim based on the entirety of the evidence.  If the benefit sought on appeal is not granted to the Veteran's satisfaction, he and his representative should be provided with a SSOC. An appropriate period of time should be allowed for response
+
+The appellant has the right to submit additional evidence and argument on the matter or matters the Board has remanded.  Kutscherousky v. West, 12 Vet. App. 369 (1999).
+
+This claim must be afforded expeditious treatment.  The law requires that all claims that are remanded by the Board of Veterans' Appeals or by the United States Court of Appeals for Veterans Claims for additional development or other appropriate action must be handled in an expeditious manner.  See 38 U.S.C.A. §§ 5109B, 7112 (West Supp. 2011).
+
+
+
+_________________________________________________
+MICHAEL A. HERMAN
+Veterans Law Judge, Board of Veterans' Appeals
+
+Under 38 U.S.C.A. § 7252 (West 2002), only a decision of the Board of Veterans' Appeals is appealable to the United States Court of Appeals for Veterans Claims.  This remand is in the nature of a preliminary order and does not constitute a decision of the Board on the merits of your appeal.  38 C.F.R. § 20.1100(b) (2011).
+

@@ -1,0 +1,180 @@
+round 0, index 38: 
+This claim must be afforded expeditious treatment.
+
+round 1, index 37: 
+The appellant has the right to submit additional evidence and argument on the matter or matters the Board has remanded.
+
+round 2, index 36: 
+Thereafter, the case should be returned to the Board, if in order.
+
+round 3, index 35: 
+If the benefit sought on appeal is not granted, the Veteran and his representative should be issued a supplemental statement of the case, and be afforded the appropriate period of time to respond.
+
+round 4, index 41: 
+This remand is in the nature of a preliminary order and does not constitute a decision of the Board on the merits of your appeal.
+
+round 5, index 40: 
+Veterans Law Judge, Board of Veterans' AppealsUnder 38 U.S.C.A. § 7252 (West 2002), only a decision of the Board of Veterans' Appeals is appealable to the United States Court of Appeals for Veterans Claims.
+
+round 6, index 39: 
+The law requires that all claims that are remanded by the Board of Veterans' Appeals or by the United States Court of Appeals for Veterans Claims for additional development or other appropriate action must be handled in an expeditious manner.
+
+round 7, index 29: 
+Accordingly, the case is REMANDED for the following action:
+
+round 8, index 30: 
+The AMC should submit another request to the JSRRC requesting it verify whether the Veteran's unit, the 226th Signal Company stationed in the Republic of Korea, at some time between September 1, 1968 through November 30, 1968, was placed on heightened alert as a result of a possible sighting of a large number of enemy ships offshore.
+
+round 9, index 33: 
+The examiner should be requested to provide an opinion as to whether it is at least as likely as not that the Veteran has PTSD as a result of the corroborated in-service stressor.
+
+round 10, index 31: 
+If and only if the attempt to obtain evidence corroborating the Veteran's claimed stressor proves successful, the Veteran should be afforded a VA psychiatric examination for the purposes of determining whether a current diagnosis of PTSD is appropriate, and, if so, whether that diagnosis may be etiologically related to the corroborated stressor.
+
+round 11, index 34: 
+After the development requested above has been completed, the AMC should review the claim, considering all the evidence of record.
+
+round 12, index 32: 
+The claims file must be made available to the examiner in connection with the examination.
+
+round 13, index 3: 
+The appeal is REMANDED to the RO via the Appeals Management Center (AMC), in Washington, DC.  VA will notify the appellant if further action is required.
+
+round 14, index 5: 
+The Veteran has contended that he developed PTSD as the result of his experiences in Korea.
+
+round 15, index 6: 
+Specifically, he contends that he developed PTSD as a result of a noncombat incident which occurred during the Fall of 1968, approximately between September and November 1968, when he was stationed with the 226th Signal Company in Korea and worked as a radio teletype operator.
+
+round 16, index 26: 
+No references were made either to the incident that the Veteran described or to whether the 226th Signal Company was placed on a period of heightened alert during the September 1, 1968 through November 30, 1968 time period.
+
+round 17, index 4: 
+In March 2008 the Board remanded the case ordering the verification of the Veteran's alleged PTSD stressor, and the conduction of a medical examination, if such stressor was verified by the Joint Services Records Research Center (JSRRC).
+
+round 18, index 28: 
+The AMC's compliance with the Board's remand instructions is neither optional nor discretionary.
+
+round 19, index 27: 
+Unfortunately, another remand is required to attempt to verify the Veteran's stressor.
+
+round 20, index 2: 
+A hearing at the RO was held in November 2007 before the undersigned Veterans Law Judge who was designated by the Chairman to conduct the hearing pursuant to 38 U.S.C.A. § 7107(c) (West 2002) and who is rendering the determination in this case.
+
+round 21, index 18: 
+The AMC also referenced the capture of the USS Pueblo by the North
+
+round 22, index 19: 
+Koreans, and that there were unknown casualties as a result of the incident.
+
+round 23, index 21: 
+The Board finds the AMC's request to JSRRC inadequate.
+
+round 24, index 20: 
+In May 2008 the JSRRC responded that after having reviewed the history of the 226th Signal Company for 1968, no reports of casualties were mentioned in the unit's history.
+
+round 25, index 17: 
+Specifically, the AMC requested the JSRRC verify that the Veteran's unit was placed on a heightened alert over witnessing one hundred ships on the beach the Veteran's unit was assigned to.
+
+round 26, index 7: 
+During the November 2007 Board hearing, the Veteran testified that while he was on a mission with his unit near the Sea of Japan, he was sitting on the beach with some fellow soldiers when they observed lights on the horizon.
+
+round 27, index 15: 
+Following the Board's March 2008 remand, the AMC submitted a request in April 2008 to the JSRRC in an attempt to verify the Veteran's stressor.
+
+round 28, index 16: 
+The AMC submitted the approximate dates the incident was alleged to have occurred (September 1, 1968 through November 30, 1968) and requested that the JSRRC verify the "stressing experience."
+
+round 29, index 1: 
+This matter came to the Board of Veterans' Appeals (Board) on appeal from an April 2004 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO) in St. Petersburg, Florida.
+
+round 30, index 0: 
+The Veteran served on active duty from September 1967 to May 1969.
+
+round 31, index 14: 
+Nonetheless, the Veteran indicated that he had been fearful for his life and had had repeated nightmares of the incident for the past 30 years.
+
+round 32, index 13: 
+The helicopter pilots, however, eventually radioed back that the lights in the sea were from fishing boats and that there was no threat.
+
+round 33, index 8: 
+(The Veteran explained that this period was a time of heightened tensions in Korea, as it was several months after the capture of the U.S.S. Pueblo by the North Koreans).
+
+round 34, index 25: 
+As the Veteran has not contended that any casualties occurred during this alleged stressful experience, this information is not helpful in determining whether the incident occurred.
+
+round 35, index 22: 
+The AMC stated that the Veteran's stressors included capture of the USS Pueblo; they do not.
+
+round 36, index 9: 
+In light of this atmosphere, the Veteran's Lieutenant became alarmed and contacted their base camp to report the suspicious lights on the sea.
+
+round 37, index 12: 
+The Veteran indicated that it appeared as if there were 100 ships in the Sea of Japan and that he was certain he was going to die.
+
+round 38, index 23: 
+The AMC then stated that the Veteran reported being on heightened alert after witnessing 100 ships; the Veteran stated that it seemed from the lights as if there were 100 ships, not that there actually were.
+
+round 39, index 24: 
+Then, the Board also finds the May 2008 JSRRC response inadequate as it only addressed whether the Veteran's unit suffered casualties in 1968.
+
+round 40, index 10: 
+The base camp responded that there were no planned exercises by the U.S. Navy and that they should "dig in, get under trucks, dig holes, and ammunition was passed out."
+
+round 41, index 11: 
+The Veteran indicated that the base camp sent combat helicopters to investigate the source of the lights on the sea.
+
+round 42, index 0: 
+The Veteran served on active duty from September 1967 to May 1969.
+
+round 43, index 0: 
+The Veteran served on active duty from September 1967 to May 1969.
+
+round 44, index 0: 
+The Veteran served on active duty from September 1967 to May 1969.
+
+round 45, index 0: 
+The Veteran served on active duty from September 1967 to May 1969.
+
+round 46, index 0: 
+The Veteran served on active duty from September 1967 to May 1969.
+
+round 47, index 0: 
+The Veteran served on active duty from September 1967 to May 1969.
+
+round 48, index 0: 
+The Veteran served on active duty from September 1967 to May 1969.
+
+round 49, index 0: 
+The Veteran served on active duty from September 1967 to May 1969.
+
+round 50, index 0: 
+The Veteran served on active duty from September 1967 to May 1969.
+
+round 51, index 0: 
+The Veteran served on active duty from September 1967 to May 1969.
+
+round 52, index 0: 
+The Veteran served on active duty from September 1967 to May 1969.
+
+round 53, index 0: 
+The Veteran served on active duty from September 1967 to May 1969.
+
+round 54, index 0: 
+The Veteran served on active duty from September 1967 to May 1969.
+
+round 55, index 0: 
+The Veteran served on active duty from September 1967 to May 1969.
+
+round 56, index 0: 
+The Veteran served on active duty from September 1967 to May 1969.
+
+round 57, index 0: 
+The Veteran served on active duty from September 1967 to May 1969.
+
+round 58, index 0: 
+The Veteran served on active duty from September 1967 to May 1969.
+
+round 59, index 0: 
+The Veteran served on active duty from September 1967 to May 1969.
+

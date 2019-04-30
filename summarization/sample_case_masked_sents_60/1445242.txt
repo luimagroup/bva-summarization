@@ -1,0 +1,180 @@
+round 0, index 54: 
+This claim must be afforded expeditious treatment.
+
+round 1, index 55: 
+The law requires that all claims that are remanded by the Board or the United States Court of Appeals for Veterans Claims for additional development or other appropriate action must be handled in an expeditious manner.
+
+round 2, index 53: 
+The appellant has the right to submit additional evidence and argument on the matter or matters the Board has remanded.
+
+round 3, index 52: 
+Then, return the case to the Board.
+
+round 4, index 56: 
+Harvey P. RobertsVeterans Law Judge, Board of Veterans' AppealsUnder 38 U.S.C.A. § 7252 (West 2002), only a decision of the Board of Veterans' Appeals is appealable to the United States Court of Appeals for Veterans Claims.
+
+round 5, index 57: 
+This remand is in the nature of a preliminary order and does not constitute a decision of the Board on the merits of your appeal.
+
+round 6, index 41: 
+Then, schedule the Veteran for a VA psychiatric examination to determine the nature and etiology of any psychiatric disorder, to include PTSD and depression.
+
+round 7, index 42: 
+The examiner should review the claims folder and note that review in the report.
+
+round 8, index 51: 
+If any decision is adverse to the Veteran, issue a supplemental statement of the case and allow the appropriate time for response.
+
+round 9, index 43: 
+All indicated tests and studies should be performed.
+
+round 10, index 49: 
+A rationale for all opinions should be provided.
+
+round 11, index 50: 
+Then, readjudicate the claim, with consideration of all evidence added to the claims file since the issuance of the October 2011 supplemental statement of the case.
+
+round 12, index 40: 
+Obtain any VA treatment records since August 2011.
+
+round 13, index 39: 
+Accordingly, the case is REMANDED for the following actions:
+
+round 14, index 9: 
+Specifically, he reports that while lathering his hair in the shower in June 1967, the water became scalding hot and he quickly stepped back and cleared the soap out of his eyes and saw another recruit named laughing at him.
+
+round 15, index 47: 
+For each diagnosed psychiatric disorder, the examiner should opine as to whether it is at least as likely as not (50 percent or greater probability) that the disorder had its onset in or is related to active service.
+
+round 16, index 46: 
+The examiner should also specifically discuss whether it is credible that the Veteran's response to the claimed incidents involved "intense fear, helplessness, or horror."
+
+round 17, index 22: 
+The physician noted that the attack was not sexual in nature, but rather the Veteran was scalded by hot water, but did not sustain any burns.
+
+round 18, index 36: 
+Prior to the examination, the AOJ should obtain any outstanding medical records.
+
+round 19, index 44: 
+The examiner should provide a full multi-axial diagnosis pursuant to DSM-IV and specifically state whether each criterion for a diagnosis of PTSD is met, to include discussion of the sufficiency of the stressors involving the assault in the shower and seeing the physical assaults of other recruits.
+
+round 20, index 48: 
+The examiner should address the June 1968 service medical record showing that the Veteran was treated for angioneurotic edema and recurrent urticaria and prescribed Atarax for nervous problems, the August 2005 VA examiner's opinion that the Veteran's PTSD with secondary depression was related to a traumatic event during active duty, the March 2007 Vet Center opinion that the Veteran's overall military experience may have led to depression, the March 2011 VA physician's conclusion that the Veteran did not meet criterion A for PTSD, and the August 2014 private physician's opinion that the stressor involving the assault in the shower was sufficient to support a diagnosis of PTSD and the Veteran has PTSD due to that stressor.
+
+round 21, index 45: 
+If the examiner finds that criterion A for a diagnosis of PTSD is met, the examiner should explain specifically how the Veteran's described experiences during service meet the criterion that he "experienced, witnessed, or was confronted with an event or events that involved actual or threatened death or serious injury, or a threat to the physical integrity of self or others."
+
+round 22, index 38: 
+Thus, any treatment notes since that time should be obtained.
+
+round 23, index 35: 
+Thus, the Veteran should be provided another VA examination to determine whether he has a psychiatric disability that had its onset in or is due to active service.
+
+round 24, index 37: 
+The record contains VA treatment notes through August 2011.
+
+round 25, index 15: 
+He indicated that he reacted fast and pulled himself out of the shower and saw another recruit, who he named.
+
+round 26, index 5: 
+Pursuant to a Joint Motion for Remand, in a November 2013 Order, the Court remanded the matter for readjudication in accordance with the joint motion.
+
+round 27, index 8: 
+The Veteran claims he has PTSD as a result of an assault in service.
+
+round 28, index 7: 
+Pursuant to the joint motion, the Board finds that further development is needed.
+
+round 29, index 6: 
+In August 2014, the Veteran submitted additional evidence with a waiver of RO review.
+
+round 30, index 0: 
+The Veteran served on active duty from May 1967 to August 1968.
+
+round 31, index 1: 
+This appeal comes to the Board of Veterans' Appeals (Board) from a September 2005 rating decision by the Department of Veterans Affairs (VA) Regional Office (RO) in Oakland, California.
+
+round 32, index 3: 
+In an August 2012 decision, the Board denied service connection for a psychiatric disability.
+
+round 33, index 16: 
+He noted that he did not report the incident and later developed rashes and edema and was tearful, with poor sleep, due to the incident.
+
+round 34, index 2: 
+In June 2012, the Veteran testified before the Board via videoconference.
+
+round 35, index 4: 
+The Veteran appealed that decision to the United States Court of Appeals for Veterans Claims.
+
+round 36, index 13: 
+At an August 2005 VA examination, the Veteran reported that his in-service stressor was an incident in which he was attacked in the shower.
+
+round 37, index 14: 
+He stated that someone turned off the cold water and scalded him.
+
+round 38, index 10: 
+He also indicated that he witnessed physical assaults on other recruits during basic training.
+
+round 39, index 12: 
+His August 1968 discharge examination shows a normal psychiatric evaluation.
+
+round 40, index 34: 
+Without having examined the Veteran, the Board observes that that finding and the resulting opinion are of limited probative value.
+
+round 41, index 11: 
+The Veteran's service medical records show that in June 1968 he was treated for angioneurotic edema and recurrent urticaria and prescribed Atarax for nervous problems.
+
+round 42, index 24: 
+The physician diagnosed the Veteran with depressive disorder, not otherwise specified, and concluded that the Veteran did not meet criterion A for PTSD.
+
+round 43, index 30: 
+While the March 2011 VA physician opined that the stressor involving the assault in the shower was not sufficient to support a diagnosis of PTSD, that opinion appears to be based on the fact that the Veteran was not physically harmed by the stressor.
+
+round 44, index 25: 
+At a June 2012 hearing before the Board, the Veteran indicated that while in service he was attacked in the shower when the cold water was turned off and saw a fellow recruit watching him.
+
+round 45, index 23: 
+The physician stated it was not clear how the Veteran was harmed by the incident in the shower.
+
+round 46, index 31: 
+The Board observes that actual harm is not needed to be a sufficient PTSD stressor.
+
+round 47, index 29: 
+In rendering the opinion, the physician noted the theory of the "eggshell plaintiff" and stated that the Veteran was an individual who is highly hypersensitive and can develop PTSD due to a relatively minor stressor.
+
+round 48, index 27: 
+He testified that he internalized the attacks and the stress manifested itself as rashes and hives on his body.
+
+round 49, index 26: 
+He also indicated that he witnessed a company commander physically assault fellow recruits although he was not the victim of the assaults.
+
+round 50, index 17: 
+The examiner diagnosed the Veteran with PTSD with secondary major depression and secondary cannabis dependence.
+
+round 51, index 32: 
+The physician also did not discuss whether seeing the physical assaults on other recruits was a sufficient stressor.
+
+round 52, index 28: 
+In an August 2014 report, a private physician reviewed pertinent evidence in the Veteran's claims file and opined that the in-service stressor involving the assault in the shower was sufficient to support a diagnosis of PTSD and that the Veteran had PTSD due to that in-service stressor.
+
+round 53, index 33: 
+While the August 2014 private physician opined that the stressor involving the assault in the shower was sufficient and the Veteran has PTSD due to that stressor, that opinion is based on the finding that the Veteran was hypersensitive to stressors.
+
+round 54, index 21: 
+In March 2011, a VA physician noted the Veteran's report that he had PTSD based on an attack in the shower in service.
+
+round 55, index 20: 
+A March 2007 letter from the Vet Center shows that the Veteran's overall military experience may have led to depression.
+
+round 56, index 18: 
+The examiner opined that the Veteran's PTSD with secondary depression was most likely related to a traumatic event the Veteran experienced while on active duty.
+
+round 57, index 19: 
+At a hearing before a DRO in August 2006, the Veteran testified that while he was in the shower another recruit turned off the cold water, scalding him, and he became very fearful from that point on.
+
+round 58, index 0: 
+The Veteran served on active duty from May 1967 to August 1968.
+
+round 59, index 0: 
+The Veteran served on active duty from May 1967 to August 1968.
+

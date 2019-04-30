@@ -1,0 +1,180 @@
+round 0, index 89: 
+Entitlement to service connection for PTSD is denied.
+
+round 1, index 88: 
+Therefore, in the absence of a clear diagnosis of PTSD, and the lack evidence of a link between current symptomatology and the claimed inservice stressors, the preponderance of the evidence is against the veterans claim for service connection for PTSD.
+
+round 2, index 87: 
+No such connection has been shown.
+
+round 3, index 8: 
+PTSD was not incurred in or aggravated by active service.
+
+round 4, index 7: 
+The evidence of record does not show a clear diagnosis of PTSD, nor does it show a link, established by medical evidence, between current symptomatology and the claimed inservice stressor.
+
+round 5, index 86: 
+A diagnosis of PTSD alone is not enough to grant service connection, it must be linked to an inservice stressor.
+
+round 6, index 91: 
+This proceeding has been assigned to an individual member of the Board.NOTICE OF APPELLATE RIGHTS:  Under 38 U.S.C.A. § 7266 (West 1991 &  Supp. 1995), a decision of the Board of Veterans'
+
+round 7, index 90: 
+Member, Board of Veterans' AppealsThe Board of Veterans' Appeals Administrative Procedures Improvement Act, Pub. L. No. 103-271, § 6, 108 Stat. 740, 741 (1994), permits a proceeding instituted before the Board to be assigned to an individual member of the Board for a determination.
+
+round 8, index 85: 
+However, none of the diagnoses of PTSD cited by the veteran specifically relates PTSD to the identified stressors.
+
+round 9, index 92: 
+Appeals granting less than the complete benefit, or benefits, sought on appeal is appealable to the United States Court of Veterans Appeals within 120 days from the date of mailing of notice of the decision, provided that a Notice of Disagreement concerning an issue which was before the Board was filed with the agency of original jurisdiction on or after November 18, 1988.  Veterans' Judicial Review Act, Pub. L. No. 100-687, § 402, 102 Stat. 4105, 4122 (1988).
+
+round 10, index 68: 
+There was no psychosis, delusions, or hallucinations.
+
+round 11, index 93: 
+The date which appears on the face of this decision constitutes the date of mailing and the copy of this decision which you have received is your notice of the action taken on your appeal by the Board of Veterans' Appeals.- 2 -
+
+round 12, index 69: 
+The impression was dysthymia, chronic alcohol dependence.
+
+round 13, index 70: 
+His incapacity to work and socialize was reported to be mild.
+
+round 14, index 71: 
+There was no diagnosis of PTSD rendered.
+
+round 15, index 10: 
+The veterans service medical records are silent for any complaints, treatment, or diagnosis of PTSD.
+
+round 16, index 21: 
+The veteran did not show any deterioration of intellectual or emotional functioning.
+
+round 17, index 83: 
+As claimed stressors, the veteran reports that while in Vietnam he was under three rocket attacks and one mortar attack.
+
+round 18, index 72: 
+The facts relevant to this appeal have been properly developed and the obligation of the Department of Veterans Affairs (VA) to assist the veteran in the development of his claim has been satisfied.
+
+round 19, index 82: 
+Moreover, the evidence of record does not adequately provide a link, established by medical evidence, between current symptomatology and the claimed inservice stressor, as required under
+
+round 20, index 6: 
+All relevant evidence necessary for an equitable disposition of the veterans claim has been developed.
+
+round 21, index 73: 
+Id.
+
+round 22, index 51: 
+The impression was alcohol dependence, chronic, moderate; dysthymia, mild, chronic.
+
+round 23, index 74: 
+Service connection may be granted, in part, for disability resulting from personal injury suffered or disease contracted in the line of duty....38 U.S.C.A. § 1110 (West 1991 & Supp. 1995).
+
+round 24, index 5: 
+Based on its review of the relevant evidence in this matter, and for the following reasons and bases, it is the decision of the Board that the preponderance of the evidence is against the claim for service connection for PTSD.  1.
+
+round 25, index 84: 
+He also indicated that he lived in constant fear of being hit.
+
+round 26, index 75: 
+The provisions of 38 C.F.R. § 3.304(f) (1995) govern the granting of service connection for post-traumatic stress disorder.
+
+round 27, index 76: 
+This regulation provides that service connection may be granted where there is a clear diagnosis of the condition, credible supporting evidence that the claimed inservice stressor actually occurred, and a link, established by medical evidence, between current symptomatology and the claimed inservice stressor.
+
+round 28, index 3: 
+He maintains therefore that service connection is warranted.
+
+round 29, index 58: 
+I dont see it in this man.
+
+round 30, index 67: 
+His affect was moderate, with mild to moderate depression.
+
+round 31, index 0: 
+The veteran served on active duty from November 1965 to November 1968.
+
+round 32, index 1: 
+This appeal arises from a rating decision from the Muskogee, Oklahoma, Regional Office (RO), in which entitlement to service connection for PTSD was denied.
+
+round 33, index 66: 
+He was able to organize his thoughts and express himself.
+
+round 34, index 4: 
+DECISION OF THE BOARDThe Board, in accordance with the provisions of 38 U.S.C.A. § 7104 (West 1991 & Supp. 1995), has reviewed and considered all of the evidence and material of record in the veteran's claims file.
+
+round 35, index 2: 
+CONTENTIONS OF APPELLANT ON APPEALThe veteran contends, in essence that he currently suffer from PTSD as a result of his service in Vietnam.
+
+round 36, index 9: 
+BACKGROUND
+
+round 37, index 78: 
+Specifically, the most recent VA examination of the veteran dated in December 1995, noted that there were no psychosis, delusions, or hallucinations, and failed to render a diagnosis of PTSD.
+
+round 38, index 79: 
+Instead, the diagnoses were dysthymia, and chronic alcohol dependence.
+
+round 39, index 77: 
+The Board notes that the veteran has been diagnosed as having PTSD on several occasions, however, the evidence of record fails to provide a clear diagnosis of the condition.
+
+round 40, index 50: 
+He was goal oriented and judgment was fair.
+
+round 41, index 65: 
+On examination, he was cooperative, goal oriented, and oriented to time, place, and person.
+
+round 42, index 81: 
+These findings were confirmed on the July 1994 VA examination.
+
+round 43, index 80: 
+Similarly, during the VA examination dated in October 1993, the examiner stated in part: I dont see enough stressors nor do I get the feel of a patient who has been trouble with PTSD symptoms after his return to the states...
+
+round 44, index 48: 
+He stated that he saw people killed and wounded.
+
+round 45, index 53: 
+Granted he had some fights and then had some nightmares for a brief period of time.
+
+round 46, index 49: 
+On examination there was no psychosis, delusions, or hallucinations noted.
+
+round 47, index 15: 
+He denied any suicidal or homicidal thoughts.
+
+round 48, index 62: 
+He said he handles stress by hollering, yelling or trying to avoid it.
+
+round 49, index 63: 
+He reported being depressed and that he cries easily.
+
+round 50, index 11: 
+In March 1988, the veteran was admitted to the Carl Albert Community Mental Health Center.
+
+round 51, index 61: 
+He reported that he has trouble getting and staying asleep.
+
+round 52, index 64: 
+He reported occasional thoughts of suicide.
+
+round 53, index 40: 
+No clear cut stressors identified and no significant intrusive thoughts apparent to me.
+
+round 54, index 56: 
+The examination was performed by the same VA physician who conducted the October 1993 examination.
+
+round 55, index 52: 
+I dont see enough stressors nor do I get the feel of a patient who has been troubled with PTSD symptoms after his return to the states.
+
+round 56, index 57: 
+The examiner commented  I still do not see enough in this case to change my opinion about the PTSD.
+
+round 57, index 59: 
+In a report dated in July 1995, the U.S. Army and Joint Services Environmental Support Group confirmed that the veterans unit in Vietnam received mortar and rocket attacks.
+
+round 58, index 60: 
+The veteran underwent another VA PTSD examination in December 1995.
+
+round 59, index 22: 
+The discharge diagnoses were alcohol dependence, continuous dysthymic disorder.
+

@@ -1,0 +1,180 @@
+round 0, index 138: 
+Service connection for an acquired psychiatric disorder, to include PTSD, is denied.
+
+round 1, index 137: 
+As the evidence is not in equipoise, the benefit-of-the-doubt doctrine does not apply.
+
+round 2, index 136: 
+As the preponderance of the evidence is against the Veteran's claim the claim for service connection for an acquired psychiatric disorder to include PTSD and depression must therefore be denied.
+
+round 3, index 7: 
+An acquired psychiatric disorder was not manifest in service and is not related to service.
+
+round 4, index 135: 
+Moreover, as the diagnosed mood disorder has been associated to the alcohol dependence, service connection is not warranted for the same.
+
+round 5, index 8: 
+PTSD, was not incurred in or aggravated by service.
+
+round 6, index 9: 
+An acquired psychiatric disorder was not incurred in or aggravated by service.
+
+round 7, index 20: 
+The Veteran was notified of all other elements of the Dingess notice, including the disability-rating and effective-date elements of his claim, in the December 2006 letter.
+
+round 8, index 21: 
+The VCAA also requires VA to make reasonable efforts to help a claimant obtain evidence necessary to substantiate his claim.
+
+round 9, index 14: 
+(2)
+
+round 10, index 6: 
+PTSD in accordance with DSM-IV criteria is not shown.
+
+round 11, index 19: 
+This letter also satisfied the second and third elements of the duty to notify by delineating the evidence VA would assist in obtaining and the evidence it was expected that he would provide.
+
+round 12, index 129: 
+At a minimum, he is an inconsistent historian.
+
+round 13, index 13: 
+Under the VCAA, VA must inform the claimant of any information and evidence not of record (1) that is necessary to substantiate the claim;
+
+round 14, index 74: 
+Physical examination showed he was appropriately dressed, psychomotor activity and speech were unremarkable, and he was cooperative.
+
+round 15, index 139: 
+Veterans Law Judge, Board of Veterans' AppealsDepartment of Veterans Affairs
+
+round 16, index 11: 
+The Veterans Claims Assistance Act of 2000 (VCAA), Pub. L. No. 106-475, 114 Stat. 2096 (Nov. 9, 2000) (codified at 38 U.S.C.A. §§ 5100, 5102, 5103, 5103A, 5106, 5107, 5126 (West 2002 & Supp. 2010)) redefined VA's duty to assist the Veteran in the development of a claim.
+
+round 17, index 10: 
+AND BASES FOR FINDINGS AND CONCLUSIONSVCAA
+
+round 18, index 12: 
+VA regulations for the implementation of the VCAA were codified as amended at 38 C.F.R. §§ 3.102, 3.156(a), 3.159, 3.326(a) (2010).
+
+round 19, index 15: 
+that VA will seek to provide; and (3) that the claimant is expected to provide.
+
+round 20, index 5: 
+The requested development has been completed and the claim is ready for appellate review.
+
+round 21, index 17: 
+Those five elements include: 1) Veteran status; 2) existence of a disability; 3) a connection between the Veteran's service and the disability; 4) degree of disability; and 5) effective date of the disability.
+
+round 22, index 104: 
+However, none of those records establish a basis for the conclusion that was reached.
+
+round 23, index 18: 
+In a December 2006 pre-rating letter, the RO notified the Veteran of the evidence needed to substantiate a claim for service connection for PTSD.
+
+round 24, index 4: 
+In March 2010, the Board remanded the claim for further development.
+
+round 25, index 22: 
+This "duty to assist" contemplates that VA will help a claimant obtain records relevant to his claim, whether or not the records are in Federal custody, and that VA will provide a medical examination or obtain an opinion when necessary to make a decision on the claim.
+
+round 26, index 16: 
+The United States Court of Appeals for Veterans Claims (Court) has also held that the VCAA notice requirements of 38 U.S.C.A. § 5103(a) and 38 C.F.R. § 3.159(b) apply to all five elements of a service connection claim.
+
+round 27, index 23: 
+In this case, VA obtained the Veteran's service treatment records (STRs) and all of the identified post-service private and VA treatment records, as well as the records of the Social Security Administration's (SSA's) disability determination.
+
+round 28, index 24: 
+In addition, the Veteran was afforded a February 2010 VA psychiatric examination.
+
+round 29, index 134: 
+However, here there is no dispute as to the essential facts and alcohol dependence has not been related to a service-connected disability, and a direct service connection theory of entitlement is legally precluded.
+
+round 30, index 25: 
+This examination was adequate because, as discussed below, the examiner's opinion that she could not render a diagnosis of PTSD was based on consideration of the Veteran's prior medical history and contained a detailed explanation of the reasons for her conclusion.
+
+round 31, index 0: 
+The Veteran served on active duty from May 1962 to May 1964.
+
+round 32, index 1: 
+This matter came before the Board of Veterans' Appeals (the Board) on appeal from a September 2007 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO) in Waco, Texas.
+
+round 33, index 2: 
+In March 2010, the Veteran testified before the undersigned at a videoconference hearing.
+
+round 34, index 75: 
+He was oriented to person, time and place.
+
+round 35, index 26: 
+(most of the probative value of a medical opinion comes from its reasoning).
+
+round 36, index 3: 
+A transcript of the hearing has been associated with the claim file.
+
+round 37, index 55: 
+He reported frequent disturbing memories and dreams about his experiences.
+
+round 38, index 103: 
+The Board recognizes that there are several VA outpatient treatment records noting PTSD.
+
+round 39, index 105: 
+The notations are remarkable for an incredible lack of detail to include the symptoms and stressors to support a diagnosis.
+
+round 40, index 57: 
+He prefers to be a loner.
+
+round 41, index 128: 
+We conclude that the in-service observation of a professional and his contemporaneous denial of pathology is far more probative than a statement advanced decades after the claimed event.
+
+round 42, index 108: 
+The Board finds the opinion of the July 2010 examiner to be reliable and adequate.
+
+round 43, index 117: 
+In addition, lay witnesses may, in some circumstances, opine on questions of diagnosis and etiology.
+
+round 44, index 46: 
+Any inferred assertion of combat or combat like activity is not credible.
+
+round 45, index 76: 
+He reported he remains in his first and only marriage of 45 years.
+
+round 46, index 77: 
+He has 4 adult children and 5 grandchildren.
+
+round 47, index 47: 
+However, he has been credible when he reports no combat.
+
+round 48, index 133: 
+Thus, in order for service connection to be granted for alcohol dependence, it must be established as secondary to, or a component of, a service-connected disability.
+
+round 49, index 58: 
+He has no hallucinations, some paranoia, problems with concentration, but memory is OK.
+
+round 50, index 56: 
+He stated he was depressed because he has no job.
+
+round 51, index 79: 
+He reported he enjoys watching television and working on his small farm.
+
+round 52, index 82: 
+He could understand the outcome of his behavior and could partially understand he has a problem.
+
+round 53, index 48: 
+Therefore, the combat provisions of 38 U.S.C.A. § 1154 (West 2002) are not applicable.
+
+round 54, index 43: 
+When all the evidence is assembled, VA is responsible for determining whether the evidence supports the claim or is in relative equipoise, with the appellant prevailing in either event, or whether a preponderance of the evidence is against a claim, in which case, the claim is denied.
+
+round 55, index 130: 
+Finally, the Board acknowledges the diagnoses of alcohol dependence and mood disorder associated with alcohol dependence.
+
+round 56, index 116: 
+The Veteran is competent to testify as to his observations.
+
+round 57, index 80: 
+He denied any suicide attempts, violence or assaultiveness.
+
+round 58, index 78: 
+He maintains regular contact with his children.
+
+round 59, index 81: 
+Thought process and content was noted to be unremarkable.
+

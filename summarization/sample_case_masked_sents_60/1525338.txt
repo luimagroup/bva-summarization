@@ -1,0 +1,180 @@
+round 0, index 54: 
+Service connection for a psychiatric disorder other than PTSD is granted.
+
+round 1, index 55: 
+Veterans Law Judge, Board of Veterans' AppealsDepartment of Veterans Affairs
+
+round 2, index 52: 
+Given the diagnoses rendered during the appeal period and the favorable nexus evidence of record which places the incurrence during service, the Board resolves doubt in the Veteran's favor and finds that the evidence supports the establishment of service connection.
+
+round 3, index 53: 
+As such, the Veteran's service-connection claim for an acquired psychiatric disorder other than PTSD is granted.
+
+round 4, index 50: 
+Because both the private psychologist and the Veteran's treating psychologist take into account the lengthy history and plethora of psychiatric symptoms demonstrated in the record over the years, including those noted during service (unlike the negative VA opinion), the Board finds these positive opinions to be highly probative.
+
+round 5, index 51: 
+In fact, the Board can find no adequate basis to reject the positive evidence of record demonstrating that the Veteran's current psychiatric disorder continuously existed since his last period of service, based on a lack of credibility or probative value.
+
+round 6, index 23: 
+According to a VA psychological examination in March 2011, the Veteran's diagnosis was bipolar disorder, mixed, and explained that "this diagnosis is responsible for him having mood disturbance problems manifesting [with] both depressive and manic symptoms."
+
+round 7, index 49: 
+This competent evidence strongly supports a finding of in-service incurrence.
+
+round 8, index 21: 
+Subsequent VA treatment records seemed to consolidate his non-PTSD diagnoses, as it was noted that the Veteran was "well d[iagnose]d with bipolar [disorder]" in a September 2005 VA treatment record.
+
+round 9, index 14: 
+II.
+
+round 10, index 13: 
+Given the favorable nature of the Board's decision herein, any error in notice or assistance is harmless.
+
+round 11, index 11: 
+The criteria for entitlement to service connection for an acquired psychiatric disorder other than PTSD have been met.
+
+round 12, index 12: 
+(CONTINUED ON THE NEXT PAGE)REASONS AND BASES FOR FINDING AND CONCLUSIONI.  VA's Duties to Notify and AssistTo the extent that there may be any deficiency of notice or assistance, there is no prejudice to the Veteran in proceeding with adjudication of the claim for service connection for an acquired psychiatric disorder other than PTSD or the merits.
+
+round 13, index 15: 
+Service Connection for an Acquired Psychiatric Disorder other than PTSD
+
+round 14, index 16: 
+After reviewing the evidence of record, the Board finds that the criteria for entitlement to service connection for an acquired psychiatric disorder other than PTSD have been met.
+
+round 15, index 10: 
+Resolving doubt in the Veteran's favor, the Veteran's acquired psychiatric disorder other than PTSD-variously diagnosed as bipolar disorder, depression, and anxiety-was incurred during active duty service.
+
+round 16, index 9: 
+Therefore, the Board does not have jurisdiction over it, and it is referred to the AOJ for appropriate action.
+
+round 17, index 2: 
+This appeal to the Board of Veterans' Appeals (Board) arose from an October 2002 rating decision by the Department of Veterans Affairs (VA) Regional Office (RO) in Los Angeles, California.
+
+round 18, index 17: 
+As an initial matter, the evidence establishes a current disability during the appeal period.
+
+round 19, index 18: 
+(the requirement of a "current disability" is satisfied if a disorder is diagnosed at the time a claim is filed or at any time during the pendency of the appeal).
+
+round 20, index 19: 
+The Board first notes that this case has been pending on appeal for a long time, throughout which the Veteran has consistently sought psychiatric treatment.
+
+round 21, index 20: 
+A review of the record reflects that the Veteran filed his claim to reopen service connection for a psychiatric disorder in April 2002, and since that time, VA treatment records initially discussed several diagnoses, including a history of bipolar I versus bipolar II disorder, mood disorder not otherwise specified, bipolar disorder, and rule out bipolar I disorder.
+
+round 22, index 22: 
+Recent treatment records downloaded to Virtual VA consistently determined that the Veteran has bipolar disorder, as well as depressive symptoms related to bipolar disorder, and was prescribed bipolar psychotropic medications.
+
+round 23, index 24: 
+However, in October 2014, Veteran submitted a July 2014 Disability Benefits Questionnaire (DBQ), filled out by a private psychiatrist, which indicated that the Veteran met the criteria for both Axis I diagnoses of bipolar disorder and generalized anxiety disorder.
+
+round 24, index 3: 
+The Board has remanded this matter for additional development on six prior occasions, including in July 2005, October 2008, May 2010, August 2012, March 2013, and November 2013.
+
+round 25, index 25: 
+Even though the Veteran's symptoms have been variously diagnosed as bipolar disorder, anxiety, and depression, the above evidence clearly demonstrates the existence of an acquired non-PTSD psychiatric disorder throughout the appeal period.
+
+round 26, index 26: 
+The crux of the matter hinges on whether the Veteran's psychiatric disorder, however it is definitively diagnosed, is related to service, including the psychiatric symptoms noted during his last period of active duty.
+
+round 27, index 27: 
+[As stated in the Introduction, according to a July 1991 character of discharge determination, this period of service is to be treated as under honorable conditions for VA purposes and thus is not a bar to VA benefits under 38 U.S.C.A. § 5303(e) (2014) and 38 C.F.R. § 3.12(f) (2014)].
+
+round 28, index 41: 
+Moreover, the VA opinion above is evidence that affirmatively weighs against rebuttal of the presumption of soundness.
+
+round 29, index 48: 
+I can see from a review of his records that his symptoms have presenting ongoing difficulty for him since his service time."
+
+round 30, index 40: 
+Veteran shall be taken to have been in sound condition when examined, accepted, and enrolled for service, except as to defects, infirmities, or disorders noted at the time of the examination, acceptance, and enrollment, or where clear and unmistakable evidence demonstrates that the injury or disease existed before acceptance and enrollment and was not aggravated by such service.").
+
+round 31, index 0: 
+The Veteran had honorable active service from August 1980 to August 1984 and from April 1985 to September 1985.
+
+round 32, index 39: 
+Accordingly, the Veteran is entitled to the presumption of soundness.
+
+round 33, index 4: 
+The three most recent remands were deemed necessary in order to obtain a character of discharge determination for the Veteran's last period of active duty service from September 1985 to August 1990.
+
+round 34, index 42: 
+Here, there is simply no "clear and unmistakable evidence" that the condition, even though not noted upon entrance, preexisted service and was not aggravated thereby.
+
+round 35, index 46: 
+Crucially, although not sufficient to rebut the presumption of soundness discussed above, this private opinion strongly denotes the causal effect of the Veteran's service on his current psychiatric disability, thereby providing a link between service and the Veteran's current non-PTSD diagnoses.
+
+round 36, index 1: 
+A subsequent enlistment from September 1985 to August 1990 resulted in an other-than-honorable character of discharge, but a July 1991 character of discharge determination-recently associated with the claims file on remand-found that, because the Veteran's actions did not constitute willful and persistent misconduct, this period of service "is considered to be under honorable conditions for VA purposes."
+
+round 37, index 7: 
+As a final introductory matter, the Board notes that the issue of whether new and material evidence has been submitted to reopen the claim of entitlement to service connection for PTSD has been raised by the record.
+
+round 38, index 6: 
+Nor is there any prejudice to the Veteran despite the fact that VA obtained additional VA treatment records after the issuance of the most recent Supplemental Statement of the Case in June 2012.
+
+round 39, index 8: 
+However, this issue (the Board notes that service connection for PTSD was last denied in an October 2008 Board decision that bifurcated and remanded the issue of whether new and material evidence had been received to reopen the claim for service connection for a psychiatric disorder other than PTSD) has not yet been adjudicated by the AOJ.
+
+round 40, index 47: 
+Furthermore, the Veteran also submitted a September 2014 statement from the Veteran's treating psychologist at VA, who determined that the Veteran's "symptoms, significantly affecting his daily functioning, have reportedly been persistent since his time in the service.
+
+round 41, index 5: 
+As a copy of the July 1991 character of discharge determination has since been associated with the appellant's electronic claims file, the Board may proceed with an adjudication on the merits at this time.
+
+round 42, index 37: 
+rather, the VA examiner stated that "[h]e was first diagnosed having bipolar . . . since military service."
+
+round 43, index 38: 
+In this regard, to the extent that the Veteran's psychiatric history reflects that he suffered personal trauma from his childhood prior to service (see September 1992 letter from a private registered nurse), the Board notes that no psychiatric disability was noted upon his entrance and enrollment into active duty service.
+
+round 44, index 36: 
+The examiner explained that the onset did not occur during service;
+
+round 45, index 29: 
+Indeed, a review of service treatment records reflects that the Veteran's separation Report of Medical History reflected a history positive for depression or excessive worry and nervous trouble of any sort.
+
+round 46, index 44: 
+Therefore, the operative question remains whether the Veteran is entitled to service connection on a direct basis.
+
+round 47, index 43: 
+(discussing the types of evidence that may constitute or contribute to clear and unmistakable evidence of lack of aggravation);
+
+round 48, index 45: 
+Contrary to the negative VA addendum opinion, the Veteran submitted a July 2014 DBQ from his private psychologist that specifically determined that "while depression and anxiety have existed for many years, period of time in Desert Storm [] greatly increased his deterioration."
+
+round 49, index 35: 
+With regard to the Veteran's specific diagnosis of bipolar disorder, the VA examiner further noted that there was nothing to indicate that it pre-existed active military service or that this condition was permanently aggravated by subsequent service.
+
+round 50, index 32: 
+Notably, in a June 2012 addendum opinion to the March 2011 VA examination report, a VA examiner found "NOTHING to suggest that any psychiatric disability was incurred in or aggravated by active military service.
+
+round 51, index 34: 
+However, the VA examiner does not discuss the in-service symptoms and in-patient treatment for depression, nor does the VA examiner provide any further rationale for his negative nexus conclusion.
+
+round 52, index 33: 
+His current diagnosis is NOT caused by, or a result of military service."
+
+round 53, index 30: 
+It was specifically noted that the Veteran received in-patient mental health treatment in January 1990 Tripler Army Hospital for depression.
+
+round 54, index 31: 
+In ascertaining whether any of his current symptoms are related to the symptoms first shown in service, the Board recognizes that there are differing opinions of record.
+
+round 55, index 28: 
+As noted in the Board's previous remand, "the evidence of record shows that the Veteran was treated for cocaine dependence and a failed suicide attempt during his final term of service, and he was hospitalized for psychiatric treatment within two years of his separation from the last period of active service."
+
+round 56, index 0: 
+The Veteran had honorable active service from August 1980 to August 1984 and from April 1985 to September 1985.
+
+round 57, index 0: 
+The Veteran had honorable active service from August 1980 to August 1984 and from April 1985 to September 1985.
+
+round 58, index 0: 
+The Veteran had honorable active service from August 1980 to August 1984 and from April 1985 to September 1985.
+
+round 59, index 0: 
+The Veteran had honorable active service from August 1980 to August 1984 and from April 1985 to September 1985.
+

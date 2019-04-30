@@ -1,0 +1,180 @@
+round 0, index 34: 
+All indicated tests and studies should be conducted.
+
+round 1, index 35: 
+The claims folder must be provided to the examiner for use in the study of this case.
+
+round 2, index 33: 
+Schedule the Veteran for a VA psychiatric examination.
+
+round 3, index 36: 
+After review of the record and completion of the examination, the examiner should attempt to provide the following opinions:a)
+
+round 4, index 32: 
+Obtain all VA record pertaining to the treatment of the Veteran's psychiatric disabilities dating from April 2009 to the present and associate them with the claims folder.
+
+round 5, index 31: 
+If JSRRC suggest that other entities be contacted for records, contact those entities and request those records.
+
+round 6, index 30: 
+Request that all appropriate records be searched that might verify the occurrence of the claimed stressors, to include but not limited to unit histories and ship's logs.
+
+round 7, index 45: 
+The Veteran need take no action until otherwise notified.
+
+round 8, index 25: 
+Accordingly, the case is REMANDED for the following actions:
+
+round 9, index 6: 
+The appeal is REMANDED to the RO via the Appeals Management Center (AMC), in Washington, DC.  VA will notify the Veteran if further action is required.
+
+round 10, index 37: 
+Do the Veteran's current psychiatric diagnoses include PTSD?
+
+round 11, index 51: 
+This remand is in the nature of a preliminary order and does not constitute a decision of the Board on the merits of your appeal.
+
+round 12, index 49: 
+Veterans Claims for additional development or other appropriate action must be handled in an expeditious manner.
+
+round 13, index 27: 
+If additional records are needed to ascertain when he was aboard the ship, that development should be undertaken.
+
+round 14, index 38: 
+If so, is it as likely as not (50 percent probability or higher) that the Veteran's PTSD is the result of one or more of the verified in-service stressors? b)
+
+round 15, index 7: 
+The Veteran contends that he has developed PTSD as a result of two separate incidents during active service.
+
+round 16, index 40: 
+If so, is it as likely as not (50 percent probability or more) that any current psychiatric disability was incurred due to active service or event or occurrence therein?
+
+round 17, index 9: 
+He also asserts that he was in a combat zone off the coast of Beirut when over 280 Marines were killed by a terrorist.
+
+round 18, index 42: 
+If any benefit sought on appeal, for which a notice of disagreement has been filed, remains denied, the Veteran and representative should be furnished a supplemental statement of the case and given the opportunity to respond thereto.
+
+round 19, index 41: 
+After the development requested above has been completed to the extent possible, review the record.
+
+round 20, index 39: 
+If the Veteran does not have PTSD, or if his PTSD is not related to in-service stressors, does the Veteran have any other current psychiatric diagnoses?
+
+round 21, index 44: 
+The Board intimates no opinion as to the ultimate outcome of this case.
+
+round 22, index 50: 
+Veterans Law Judge, Board of Veterans' AppealsUnder 38 U.S.C.A. § 7252 (West 2002), only a decision of the Board of Veterans' Appeals is appealable to the United States Court of Appeals for Veterans Claims.
+
+round 23, index 29: 
+This should include the 1981 death of Roger Cunningham and the 1983 death of Robert Madden, both aboard the USS Sumter.
+
+round 24, index 47: 
+This claim must be afforded expeditious treatment.
+
+round 25, index 43: 
+Thereafter, the case should be returned to the Board, if in order.
+
+round 26, index 8: 
+He states that two shipmates were killed in accidents aboard the USS Sumter, with the first accident in 1981 and the second in 1983.
+
+round 27, index 24: 
+Then, if they are verified, the Veteran must be scheduled for a VA examination to determine whether or not his PTSD is related to one or more of his in-service stressors.
+
+round 28, index 26: 
+Verify the location of the USS Sumter during the time the Veteran was assigned to the ship.
+
+round 29, index 28: 
+Thereafter, send a list of the Veteran's reported stressors to the U.S. Army and Joint Services Records Research Center (JSRRC) or other appropriate authority.
+
+round 30, index 46: 
+The Veteran has the right to submit additional evidence and argument on the matter or matters the Board has remanded.
+
+round 31, index 48: 
+The law requires that all claims that are remanded by the Board of Veterans' Appeals or by the United States Court of Appeals for
+
+round 32, index 0: 
+The Veteran had active service from March 1980 to March 1985.
+
+round 33, index 1: 
+This matter comes before the Board of Veterans' Appeals (Board) on appeal of a September 2006 rating decision of the Winston-
+
+round 34, index 2: 
+Salem, North Carolina, Regional Office (RO) of the Department of Veterans Affairs (VA).
+
+round 35, index 3: 
+In November 2010, the Veteran offered testimony at a hearing before the undersigned Veterans Law Judge at the RO.
+
+round 36, index 16: 
+These records show that the Veteran was diagnosed as having PTSD in January 2009 by a VA psychiatrist, and that he continued to be treated for PTSD as well as other psychiatric disabilities by this psychiatrist.
+
+round 37, index 15: 
+However, the evidence received at the November 2010 hearing consists of VA treatment records dating from January 2009 to April 2009.
+
+round 38, index 14: 
+He was also not provided a VA examination, again presumably because of the lack of current PTSD diagnosis and the lack of evidence of schizophrenia during service.
+
+round 39, index 19: 
+The evidence of a link between current disability and service must be competent.
+
+round 40, index 18: 
+Under the VCAA, VA is obliged to provide an examination when the record contains competent evidence that the claimant has a current disability or signs and symptoms of a current disability, the record indicates that the disability or signs and symptoms of disability may be associated with active service; and the record does not contain sufficient information to make a decision on the claim.
+
+round 41, index 10: 
+He asserts this has contributed to his stress.
+
+round 42, index 20: 
+The threshold for finding a link between current disability and service is low.
+
+round 43, index 5: 
+The Veteran submitted additional evidence at the hearing, but he has waived initial review by the RO.
+
+round 44, index 4: 
+A transcript of the hearing is contained in the claims folder.
+
+round 45, index 21: 
+In this case, the Veteran has a current diagnosis of PTSD.
+
+round 46, index 11: 
+He argues that he does not have schizophrenia, but rather has PTSD.
+
+round 47, index 23: 
+Therefore, as they are not combat related, the Board finds that development must be taken to determine whether or not his claimed stressors can be verified.
+
+round 48, index 13: 
+The record further shows that no attempt was made to verify the Veteran's stressors, presumably because there was no diagnosis of PTSD.
+
+round 49, index 22: 
+He has reported plausible stressors that are consistent with the facts and circumstances of his service.
+
+round 50, index 12: 
+The records show that the September 2006 rating decision which denied the Veteran's claim did so on the basis that there was no there was no diagnosis of PTSD, and the current diagnosis of schizophrenia was not shown in service or until many years after discharge from service.
+
+round 51, index 17: 
+Although the examiner did not expressly link the Veteran's claimed stressors to his PTSD, they were cited in the report as among the stressors reported by the Veteran.
+
+round 52, index 0: 
+The Veteran had active service from March 1980 to March 1985.
+
+round 53, index 0: 
+The Veteran had active service from March 1980 to March 1985.
+
+round 54, index 0: 
+The Veteran had active service from March 1980 to March 1985.
+
+round 55, index 0: 
+The Veteran had active service from March 1980 to March 1985.
+
+round 56, index 0: 
+The Veteran had active service from March 1980 to March 1985.
+
+round 57, index 0: 
+The Veteran had active service from March 1980 to March 1985.
+
+round 58, index 0: 
+The Veteran had active service from March 1980 to March 1985.
+
+round 59, index 0: 
+The Veteran had active service from March 1980 to March 1985.
+

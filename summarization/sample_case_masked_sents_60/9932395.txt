@@ -1,0 +1,180 @@
+round 0, index 66: 
+Service connection for PTSD is granted.
+
+round 1, index 65: 
+With application of the benefit-of-the-doubt doctrine, a grant of service connection is warranted.
+
+round 2, index 11: 
+The veteran has PTSD that is, at least in part, attributable to a stressful experience during military service.
+
+round 3, index 12: 
+New and material evidence to reopen a previously denied claim of service connection for PTSD has been submitted; the claim of service connection is reopened.
+
+round 4, index 14: 
+SThe veteran contends that he has PTSD as a result of his experiences in the Republic of Vietnam as a combat engineer.
+
+round 5, index 13: 
+The veteran has PTSD which is the result of disease or injury incurred during active military service.
+
+round 6, index 15: 
+However, the veteran's current claim of service connection for PTSD is not his first such claim.
+
+round 7, index 43: 
+In addition, at an October 1997 VA examination, after the veteran had discussed his Vietnam experiences (i.e., having engaged in firefights, being wounded by shrapnel, having a friend killed, being on a convoy that was ambushed, and seeing people killed), the examiner noted that he had read the claims file and formed an opinion that the veteran suffered from "schizoaffective disorder, bipolar type with comorbidity of [PTSD] resulting from the combat experience."
+
+round 8, index 44: 
+Furthermore, the Board notes that a February 1998 VA treatment record characterized the veteran's psychiatric disorder as "combat-related PTSD."
+
+round 9, index 42: 
+Id.
+
+round 10, index 21: 
+New and material evidence means evidence not previously submitted to agency decision makers which bears directly and substantially upon the specific matter under consideration, which is neither cumulative nor redundant, and which by itself or in connection with evidence previously assembled is so significant that it must be considered in order to fairly decide the merits of the claim.
+
+round 11, index 45: 
+As noted above, the evidence of record includes a diagnosis of PTSD by medical personnel and statements from the veteran to the effect that he was exposed to severe stressors in service, including having a friend killed.
+
+round 12, index 46: 
+Additionally, the evidence of record includes medical opinions that specifically relate his PTSD to the foregoing in-service experience.
+
+round 13, index 16: 
+In July 1994, the RO denied the veteran's claim of service connection for PTSD because the record did not contain a diagnosis of PTSD.
+
+round 14, index 19: 
+(For the purpose of determining whether new and material evidence has been submitted, the credibility of the evidence is to be presumed.
+
+round 15, index 17: 
+No appeal was taken from this action and it became final.
+
+round 16, index 20: 
+"New and material evidence" is defined by regulation as follows:
+
+round 17, index 52: 
+In addition, a December 1968 letter from the veteran's commander shows that the veteran was assigned to Bravo Company, 27th Engineering Battalion (combat), and his Company was stationed 12 miles south of the city of Hue, Republic of Vietnam.
+
+round 18, index 51: 
+National Defense Service Medal, Vietnam Service Medal with three Bronze Service Stars, and the Republic of Vietnam Campaign Medal.
+
+round 19, index 18: 
+As a result, the veteran's current claim of service connection may now be considered on the merits only if new and material evidence has been submitted since the time of the last final decision.
+
+round 20, index 50: 
+His military occupation was as a combat engineer, and his awards and decorations included the
+
+round 21, index 48: 
+The Board is also satisfied that, with reasonable doubt resolved in the veteran's favor, the evidence supports a grant of service connection.
+
+round 22, index 41: 
+However, the foregoing VA record also continued to carry a diagnosis of PTSD.
+
+round 23, index 22: 
+Under this three-step approach to claims to reopen, VA must first determine whether new and material evidence has been presented under 38 C.F.R.
+
+round 24, index 63: 
+Although many treatment reports are of record which do not show a diagnosis of PTSD, they do not affirmatively indicate that he does not experience this disability.
+
+round 25, index 53: 
+The veteran has submitted copies of selected pages from the 1968 to 1969 yearbook for the 27th Engineering Battalion.
+
+round 26, index 8: 
+Therefore, the first issue that now must be addressed is whether the claim ought to be reopened.
+
+round 27, index 54: 
+This yearbook contained a picture of the veteran and the friend who was reportedly killed.
+
+round 28, index 23: 
+If new and material evidence has been presented, it must be determined whether, based upon all of the evidence and presuming its credibility, the claim as reopened is well grounded pursuant to 38 U.S.C. § 5107(a).
+
+round 29, index 49: 
+As for whether evidence sufficient to corroborate the veteran's story of in-service stressors has been submitted, the Board notes that service personnel records show that the veteran served in the Republic of Vietnam with a combat engineer unit (27th Engineering Battalion) from December 1968 to November 1969.
+
+round 30, index 64: 
+Given that the October 1997 evaluation report showing PTSD reflected extensive examination and testing, given that examiners who diagnose PTSD must find that the traumatic event is being re-experienced in some way, and because the examiners in this case appear to rely on the existence of the claimed in-service event in reaching the diagnosis of PTSD, the Board finds that the evidence is in relative equipoise on this point.
+
+round 31, index 0: 
+The veteran served on active duty from July 1968 to July 1970.
+
+round 32, index 60: 
+The yearbook and service records are independent descriptions of a significant part of the veteran's version of events.
+
+round 33, index 30: 
+Id.
+
+round 34, index 2: 
+This matter comes before the Board of Veterans' Appeals (Board) following an October 1996 decision of the Buffalo, New York, Regional Office (RO) of the Department of Veterans Affairs (VA) which denied a claim of service connection for PTSD.
+
+round 35, index 57: 
+Consequently, the yearbook and service records provide support for the veteran's recitation of events:  having a friend with whom he served killed in action.
+
+round 36, index 47: 
+Under these circumstances, the Board finds that the veteran's claim is well grounded within the meaning of 38 U.S.C.A. § 5107 (West 1991).
+
+round 37, index 28: 
+In other words, it bears directly and substantially upon the issue at hand, and is neither duplicative nor cumulative.
+
+round 38, index 7: 
+Nevertheless, the United States Court of Appeals for Veterans Claims (known as the United States Court of Veterans Appeals prior to March 1, 1999) (Court) has held that, in a matter such as this, the Board has a duty to consider the issue of whether new and material evidence has been submitted to reopen the claim, regardless of the RO's actions.
+
+round 39, index 9: 
+Service connection for PTSD was denied by the RO in July 1994 and no appeal ensued.
+
+round 40, index 10: 
+Evidence obtained in connection with the veteran's attempt to reopen his claim includes VA treatment records that include a diagnosis of PTSD as a result of the veteran's experiences in the Republic of Vietnam, information that was not previously available in July 1994.
+
+round 41, index 55: 
+Moreover, August 1996 correspondence from the U.S. Armed Services Center for Research of Unit Records (USASCRUR) indicates that the individual reported as killed by the veteran had in fact been killed in action in June 1969.
+
+round 42, index 6: 
+The Board notes that the RO, in its October 1996 decision, did not specifically address the question of whether new and material evidence sufficient to reopen the claim had been presented since the July 1994 decision.
+
+round 43, index 58: 
+While the veteran gave some inconsistent statements as to the details concerning the incident in question, these inconsistencies are not so glaring for the Board to disregard his claim.
+
+round 44, index 56: 
+Specifically, this individual was killed as a result of a rocket-propelled grenade attack while serving with the 25th Infantry Division in the Republic of Vietnam.
+
+round 45, index 24: 
+Third, if the claim is well grounded, then VA may proceed to evaluate the merits of the claim, but only after ensuring that the duty to assist under 38 U.S.C. § 5107(a) has been fulfilled.
+
+round 46, index 1: 
+The veteran also had a subsequent period of unverified service in a reserve component.
+
+round 47, index 29: 
+Given that a post-service diagnosis of PTSD was not previously available, this newly received evidence is so significant that it must be considered in order to decide fairly the merits of the underlying claim.
+
+round 48, index 5: 
+The veteran initiated no appeal and the 1994 decision consequently became final.
+
+round 49, index 38: 
+Moreover, this admitting record shows, under the heading "Admitting
+
+round 50, index 59: 
+Accordingly, the Board finds that, in the current appeal, as in Suozzi, supra, the evidence substantiates a version of events during service which, when viewed most favorably to the veteran, supports his account of what happened.
+
+round 51, index 27: 
+The Board consequently finds that the evidence received subsequent to the July 1994 RO denial is new and material as defined by regulation.
+
+round 52, index 61: 
+In other words, it corroborates the veteran's account of what happened even though it does not corroborate all, or even most, of the details of the event.
+
+round 53, index 32: 
+Because new and material evidence has been presented under 38 C.F.R. § 3.156(a), the Board must consider anew the merits of the underlying claim of service connection.
+
+round 54, index 62: 
+Additionally, it is significant that there is no evidence in the claims file that directly contradicts the opinion that the veteran's PTSD was, at least in part, caused by this same in-service event.
+
+round 55, index 26: 
+The Board notes that the foregoing records contain, for the first time, a confirmed diagnosis of PTSD.
+
+round 56, index 33: 
+The Board notes that, in order to grant service connection for PTSD, there must be medical evidence establishing a diagnosis of the condition in accordance with 38 C.F.R. § 4.125(a) (1999), credible supporting evidence that the claimed in-service stressor actually occurred, and a link, established by medical evidence, between current symptoms and an in-service stressor.
+
+round 57, index 40: 
+The Board notes that the record on appeal contains a January 1994 VA treatment record that ruled out PTSD, a December 1996 treatment record that reported only a history of PTSD, and treatment records that show his complaints, diagnoses, and/or treatment for a schizoaffective disorder.
+
+round 58, index 25: 
+The evidence obtained in connection with the veteran's attempt to reopen his claim, since the last final denial, includes VA treatment records and a VA examination report that include a diagnosis of PTSD as a result of his alleged experiences in the Republic of Vietnam.  See VA treatment records dated in October 1995, January 1996, May 1996, July 1996, August 1996, November 1996, March 1997, June 1997, February 1998 and VA examination report dated in October 1997.
+
+round 59, index 31: 
+Accordingly, the Board concludes that the veteran has submitted new and material evidence to reopen his claim of service connection for PTSD.
+

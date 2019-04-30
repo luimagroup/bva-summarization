@@ -1,0 +1,861 @@
+Citation Nr: 0206017	
+Decision Date: 06/07/02    Archive Date: 06/13/02
+
+DOCKET NO.  93-10 195	)	DATE
+	)
+	)
+
+On appeal from the
+Department of Veterans Affairs Regional Office in Fort 
+Harrison, Montana
+
+
+THE ISSUE
+
+Entitlement to service connection for an acquired psychiatric 
+disability, to include post-traumatic stress disorder (PTSD). 
+
+
+
+REPRESENTATION
+
+Veteran represented by:	Disabled American Veterans
+
+
+
+ATTORNEY FOR THE BOARD
+
+P. H. Mathis, Counsel
+
+
+
+INTRODUCTION
+
+The veteran served on active duty in the United States Army 
+from September 1957 to March 1961.  
+
+The veteran has sought service connection for a psychiatric 
+disability for many years.  In April 1970, the Board of 
+Veterans' Appeals (the Board) denied the veteran's claim of 
+entitlement to service connection for a psychiatric 
+disability.  
+The current appeal stems from a November 1992 decision of the 
+Department of Veterans Affairs (VA) Regional Office in Fort 
+Harrison, Montana (the RO) which denied the veteran's claim 
+of entitlement to service connection for an acquired 
+psychiatric disability, to include PTSD, based on lack of new 
+and material evidence.  
+
+In a July 1996 decision, the Board declined to reopen the 
+veteran's claim of entitlement to service connection for an 
+acquired psychiatric disability, concluding that he had not 
+submitted new and material evidence sufficient to reopen the 
+claim.  See 38 U.S.C.A. § 5108 (West 1991); 38 C.F.R. § 3.156 
+(2001).  The veteran duly appealed the Board's decision to 
+the United States Court of Veterans Appeals (now known as  
+the United States Court of Appeals for Veterans Claims, and 
+hereinafter referred to in this decision as the Court).  
+
+While the case was pending at the Court, the veteran's 
+representative and the Office of General Counsel for VA, 
+which represents the Secretary of VA in cases that are 
+appealed to the Court, filed a joint motion requesting that 
+the Court vacate the July 1996 Board decision and remand the 
+case for further development and readjudication.  The joint 
+motion required that the Board ensure that the veteran was 
+afforded a VA psychiatric examination with the examiner 
+having the benefit of reviewing the veteran's entire medical 
+history.  The Court granted the joint motion in an October 
+1997 Order and vacated the Board's July 1996 decision.  The 
+case was returned to the Board for further action consistent 
+with the order.  In June 1998, the Board remanded the case to 
+the RO in accordance with the Court's instructions.  
+
+Following development of the case, the RO continued to deny 
+the veteran's claim for service connection for an acquired 
+psychiatric disability, to include PTSD.  Supplemental 
+statements of the case were issued in February 1999 and July 
+2000.  The case was returned to the Board in May 2001.
+
+In February 2002, the Board obtained an independent medical 
+expert (IME) opinion regarding several questions associated 
+with the veteran's claim.  See 38 U.S.C.A. § 7109 (West 
+1991).  The veteran's representative was thereupon accorded 
+the opportunity of presenting additional evidence and 
+argument in support of the claim.  A written brief was 
+submitted in March 2002.  This case now stands ready for 
+appellate review.
+
+
+FINDING OF FACT
+
+The record establishes that the veteran has a diagnosis of 
+PTSD, which has been related to a stressor he experienced 
+during his active military service.  
+
+
+CONCLUSION OF LAW
+
+The veteran's PTSD was incurred as a result of his military 
+service.  38 U.S.C.A. § 1131 (West 1991); 38 C.F.R. §§ 3.303, 
+3.304(f) (2001).  
+
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The veteran is seeking entitlement to service connection for 
+a psychiatric disability, including PTSD.  
+
+The Board observes in passing that, as noted in the 
+Introduction, this case was decided by the Board in its now 
+vacated July 1996 decision because, in the opinion of the 
+Board, new and material evidence which was sufficient to 
+reopen the veteran's claim had not been submitted.  However, 
+the October 1997 joint motion for remand, which was granted 
+by the Court, made it clear that this case was to be decided 
+on a de novo basis.  The order of the Court is the law of the 
+case.  See Chisem v. Gober, 10 Vet. App. 526 (1997).  
+Subsequent actions by the Board and the RO recognized that 
+the matter of submission of new and material evidence had 
+been resolved by the Court.   
+
+In the interest of clarity, the Board will review the 
+applicable law and regulations, briefly describe the factual 
+background of this case, and then proceed to analyze the 
+claim and render a decision.  
+
+Relevant Law and Regulations
+
+Service connection
+
+In general, the applicable law and regulations provide that 
+service connection may be granted for disability resulting 
+from a disease or injury incurred in or aggravated by 
+military service.  38 U.S.C.A. § 1131 (West Supp. 2001); 
+38 C.F.R. § 3.303 (2001).  
+
+Notwithstanding the lack of a diagnosis of a disability 
+during service, service connection may still be granted if 
+all of the evidence, including that pertinent to service, 
+establishes that the disorder was incurred in service.  38 
+U.S.C.A. § 1113(b) (West Supp. 2001); 38 C.F.R. § 3.303(d) 
+(2001); Cosman v. Principi, 3 Vet. App. 503, 505 (1992).
+
+Congenital or developmental defects such as personality 
+disorders are not diseases or injuries for the purposes of 
+service connection.  38 C.F.R. §§ 3.303(c), 4.9 (2001).  See 
+Winn v. Brown, 8 Vet. App. 510, 516 (1996), and cases cited 
+therein.  
+
+
+Service connection - PTSD
+
+In order for service connection to be awarded for PTSD, three 
+elements must be present: (1) a current medical diagnosis of 
+PTSD; (2) medical evidence of a causal nexus between current 
+symptomatology and the claimed in-service stressor; and (3) 
+credible supporting evidence that the claimed in-service 
+stressor actually occurred.  38 C.F.R. 3.304(f) (2001); 
+Moreau v. Brown, 9 Vet. App. 389 (1996).  
+
+In Zarycki v. Brown, the Court set forth the analytical 
+framework and line of reasoning for determining whether a 
+veteran was exposed to a recognizable stressor during 
+service, which, as discussed above, is an essential element 
+in solidifying a claim for service connection for PTSD.  See 
+Zarycki v. Brown 6 Vet. App. 91 (1993).  In Zarycki, it was 
+noted that, under 38 U.S.C.A. 1154(b), 38 C.F.R. 3.304(d) and 
+(f), and the applicable provisions contained in VA Manual 21-
+1, the evidence necessary to establish the incurrence of a 
+recognizable stressor during service to support a claim of 
+service connection for PTSD will vary depending on whether 
+the veteran "engaged in combat with the enemy."  See Hayes v. 
+Brown, 5 Vet. App. 60 (1993).  The determination as to 
+whether the veteran "engaged in combat with the enemy" is 
+made, in part, by considering military citations that 
+expressly denote as much.  Doran v. Brown, 6 Vet. App. 283, 
+289 (1994).  However, the Court has held that the Board may 
+not rely strictly on combat citations or the veteran's 
+Military Occupational Specialty to determine if he engaged in 
+combat; rather, other supportive evidence of combat 
+experience may also be accepted.  See Dizoglio v. Brown, 9 
+Vet. App. 163, 166 (1996); West v. Brown, 7 Vet. App. 70, 76 
+(1994).  If combat is affirmatively indicated, then the 
+veteran's lay testimony regarding claimed combat-related 
+stressors must be accepted as conclusive as to their actual 
+occurrence and no further development or corroborative 
+evidence will be required, provided that the veteran's 
+testimony is found to be "satisfactory," i.e., credible, and 
+"consistent with the circumstances, conditions, or hardships 
+of such service."  Zarycki, 6 Vet. App. at 98.
+
+If there is no combat experience, or if there is a 
+determination that the veteran engaged in combat but the 
+claimed stressor is not related to such combat, there must be 
+independent evidence to corroborate the veteran's statement 
+as to the occurrence of the claimed stressor.  Doran v. 
+Brown, 6 Vet. App. at 288-89 (1994).  The veteran's 
+testimony, by itself, cannot, as a matter of law, establish 
+the occurrence of a non-combat stressor.  Dizoglio v. Brown, 
+9 Vet. App. at 166 (1996).  Further, an opinion by a mental 
+health professional based on a post-service examination of 
+the veteran cannot be used to establish the occurrence of a 
+stressor.  Moreau v. Brown, 9 Vet. App. at 395-96 (1996); 
+Cohen v. Brown, 10 Vet. App. 128 (1997).
+
+Standard of review
+
+Once the evidence has been assembled, the Board has the duty 
+to assess the credibility and weight to be given to the 
+evidence.  See Madden v. Gober, 125 F.3d 1477, 1481 (Fed. 
+Cir. 1997) and cases cited therein.  When there is an 
+approximate balance of evidence regarding the merits of an 
+issue material to the determination of the matter, the 
+benefit of the doubt in resolving each such issue shall be 
+given to the claimant.  38 U.S.C.A. § 5107 (West Supp. 2001); 
+38 C.F.R. § 3.102 (2001).  In Gilbert v. Derwinski, 1 Vet. 
+App. 49, 53 (1990), the Court stated that a claimant need 
+only demonstrate that there is an approximate balance of 
+positive and negative evidence in order to prevail.  To deny 
+a claim on its merits, the evidence must preponderate against 
+the claim.  Alemany v. Brown, 9 Vet. App. 518, 519 (1996), 
+citing Gilbert, 1 Vet. App. at 54.
+
+Factual Background
+
+There were normal psychiatric findings on enlistment 
+examination in September 1957.  The veteran denied having any 
+psychiatric problems on the accompanying medical history 
+questionnaire.  
+
+The veteran's service administrative records include the 
+report of a special court martial conviction.  This document 
+shows that in July 1959, the veteran accidentally discharged 
+his weapon in his unit area  through his own carelessness.  
+The court martial report did not make mention of any injuries 
+sustained by any persons as a result of the accident.  The 
+veteran was initially sentenced to confinement at hard labor 
+for three months, forfeiture of 25 dollars of pay per month 
+for three months and reduction in rank.  The unexecuted 
+portion of this sentence was subsequently remitted by special 
+court martial order in October 1959.  
+
+The veteran re-enlisted for a second tour of duty in December 
+1959.  The report of his medical examination on reenlistment 
+shows that he was assessed as psychiatrically normal on 
+clinical evaluation in December 1959 and that he reported 
+that he did not have any history of psychiatric problems.  
+
+According to a psychiatric consultation in July 1960, "(the 
+veteran) accidentally shot a fellow soldier while on guard 
+post . . . , approximately a year ago.  (The) incident has 
+begun to prey on his mind and seriously affect his efficiency 
+and morale.  (The veteran was) in a rapid state of mental 
+deterioration."
+
+Following hospital admission in July 1960, the veteran, then 
+20 years of age, was interviewed, examined and subjected to a 
+period of observation.  He reported problems of increasing 
+restlessness, tension, suicidal thoughts and irritability.  
+During the mental status examination, he displayed a rather 
+flat affect and stated that in the past year or so since his 
+mother's illness he had been feeling more withdrawn and 
+detached and more irritable and worrisome.  There was no 
+evidence of ideas of reference or psychotic ideation, though 
+he appeared to be somewhat suspicious about the motives of 
+the people who court-martialed him.  It was the opinion of 
+the psychiatric staff that he was not homicidal but rather 
+represented a passive-aggressive character which was 
+confirmed on psychological testing.  
+He was diagnosed with passive-aggressive reaction, manifested 
+by increasing tension, difficulty with authority, alleged 
+difficulty restraining hostile impulses and manipulative 
+propensities.  The stress was described as the accidental 
+shooting.
+The veteran was thereafter discharged from the hospital to 
+full active duty with the comment that he was mentally sound 
+and responsible for his behavior.  
+
+Personnel records dated in early 1961 reflect that the 
+veteran began to display disruptive behavior and conduct 
+himself in a militarily inappropriate manner in his 
+relationships with his peers and superiors.  His disruptive 
+behavior persisted to the point that he was referred for 
+psychiatric examination in February 1961.  
+
+The report of the February 1961 neuropsychiatric examination 
+shows that it was noted that the veteran had previously been 
+examined and psychiatrically diagnosed with a passive-
+aggressive reaction.  Since his release from the hospital in 
+August 1960, he performed fairly well for several months but 
+became increasingly disgusted with military service and 
+returned to the psychiatric clinic in February 1961 stating 
+that he was reaching the end of his ability to tolerate his 
+situation and was having increased difficulty adjusting to 
+military service.  
+
+The report of mental status examination in February 1961 
+shows that the veteran was essentially the same as he was in 
+July and August 1960.  The diagnosis was passive-aggressive 
+reaction manifested by increasing tension, difficulty with 
+authority, alleged difficulty restraining hostile impulses 
+and manipulative propensities.  In his commentary, the 
+reviewing psychiatrist reported that the veteran had a 
+definite diagnosis fitting into the category of an immaturity 
+reaction.  There was no evidence of psychosis and he was not 
+able to be discharged through medical channels.  The 
+psychiatrist commented further that it was most reasonable to 
+have the veteran administratively discharged from service as 
+his motivation for service was rather poor and, when combined 
+with his character defect, made rehabilitation impractical.  
+
+The report of the veteran's separation examination in 
+February 1961 reflects that the veteran was normal on 
+psychiatric evaluation.  On his medical history, he reported 
+having nervous trouble, frequent trouble sleeping, and 
+depression or frequent worry.  He noted that he had 
+previously been psychiatrically hospitalized in July 1960, 
+and that he had accidentally shot a fellow soldier, which 
+seriously affected the veteran's efficiency and morale.  
+
+In a February 1961 witness statement, one of the veteran's 
+superior officers, Lt. C., described the veteran's service 
+history noting that the veteran told him that he had finally 
+admitted to himself that the shooting incident was not the 
+real problem preying on his mind, but that it was feelings of 
+worry over his aging mother, and that his mother held a 
+closer and more tenacious hold on his emotions and actions 
+than did most other parents.  The veteran also had problems 
+regarding the promotion of other individuals ahead of 
+himself.  Lt. C. reported that all attempts at rehabilitation 
+were unsuccessful and the veteran was to be discharged from 
+active duty as he was deemed to have been no longer of any 
+value to the armed services.  
+
+In a certified statement dated in February 1961, Capt. S. 
+discussed the veteran's service history and related that the 
+veteran's only desire was to get out of service by any means, 
+even if he had to shoot someone again.  After the veteran's 
+February 1961 psychiatric examination, Capt. S. was of the 
+opinion that problems would follow the veteran wherever he 
+went and a speedy discharge from service as an undesirable 
+was strongly recommended.  
+
+In March 1961, the veteran was discharged from military 
+service.  His discharge was characterized at the time as 
+being Under Honorable Conditions.
+
+Post-service medical records show that the veteran was 
+admitted to a VA hospital in October 1969 with complaints of 
+nervousness and depression since military service in 1961.  
+The medical examiner found it interesting to note that the 
+veteran had never been hospitalized for nervousness or 
+depression since his hospitalization in the military in 1961 
+and that he did not consult a physician for his symptoms 
+until July 1969.  He claimed that he did not seek treatment 
+until this point because his symptoms had become worse only 
+in the past few months.  The diagnostic impression was 
+anxiety reaction, chronic, with depressive features.  
+
+In July 1972, the veteran was hospitalized by VA for 
+complaints of depression, disturbed sleep, and feeling 
+"edgy" and indecisive.  He indicated hat he had been 
+discouraged because he was unable to find employment and 
+complained of having marked feelings of inferiority and 
+inadequacy.  The diagnosis was depressive reaction.  
+
+As previously reported, the veteran was initially discharged 
+from military service in March 1961 Under Honorable 
+Conditions.  Approximately a decade later, in the 1970s, he 
+applied for a character of service upgrade.  The report of an 
+Army Discharge Review Board shows that the veteran contended 
+that he had been discharged for a personality disorder and 
+not for misconduct; that there was doubt present about his 
+mental condition at the time of discharge; that he was only 
+21 years old at that time having joined the Army at 17; that 
+he had obtained a GED in the Army and completed aircraft 
+mechanics school, but that he was unable to work for any 
+airlines because of the character of his discharge.  
+
+The report shows that the Army Discharge Review Board 
+examined the veteran's service record and found that he was 
+convicted for a careless discharge of his weapon but that it 
+was not indicated that anyone was injured during the 
+incident.  Psychiatric evaluation reports from service 
+indicated to the Army Discharge Review Board that he had a 
+definite diagnosis which fit into the category of an immature 
+reaction and that rehabilitation was impractical.  The 
+service medical records indicated that on three occasions he 
+was diagnosed with a character and behavior disorder.  
+
+The Army Discharge Review Board unanimously determined in 
+June 1980 that the veteran's character of service should be 
+upgraded to Honorable on the grounds that current standards 
+mandated an honorable discharge for those individuals who are 
+discharged for a personality disorder and whose record did 
+not reflect more than one special court martial or an 
+indication of a general court martial.  
+
+A June 1992 VA consultation report notes that the veteran had 
+a long history of character disorder.  The impression was 
+passive-aggressive personality disorder.  
+
+In a November 1992 statement, the veteran's private 
+physician, L.H., M.D., reported that he first saw the veteran 
+in April 1992, when he was under considerable nervous strain 
+and tension.  The veteran was not seen again until August 
+1992, and according to Dr. H. it was apparent that for years 
+the veteran had suffered from a chronic stress directly 
+connected to his military service.  Dr. H. felt from a review 
+of the veteran's history that he entered active duty without 
+any problems, but that during the course of his service 
+emotional problems evolved.  
+
+In an October 1993 statement, a VA psychiatrist, Dr. McD., 
+reported that the veteran had been seen approximately four 
+times in the previous months for treatment of recurrent major 
+depression with the possibility of a subacute bipolar 
+disorder.  
+
+A June 1993 VA treatment report reflects the above diagnosis 
+of depression made by Dr. H. and also a recent psychiatric 
+consultation which indicated that a personality disorder 
+existed.  The VA physician commented that this might be true, 
+though he was unable to tell from his interview with the 
+veteran, and that the veteran's history was at least 
+consistent with dysthymia.  
+
+In a June 1995 VA psychological assessment at the PTSD 
+clinic, it was reported that tests produced a psychological 
+assessment which was very consistent and supportive of a 
+diagnosis of PTSD of mild to moderate severity, but that the 
+psychological assessment results alone were not sufficient to 
+provide a diagnosis of PTSD and that interview and other 
+collateral information was needed to explore other possible 
+diagnoses suggested by the psychological assessment.  
+
+The May 1995 report of a VA psychiatric examination of the 
+veteran which was conducted by Dr. R.G. and Dr. T.T. shows 
+that the veteran presented a 35-year history of recurrent 
+depression manifested by very prolonged periods of mood 
+irritability, a sense of hopelessness, inferiority, 
+restlessness and dissatisfaction with his life.  He also 
+experienced varying sleep disturbances.  The veteran could 
+not recall the name of the man he accidentally shot in 
+service and reported that he experienced only occasional 
+dreams about the incident, although shortly after the 
+incident he had had frequent dreams and memories of the 
+episode along with general dissatisfaction and a depressed 
+mood.  The examiners identified no evidence of a formal 
+thought disorder, and noted that there were no spontaneous 
+verbalizations of symptoms related to the shooting incident 
+by the veteran.  The diagnoses were probable bipolar disorder 
+and a mixed-type affective disorder on Axis I.  On Axis II, 
+the diagnosis was Cluster C characteristics personality 
+disorder, features of avoidant, passive-aggressive and 
+dependent personality traits.  In their commentary regarding 
+PTSD, the psychiatric examiners reported that the veteran's 
+examination results on psychological testing were similar to 
+that seen in combat-related PTSD.  However, upon their review 
+of the test results, Drs. R.G. and T.T. opined that the 
+veteran's symptoms of social relationship difficulties could 
+stem from his long history of social inferiority and did not 
+necessarily need to be attributed to PTSD, and that the 
+affective symptoms were clearer in his history than were 
+those of PTSD.  
+
+In a September 1995 letter from the Vet Center in Billings, 
+Montana, Mr. B.P., MSW, agreed with the diagnosis of PTSD 
+which was made in June 1995 and opined that the veteran met 
+the criteria for PTSD and for treatment of PTSD as his 
+records verify the event of a stressor and his social history 
+displayed PTSD symptoms after the event.  
+
+In a December 1995 VA treatment report, a VA physician, Dr. 
+L.S., reported that based on the report of psychiatric intake 
+from the VA as well as a psychological report, PTSD seemed to 
+be pretty well documented by that testing.  
+
+The claims file includes the report of a private psychiatric 
+examination conducted in March 1996 by Dr. D.B.  Reportedly, 
+the veteran's motivation was to present new evidence to open 
+his claim for PTSD that he contended was service-connected, 
+and that if he were found not to have PTSD, then he wanted to 
+address the question of whether he suffered from some other 
+severely disabling service-connected psychiatric disability.  
+Following an interview and testing of the veteran, Dr. D.B. 
+entered the diagnosis of probable PTSD under the criteria of 
+DSM-IV, chronic with delayed onset, with alcohol dependence 
+in complete remission for 19 years.  Dr. D.B. also stated 
+that an alternative diagnosis of a major mood disorder, major 
+depression, recurrent and severe, should be entertained.  In 
+discussion, Dr. D.B. commented that the veteran's PTSD 
+diagnosis was not clear-cut.  The weakest point in the 
+criteria was evidence that a response of "intense fear, 
+helplessness or horror" occurred at the time of the event.  
+The veteran insisted that he had little direct memory of the 
+accidental shooting episode and was not sure how he responded 
+at the time and in the immediate aftermath.  What was clear 
+to Dr. D.B. was that the veteran was not psychiatrically ill 
+when he entered service, that he served successfully for more 
+than two years, and that he was involved in an accidental 
+shooting during that time.  He then developed a serious, 
+disabling psychiatric disability which did not respond well 
+to treatment.  He left the service with a serious mental 
+illness and this illness plagued him and handicapped him 
+severely ever since.  He was alcoholic for a time, but the 
+psychiatrist did not believe that alcoholism was the 
+veteran's primary illness, nor did it cause the mental 
+illness, and was not a necessary contributor to its 
+persistence.  
+
+In a September 1996 VA treatment report, Dr. L.S., the VA 
+physician who had made a statement in December 1995, further 
+observed that he was looking more at PTSD as a diagnosis than 
+anything else.  
+
+As noted in the Introduction, in June 1998 the Board remanded 
+this case so that the veteran could be scheduled for a 
+psychiatric examination.  In January 1999, the veteran 
+underwent a psychological consultation conducted by Dr. M., a 
+neuropsychologist, on referral by VA.  Concerning the 
+shooting incident, the veteran reported that in 1958 he was 
+on guard duty and accidentally shot a fellow soldier in the 
+hip.  According to his account, the incident upset and scared 
+the veteran.  He recalled being slapped in the face by an 
+officer soon after the shooting.  He reported that he lost 
+rank, was subjected to court martial proceedings and was 
+given a suspended sentence.  He stated that his history of 
+having difficulty taking orders from others started shortly 
+thereafter.  
+
+Dr. M.'s assessment summary shows that the veteran was 
+suspicious, avoidant and angry with others.  He was likely to 
+be argumentative in the course of his relationships.  He 
+tended to attribute much of his dysfunction to the accidental 
+shooting incident during his period of military service.  It 
+appeared to Dr. M. that most of the veteran's symptoms 
+associated with PTSD were better accounted for by his 
+longstanding depression, anxiety and personality disorder.  
+The accidental shooting would, in the words of Dr. M., be 
+certainly traumatic and bothersome for any average 
+individual, but the veteran lacked the psychological 
+resources to adapt to relationships and normal life demands.  
+Dr. M. concluded by stating that the veteran's "mood problems 
+and character style would certainly be evident in his history 
+whether he spent time in the military or not."
+
+Dr. M. entered diagnoses on Axis I of chronic dysthymia 
+disorder with a significant anxiety component; history of 
+recurrent major depressive episodes which were in partial or 
+full remission at the time of the examination; rule out 
+bipolar II disorder; and history of alcohol abuse, resolved 
+by report of the veteran, and in remote history.  On Axis II, 
+the diagnosis was mixed personality disorder with prominent 
+passive-aggressive features.  
+
+In January 2002, the Board requested an IME opinion.  The IME 
+was requested to review the veteran's claims file and all 
+pertinent medical records contained therein and render an 
+opinion, with reasons provided, which addressed the following 
+questions:
+
+(1.)  Based on a review of the veteran's entire medical 
+history, was the diagnosis of a personality disorder 
+made during active service a correct one? 
+
+(2.)  What is the veteran's most likely current 
+psychiatric diagnosis or diagnoses?  If possible, 
+specific DSM-IV criteria supporting any diagnosis made 
+should be identified. 
+  
+(3.)  Does the veteran currently have an acquired 
+psychiatric disorder which is due to his military 
+service or any incident thereof?  If so, what is its 
+diagnosis?
+
+In February 2002, in response to the Board's request, the 
+IME, Dr. J.E., Professor and Chairman of the Department of 
+Psychiatry at a medical school, reviewed the veteran's claims 
+folders.  Dr. J.E. initially determined that it was 
+reasonable to conclude from the medical evidence of record 
+that the veteran had a "traumatic incident" when, at age 
+18, he accidentally shot a fellow soldier and experienced 
+loss of rank, court-martial and transfer; that one year later 
+the veteran was hospitalized with anxiety/depression symptoms 
+when the diagnosis was "stress/accidental shooting" and 
+"passive-aggressive reaction."  Dr. J.E. also noted that 
+there was a diagnosis of anxiety neurosis in the mid 70's, 
+diagnoses of bipolar/mixed affective/cluster C personality 
+traits in the mid 90's, and PTSD/chronic delayed onset and 
+major depressive disorder also in the mid 90's.  
+
+Dr. J.E. noted that the presence of Axis II "Personality 
+traits" had been highlighted throughout the years (Passive, 
+Aggressive, Cluster C, etc.); and that the detailed 
+assessment in January 1999 revealed that through the years 
+the veteran experienced the following PTSD symptoms: exposure 
+to a traumatic event, recurrent/
+intensive/distressing recollections of event, persistent 
+avoidance of stimuli associated with event, feelings of 
+detachment/estrangement from others, symptoms of increased 
+arousal (difficulty concentrating, irritability, sleep 
+disturbance).  
+
+In response to the Board's question concerning whether the 
+diagnosis of a personality disorder made during active 
+service was a correct one, the IME indicated: "Possibly yes".  
+It was noted that clearly the veteran had presented a number 
+of personality disorder traits.  
+
+In response to the Board's question concerning what is the 
+veteran's most likely current diagnosis or diagnoses, the IME 
+concluded that on Axis I, the diagnosis is PTSD, based on the 
+PTSD symptoms reported above and on Axis II, the diagnosis is 
+Cluster C Personality Traits (avoidant, dependent).  
+
+In response to whether the veteran currently has an acquired 
+psychiatric disorder due to his military service, the 
+specialist replied: "Possibly yes".  The IME continued that 
+the PTSD symptoms seem to be related to a traumatic event 
+during service.  Also, the veteran's personality disorder 
+traits may have made him more vulnerable to the traumatic 
+event.  
+
+The veteran and his representative received copies of Dr. 
+J.E.'s opinion.  In March 2002, the veteran's representative 
+made written arguments in support of the claim for service 
+connection for PTSD, especially noting Dr. J.E.'s comment 
+that the PTSD symptoms seem to be related to a traumatic 
+event during service.  
+  
+Analysis
+
+Initial matter -  VA's duty to notify/assist
+
+The Board has given consideration to the provisions of the 
+Veterans Claims Assistance Act of 2000 (VCAA), Pub. L. No. 
+106-475, 114 Stat. 2096 (2000) [codified as amended at 
+38 U.S.C.A. § 5100 et seq. (West 2001)].  The VCAA includes 
+an enhanced duty to notify a claimant as to the information 
+and evidence necessary to substantiate a claim for VA 
+benefits.  This law also redefines the obligations of VA with 
+respect to the duty to assist.   Regulations implementing the 
+VCAA have been enacted.  See 66 Fed. Reg. 45, 620 (August 29, 
+2001) [codified as amended at 38 C.F.R. §§ 3.102, 3.156(a), 
+3.159 and 3.326(a)].
+
+The VCAA is applicable to all claims filed on or after the 
+date of enactment, November 9, 2000, or filed before the date 
+of enactment and not yet final as of that date.  Except for 
+provisions pertaining to claims to reopen based upon the 
+submission of new and material evidence, which are not 
+applicable in the instant case, the implementing regulations 
+are also effective November 9, 2000.  In this case, the 
+regulations are accordingly applicable.  See Holliday v. 
+Principi, 14 Vet. App. 280 (2001) [the Board must make a 
+determination as to the applicability of the various 
+provisions of the VCAA to a particular claim].
+
+After having carefully reviewed the record on appeal, and for 
+reasons expressed immediately below, the Board has concluded 
+that the requirements of the VCAA have been effectively 
+satisfied with respect to the issue on appeal.  
+
+
+(i.)  Notification
+
+The VCAA requires VA to notify the claimant and the 
+claimant's representative, if any, of any information, and 
+any medical or lay evidence not previously provided to VA 
+that is necessary to substantiate the claim.  As part of the 
+notice, VA is to specifically inform the claimant and the 
+claimant's representative, if any, of which portion, if any, 
+of the evidence is to be provided by the claimant and which 
+part, if any, VA will attempt to obtain on behalf of the 
+claimant.  38 U.S.C.A. § 5103 (West Supp. 2001).  
+
+In this case, the veteran has been notified of the pertinent 
+law and of what evidence is needed to warrant a favorable 
+decision on a number of occasions over the years.  The 
+veteran has displayed complete understanding of the VA claims 
+process on the basis of his detailed letters written to the 
+RO and the Board regarding the claims process through the 
+years, culminating in his letter to the President of the 
+United States in July 2001.  The Board concludes, based on 
+this history, that the provisions of the VCAA pertaining to 
+notification of the veteran have been specifically and fully 
+complied with.  
+
+With respect to VA's statutory duty to assist the veteran on 
+the development of his claim, the veteran has been given 
+ample opportunity to present evidence and argument in support 
+of his claim, and he has in fact done so.  On the basis of 
+review of the claims folder, there is no indication that the 
+veteran has further evidence or argument to submit.  The 
+veteran and his representative have not pointed to any 
+additional pertinent evidence which has not been obtained, 
+and the Board is not aware of any such evidence.
+
+The VCAA provides that the assistance provided by VA shall 
+include providing a medical examination or obtaining a 
+medical opinion when such an examination or opinion is 
+necessary to make a decision on the claim.  An examination is 
+deemed "necessary" if the evidence of record (lay or medical) 
+does not contain sufficient medical evidence for VA to make a 
+decision on the claim.  See 38 U.S.C.A. § 5103A (West Supp. 
+2001); 38 C.F.R. § 3.159 (2001).  
+
+The veteran has been examined on numerous occasions with 
+detailed commentary provided by clinicians both VA and 
+private.  As noted above, this case was remanded by the Board 
+in June 1998 for the specific purpose of obtaining the report 
+of a psychiatric examination.  This was accomplished.  Most 
+recently, in January 2002 the Board obtained the opinion of 
+an IME.  
+
+In summary, the Board believes that all actions required by 
+the VCAA have been undertaken and completed, and the veteran 
+does not appear to contend otherwise.  Accordingly, the Board 
+will proceed to a decision on the merits.  
+
+Discussion
+
+The veteran is seeking service connection for an acquired 
+psychiatric disorder, specifically PTSD.  
+
+The medical history pertaining to this case, which has been 
+reported in some detail above, is long and complex.  In 
+short, there were psychiatric problems manifested during the 
+veteran's service and afterwards.  There have been a variety 
+of psychiatric diagnoses rendered over the years.  The record 
+is replete with diagnoses of a personality disorder, 
+including during service.  As noted by the Board, service 
+connection may not be granted for personality disorders.  See 
+38 C.F.R. §§ 3.303(c), 4.9, 4.127 (2001).  
+
+The primary contention advanced by and on behalf of the 
+veteran is that he has PTSD related to an incident in service 
+when his weapon discharged accidentally.  That event is 
+corroborated by the service records.  However, as the medical 
+history makes clear, there was some question concerning the 
+validity of diagnoses of PTSD because there were many reports 
+that the veteran had other problems uppermost in his mind 
+above and beyond the shooting incident in service.  
+
+The clinical evidence of record was suggestive to the Board 
+that the veteran might currently have PTSD in addition to a 
+personality disorder.  To clarify the matter, in January 2002 
+this case was referred to an IME for review and an opinion.   
+The IME's response has been detailed above.  In essence, the 
+IME indicated that the veteran had PTSD which was related to 
+the shooting incident during service.  The IME in essence 
+indicated that the veteran's personality disorder contributed 
+to his PTSD in that the personality disorder traits may have 
+made him more vulnerable to the traumatic event.  
+
+For a grant of service connection for PTSD, the governing 
+regulation, 38 C.F.R. 3.304(f) (2001), requires the presence 
+of three elements: (1) A current medical diagnosis of PTSD; 
+(2) credible supporting evidence that the claimed in-service 
+stressor actually occurred; and (3) medical evidence of a 
+causal nexus between current symptomatology and the specific 
+claimed in-service stressor.  See Cohen, 10 Vet. App. at 138.  
+
+With respect to element (1), a current medical diagnosis of 
+PTSD, although there are other psychiatric diagnoses of 
+record, the most common recent diagnosis, in addition to 
+personality disorder, appears to be PTSD.  Accordingly, the 
+first element of 38 C.F.R. § 3.304(f) is established.
+
+With respect to element (2), an in-service stressor, the 
+Board is required to "make specific findings of fact as to 
+whether or not the veteran was engaged in combat with the 
+enemy and, if so, whether the claimed stressor is related to 
+such combat."  See Zarycki, 6 Vet. App. at 98; see also 38 
+U.S.C.A. § 1154(b) (West 1991); 38 C.F.R. § 3.304(d) (2001).  
+Clearly, the veteran served during peacetime and was not 
+engaged in combat, and he does not so contend.  
+
+However, the service administrative records serve to support 
+the occurrence of the shooting incident and related events 
+during service which the veteran claims caused his PTSD.  
+Thus, the second element in a claim for PTSD is met.  
+
+With regard to element (3), nexus, the IME and a number of 
+other psychiatric examiners have associated the diagnosis of 
+PTSD to the accidental discharge of a weapon by the veteran 
+in service.  Thus, the Board finds that all three elements of 
+38 C.F.R. § 3.304(f) have been satisfied.  The veteran has 
+submitted competent evidence of a current diagnosis of PTSD; 
+credible supporting evidence that the claimed in-service 
+stressor actually occurred; and medical evidence of a causal 
+nexus between current symptomatology and the specific claimed 
+in-service stressor.   
+
+After having considered the entire record in this case, the 
+Board concludes that service connection is in order for an 
+acquired psychiatric disability, specifically  PTSD.  The 
+Board bases its conclusion on the medical evidence of record, 
+in particular the IME opinion, which is obviously grounded in 
+a thorough review of the veteran's complex medical history.  
+Although the Board is aware that there are  diagnoses of 
+other acquired psychiatric disabilities, including dysthymic 
+disorder, of record, the weight of the evidence points to 
+PTSD as the current diagnosis.  
+
+Although the medical evidence, summarized above, 
+unquestionably establishes veteran had a personality disorder 
+during service and still does, the evidence reflects that he 
+developed PTSD due to his service.  The fact that the veteran 
+may have been predisposed to PTSD because of his personality 
+disorder, as noted by IME, does not preclude a grant of 
+service connection for PTSD based on the facts of this case.  
+
+The Board reiterates that service connection may not be 
+granted for personality disorders; compensation is not in 
+order for any pathology which is not attributed to PTSD.    
+
+In summary, for the reasons and bases expressed above, the 
+Board concludes that the weight of competent and credible 
+evidence supports a grant of service connection for PTSD.  
+Thus, the benefit sought on appeal is granted.  
+
+
+
+ORDER
+
+Entitlement to service connection for PTSD is granted.
+
+
+
+		
+	Barry F. Bohan
+	Member, Board of Veterans' Appeals
+
+
+IMPORTANT NOTICE:  We have attached a VA Form 4597 that tells 
+you what steps you can take if you disagree with our 
+decision.  We are in the process of updating the form to 
+reflect changes in the law effective on December 27, 2001.  
+See the Veterans Education and Benefits Expansion Act of 
+2001, Pub. L. No. 107-103, 115 Stat. 976 (2001).  In the 
+meanwhile, please note these important corrections to the 
+advice in the form:
+
+? These changes apply to the section entitled "Appeal to 
+the United States Court of Appeals for Veterans 
+Claims."  (1) A "Notice of Disagreement filed on or 
+after November 18, 1988" is no longer required to 
+appeal to the Court.  (2) You are no longer required to 
+file a copy of your Notice of Appeal with VA's General 
+Counsel.
+? In the section entitled "Representation before VA," 
+filing a "Notice of Disagreement with respect to the 
+claim on or after November 18, 1988" is no longer a 
+condition for an attorney-at-law or a VA accredited 
+agent to charge you a fee for representing you.
+
+
+ 
+

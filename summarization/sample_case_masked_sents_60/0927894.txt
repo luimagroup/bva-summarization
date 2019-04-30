@@ -1,0 +1,180 @@
+round 0, index 85: 
+This claim must be afforded expeditious treatment.
+
+round 1, index 84: 
+The appellant has the right to submit additional evidence and argument on the matter the Board has remanded.
+
+round 2, index 83: 
+The case should then be returned to the Board, if in order, for further appellate review.
+
+round 3, index 86: 
+The law requires that all claims that are remanded by the Board of Veterans' Appeals or by the United States Court of Appeals for Veterans Claims for additional development or other appropriate action must be handled in an expeditious manner.
+
+round 4, index 87: 
+Veterans Law Judge, Board of Veterans' AppealsUnder 38 U.S.C.A. § 7252 (West 2002), only a decision of the Board of Veterans' Appeals is appealable to the United States Court of Appeals for Veterans Claims.
+
+round 5, index 88: 
+This remand is in the nature of a preliminary order and does not constitute a decision of the Board on the merits of your appeal.
+
+round 6, index 82: 
+If it remains denied, the RO should issue an appropriate supplemental statement of the case and afford the Veteran and her representative the opportunity to respond.
+
+round 7, index 81: 
+The examiner must explain the rationale for all opinions given.
+
+round 8, index 63: 
+Obtain any of the Veteran's psychiatric treatment records not currently associated with the claims file and associate them therewith.
+
+round 9, index 62: 
+Contact the Veteran and ask her to identify any VA or private facilities where she was treated for a psychiatric disorder throughout her life.
+
+round 10, index 80: 
+Further, in line with the M21-1 provisions, the examiner is requested to provide detailed medical analysis and interpretation of the diagnoses found present on examination in light of all the evidence of record for the purpose of addressing whether any behavioral changes that occurred at or close in time to the alleged stressor incidents could possibly indicate the occurrence of one or more of the alleged in-service stressors.
+
+round 11, index 79: 
+Does the Veteran have PTSD due to the reported stressor event in service?
+
+round 12, index 64: 
+In particular, the RO/AMC should attempt to obtain pre-service private mental health treatment records from her mother's counselor, and private medical records dated from 1989 to 1990 by J.G., MSW.
+
+round 13, index 61: 
+If a response is received from the Veteran or her representative, review the record in conjunction with that response, and determine if further development is necessary.
+
+round 14, index 20: 
+The Veteran's service personnel records show that she was stationed in Panama from October 1985 to November 1986.
+
+round 15, index 3: 
+The appeal is REMANDED to the RO via the Appeals Management Center (AMC), in Washington, DC.  VA will notify the appellant if further action is required.
+
+round 16, index 76: 
+Specifically, do the symptoms noted support or exclude a diagnosis of PTSD?
+
+round 17, index 77: 
+(c)
+
+round 18, index 59: 
+Accordingly, the case is REMANDED for the following action:
+
+round 19, index 65: 
+If any records are unavailable, a notation to that effect should be made in the claims file.
+
+round 20, index 58: 
+On remand, the Veteran should be provided with adequate notice.
+
+round 21, index 56: 
+Pertinent ongoing medical records should also be obtained.
+
+round 22, index 73: 
+Based on review of the record and evaluation of the Veteran, the psychiatrist should provide opinions responding to the following:(a) Does the Veteran have a current psychiatric disorder, and, if so,(i) does the evidence of record clearly and unmistakably show that the Veteran had a psychiatric disorder that existed prior to her military service?
+
+round 23, index 5: 
+Service connection for PTSD generally requires medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125; a link, established by medical evidence, between current symptoms and an in-service stressor; and credible supporting evidence that the claimed in-service stressor occurred.
+
+round 24, index 71: 
+Any indicated studies should be performed.
+
+round 25, index 78: 
+If PTSD is diagnosed, are the Veteran's alleged stressor events in service, as described in her accounts events of sufficient gravity to support a diagnosis of PTSD?
+
+round 26, index 66: 
+Schedule the Veteran for a VA psychiatric examination to determine whether she has a psychiatric disorder, to include PTSD, in accordance with DSM-
+
+round 27, index 70: 
+The claims folder should be made available to the examiner prior to completion of the examination report.
+
+round 28, index 55: 
+These private medical records are not on file and should be obtained prior to Board review.
+
+round 29, index 69: 
+Veteran, and this should be documented in the claims folder.
+
+round 30, index 68: 
+Ensure that an examination notice letter is sent to the
+
+round 31, index 22: 
+Service treatment records reflect that on entrance medical examination in April 1985, a psychiatric disorder was not noted.
+
+round 32, index 0: 
+The Veteran served on active duty from May 1985 to November 1986.
+
+round 33, index 1: 
+This case comes to the Board of Veterans' Appeals (Board) on appeal from a November 2005 decision by the RO in Oakland, California that denied service connection for PTSD.
+
+round 34, index 2: 
+The Veteran initially requested a Board hearing, but by a statement dated in December 2008, she withdrew her hearing request.
+
+round 35, index 60: 
+Furnish the Veteran and her representative a letter advising her that an in-service personal assault may be corroborated by evidence from sources other than the service records, as defined in 38 C.F.R. § 3.304(f)(3).
+
+round 36, index 75: 
+(iii) if the answer is no, is it at least as likely as not that the psychiatric disorder had its onset in service? (b) What is the correct diagnosis for the Veteran's current psychiatric disability?
+
+round 37, index 72: 
+The claims file must be reviewed by the examiner in conjunction with the examination.
+
+round 38, index 57: 
+In cases in which personal assault is alleged, VA's duties to assist a claimant in substantiating a claim include informing the claimant that evidence from sources other than service records may constitute credible supporting evidence.
+
+round 39, index 74: 
+If the answer is yes, does the evidence clearly and unmistakably show that the preexisting condition was not aggravated by service?
+
+round 40, index 67: 
+IV criteria based on an in-service stressor event, and to obtain an opinion as to the current nature and likely etiology of any diagnosed psychiatric disorder, to include the claimed PTSD, and whether it is due to inservice aggravation of any pre-service psychiatric disorder.
+
+round 41, index 4: 
+The Veteran contends that she has PTSD as a result of a sexual assault during service.
+
+round 42, index 35: 
+Vet Center records from 2005 to 2006 reflect treatment for PTSD due to military sexual trauma (MST).
+
+round 43, index 29: 
+A September 1986 medical statement reflects the following diagnoses:  alcohol abuse, episodic, cocaine abuse, episodic, adjustment disorder with depressed mood, and borderline personality disorder.
+
+round 44, index 7: 
+She also reported that she was sexually abused during childhood and adolescence, and that she received extensive counseling and mental health treatment prior to service.
+
+round 45, index 6: 
+By a statement dated in May 2005, the Veteran claimed that she was sexually assaulted by a civilian photographer during military service in Panama.
+
+round 46, index 19: 
+Central Coast Polygraph reflecting that a polygraph examiner determined she was being truthful when she related the events surrounding her reported in-service assault.
+
+round 47, index 21: 
+She was discharged from service in November 1986 on the basis of a personality disorder.
+
+round 48, index 28: 
+The diagnosis was adjustment disorder with depressed mood.
+
+round 49, index 44: 
+The Board notes that the examiner gave no rationale for the opinion.
+
+round 50, index 34: 
+She also reported a history of being sexually abused as a child.
+
+round 51, index 18: 
+She submitted an April 2006 letter from
+
+round 52, index 31: 
+Service treatment records reflect both positive and negative pregnancy tests.
+
+round 53, index 10: 
+In her May 2005 statement, she said she could not recall the date of the in-service assault or the photographer's name, but thought he was employed by the government, although he was a civilian and possibly Panamanian.
+
+round 54, index 11: 
+She said the photo shoot and assault took place in a motel, but she did not know where.
+
+round 55, index 45: 
+In this regard, the Board notes that a veteran will be presumed to have been in sound condition when examined, accepted, and enrolled in service, except as to defects, infirmities, or disorders noted at entrance into service.
+
+round 56, index 9: 
+She stated that during service, she began drinking heavily and using cocaine in July or August 1986, and admitted herself to Gorgas Army Hospital for depression in late August 1986.
+
+round 57, index 8: 
+She contends that she never reported the in-service sexual assault at the time, but repressed her memories of the event for many years, and did not recall it until 2002, when her father died.
+
+round 58, index 43: 
+The examiner diagnosed PTSD which existed prior to service and that was aggravated by MST during her active duty.
+
+round 59, index 14: 
+She contended that the assault led to her abuse of alcohol and drugs.
+

@@ -1,0 +1,180 @@
+round 0, index 43: 
+This claim must be afforded expeditious treatment.
+
+round 1, index 42: 
+The veteran has the right to submit additional evidence and argument on the matter the Board has remanded.
+
+round 2, index 41: 
+The RO/AMC is advised that this appeal has been advanced on the Board's docket, and thus, the remand should be processed with this in mind.
+
+round 3, index 40: 
+An appropriate period of time should be allowed for response.
+
+round 4, index 39: 
+He and his representative should then be issued another supplemental statement of the case.
+
+round 5, index 37: 
+If an opinion cannot be formed without resorting to mere speculation, the examiner should so state and provide a reason for such conclusion.
+
+round 6, index 36: 
+A rationale for any opinion advanced should be provided.
+
+round 7, index 27: 
+Accordingly, the case is REMANDED for the following actions:
+
+round 8, index 33: 
+Upon examination of the veteran and review of the record, the examiner should address the following question:
+
+round 9, index 32: 
+The claims file should be made available for review, and the examination report should reflect that such review occurred.
+
+round 10, index 34: 
+Is it at least as likely as not (50 percent probability or greater) that the veteran's claimed PTSD is a result of a verified in-service stressor?
+
+round 11, index 46: 
+This remand is in the nature of a preliminary order and does not constitute a decision of the Board on the merits of your appeal.
+
+round 12, index 35: 
+The term "as likely as not" does not mean merely within the realm of medical possibility, but rather that the weight of medical evidence both for and against a conclusion is so evenly divided that it is as medically sound to find in favor of causation or aggravation as it is to find against it.
+
+round 13, index 31: 
+If and only if, a claimed stressor is verified, schedule the veteran for a VA examination to determine the existence and etiology of any PTSD.
+
+round 14, index 30: 
+In particular, for the period from February to March 1968, the AMC/RO should request a roster of personnel assigned to the 77th Special Forces, a unit history of the 77th Special Forces, and Morning Reports.  Negative responses should be documented and included in the claims file.
+
+round 15, index 5: 
+The appeal is REMANDED to the RO via the Appeals Management Center (AMC), in Washington, DC.  VA will notify the appellant if further action is required.
+
+round 16, index 18: 
+Although an estimation, February 1958 to March 1958 is a 60-day window that can be searched by U.S. Army and Joint Services Records Research Center (JSRRC).
+
+round 17, index 29: 
+Formulate a request to JSRRC, NARA, and any other appropriate sources for verification or corroboration of the veteran's claimed stressor regarding combat-related activities he partook in while being stationed in Vietnam with Headquarters Company, 77th Special Forces, during February 1958 or March 1968.
+
+round 18, index 28: 
+Clarify whether the veteran wishes a DRO hearing and schedule such hearing if necessary.
+
+round 19, index 38: 
+After completing the above action and any other development as may be indicated by any response received as a consequence of the actions taken in the preceding paragraphs, the veteran's service connection claim should be readjudicated, to include all evidence received since the February 2008 supplemental statement of the case.
+
+round 20, index 45: 
+Acting Veterans Law Judge, Board of Veterans' AppealsUnder 38 U.S.C.A. § 7252 (West 2002), only a decision of the Board of Veterans' Appeals is appealable to the United States Court of Appeals for Veterans Claims.
+
+round 21, index 7: 
+The Board determines that remand is required to pursue stressor verification.
+
+round 22, index 44: 
+The law requires that all claims that are remanded by the Board of Veterans' Appeals or by the United States Court of Appeals for Veterans Claims for additional development or other appropriate action must be handled in an expeditious manner.
+
+round 23, index 6: 
+The veteran contends that he currently suffers PTSD due to an in-service combat stressor.
+
+round 24, index 26: 
+Thus, whether the veteran wishes a DRO hearing should be clarified and, a hearing scheduled if necessary.
+
+round 25, index 12: 
+For various reasons, these requests all yielded negative responses.
+
+round 26, index 24: 
+Finally, the Board notes that there is a December 2005 Informal Conference Report from a meeting with a Decision Review Officer (DRO) of record, but in a June 2006 letter, the veteran indicated that he wished to testify at a hearing.
+
+round 27, index 11: 
+In addition to requests made to NPRC, the Board notes that the record includes requests to the National Archives and Records Administration (NARA), the Department of the Army, and the Central Intelligence Agency, made by the veteran, either directly, or through their Congressman.
+
+round 28, index 23: 
+Further, the Board notes that there are other sources that may be contacted for corroborative information in addition to JSRRC, such as NARA.
+
+round 29, index 22: 
+The Board finds it unreasonable to refuse to attempt verification a stressor because his service personnel records are not of record, if the veteran has provided a unit and approximate dates during which the stressor occurred.
+
+round 30, index 21: 
+As indicated, the veteran's service personnel records are unavailable, but information such as dates and unit to be searched are now of record.
+
+round 31, index 25: 
+On his June 2006 substantive appeal, submitted just a few days later, he responded that he did not want a Board hearing, but the Board is uncertain whether he also did not want a hearing before a DRO.
+
+round 32, index 0: 
+The veteran served on active duty from January 1955 to September 1961.
+
+round 33, index 1: 
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a rating decision issued in October 2005 by the Department of Veterans Affairs (VA) Regional Office (RO) in Muskogee, Oklahoma.
+
+round 34, index 10: 
+The Board observes that the veteran's service treatment records and service personnel records have been found to be unavailable as they were lost in the records repository fire in St. Louis in 1973.
+
+round 35, index 20: 
+The Board acknowledges a note in the claims file that JSRRC has indicated that they would not conduct a search for records without the veteran's service personnel records.
+
+round 36, index 3: 
+The Board observes that, in September 2000, the veteran suffered a cerebrovascular accident that has compromised his competency with regard to his appeal, and, as a result his spouse is acting in his place before VA.
+
+round 37, index 4: 
+Attorney, dated in June 2003, affording her such rights and responsibilities is of record.
+
+round 38, index 19: 
+She also has submitted evidence that the veteran's unit was Headquarters Company, 77th Special Forces.
+
+round 39, index 2: 
+A motion to advance the veteran's case on the docket was granted on August 1, 2008, for good cause shown.
+
+round 40, index 13: 
+In cases where VA is unable to obtain some or all of the veteran's service records, VA has a heightened duty to explain its findings and conclusions and to consider carefully the benefit of the doubt rule.
+
+round 41, index 17: 
+However, in a September 2007 letter, the veteran's spouse indicated that the best estimate of when the events in Hanoi occurred was during the veteran's second tour in Vietnam, in February or March 1958.
+
+round 42, index 14: 
+The Board's analysis of the veteran's claim has been undertaken with this duty in mind.
+
+round 43, index 16: 
+This finding was based, in part, on a lack of detail, such as exact dates, and the Board notes that, for most of the appeal period the dates provided encompassed three months in 1957 and three months in 1958, too broad a period to be the basis for a stressor verification request.
+
+round 44, index 0: 
+The veteran served on active duty from January 1955 to September 1961.
+
+round 45, index 9: 
+He contends that, during one of these tours, his team of 15 men and another team of 15 men engaged in an operation to destroy an ammunition and supply depot in Hanoi, were then left to fight their way out of the jungle, and when they emerged only three men were still alive.
+
+round 46, index 0: 
+The veteran served on active duty from January 1955 to September 1961.
+
+round 47, index 8: 
+The veteran claims to have done two tours as an "advisor" in South Vietnam with U.S. Army Special Forces.
+
+round 48, index 0: 
+The veteran served on active duty from January 1955 to September 1961.
+
+round 49, index 0: 
+The veteran served on active duty from January 1955 to September 1961.
+
+round 50, index 0: 
+The veteran served on active duty from January 1955 to September 1961.
+
+round 51, index 0: 
+The veteran served on active duty from January 1955 to September 1961.
+
+round 52, index 0: 
+The veteran served on active duty from January 1955 to September 1961.
+
+round 53, index 15: 
+The Board observes that in February 2008, a formal finding was made that the veteran's stressor could not be verified.
+
+round 54, index 0: 
+The veteran served on active duty from January 1955 to September 1961.
+
+round 55, index 0: 
+The veteran served on active duty from January 1955 to September 1961.
+
+round 56, index 0: 
+The veteran served on active duty from January 1955 to September 1961.
+
+round 57, index 0: 
+The veteran served on active duty from January 1955 to September 1961.
+
+round 58, index 0: 
+The veteran served on active duty from January 1955 to September 1961.
+
+round 59, index 0: 
+The veteran served on active duty from January 1955 to September 1961.
+

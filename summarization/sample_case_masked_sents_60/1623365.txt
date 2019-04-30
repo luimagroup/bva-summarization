@@ -1,0 +1,180 @@
+round 0, index 128: 
+Service connection for cerebral vascular accident, to include as due to exposure to herbicides and as secondary to service-connected coronary artery disease, is denied.
+
+round 1, index 127: 
+As such, the benefit-of-the-doubt rule does not apply, and the claim is denied.
+
+round 2, index 114: 
+if so, whether the use of tobacco products as a result of the service-connected disability was a substantial factor in causing a secondary disability; and (3) whether the secondary disability would not have occurred but for the use of tobacco products caused by the service-connected disability.
+
+round 3, index 97: 
+The Veteran has not contended, and the evidence does not show, that he has the medical expertise to provide such opinions.
+
+round 4, index 96: 
+(Lance, J. concurring) ("[T]he beliefs of lay witnesses (including claimants) on issues of diagnosis and medical causation are not competent evidence in situations where those issues require medical expertise to resolve."); see also Jandreau, 492 F.3d at 1377 n. 4 ("Sometimes the layperson will be competent to identify the condition where the condition is simple, for example a broken leg, and sometimes not, for example, a form of cancer.").
+
+round 5, index 98: 
+Moreover, even if the lay statements of record were competent to determine that the Veteran's CVA is related to his herbicide exposure or his PTSD, the Board finds that the specific, reasoned opinion of the April 2015 VA examiner is of greater probative weight than the lay assertions and the March 2009 medical opinion in this regard.
+
+round 6, index 95: 
+However, the Board finds that he is not competent to provide an opinion as to whether his CVA is attributable to exposure to Agent Orange or to his PTSD, as that matter involves complex medical determinations based upon internal medical processes and is not capable of lay observation.
+
+round 7, index 99: 
+The examiner performed an in-person examination, reviewed the claims file, the Veteran's own reported history, and the lay statements of the Veteran.
+
+round 8, index 113: 
+(2)
+
+round 9, index 15: 
+inform the claimant about the information and evidence that VA will seek to provide; and (3) inform the claimant about the information and evidence the claimant is expected to provide.
+
+round 10, index 14: 
+(2)
+
+round 11, index 79: 
+In the April 2015 opinion, the examiner confirmed that the CVA occurred in January 2009.
+
+round 12, index 22: 
+In addition, the duty to assist the Veteran has also been satisfied in this case.
+
+round 13, index 13: 
+The notice required must be provided to the claimant before the initial unfavorable decision on a claim for VA benefits, and it must (1) inform the claimant about the information and evidence not of record that is necessary to substantiate the claim;
+
+round 14, index 23: 
+The Veteran's service treatment records as well as all identified and available post-service medical records are in the claims file.
+
+round 15, index 129: 
+Veterans Law Judge, Board of Veterans' AppealsDepartment of Veterans Affairs
+
+round 16, index 100: 
+He also has training, knowledge, and expertise on which he relied to form his opinion.
+
+round 17, index 116: 
+Id.
+
+round 18, index 16: 
+Upon receipt of an application for a service-connection claim, VA must review the information and the evidence presented with the claim and provide the claimant with notice of what information and evidence not previously provided, if any, will assist in substantiating, or is necessary to substantiate, each of the five elements of the claim, including notice of what is required to establish service connection and that a disability rating and an effective date for the award of benefits will be assigned if service connection is awarded.
+
+round 19, index 17: 
+In this case, the RO provided the Veteran with a notification letter in April 2009, prior to the initial decision on the claim.
+
+round 20, index 111: 
+Id.
+
+round 21, index 18: 
+Therefore, the timing requirement of the notice as set forth in Pelegrini has been met and to decide the appeal would not be prejudicial to the claimant.
+
+round 22, index 35: 
+Law and analysisService connection may be established for disability resulting from personal injury suffered or disease contracted in line of duty in the active military, naval, or air service.
+
+round 23, index 12: 
+Upon receipt of a substantially complete application for benefits, VA must notify the claimant what information or evidence is needed in order to substantiate the claim and it must assist the claimant by making reasonable efforts to get the evidence needed.
+
+round 24, index 19: 
+Moreover, the requirements of the notice were met in this case.
+
+round 25, index 24: 
+The Veteran has not identified any available, outstanding records that are relevant to the claim decided herein.
+
+round 26, index 34: 
+Hence, there is no error or issue that precludes the Board from addressing the merits of this appeal.
+
+round 27, index 20: 
+In the letter, the RO notified the Veteran of the evidence necessary to substantiate the claim and of the division of responsibilities in obtaining such evidence.
+
+round 28, index 126: 
+Based on the foregoing, the Board finds that the weight of the evidence is against the Veteran's claim.
+
+round 29, index 94: 
+The Veteran is certainly competent to report observable symptoms.
+
+round 30, index 38: 
+in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship, i.e., a nexus, between the claimed in-service disease or injury and the current disability.
+
+round 31, index 37: 
+(2)
+
+round 32, index 36: 
+Establishing service connection generally requires competent evidence of three things: (1) a current disability;
+
+round 33, index 0: 
+The Veteran served on active duty in the U.S. Army from November 1965 to September 1967.
+
+round 34, index 87: 
+The examiner reviewed the claims file, performed an in-person examination, considered the Veteran's reported history, and supported his conclusions with an adequate supporting rationale.
+
+round 35, index 21: 
+The letter also explained how disability ratings and effective dates are determined.
+
+round 36, index 46: 
+Id.
+
+round 37, index 107: 
+Service connection, however, is not precluded where the disability or death resulted from a disease or injury that is otherwise shown to have been incurred or aggravated during service.
+
+round 38, index 106: 
+Id.
+
+round 39, index 112: 
+The GC opinion further held that VA adjudicators must resolve (1) whether the service-connected disability caused the Veteran to use tobacco products after service;
+
+round 40, index 39: 
+In addition, for Veterans who have served 90 days or more of active service during a war period or after December 31, 1946, certain chronic disabilities are presumed to have been incurred in service if they manifested to a compensable degree within one year of separation from service.
+
+round 41, index 105: 
+"Tobacco products" means cigars, cigarettes, smokeless tobacco, pipe tobacco, and roll-your-own tobacco.
+
+round 42, index 45: 
+Service in the Republic of Vietnam includes service in the waters offshore and service in other locations if the conditions of service involved duty or visitation in the Republic of Vietnam.
+
+round 43, index 92: 
+The Board has also considered the Veteran's lay statements.
+
+round 44, index 86: 
+The Board finds the April 2015 opinion to have significant probative value.
+
+round 45, index 115: 
+If these questions are answered in the affirmative, the secondary disability or death may be service-connected.
+
+round 46, index 47: 
+The diseases presumed to be associated with herbicide exposure include: chloracne or other acneform diseases consistent with chloracne, type 2 diabetes (also known as type II diabetes or adult-onset diabetes), Hodgkin's disease, ischemic heart disease (including, but not limited to, acute, subacute, and old myocardial infarction; atherosclerotic cardiovascular disease including coronary artery disease (including coronary spasm) and coronary bypass surgery; and stable, unstable and Prinzmetal's angina), all chronic B-cell leukemias (including, but not limited to, hairy-cell leukemia and chronic lymphocytic leukemia), multiple myeloma, non-Hodgkin's lymphoma, Parkinson's disease, acute and subacute peripheral neuropathy, porphyria cutanea tarda, prostate cancer, respiratory cancers (cancer of the lung, bronchus, larynx, or trachea), and soft-tissue sarcomas (other than osteosarcoma, chondrosarcoma, Kaposi's sarcoma, or mesothelioma).
+
+round 47, index 77: 
+The opinion from that examination was not adequate to decide the issue and so a new examination and opinion was obtained in April 2015.
+
+round 48, index 85: 
+The examiner further opined that the Veteran's stroke was not caused by or related to active military service, Agent Orange, or his service-connected PTSD.
+
+round 49, index 28: 
+The opinion also addresses the central medical issues and is supported by an adequate rationale.
+
+round 50, index 78: 
+Thus, the May 2009 VA opinion is of limited probative value.
+
+round 51, index 40: 
+For the showing of chronic disease in service, there is required a combination of manifestations sufficient to identify the disease entity, and sufficient observation to establish chronicity at the time.
+
+round 52, index 108: 
+For purposes of this section, "otherwise shown" means that the disability or death can be service-connected on some basis other than the Veteran's use of tobacco products during service.
+
+round 53, index 91: 
+However, as the Doctor did not provide a rationale for his opinion, the Board finds that his medical opinion of limited probative value.
+
+round 54, index 93: 
+Specifically, that the Veteran's his health problems are related to his exposure to Agent Orange and that his CVA is related to his PTSD.
+
+round 55, index 76: 
+The examiner stated that his diffuse ischemic white matter changes of the brain are most likely related to his past history of hypertension, hyperlipidemia and smoking.
+
+round 56, index 27: 
+The Board finds that the April 2015 VA medical opinion is adequate to decide the case because it is based on an accurate factual premise and a review of the claims file, including the Veteran's reported medical history, complaints, and lay statements.
+
+round 57, index 29: 
+Accordingly, the Board finds that VA's duty to assist with respect to obtaining a VA examination or opinion for the issue on appeal has been met.
+
+round 58, index 41: 
+If chronicity in service is not established, a showing of continuity of symptoms after discharge may support the claim.
+
+round 59, index 33: 
+For these reasons, the Board concludes that VA has fulfilled the duties to notify and assist the Veteran in this case.
+

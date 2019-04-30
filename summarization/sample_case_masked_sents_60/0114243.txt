@@ -1,0 +1,180 @@
+round 0, index 129: 
+The claim of entitlement to service connection for PTSD is denied.
+
+round 1, index 128: 
+The veteran's claim is accordingly denied.
+
+round 2, index 127: 
+The Board concludes, for the reasons and bases expressed above, that the preponderance of the evidence is against finding that the veteran suffers from PTSD.
+
+round 3, index 126: 
+Although the veteran himself contends that he has PTSD, it is now well-established that as a layperson without medical training he is not qualified to render medical opinions regarding the diagnosis of disorders and disabilities, and his opinion is entitled to no weight.
+
+round 4, index 77: 
+The veteran did not respond to the RO's request.
+
+round 5, index 76: 
+The RO indicated that the evidence should be furnished as soon as possible, preferably within 60 days from the date of the letter.
+
+round 6, index 75: 
+In a letter, dated in December 1999, the RO requested that the veteran provide them with any additional medical evidence, private or VA, especially any records that he might have in his possession from Dr. C.
+
+round 7, index 79: 
+After a review of the claims file and an examination of the veteran, the examiner concluded that there was no indication that the veteran had PTSD.
+
+round 8, index 80: 
+The examiner determined that the veteran seemed to indicate problems with alcohol which he had tried to minimize and had affected his intellectual functioning.
+
+round 9, index 81: 
+The examiner also noted that there was a history of psychotic-like manifestations perhaps related to his alcohol intake, but that the veteran was free of psychotic symptoms at the time of the examination.
+
+round 10, index 22: 
+There must be a current disability in order for service connection to be granted.
+
+round 11, index 74: 
+The RO was also requested to contact the veteran in order to obtain any additional private or VA records, especially the records of Dr. C.
+
+round 12, index 23: 
+Congenital or developmental defects such as personality disorders are not diseases or injuries for the purposes of service connection.
+
+round 13, index 44: 
+There was no evidence of any mental disease, defect or derangement.
+
+round 14, index 78: 
+The RO provided the veteran with a VA PTSD examination in January 2000.
+
+round 15, index 43: 
+At the time of the examination, the veteran was noted to have been angry and unmotivated because of his low rank.
+
+round 16, index 130: 
+Barry F. Bohan	Member, Board of Veterans' Appeals
+
+round 17, index 15: 
+PTSD was not incurred in or aggravated by active service.
+
+round 18, index 82: 
+The veteran was also found to have showed an immature type of personality which had created an influence in his behavior and reactions to his life.
+
+round 19, index 83: 
+Diagnoses of chronic alcoholism, psychosis, not otherwise specified by history, personality disorder not otherwise specified with immature type of features were entered.
+
+round 20, index 49: 
+VA treatment and hospital reports, dating from September 1975 to November 1980, pertinently reflect various diagnoses such as inadequate personality, acute alcoholism, alcohol abuse, undifferentiated schizophrenia in remission, personality disorder, and dysthymic disorder.
+
+round 21, index 52: 
+However, he did not provide any details or describe these situations.
+
+round 22, index 21: 
+Notwithstanding the above, service connection may be granted for disability shown after service, when all of the evidence, including that pertinent to service, shows that it was incurred in service.
+
+round 23, index 38: 
+Once a claim is reopened, the VCAA provides that the Secretary shall make reasonable efforts to assist a claimant in obtaining evidence necessary to substantiate the claimant's claim for a benefit under a law administered by the Secretary, unless no reasonable possibility exists that such assistance would aid in substantiating the claim.
+
+round 24, index 24: 
+The law provides that drug and alcohol abuse cannot itself be service connected on a direct basis.
+
+round 25, index 13: 
+Evidence submitted since the Board's October 1982 decision denying service connection for PTSD is new and material.
+
+round 26, index 12: 
+The weight of the medical evidence does not support a finding that the veteran currently has PTSD.
+
+round 27, index 84: 
+AnalysisNew and material evidenceThe evidence of record in October 1982 may be summarized as indicating that the veteran was not shown to have a diagnosis of PTSD related to his Vietnam service or any incident therein.
+
+round 28, index 50: 
+These reports do not reflect a diagnosis of PTSD.
+
+round 29, index 124: 
+As noted above, the only medical evidence that PTSD exists the merely a box on a form entitled "PTSD" being checked.
+
+round 30, index 19: 
+The Board will conclude with an analysis of the issue on appeal.
+
+round 31, index 0: 
+The veteran served on active duty from November 1968 to April 1971.
+
+round 32, index 1: 
+This matter comes before the Board of Veterans' Appeals (the Board) on appeal from a March 1997 rating decision of the
+
+round 33, index 18: 
+In the interest of clarity, the Board will review the law and relevant VA regulations, followed by a discussion of the factual background of this case.
+
+round 34, index 116: 
+The Board places great weight of probative value on the findings of the VA psychiatrist in January 2000, which was the result of the Board's remand for specific medical guidance as to this question.
+
+round 35, index 2: 
+Department of Veterans Affairs (VA) Regional Office in St. Petersburg, Florida (the RO).
+
+round 36, index 3: 
+In May 1999, the veteran testified before the undersigned
+
+round 37, index 109: 
+Under current law service connection may not be granted unless a current disability exists.
+
+round 38, index 115: 
+As indicated in the factual background section above, other diagnoses have been proffered by examining and treating physicians over the years, to include personality disorder and alcohol abuse.
+
+round 39, index 20: 
+Relevant law and regulationsService connection - in generalA disability may be service-connected if it results from an injury or disease incurred in, or aggravated by, military service.
+
+round 40, index 107: 
+The veteran has been recognized as being a combat veteran.
+
+round 41, index 45: 
+He was considered to be mentally responsible as he was able to distinguish right from wrong and to adhere to the right.
+
+round 42, index 108: 
+The question which is crucial to this case is whether the veteran has PTSD.
+
+round 43, index 114: 
+The remainder of the medical record is devoid of any diagnosis of PTSD.
+
+round 44, index 70: 
+The veteran in essence contended that he had PTSD as a result of his wartime service in Vietnam.
+
+round 45, index 123: 
+but that the veteran showed a long-term personality disorder, correlated with multiple substance abuse.
+
+round 46, index 48: 
+A psychiatric examination at discharge was normal.
+
+round 47, index 46: 
+A diagnosis of chronic moderate immature personality manifested by a lack of motivation, poor impulse control, and an inability to control his anger was recorded.
+
+round 48, index 37: 
+It is specifically noted that nothing in the Act shall be construed to require the Secretary to reopen a claim that has been disallowed except when new and material evidence is presented or secured, as described in 38 U.S.C.A. § 5108.
+
+round 49, index 125: 
+This is outweighed by the remainder of the medical evidence, discussed above.
+
+round 50, index 113: 
+As noted above, efforts were made by the Board and the RO to secure clarifying information, to no avail.
+
+round 51, index 4: 
+Board member at a hearing conducted at the RO in St. Petersburg, Florida.
+
+round 52, index 71: 
+He reported that he was ambushed, received mortar and sniper rounds, saw firefights and loaded dead bodies on helicopters.
+
+round 53, index 53: 
+After a mental status examination, a diagnosis of post traumatic stress syndrome and inadequate personality disorder were recorded by the examining physician.
+
+round 54, index 11: 
+Evidence added to the record since the October 1982 Board decision includes evidence which is not redundant or cumulative of evidence previously of record and is so significant that it must be considered in order to fairly decide the merits of the claim of entitlement to service connection for PTSD.
+
+round 55, index 72: 
+The veteran reported that he had been diagnosed as having PTSD.
+
+round 56, index 47: 
+The impairments were considered to have existed prior to service.
+
+round 57, index 55: 
+A VA special psychiatric examination was conducted in September 1981.
+
+round 58, index 56: 
+At that time, the veteran complained of paranoia and flashbacks relating to his Vietnam experience.
+
+round 59, index 69: 
+Board member at a personal hearing.
+

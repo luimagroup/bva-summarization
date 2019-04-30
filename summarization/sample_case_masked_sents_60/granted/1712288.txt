@@ -1,0 +1,180 @@
+round 0, index 65: 
+Service connection for an acquired psychiatric disorder, to include PTSD with anxiety disorder NOS and major depressive disorder in remission, is granted
+
+round 1, index 64: 
+As such, the Board finds that the Veteran's acquired psychiatric disorder, to include PTSD with anxiety disorder NOS and major depressive disorder in remission, had its onset during service, and therefore, service connection is warranted.
+
+round 2, index 63: 
+There is no other opinion of record to the contrary.
+
+round 3, index 62: 
+The Veteran's VA treatment provider also related the assessed depression to the Veteran's Vietnam experiences.
+
+round 4, index 61: 
+The August 2013 VA examiner opined that the Veteran's current psychiatric symptomatology, including the residuals of PTSD-anxiety disorder NOS, are due to his fear of hostile military or terrorist activity he experienced while serving in Vietnam.
+
+round 5, index 18: 
+(2)
+
+round 6, index 41: 
+A July 2007 VA psychiatry note notes he had been thinking more about Vietnam since his mother's death; sometimes the memories caught him unaware.
+
+round 7, index 40: 
+A May 2007 VA outpatient treatment record notes the Veteran reported feeling depressed since his mother died in 2007.
+
+round 8, index 60: 
+In this regard, the record is clear.
+
+round 9, index 14: 
+II.
+
+round 10, index 22: 
+Once evidence is determined to be competent, the Board must determine whether such evidence is also credible.
+
+round 11, index 15: 
+Service connection may be established for a disability resulting from personal injury suffered or disease contracted in the line of duty or for aggravation of preexisting injury suffered or disease contracted in the line of duty.
+
+round 12, index 16: 
+In order to establish direct service connection, three elements must be established.
+
+round 13, index 66: 
+Veterans Law Judge, Board of Veterans' AppealsDepartment of Veterans Affairs
+
+round 14, index 17: 
+These elements are: "(1) the existence of a present disability;
+
+round 15, index 19: 
+in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service," which is often referenced as the "nexus" requirement.
+
+round 16, index 20: 
+Service connection for PTSD, as opposed to other acquired psychiatric disorders, (when the stressor is not one of those enumerated in 38 C.F.R. § 3.304(f)(1-5 )) requires: (1) medical evidence diagnosing the condition in accordance with VA regulations; (2) a link, established by medical evidence, between current symptoms and an in-service stressor; and (3) credible supporting evidence that the claimed in-service stressor occurred.
+
+round 17, index 24: 
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the VA shall give the benefit of the doubt to the claimant.
+
+round 18, index 21: 
+Service connection may be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.
+
+round 19, index 23: 
+(distinguishing between competency ("a legal concept determining whether testimony may be heard and considered") and credibility ("a factual determination going to the probative value of the evidence to be made after the evidence has been admitted").
+
+round 20, index 25: 
+The Veteran contends that he suffers from PTSD which is due to his experiences in service.
+
+round 21, index 13: 
+In the instant case, the decision below is fully favorable to the Veteran with regard to the issue of entitlement to service connection for an acquired psychiatric disorder, and any notice or assistance error is therefore harmless.
+
+round 22, index 26: 
+At the outset, the Board notes that the Veteran's claimed stressor relates to a "fear of hostile military or terrorist activity."
+
+round 23, index 7: 
+A motion to advance this appeal on the Board's docket has been raised by the Board's Acting Vice Chairman.
+
+round 24, index 8: 
+The undersigned is granting the motion and advancing the appeal on the docket based upon advanced age.
+
+round 25, index 27: 
+He has reported he witnessed a North Vietnamese prisoner be tortured by South Vietnamese soldiers for two to three days before he was presumably killed as well as seeing many soldiers injured and killed.
+
+round 26, index 42: 
+The psychiatrist assessed depression NOS, noting he had depressive feelings, insomnia, and intensification of his unpleasant memories from Vietnam and guilty feelings about things he cannot change from his distant past.
+
+round 27, index 9: 
+("advanced age" is defined as 75 or more years of age).
+
+round 28, index 12: 
+REASONS AND BASES FOR FINDING AND CONCLUSIONI. VA's Duty to Notify and AssistVA has a duty to notify and duty to assist a Veteran in the claims process.
+
+round 29, index 43: 
+A March 2009 mental health team note notes major depressive disorder and PTSD were diagnosed.
+
+round 30, index 44: 
+The psychiatrist noted he had ongoing symptoms since the death of his mother, but that he also had intrusive memories from Vietnam.
+
+round 31, index 0: 
+The Veteran had active service from October 1959 to April 1960, November 1961 to August 1962, April 1964 to February 1974.
+
+round 32, index 1: 
+This appeal comes before the Board of Veterans' Appeals (Board) from a March 2010 rating decision by the Department of Veterans Affairs (VA) Regional Office (RO) in Seattle, Washington.  The United States Court of Appeals for Veterans Claims (Court) has held that the scope of a mental health disability claim includes any mental disability that may reasonably be encompassed by the claimant's description of the claim, reported symptoms, and the other information of record.
+
+round 33, index 11: 
+An acquired psychiatric disorder, to include PTSD with anxiety disorder NOS and major depressive disorder, was incurred in service.
+
+round 34, index 6: 
+This appeal was processed using the Virtual VA and Veterans Benefits Management System (VBMS) paperless claims processing systems.
+
+round 35, index 32: 
+Moreover, the described event is consistent with possible conditions of service in Vietnam during the Veteran's time in service.
+
+round 36, index 45: 
+VA treatment records show PTSD and major depressive disorder in remission continued to be assessed by the Veteran's VA treatment providers.
+
+round 37, index 29: 
+For purposes of this paragraph, "fear of hostile military or terrorist activity" means that a Veteran experienced, witnessed, or was confronted with an event or circumstance that involved actual or threatened death or serious injury, or a threat to the physical integrity of the Veteran or others, such as from an actual potential improvised explosive device; vehicle-imbedded explosive devices; incoming artillery, rocket or mortar fires; small arms fire, including suspected sniper fire; or attack upon friendly military aircraft, and the Veteran's response to the event or circumstance involved a psychological or psychophysiological state of fear, helplessness, or horror.
+
+round 38, index 31: 
+The experience described by the Veteran involves him witnessing an event that involved actual or threatened death and a threat to the physical integrity of others and is consistent with his service.
+
+round 39, index 33: 
+As such, the stressor of "fear of hostile military or terrorist activity" is accepted.
+
+round 40, index 10: 
+Resolving all reasonable doubt in the Veteran's favor, he has an acquired psychiatric disorder, to include PTSD with anxiety disorder NOS and major depressive disorder, related to his active service.
+
+round 41, index 39: 
+The earliest records of VA treatment associated with the claims file in response to the Veteran filing his PTSD claim are from 2007.
+
+round 42, index 37: 
+He also began to have flashbacks of Vietnam.
+
+round 43, index 38: 
+The service treatment records (STRs) do not show treatment for, or a diagnosis of, PTSD or any other psychiatric disorder.
+
+round 44, index 30: 
+Service personnel records confirm the Veteran service in Vietnam.
+
+round 45, index 28: 
+If a stressor claimed by a Veteran is related to the Veteran's fear of hostile military or terroristic activity and a VA psychiatrist or psychologist, or a psychiatrist or psychologist with whom VA has contracted, confirms that the claimed stressor is adequate to support a diagnosis of PTSD and that the Veteran's symptoms are related to the claimed stressor, in the absence of clear and convincing evidence to the contrary, and provided the claimant's stressor is consistent with the places, types, and circumstances of events in service, the Veteran's lay testimony alone may establish the occurrence of the claimed in service stressor.
+
+round 46, index 54: 
+The examiner opined the symptoms were associated with his fear of hostile military or terrorist activity.
+
+round 47, index 36: 
+He reported his mother and niece died in a house fire then, causing depression to set in.
+
+round 48, index 55: 
+The examiner found the Veteran's reported stressor of witnessing a North Vietnamese solider being tortured meets the criterion for a PTSD diagnosis.
+
+round 49, index 53: 
+The examiner diagnosed residuals, including anxiety disorder NOS, and opined it was at as likely as not incurred in service.
+
+round 50, index 52: 
+The examiner opined the Veteran met the criteria for a diagnosis of PTSD in 2009 and 2010.
+
+round 51, index 5: 
+However, in a January 2017 statement, the Veteran's attorney withdrew his request for a hearing.
+
+round 52, index 34: 
+The Veteran filed a claim for service connection for PTSD in August 2009.
+
+round 53, index 4: 
+On his March 2014 VA Form 9, the Veteran requested a hearing before a member of the Board.
+
+round 54, index 56: 
+The examiner noted the Veteran was at peace with the circumstances surrounding his mother's death and opined he had no PTSD symptoms associated with the house fire.
+
+round 55, index 57: 
+Given the above, the Board will resolve any reasonable doubt as to the existing diagnosis of PTSD in the Veteran's favor and finds that the Veteran has a current diagnosis of PTSD.
+
+round 56, index 35: 
+At the time, he reported it began two years earlier.
+
+round 57, index 58: 
+The Board will do so especially upon consideration of the August 2013 VA examiner's assertions that the only reason he does not currently meet the criteria for PTSD is because his medication has his symptoms under control.
+
+round 58, index 46: 
+The Veteran was afforded a VA examination in August 2013.
+
+round 59, index 3: 
+Accordingly, the issue is recharacterized as shown on the first page of this decision and it is acknowledged that such description includes a claim of entitlement to service connection for all currently diagnosed acquired psychiatric disorders.
+

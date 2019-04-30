@@ -1,0 +1,180 @@
+round 0, index 32: 
+Service connection for PTSD is granted.
+
+round 1, index 6: 
+PTSD was incurred in active service.
+
+round 2, index 30: 
+The evidence of record includes a clear diagnosis of PTSD, an opinion linking PTSD to an in-service stressor, and credible evidence that the claimed stressor actually occurred.
+
+round 3, index 29: 
+These documents disclose that the veteran served on an anti-aircraft cruiser in a heavy combat zone and participated in surface bombardments, activities which the May 1998 VA examiner indicated were affecting the veteran's PTSD.
+
+round 4, index 8: 
+These stressors included acting as a gunner, which required taking out enemy ships, being under constant fire from the enemy, and witnessing the sinking of several
+
+round 5, index 7: 
+The veteran contends that he developed PTSD as a result of experiencing service-related stressors while serving aboard the USS Juneau during the Korean conflict from April 1952 to November 1952.
+
+round 6, index 14: 
+In fact, since January 1998, the veteran has participated as an inpatient in a PTSD group therapy program, and has consistently been diagnosed with PTSD.
+
+round 7, index 15: 
+The evidence of record also includes a medical opinion linking the veteran's PTSD to at least one of the veteran's claimed in-service stressors.
+
+round 8, index 16: 
+A VA examiner who evaluated the veteran in May 1998 diagnosed the veteran with PTSD and indicated that this diagnosis was affected by the stress the veteran experienced while serving on a cruiser in a heavy combat zone during the Korean conflict and being bombarded by the enemy.
+
+round 9, index 13: 
+In this case, while the veteran's mental problems have been variously diagnosed since discharge from service, the evidence of record includes several diagnoses of PTSD.
+
+round 10, index 18: 
+If it is shown through military citation or other appropriate evidence that a veteran engaged in combat with the enemy, and the claimed stressors are related to combat, the veteran's lay testimony regarding the reported stressors must be accepted as conclusive evidence of their actual occurrence, provided the testimony is found to be satisfactory, e.g., credible and "consistent with the circumstances, conditions, or hardships of such service."
+
+round 11, index 11: 
+Service connection may be established by affirmatively showing inception of an injury or disability in service.
+
+round 12, index 12: 
+Service connection for PTSD requires medical evidence establishing a clear diagnosis of the condition, competent medical evidence linking current PTSD symptomatology to the claimed in service stressor, and credible supporting evidence that the claimed stressor actually occurred.
+
+round 13, index 17: 
+The Court has held that, in adjudicating a claim for PTSD, the evidence necessary to establish the occurrence of a stressor during service varies depending on whether the veteran was "engaged in combat with the enemy."
+
+round 14, index 19: 
+In such cases, no further developmental or corroborative evidence is necessary.
+
+round 15, index 5: 
+The record contains credible supporting evidence that the claimed stressor actually occurred.
+
+round 16, index 20: 
+However, if the evidence demonstrates that the veteran did not engage in combat with the enemy, or the claimed stressor is not related to combat, the veteran's lay testimony alone is not sufficient to establish the occurrence of the alleged stressor.
+
+round 17, index 23: 
+According to Administrative Remarks dated September 1952, the veteran's service on the USS Juneau from April 1952 to August 1953 involved participation in Task Force 77, which engaged in surface bombardment, gun strikes and combat operations in the Korean combat zone.
+
+round 18, index 9: 
+Based on the veteran's contentions, which are presumed to be credible for the purpose of determining well groundedness, and on medical evidence of record linking PTSD to the claimed stressors, the Board finds the claim plausible, and therefore, well grounded within the meaning of 38 U.S.C.A. § 5107(a) (West 1991).  See Grivois v. Brown, 6 Vet.App. 136, 140 (1994) (holding that a well-grounded claim is one that is plausible, capable of substantiation or meritorious on its own).
+
+round 19, index 21: 
+The veteran's DD Form 214 (Report of Separation from the Armed Forces of the United States) shows that the veteran served on the USS Juneau during his tour of duty, which extended from June 1951 to February 1955.
+
+round 20, index 3: 
+The evidence of record includes a clear diagnosis of PTSD, and an opinion linking PTSD to an in-service stressor.
+
+round 21, index 22: 
+It also shows that he received the National Defense Service Medal, Navy Occupation Service Medal, Korean Service Medal, and the United Nations Service Medal, but no combat-related medals or citations for his service.
+
+round 22, index 25: 
+Therefore, supporting evidence of the veteran's statements is necessary to prove the occurrence of the claimed stressors.
+
+round 23, index 33: 
+JOHN R. PAGANO	Acting Member, Board of Veterans' Appeals
+
+round 24, index 31: 
+The Board thus finds that the evidence supports the veteran's claim of entitlement to service connection for PTSD, and that this claim must be granted.
+
+round 25, index 24: 
+As the record stands, the Board is unclear whether the veteran's participation in these operations constitutes combat duty.
+
+round 26, index 4: 
+The veteran did not engage in combat with the enemy.
+
+round 27, index 26: 
+The Court has held that "credible supporting" evidence of a noncombat stressor can be met by other than service records.
+
+round 28, index 28: 
+However, the Board believes that the aforementioned Administrative Remarks, in conjunction with newspaper clippings, bombline summaries and radio press news reports submitted in April 1998, as part of the veteran's service diary, support the veteran's allegations that the in-service stressors actually occurred.
+
+round 29, index 1: 
+His appeal ensues from a July 1998 rating decision of the Department of Veterans Affairs (VA) Regional Office in St. Louis, Missouri (RO).  1.
+
+round 30, index 2: 
+The veteran's claim is plausible and VA has fulfilled its duty to assist by properly and fully developing all relevant evidence necessary for its equitable disposition.
+
+round 31, index 0: 
+The veteran had active service from June 1951 to February 1955.
+
+round 32, index 10: 
+The Board also finds that VA has fulfilled its duty to assist by properly and fully developing all relevant evidence necessary for the equitable disposition of the veteran's claim.
+
+round 33, index 27: 
+The RO in this case has not attempted to verify any of the stressors alleged by the veteran.
+
+round 34, index 0: 
+The veteran had active service from June 1951 to February 1955.
+
+round 35, index 0: 
+The veteran had active service from June 1951 to February 1955.
+
+round 36, index 0: 
+The veteran had active service from June 1951 to February 1955.
+
+round 37, index 0: 
+The veteran had active service from June 1951 to February 1955.
+
+round 38, index 0: 
+The veteran had active service from June 1951 to February 1955.
+
+round 39, index 0: 
+The veteran had active service from June 1951 to February 1955.
+
+round 40, index 0: 
+The veteran had active service from June 1951 to February 1955.
+
+round 41, index 0: 
+The veteran had active service from June 1951 to February 1955.
+
+round 42, index 0: 
+The veteran had active service from June 1951 to February 1955.
+
+round 43, index 0: 
+The veteran had active service from June 1951 to February 1955.
+
+round 44, index 0: 
+The veteran had active service from June 1951 to February 1955.
+
+round 45, index 0: 
+The veteran had active service from June 1951 to February 1955.
+
+round 46, index 0: 
+The veteran had active service from June 1951 to February 1955.
+
+round 47, index 0: 
+The veteran had active service from June 1951 to February 1955.
+
+round 48, index 0: 
+The veteran had active service from June 1951 to February 1955.
+
+round 49, index 0: 
+The veteran had active service from June 1951 to February 1955.
+
+round 50, index 0: 
+The veteran had active service from June 1951 to February 1955.
+
+round 51, index 0: 
+The veteran had active service from June 1951 to February 1955.
+
+round 52, index 0: 
+The veteran had active service from June 1951 to February 1955.
+
+round 53, index 0: 
+The veteran had active service from June 1951 to February 1955.
+
+round 54, index 0: 
+The veteran had active service from June 1951 to February 1955.
+
+round 55, index 0: 
+The veteran had active service from June 1951 to February 1955.
+
+round 56, index 0: 
+The veteran had active service from June 1951 to February 1955.
+
+round 57, index 0: 
+The veteran had active service from June 1951 to February 1955.
+
+round 58, index 0: 
+The veteran had active service from June 1951 to February 1955.
+
+round 59, index 0: 
+The veteran had active service from June 1951 to February 1955.
+

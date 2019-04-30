@@ -1,0 +1,180 @@
+round 0, index 132: 
+The appeal is denied.
+
+round 1, index 133: 
+Thomas H. O'ShayActing Veterans Law Judge, Board of Veterans' Appeals Department of Veterans Affairs
+
+round 2, index 131: 
+Consequently, the benefit-of-the-doubt rule does not apply, and service connection for hypertension, including as secondary to PTSD, is not warranted.
+
+round 3, index 18: 
+The notice requirements may be satisfied if any errors in the timing or content of such notice are not prejudicial to the claimant.
+
+round 4, index 19: 
+The RO provided the appellant pre-adjudication notice by letters dated in January 2003 and January 2004.
+
+round 5, index 20: 
+The RO provided the appellant post-adjudication notice in November 2008.
+
+round 6, index 21: 
+The case was readjudicated in February 2010 via supplemental statements of the case, which contained information regarding disability ratings and effective dates.
+
+round 7, index 23: 
+The Veteran has received all essential notice, has had a meaningful opportunity to participate in the development of his claim, and is not prejudiced by any technical notice deficiency along the way.
+
+round 8, index 24: 
+In any event, the Veteran has not demonstrated any prejudice with regard to the content of the notice.
+
+round 9, index 25: 
+II.
+
+round 10, index 22: 
+Since the Board concludes below that the preponderance of the evidence is against entitlement to service connection, any questions as to the timing of the notice regarding appropriate disability ratings and effective dates to be assigned are rendered moot.
+
+round 11, index 26: 
+Duty to AssistThe VCAA also provides that VA has a duty to assist claimants in obtaining evidence needed to substantiate a claim.
+
+round 12, index 100: 
+Moreover, the record does not show, nor does the Veteran contend, that he has specialized education, training, or experience that would qualify him to provide an opinion on this matter.
+
+round 13, index 28: 
+There is no indication of relevant, available records which would support the Veteran's claim.
+
+round 14, index 27: 
+In this case, the Veteran's service treatment records, service personnel records, VA treatment records, and private treatment records are on file.
+
+round 15, index 29: 
+The Veteran was afforded a VA examination in December 2008.
+
+round 16, index 30: 
+The examination report is thorough and contains sufficient information to decide the issue on appeal.
+
+round 17, index 130: 
+Nevertheless, after thorough review of the evidence currently of record, the Board finds that the preponderance of the evidence is against the Veteran's claim of entitlement to service connection for hypertension, to include as secondary to PTSD.
+
+round 18, index 127: 
+The Board has the authority to discount the weight and probity of evidence in light of its inherent characteristics and its relationship to other items of evidence.
+
+round 19, index 38: 
+If there is no showing of a resulting chronic condition during service, then a showing of continuity of symptomatology after service is required to support a finding of chronicity.
+
+round 20, index 31: 
+Thus, the Board finds that further examination is not necessary.
+
+round 21, index 125: 
+The Board finds that this information has minimal probative value because it does not specifically address the Veteran's hypertension and its cause, nor does it provide a link between his hypertension and PTSD.
+
+round 22, index 32: 
+The Board finds there was substantial compliance with its October 2008 remand instructions.
+
+round 23, index 37: 
+That an injury occurred in service alone is not enough; there must be chronic disability resulting from that injury.
+
+round 24, index 110: 
+Therefore, service connection for hypertension is not warranted on a direct basis.
+
+round 25, index 33: 
+compliance with the terms of the Board's engagement letter would be required, not strict compliance); see also Dyment v. West, 13 Vet. App. 141, 146-47 (1999) (holding that there was no Stegall violation when the examiner made the ultimate determination required by the Board's remand, because such determination 'more than substantially complied with the Board's remand order').
+
+round 26, index 7: 
+however, no documents accompanied the Appellant's Post-Remand Brief.
+
+round 27, index 34: 
+Therefore, the Board will proceed to review and decide the claims based on the evidence that is of record.
+
+round 28, index 35: 
+For all the foregoing reasons, the Board concludes that VA's duties to the Veteran to notify and assist him have been fulfilled with respect to the issue on appeal and the appellant is not prejudiced by a decision on the claim at this time.
+
+round 29, index 36: 
+Laws and RegulationsApplicable law provides that service connection will be granted if it is shown that the Veteran suffers from disability resulting from an injury suffered or disease contracted in line of duty, or for aggravation of a preexisting injury suffered or disease contracted in line of duty, in the active military, naval, or air service.
+
+round 30, index 39: 
+Additionally, for Veteran's who have served 90 days or more of active service during a war period or after December 31, 1946, certain chronic disabilities, such as hypertension, are presumed to have been incurred in service if manifest to a compensable degree within one year of discharge from service.
+
+round 31, index 0: 
+The veteran served on active duty from February 1969 to April 1973.
+
+round 32, index 1: 
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a rating decision by a Regional Office (RO) of the Department of Veterans Affairs (VA).  This matter was remanded by the Board in October 2008.
+
+round 33, index 109: 
+In sum, there is no competent or credible evidence suggesting that the Veteran was diagnosed with hypertension during service or within the one year presumptive period following service, nor is there supporting evidence to suggest any continuity of hypertension from service to show a nexus to service.
+
+round 34, index 13: 
+The VCAA provides that VA has a duty to notify claimants of any information and evidence needed to substantiate and complete a claim, and of what part of that evidence is to be provided by the claimant and what part VA will attempt to obtain for the claimant.
+
+round 35, index 2: 
+The Board notes that service connection for hypertension was first denied in a June 2003 rating decision.
+
+round 36, index 129: 
+The Board sympathizes with the Veteran, recognizes his service and understands fully his contentions.
+
+round 37, index 40: 
+Service connection may also be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.
+
+round 38, index 14: 
+The notice requirements apply to all five elements of a service connection claim: (1) veteran status;
+
+round 39, index 111: 
+The Board finds that service connection for hypertension as secondary to PTSD is also not warranted.
+
+round 40, index 108: 
+The absence of pertinent complaint or diagnosis in the service medical records, and the pertinently normal clinical findings during service and on the April 1973 separation examination, strongly suggest that neither the Veteran nor trained medical professionals believed that he suffered from chronic hypertension during service or at the time of this separation from service.
+
+round 41, index 112: 
+Considering the totality of the evidence, the Board is presented with an evidentiary record which persuasively weighs against service connection for the Veteran's hypertension as secondary to PTSD.
+
+round 42, index 52: 
+Further, service connection is warranted for a disability, which is proximately due to, or the result of a service-connected disease or injury.
+
+round 43, index 126: 
+The Board must resolve the decisive medical questions in this case by relying upon the most probative competent medical findings addressing the Veteran's specific case.
+
+round 44, index 15: 
+(2)
+
+round 45, index 16: 
+of a disability; (3) a connection between the veteran's service and the disability;
+
+round 46, index 107: 
+The Veteran's blood pressure was recorded as 136/80 at his entrance examination in February 1969, and 132/86 at his separation examination in April 1973.  No hypertension was diagnosed on these occasions, or at any other time during service, or for many years following service.
+
+round 47, index 6: 
+In the May 2010 argument to the Board, the Veteran's representative referenced medical literature;
+
+round 48, index 5: 
+Accordingly, a new and material evidence analysis is not necessary in this case.
+
+round 49, index 17: 
+(4) degree of disability; and (5) effective date of the disability.  Dingess/Hartman v. Nicholson, 19 Vet. App. 473, 484 (2006).
+
+round 50, index 49: 
+The United States Court of Appeals for the Federal
+
+round 51, index 53: 
+The Court has also held that service connection can be granted for a disability that is aggravated by a service-connected disability and that compensation can be paid for any additional impairment resulting from the service-connected disorder.
+
+round 52, index 54: 
+Although § 3.310 was amended effective in October 2006, those changes were more restrictive, so the Board will only consider the former version of the regulation.
+
+round 53, index 89: 
+(2)
+
+round 54, index 43: 
+A veteran who served in the Republic of Vietnam during the
+
+round 55, index 113: 
+The evidence against such a link includes the VA medical opinion from the December 2008 examination.
+
+round 56, index 90: 
+it was not likely that the Veteran's hypertensin was caused by his service-connected PTSD, to include associated panic and anxiety disorders; and (3) it is at least as likely as not that the
+
+round 57, index 56: 
+Historically, service connection was granted for PTSD in June 2003.
+
+round 58, index 47: 
+However, presumptive service connection is not warranted for hypertension as this type of disability is not included in the list of diseases found in 38 C.F.R. § 3.309(e) which qualifies for presumptive service connection.
+
+round 59, index 12: 
+C.F.R. §§ 3.102, 3.156(a), and 3.326(a), VA has a duty to notify and assist claimants.
+

@@ -1,0 +1,180 @@
+round 0, index 99: 
+Entitlement to service connection for PTSD is denied.
+
+round 1, index 98: 
+As the preponderance of the evidence is against the claim, the benefit of the doubt rule is not applicable.
+
+round 2, index 21: 
+a connection between the veteran's service and the disability; (4) degree of disability; and (5) effective date of the disability.
+
+round 3, index 19: 
+As previously defined by the courts, those five elements include:  (1) veteran status; (2) existence of a disability;
+
+round 4, index 20: 
+(3)
+
+round 5, index 16: 
+(2)
+
+round 6, index 97: 
+Therefore, in the absence of objective evidence to corroborate the veteran's presence as to the event he described, the claim of entitlement to service connection for PTSD must be denied.
+
+round 7, index 23: 
+This includes notice that a disability rating and an effective date for the award of benefits will be assigned if service connection is awarded.
+
+round 8, index 24: 
+VA satisfied its duty to notify as to the claim by means of June 2004 and March 2006 letters from the RO to the appellant.
+
+round 9, index 22: 
+Upon receipt of an application for "service connection," therefore, VA is required to review the information and the evidence presented with the claim and to provide the claimant with notice of what information and evidence not previously provided, if any, will assist in substantiating or is necessary to substantiate the elements of the claim as reasonably contemplated by the application.
+
+round 10, index 18: 
+The Court in Dingess/Hartman held that the VCAA notice requirements of 38 U.S.C. § 5103(a) and 38 C.F.R. § 3.159(b) apply to all five elements of a "service connection" claim.
+
+round 11, index 25: 
+These letters informed him of what evidence was required to substantiate the claim and of his and VA's respective duties for obtaining evidence.
+
+round 12, index 17: 
+that VA will seek to provide; (3) that the claimant is expected to provide; and (4) must ask the claimant to provide any evidence in her or his possession that pertains to the claim in accordance with 38 C.F.R. § 3.159(b)(1).  VCAA notice should be provided to a claimant before the initial unfavorable agency of original jurisdiction (AOJ) decision on a claim.
+
+round 13, index 26: 
+The veteran was also asked to submit pertinent evidence and/or information in his possession to the AOJ.
+
+round 14, index 15: 
+Proper VCAA notice must inform the claimant of any information and evidence not of record (1) that is necessary to substantiate the claim;
+
+round 15, index 27: 
+Additionally, the March 2006 letter informed the veteran as to the law pertaining to the assignment of a disability rating and effective date as the Court required in Dingess/Hartman.
+
+round 16, index 100: 
+Veterans Law Judge, Board of Veterans' Appeals Department of Veterans Affairs
+
+round 17, index 96: 
+Unfortunately, multiple attempts to verify the incident were unsuccessful and the veteran has not submitted any other evidence in corroboration of his claimed stressors.
+
+round 18, index 28: 
+Because the VCAA notice in this case was not completed prior to the initial AOJ adjudication denying the claim, the timing of the notice does not comply with the express requirements of the law as found by the Court in Pelegrini.
+
+round 19, index 29: 
+Here, the Board finds that any defect with respect to the timing of the VCAA notice was harmless error.
+
+round 20, index 58: 
+Therefore, the Board will summarize the relevant evidence where appropriate, and the Board's analysis below will focus specifically on what the evidence shows, or fails to show, as to the claim.
+
+round 21, index 30: 
+Although the notice was provided to the appellant after the initial adjudication, the claim was readjudicated thereafter, and the appellant has not been prejudiced thereby.
+
+round 22, index 56: 
+Although the Board has an obligation to provide reasons and bases supporting this decision, there is no need to discuss, in detail, the extensive evidence of record.
+
+round 23, index 34: 
+All the VCAA requires is that the duty to notify is satisfied, and that claimants be given the opportunity to submit information and evidence in support of their claims.
+
+round 24, index 31: 
+The content of the notice provided to the appellant fully complied with the requirements of 38 U.S.C. § 5103(a), 38 C.F.R. § 3.159(b), and Dingess/Hartman.
+
+round 25, index 32: 
+The veteran has been provided with every opportunity to submit evidence and argument in support of his claim, and to respond to VA notices.
+
+round 26, index 12: 
+PTSD was not incurred in or aggravated by active service.
+
+round 27, index 33: 
+Therefore, not withstanding Pelegrini, to decide the appeal would not be prejudicial to him.
+
+round 28, index 35: 
+Once this has been accomplished, all due process concerns have been satisfied.
+
+round 29, index 95: 
+In conclusion, the available evidence of record is insufficient to verify the veteran's in-service stressor.
+
+round 30, index 54: 
+Essentially, all available evidence that could substantiate the claim has been obtained.
+
+round 31, index 94: 
+Indeed, the Court has held on a number of occasions that a medical opinion premised upon an unsubstantiated account of a claimant is of no probative value.
+
+round 32, index 55: 
+The Board has reviewed all of the evidence in the veteran's claims file.
+
+round 33, index 0: 
+The veteran had active service from April 1965 until May 1970.
+
+round 34, index 1: 
+This matter comes before the Board of Veterans' Appeals (BVA or Board) from a December 2002 rating decision of the Department of Veterans Affairs (VA), Regional Office (RO) in No. Little Rock, Arkansas.
+
+round 35, index 2: 
+The December 2002 decision was a reconsideration of the same service connection claim that had previously been denied in September 2000 as not well-grounded.
+
+round 36, index 57: 
+Indeed, the Federal Circuit has held that the Board must review the entire record, but does not have to discuss each piece of evidence.
+
+round 37, index 52: 
+As such, it appears that further development would serve no useful purpose and would result in unnecessarily imposing additional burdens on VA with no benefit flowing to the veteran.
+
+round 38, index 51: 
+It is not felt that additional efforts are necessary under the VCAA given the RO's multiple attempts noted above.
+
+round 39, index 50: 
+Based on the foregoing, the Board finds that adequate efforts were undertaken by the RO in developing the veteran's claim.
+
+round 40, index 93: 
+The veteran's contention that he was driving a military vehicle that struck and killed a seven-year old Korean girl, his stressor, is unsupported by the objective evidence of record.
+
+round 41, index 53: 
+Board finds that all relevant facts have been properly and sufficiently developed in this appeal and no further development is required to comply with the duty to assist the veteran in developing the facts pertinent to his claim.
+
+round 42, index 81: 
+In this case, the Board finds that the record does not contain any such evidence.
+
+round 43, index 14: 
+Duty to NotifyUpon receipt of a complete or substantially complete application for benefits, VA is required to notify the claimant and his or her representative, if any, of any information, and any medical or lay evidence, that is necessary to substantiate the claim.
+
+round 44, index 92: 
+However, the validity of such diagnoses is dependent on the existence of a verified in-service stressor.
+
+round 45, index 79: 
+The veteran reported that in the fall of 1966 he was driving a military vehicle back towards the camp when he struck and killed a seven-year old Korean girl.
+
+round 46, index 66: 
+OF MENTAL DISS, FOURTH EDITION 1994 (4th ed.) (DSM-IV).
+
+round 47, index 10: 
+The evidence does not establish that the veteran participated in combat with the enemy.
+
+round 48, index 9: 
+Further, the veteran's representative, in a September 2006 written brief presentation, did not request a hearing.
+
+round 49, index 78: 
+The veteran states that his in-service stressor occurred when he served abroad in Korea.
+
+round 50, index 80: 
+As this is a non-combat related incident, there must be independent evidence to corroborate the veteran's statements as to the occurrence of his claimed stressor.
+
+round 51, index 49: 
+Even with this information, each response to these requests noted that the veteran's records could not be identified based on the information furnished.
+
+round 52, index 60: 
+Service connection may also be granted for any disease diagnosed after discharge when all of the evidence establishes that the disease was incurred in service.
+
+round 53, index 45: 
+The CRC indexes the records by the name of the victim and type of crime.
+
+round 54, index 11: 
+The veteran has been diagnosed with PTSD; however, the veteran's in-service stressor has not been verified by objective evidence.
+
+round 55, index 63: 
+This burden typically cannot be met by lay testimony because lay persons are not competent to offer medical opinions.
+
+round 56, index 62: 
+Where the determinative issue involves a medical diagnosis, competent medical evidence is required.
+
+round 57, index 13: 
+The Veterans Claims Assistance Act of 2000 (VCAA) describes VA's duty to notify and assist claimants in substantiating a claim for VA benefits.
+
+round 58, index 47: 
+A hand-written note at the bottom of an April 2002 response contained a statement that no records could be located.
+
+round 59, index 61: 
+"Generally, to prove service connection, a claimant must submit (1) medical evidence of a current disability, (2) medical evidence, or in certain circumstances lay testimony, of in-service incurrence or aggravation of an injury or disease, and (3) medical evidence of a nexus between the current disability and the in-service disease or injury."
+

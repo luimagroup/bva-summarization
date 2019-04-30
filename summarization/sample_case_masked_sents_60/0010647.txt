@@ -1,0 +1,180 @@
+round 0, index 144: 
+Service connection for a heart disorder is denied.
+
+round 1, index 145: 
+JANE E. SHARP	Member, Board of Veterans' Appeals - 13 -- 1 -
+
+round 2, index 4: 
+There is no competent evidence that any currently diagnosed heart disorder is of service origin, was first manifested during within one year after service, or is otherwise related to the active service, or that such was caused or permanently worsened by service-connected PTSD.
+
+round 3, index 128: 
+However, they do not well ground this claim because the veteran is a lay person and not qualified to render a competent opinion on a medical question.
+
+round 4, index 125: 
+Dr L., who reviewed the entire file, concluded that the veteran's heart disease has no relationship to service or to PTSD.
+
+round 5, index 5: 
+The veteran's claim of entitlement to service connection for a heart disorder, including as secondary to service-connected PTSD, is not well-grounded.
+
+round 6, index 127: 
+The only evidence indicating a relationship between the service-connected post traumatic stress disorder and the veteran's current heart conditions is statements from the veteran.
+
+round 7, index 6: 
+REASONS AND BASES FOR FINDING AND CONCLUSIONFactual BackgroundThe service medical records reflect that on the July 1948 service entrance examination the veteran's heart and blood vessels were normal.
+
+round 8, index 7: 
+The report of a July 1951 reenlistment examination shows that the veteran's heart and vascular system were normal, as was a chest x-ray examination.
+
+round 9, index 9: 
+A chest x-ray examination was also normal.
+
+round 10, index 10: 
+The service medical records do not contain a diagnosis of any heart disorder.
+
+round 11, index 8: 
+On the July 1954 service discharge examination the veteran's heart and vascular system were normal.
+
+round 12, index 139: 
+The Court has recently held that if the appellant fails to submit a well-grounded claim, VA is under no duty to assist in any further development of the claim.
+
+round 13, index 11: 
+The initial post-service medical evidence is a private medical record dated in April 1976, at which time a review of systems revealed that the veteran reported occasional palpitations of very short duration but he denied chest pain, hypertension and other potential cardiovascular symptoms.
+
+round 14, index 12: 
+Physical and x-ray examinations were normal.
+
+round 15, index 129: 
+Grottveit, 5 Vet. App. at 93 (Court held that lay assertions of medical causation cannot constitute evidence to render a claim well grounded).
+
+round 16, index 130: 
+While a lay person is competent to provide evidence on the occurrence of observable symptoms during and following service, a lay person is not competent to make a medical diagnosis or render a medical opinion, which relates a medical disorder to a specific cause.
+
+round 17, index 13: 
+In July 1977, the veteran complained of a two-week history of chest pain.
+
+round 18, index 131: 
+Espiritu v. Derwinski, 2 Vet. App. 492, 494-495 (1992) (Court held that a witness must be competent in order for his or her statements or testimony to be probative as to the facts under consideration).
+
+round 19, index 132: 
+Lacking any competent evidence or opinion linking any current heart disorder to service or to service-connected PTSD, the claim for service connection for a heart disorder is not well grounded.
+
+round 20, index 133: 
+Pursuant to 38 U.S.C.A. § 5103(a) (West 1991), if VA is placed on notice of the possible existence of information that would render the claim plausible, and therefore well grounded, VA has the duty to advise the appellant of the necessity to obtain the information.
+
+round 21, index 134: 
+However, such evidence must be identified with some degree of specificity; with an indication that the evidence exists and that it would well ground the claim.
+
+round 22, index 135: 
+In this case, the veteran has not identified existing medical evidence that would make his claim well grounded.
+
+round 23, index 138: 
+The veteran's representative argues that the RO failed to comply with the Board's February 1998 remand instructions and that the case should be remanded again for an adequate examination.
+
+round 24, index 136: 
+Therefore, 38 U.S.C.A. § 5103(a) is not applicable to the present case.
+
+round 25, index 137: 
+As the veteran's claim for service connection for a heart disorder is not well grounded, the doctrine of reasonable doubt has no application to his case.
+
+round 26, index 90: 
+Where there is a chronic disease shown as such in service or within the presumptive period under § 3.307 so as to permit a finding of service connection, subsequent manifestations of the same chronic disease at any later date, however remote, are service connected, unless clearly attributable to intercurrent causes.
+
+round 27, index 126: 
+Thus, this opinion goes against the claim.
+
+round 28, index 140: 
+Clearly the veteran's case is not well grounded, so VA had no duty to offer the veteran an examination or obtain a medical opinion in the first place.
+
+round 29, index 2: 
+The Board remanded this case in November 1991, April 1993 and February 1998 to accomplish additional development.
+
+round 30, index 143: 
+The Board views its foregoing discussion as sufficient to inform the veteran of the elements necessary to complete his application for service connection.
+
+round 31, index 0: 
+The veteran had active, honorable service with the United States Coast Guard from July 1948 to July 1954.
+
+round 32, index 101: 
+Id.
+
+round 33, index 89: 
+Cardiovascular-renal disease, including hypertension, may be presumed to have been incurred during active military service if manifested to a degree of 10 percent or more within the first year following active service.
+
+round 34, index 1: 
+This matter is before the Board of Veterans' Appeals (Board) on appeal of rating decisions from the St. Petersburg, Florida, Department of Veterans Affairs (VA) Regional Office (RO).
+
+round 35, index 91: 
+This rule does not mean that any manifestation in service will permit service connection.
+
+round 36, index 3: 
+In the February 1998 decision, the Board denied claims of service connection for residuals of a right shoulder injury, residuals of a right hand injury, and a neck disorder and granted a 30 percent rating for posttraumatic stress disorder (PTSD).
+
+round 37, index 92: 
+To show chronic disease in service there is required a combination of manifestations sufficient to identify the disease entity, and sufficient observation to establish chronicity at the time, as distinguished from merely isolated findings or a diagnosis including the word "chronic."
+
+round 38, index 100: 
+A layperson is not, however, competent to provide evidence that the observable symptoms are manifestations of chronic pathology or diagnosed disability.
+
+round 39, index 102: 
+Recently, the Court reaffirmed that for a service-connection claim to be well grounded a claimant must submit evidence of each of the following: (1) medical evidence of a current disability; (2) medical evidence, or in certain circumstances lay evidence, of in-service incurrence or aggravation of a disease or injury; and (3) medical evidence of a nexus
+
+round 40, index 110: 
+Because the veteran has failed to meet this burden, the Board finds that his claim of entitlement to service connection for a heart disorder must be denied as not well grounded.
+
+round 41, index 141: 
+The 1998 "examination" report, even if based on the extensive record rather than a contemporaneous examination, offers an opinion and the opinion goes against the claim.
+
+round 42, index 86: 
+Service connection may be granted for disability which is proximately due to or the result of service-connected disease or injury.
+
+round 43, index 85: 
+In order to establish service connection for a claimed disability the facts must demonstrate that a disease or injury resulting in current disability was incurred in active military service or, if pre-existing active service, was aggravated therein.
+
+round 44, index 142: 
+Thus, absent a well-grounded claim, the Board need not remand the case again for strict compliance with the prior remand directives.
+
+round 45, index 87: 
+When there is aggravation of a nonservice-connected condition which is proximately due to or the result of service-connected disease or injury, the claimant will be compensated for the degree of disability over and above the degree of disability existing prior to the aggravation.
+
+round 46, index 80: 
+Pursuant to 38 U.S.C.A. § 5107(a), a person who submits a claim for benefits under a law administered by the Secretary shall have the burden of submitting evidence sufficient to justify a belief by a fair and impartial individual that the claim is well grounded.
+
+round 47, index 79: 
+thus, the RO did not comply with the Board's remand instructions and the case should be remanded again for an adequate examination.
+
+round 48, index 71: 
+It was noted that the veteran's heart size and rate were normal.
+
+round 49, index 93: 
+When the disease identity is established, there is no requirement of evidentiary showing of continuity.
+
+round 50, index 94: 
+When the fact of chronicity in service is not adequately supported, then a showing of continuity after discharge is required to support the claim.
+
+round 51, index 88: 
+Service connection may be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.
+
+round 52, index 72: 
+There was no evidence of murmurs.
+
+round 53, index 82: 
+Such a claim need not be conclusive but only possible to satisfy the initial burden of § [5107(a)]."
+
+round 54, index 111: 
+The service medical records do not contain any evidence or diagnosis of heart disease or any other cardiovascular disorder and the July 1954 service discharge examination showed that the veteran's heart and vascular system were normal.
+
+round 55, index 95: 
+The Court has established the following rules with regard to claims addressing the issue of chronicity.
+
+round 56, index 83: 
+The Court has also held that although a claim need not be conclusive, the statute provides that it must be accompanied by evidence that justifies a "belief by a fair and impartial individual" that the claim is plausible.
+
+round 57, index 81: 
+The United States Court of Appeals for Veterans Claims (Court) has held that a well-grounded claim is "a plausible claim, one which is meritorious on its own or capable of substantiation.
+
+round 58, index 84: 
+The Court has held that a well-grounded claim requires competent evidence of current disability (a medical diagnosis), of incurrence or aggravation of a disease or injury in service (lay or medical evidence), and of a nexus between the in-service injury or disease and the current disability (medical evidence).
+
+round 59, index 14: 
+The impression was chest wall pain.
+

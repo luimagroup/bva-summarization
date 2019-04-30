@@ -1,0 +1,180 @@
+round 0, index 18: 
+Accordingly, the case is remanded for the following action:
+
+round 1, index 19: 
+The RO should again attempt to locate the original VA claims folder which has been lost.
+
+round 2, index 20: 
+The RO should ascertain whether the service department has any copies of the veteran's service medical records;
+
+round 3, index 22: 
+The RO should ask the veteran to identify (names, locations, dates) all medical providers who treated him at any time for psychiatric problems after service, and the RO should obtain copies of related medical records which are not already on file.
+
+round 4, index 17: 
+Further efforts should be made to obtain pertinent records from during and after service, and another VA examination should be provided.
+
+round 5, index 23: 
+The RO should also ask the veteran and his representative to submit copies of any records in their possession concerning past VA adjudications prior to the original claims folder being lost.
+
+round 6, index 21: 
+if so, they should be obtained.
+
+round 7, index 31: 
+The RO should then review the claim for service connection for a psychiatric disorder, including PTSD.
+
+round 8, index 26: 
+The RO should undertake appropriate development to verify the veteran's alleged service stressors for PTSD.
+
+round 9, index 30: 
+Based on examination findings, a review of historical records, and medical principles, the doctor should provide a medical opinion, with full rationale, as to the date of onset and etiology of all psychiatric disorders, including any relationship with service.
+
+round 10, index 27: 
+Thereafter, the veteran should undergo another VA psychiatric examination to determine the nature and etiology of all psychiatric disorders, including PTSD.
+
+round 11, index 35: 
+This remand is in the nature of a preliminary order and does not constitute a decision of the Board on the merits of your appeal.
+
+round 12, index 28: 
+The claims folder must be provided to and reviewed by the doctor, and the examination report should note that such has been accomplished.
+
+round 13, index 29: 
+All current psychiatric disorders should be diagnosed in accordance with the criteria of DSM-IV.
+
+round 14, index 15: 
+In an August 2001 report, a private psychologist, Dr. George V. Komaridis diagnosed the veteran as having an anxiety disorder not otherwise specified, and suggested that such diagnosis may be associated with traumatic events experienced by the veteran while in service.
+
+round 15, index 32: 
+If the claim remains denied, the veteran and his representative should be provided with a supplemental statement of the case, and given an opportunity to respond, before the case is returned to the Board.
+
+round 16, index 34: 
+L. W. TOBIN	Member, Board of Veterans' AppealsUnder 38 U.S.C.A. § 7252 (West 1991 & Supp. 2001), only a decision of the Board of Veterans' Appeals is appealable to the United States Court of Appeals for Veterans Claims.
+
+round 17, index 24: 
+The RO should ask the Social Security Administration (SSA) to provide any medical and other records considered in awards of SSA disability benefits to the veteran, along with copies of the related SSA decisions.
+
+round 18, index 33: 
+On remand, the veteran may submit any other evidence and argument on the matter the Board has remanded to the RO.
+
+round 19, index 5: 
+The Board finds that the issue on appeal is service connection for any psychiatric disorder, including PTSD.
+
+round 20, index 6: 
+The current claims file indicates that the initial claims file was lost, and the current claims file is a "rebuilt" one containing only partial records.
+
+round 21, index 4: 
+A Board hearing on this issue was held at the RO (a Travel Board hearing) in June 2001.
+
+round 22, index 25: 
+(At his last VA examination, the veteran related he received SSA disability benefits from 1975 to 1983.)
+
+round 23, index 8: 
+Under the circumstances, the claim for service connection for a psychiatric disorder, including PTSD, will be reviewed on a de novo basis.
+
+round 24, index 13: 
+it was found the veteran did not meet the diagnostic criteria for PTSD.
+
+round 25, index 12: 
+A VA psychiatric examination was provided in December 1998 and January 1999, and the diagnosis was depression;
+
+round 26, index 14: 
+This VA examination, however, was performed before the veteran submitted many records of past psychiatric treatment.
+
+round 27, index 11: 
+Some medical records from after service have been submitted, including records dated in and after 1975 which show variously diagnosed psychiatric conditions.
+
+round 28, index 10: 
+The current rebuilt claims folder does not contain the veteran's service medical records.
+
+round 29, index 16: 
+In view of the fact that the original claims folder has been lost, and given the duty to assist requirements of the Veterans Claims Assistance Act of 2000, Pub. L. No. 106-475, 114 Stat. 2096 (2000), and a recently enacted companion VA regulation, further development of the evidence is warranted.
+
+round 30, index 0: 
+The veteran served on active duty from July 1943 to June 1947, and from February 1951 to February 1953.
+
+round 31, index 1: 
+This case comes before the Board of Veterans' Appeals (Board) from a March 1999 RO decision which denied service connection for PTSD.
+
+round 32, index 9: 
+In June 1999, the veteran withdrew an appeal of an issue of service connection for "radiation exposure," and thus that issue is not before the Board.
+
+round 33, index 3: 
+In September 1999, the RO denied service connection for any psychiatric disorder, including PTSD.
+
+round 34, index 2: 
+At an RO hearing in June 1999, the veteran claimed that service connection should be granted for any psychiatric disorder, not just PTSD.
+
+round 35, index 7: 
+At his Board hearing, the veteran submitted some records showing that service connection for depression was denied by the RO in October 1987 and by the Board in January 1989, but no additional information on past adjudications is currently available.
+
+round 36, index 0: 
+The veteran served on active duty from July 1943 to June 1947, and from February 1951 to February 1953.
+
+round 37, index 0: 
+The veteran served on active duty from July 1943 to June 1947, and from February 1951 to February 1953.
+
+round 38, index 0: 
+The veteran served on active duty from July 1943 to June 1947, and from February 1951 to February 1953.
+
+round 39, index 0: 
+The veteran served on active duty from July 1943 to June 1947, and from February 1951 to February 1953.
+
+round 40, index 0: 
+The veteran served on active duty from July 1943 to June 1947, and from February 1951 to February 1953.
+
+round 41, index 0: 
+The veteran served on active duty from July 1943 to June 1947, and from February 1951 to February 1953.
+
+round 42, index 0: 
+The veteran served on active duty from July 1943 to June 1947, and from February 1951 to February 1953.
+
+round 43, index 0: 
+The veteran served on active duty from July 1943 to June 1947, and from February 1951 to February 1953.
+
+round 44, index 0: 
+The veteran served on active duty from July 1943 to June 1947, and from February 1951 to February 1953.
+
+round 45, index 0: 
+The veteran served on active duty from July 1943 to June 1947, and from February 1951 to February 1953.
+
+round 46, index 0: 
+The veteran served on active duty from July 1943 to June 1947, and from February 1951 to February 1953.
+
+round 47, index 0: 
+The veteran served on active duty from July 1943 to June 1947, and from February 1951 to February 1953.
+
+round 48, index 0: 
+The veteran served on active duty from July 1943 to June 1947, and from February 1951 to February 1953.
+
+round 49, index 0: 
+The veteran served on active duty from July 1943 to June 1947, and from February 1951 to February 1953.
+
+round 50, index 0: 
+The veteran served on active duty from July 1943 to June 1947, and from February 1951 to February 1953.
+
+round 51, index 0: 
+The veteran served on active duty from July 1943 to June 1947, and from February 1951 to February 1953.
+
+round 52, index 0: 
+The veteran served on active duty from July 1943 to June 1947, and from February 1951 to February 1953.
+
+round 53, index 0: 
+The veteran served on active duty from July 1943 to June 1947, and from February 1951 to February 1953.
+
+round 54, index 0: 
+The veteran served on active duty from July 1943 to June 1947, and from February 1951 to February 1953.
+
+round 55, index 0: 
+The veteran served on active duty from July 1943 to June 1947, and from February 1951 to February 1953.
+
+round 56, index 0: 
+The veteran served on active duty from July 1943 to June 1947, and from February 1951 to February 1953.
+
+round 57, index 0: 
+The veteran served on active duty from July 1943 to June 1947, and from February 1951 to February 1953.
+
+round 58, index 0: 
+The veteran served on active duty from July 1943 to June 1947, and from February 1951 to February 1953.
+
+round 59, index 0: 
+The veteran served on active duty from July 1943 to June 1947, and from February 1951 to February 1953.
+

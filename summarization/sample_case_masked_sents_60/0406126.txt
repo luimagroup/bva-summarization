@@ -1,0 +1,180 @@
+round 0, index 30: 
+The rationale for all opinions expressed should also be provided.  6.
+
+round 1, index 31: 
+The RO should then adjudicate the current claim on a de novo basis without reference to prior adjudications.
+
+round 2, index 32: 
+If any benefits sought on appeal are not granted to the appellant's satisfaction, the appellant and his representative should be furnished an appropriate supplemental statement of the case and provided the requisite opportunity to respond.
+
+round 3, index 33: 
+In accordance with proper appellate procedures, the case should then be returned to the Board for further appellate consideration.
+
+round 4, index 39: 
+This remand is in the nature of a preliminary order and does not constitute a decision of the Board on the merits of your appeal.
+
+round 5, index 38: 
+Shane A. Durkin	Veterans Law Judge 	Board of Veterans' AppealsUnder 38 U.S.C.A. § 7252 (West 2002), only a decision of the Board of Veterans' Appeals is appealable to the United States Court of Appeals for Veterans Claims.
+
+round 6, index 36: 
+The law requires that all claims that are remanded by the Board of Veterans' Appeals or by the United States Court of Appeals for Veterans Claims for additional development or other appropriate action must be handled in an expeditious manner.
+
+round 7, index 37: 
+In addition, VBA's Adjudication Procedure Manual, M21-1, Part IV, directs the ROs to provide expeditious handling of all cases that have been remanded by the Board and the Court.
+
+round 8, index 35: 
+This claim must be afforded expeditious treatment by the RO.
+
+round 9, index 29: 
+If the appellant is found to have any other acquired psychiatric disorder(s), the examiner should provide a medical opinion with respect to each such disorder as to whether it is likely, less likely than not, or as likely as not that the acquired psychiatric disorder is etiologically related to the appellant's military service.
+
+round 10, index 21: 
+it is likely, less likely than not, or as likely as not that the veteran's dysthymic disorder is etiologically related to the his military service.
+
+round 11, index 22: 
+The rationale for all opinions expressed should also be provided.  5.
+
+round 12, index 20: 
+The psychiatrist should be requested to provide an addendum addressing any pertinent evidence received since his completion of the examination report and also providing an opinion as to whether
+
+round 13, index 23: 
+If the April 2003 VA examiner is no longer available, the RO should schedule the appellant for another VA psychiatric examination by a psychiatrist to determine the nature and etiology of any psychiatric disorders present.
+
+round 14, index 25: 
+Any studies, tests and evaluations deemed necessary should be performed.
+
+round 15, index 19: 
+After all appropriate development has been completed, the RO should return the claims files to the VA psychiatrist who examined the appellant in April 2003.
+
+round 16, index 28: 
+If PTSD is not diagnosed, the examiner should explain why the veteran does not meet the criteria for this diagnosis.
+
+round 17, index 24: 
+This examiner must review the complete claims files before completing the examination report.
+
+round 18, index 18: 
+If the RO is unable to obtain a copy of any pertinent evidence identified by the appellant, it should so inform the appellant and his representative and request them to provide a copy of the outstanding evidence.
+
+round 19, index 27: 
+If PTSD is diagnosed, the examiner should identify the specific stressor(s) supporting the diagnosis.
+
+round 20, index 16: 
+The RO should issue a letter to the appellant providing him with the notice required under 38 U.S.C.A. § 5103(a) and 38 C.F.R. § 3.159(b), to include a request that the appellant submit any pertinent evidence in his possession.
+
+round 21, index 14: 
+Moreover, once all appropriate development has been completed, the RO should then adjudicate the claim on a de novo basis.
+
+round 22, index 15: 
+Accordingly, this appeal is remanded to the RO (via the Appeals Management Center in Washington, D.C.) for the following further actions:  1.
+
+round 23, index 26: 
+A diagnosis of PTSD under the DSM-IV criteria should be made or ruled out.
+
+round 24, index 17: 
+The RO should take appropriate steps to obtain a copy of any pertinent evidence identified but not provided by the appellant.
+
+round 25, index 34: 
+The appellant need take no further action until he is otherwise informed, but he may furnish additional evidence and argument on the remanded matter while the case is in remand status.
+
+round 26, index 13: 
+In addition, the appellant's attorney has argued that the RO has failed to fully comply with its duties pursuant to 38 U.S.C.A. § 5103(a) and especially under 38 C.F.R. § 3.159(b) to ask the appellant to submit "any evidence in the claimant's possession that pertains to the claim."
+
+round 27, index 12: 
+Consequently, the Board must view the April 2003 VA examination report as inadequate to fully satisfy the August 2001 remand.
+
+round 28, index 10: 
+A comprehensive psychiatric examination and evaluation by a VA staff psychiatrist in April 2003 resulted in the medical opinion that the appellant does not meet the diagnostic criteria for PTSD, but rather currently suffers from alcohol dependence, polysubstance abuse, antisocial and borderline personality disorders, and a history of depressive disorder, with a working diagnosis of dysthymic disorder.
+
+round 29, index 11: 
+Unfortunately, the VA examiner in April 2003 did not provide the requested opinion concerning the etiology of the appellant's diagnosed dysthymic disorder, and more specifically whether that acquired psychiatric disability is etiologically related to the appellant's military service.
+
+round 30, index 8: 
+The case has now been returned to the Board by the RO.
+
+round 31, index 7: 
+In August 2001, the Board remanded the appeal to the RO for further development consistent with the Court's Order and in order to  comply with the newly enacted requirements of the Veterans Claims Assistance Act of 2000 (VCAA), Pub. L.
+
+round 32, index 0: 
+The appellant served on active duty from June to December 1975.
+
+round 33, index 1: 
+This matter comes before the Board of Veterans' Appeals (Board) from a July 1990 rating determination by the Roanoke, Virginia, Regional Office (RO) of the Department of Veterans Affairs (VA).
+
+round 34, index 2: 
+The Board denied the present appeal in a decision entered in April 1998.
+
+round 35, index 3: 
+Subsequently, an appeal was initiated to the U.
+
+round 36, index 4: 
+S. Court of Appeals for Veterans Claims (Court), and in an
+
+round 37, index 9: 
+In the August 2001 remand, the Board requested that the RO obtain a medical opinion concerning the etiology of any psychiatric disability found to exist.
+
+round 38, index 6: 
+The Court did not retain jurisdiction over this matter.
+
+round 39, index 5: 
+Order dated in October 2000, the Court vacated the Board's April 1998 decision and remanded the appeal to the Board for further development.
+
+round 40, index 0: 
+The appellant served on active duty from June to December 1975.
+
+round 41, index 0: 
+The appellant served on active duty from June to December 1975.
+
+round 42, index 0: 
+The appellant served on active duty from June to December 1975.
+
+round 43, index 0: 
+The appellant served on active duty from June to December 1975.
+
+round 44, index 0: 
+The appellant served on active duty from June to December 1975.
+
+round 45, index 0: 
+The appellant served on active duty from June to December 1975.
+
+round 46, index 0: 
+The appellant served on active duty from June to December 1975.
+
+round 47, index 0: 
+The appellant served on active duty from June to December 1975.
+
+round 48, index 0: 
+The appellant served on active duty from June to December 1975.
+
+round 49, index 0: 
+The appellant served on active duty from June to December 1975.
+
+round 50, index 0: 
+The appellant served on active duty from June to December 1975.
+
+round 51, index 0: 
+The appellant served on active duty from June to December 1975.
+
+round 52, index 0: 
+The appellant served on active duty from June to December 1975.
+
+round 53, index 0: 
+The appellant served on active duty from June to December 1975.
+
+round 54, index 0: 
+The appellant served on active duty from June to December 1975.
+
+round 55, index 0: 
+The appellant served on active duty from June to December 1975.
+
+round 56, index 0: 
+The appellant served on active duty from June to December 1975.
+
+round 57, index 0: 
+The appellant served on active duty from June to December 1975.
+
+round 58, index 0: 
+The appellant served on active duty from June to December 1975.
+
+round 59, index 0: 
+The appellant served on active duty from June to December 1975.
+

@@ -1,0 +1,108 @@
+Citation Nr: 1421971	
+Decision Date: 05/15/14    Archive Date: 05/29/14
+
+DOCKET NO.  13-04 044	)	DATE
+	)
+	)
+
+On appeal from the
+Department of Veterans Affairs Regional Office in St. Louis, Missouri
+
+
+THE ISSUE
+
+Entitlement to service connection for an acquired psychiatric disorder, to include posttraumatic stress disorder (PTSD) and major depressive disorder (MDD).
+
+
+REPRESENTATION
+
+Veteran represented by:	Disabled American Veterans
+
+
+ATTORNEY FOR THE BOARD
+
+L. B. Yantz, Counsel
+
+
+INTRODUCTION
+
+The Veteran had active duty service from July 1963 to January 1965.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a March 2011 rating decision by a Regional Office (RO) of the Department of Veterans Affairs (VA).  A notice of disagreement was received in March 2012, a statement of the case was issued in December 2012, and a substantive appeal was received in January 2013.
+
+The Board notes that the current claim of service connection for an acquired psychiatric disorder was previously characterized by the RO as service connection for PTSD.  However, as the record documents the psychiatric diagnoses of PTSD as well as MDD during the period of the current claim, the Board has recharacterized the claim as indicated on the title page to afford the Veteran the broadest scope of review.  See Clemons v. Shinseki, 23 Vet. App. 1, 5-6 (2009).
+
+The Board has reviewed the claims file, Virtual VA, and the Veterans Benefits Management System (VBMS) to ensure that the complete record is considered.
+
+
+FINDINGS OF FACT
+
+1.  The evidence reasonably establishes that the Veteran has a diagnosis of PTSD related to stressors in service that have been corroborated by credible supporting evidence.
+
+2.  The evidence reasonably establishes that the Veteran's MDD is causally related to her corroborated stressors in service.
+
+
+CONCLUSIONS OF LAW
+
+1.  The Veteran's PTSD was incurred in active service.  38 U.S.C.A. §§ 1110, 1131, 5107 (West 2002); 38 C.F.R. § 3.102, 3.303, 3.304(f) (2013).
+
+2.  The Veteran's MDD was incurred in active service.  38 U.S.C.A. §§ 1110, 1131, 5107 (West 2002); 38 C.F.R. §§ 3.102, 3.303 (2013).
+
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+Veterans Claims Assistance Act of 2000 (VCAA)
+
+The VCAA, in part, describes VA's duties to notify and assist claimants in substantiating a claim for VA benefits.  See 38 U.S.C.A. §§ 5100, 5102, 5103, 5103A, 5106, 5107, 5126; 38 C.F.R. §§ 3.102, 3.156(a), 3.159, 3.326(a).  The VCAA applies to the instant claim for service connection.  However, in light of the granting of service connection for PTSD and for MDD, further discussion of the VCAA is not necessary.
+
+Laws and Regulations
+
+Service connection will be granted if it is shown that the Veteran suffers from a disability resulting from personal injury suffered or disease contracted in the line of duty, or for aggravation of a preexisting injury suffered or disease contracted in the line of duty, during active military service.  38 U.S.C.A. §§ 1110, 1131; 38 C.F.R. § 3.303.  Disorders diagnosed after discharge will still be service connected if all the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38 C.F.R. § 3.303(d); see also Combee v. Brown, 34 F.3d 1039, 1043 (Fed. Cir. 1994).
+
+Establishing service connection requires evidence of: (1) a current disability; (2) a disease; injury, or event in service and (3) a nexus between the claimed disability and the disease, injury, or event in service and the present disability.  See Shedden v. Principi, 381 F.3d 1163 (Fed. Cir. 2004).
+
+Service connection for PTSD requires medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a) (conforming with the American Psychiatric Association's Diagnostic and Statistical Manual of Mental Disorders, 4th edition (DSM-IV)); a link, established by medical evidence, between current symptoms and an in-service stressor; and credible supporting evidence that the claimed in-service stressor occurred.  38 C.F.R. § 3.304(f).
+
+If a PTSD claim is based on in-service personal assault, then evidence from sources other than the Veteran's service records may corroborate the Veteran's account of the stressor incident, such as: records from law enforcement authorities, rape crisis centers, mental health counseling centers, hospitals, or physicians; pregnancy tests or tests for sexually transmitted diseases; statements from family members, roommates, fellow service members, or clergy; and evidence of behavior changes following the claimed assault (including a request for a transfer to another military duty assignment; deterioration in work performance; substance abuse; episodes of depression, panic attacks, or anxiety without an identifiable cause; or unexplained economic or social behavior changes).  38 C.F.R. § 3.304(f)(5).
+
+Competent medical evidence is evidence provided by a person who is qualified through education, training, or experience to offer medical diagnoses, statements, or opinions.  Competent medical evidence may include statements conveying sound medical principles found in medical treatises.  Competent medical evidence may include statements contained in authoritative writings, such as medical and scientific articles and research reports or analyses.  38 C.F.R. § 3.159(a)(1).
+
+Competent lay evidence is any evidence not requiring that the proponent have specialized education, training, or experience.  Lay evidence is competent if it is provided by a person who has knowledge of facts or circumstances and conveys matters that can be observed and described by a lay person.  38 C.F.R. § 3.159(a)(2).  This may include some medical matters, such as describing symptoms or relating a contemporaneous medical diagnosis.  Jandreau v. Nicholson, 492 F.3d 1372 (Fed. Cir. 2007).
+
+In determining whether service connection is warranted for a disability, VA is responsible for determining whether the evidence supports the claim or is in relative equipoise, with the Veteran prevailing in either event, or whether a preponderance of the evidence is against the claim, in which case the claim is denied.  38 U.S.C.A. § 5107; Gilbert v. Derwinski, 1 Vet. App. 49 (1990).
+
+Analysis
+
+The Board notes that it has reviewed all of the evidence in the record, with an emphasis on the evidence relevant to this appeal.  Although the Board has an obligation to provide reasons and bases supporting its decision, there is no need to discuss, in detail, every piece of evidence of record.  Gonzales v. West, 218 F.3d 1378, 1380-81 (Fed. Cir. 2000) (VA must review the entire record, but does not have to discuss each piece of evidence).  Hence, the Board will summarize the relevant evidence as appropriate, and the Board's analysis will focus specifically on what the evidence shows, or fails to show, as to the claim being decided.
+
+The Veteran contends that she suffers from PTSD and MDD as a result of sexual trauma incidents in service.  Specifically, she has provided consistent details throughout the record regarding how she was forcibly raped on one occasion by a male sergeant (in 1964), and how she endured attempted rape on two other occasions (once by another male sergeant, and once by a male superior) as well as ongoing sexual harassment from these and other men.  She alleges that she never reported any of the aforementioned incidents in service due to fear of retaliation as well as due to lack of information about how to report such crimes.  She contends that, after these incidents occurred, she asked to be transferred to another office, and thereafter she purposely allowed herself to get pregnant by another airman so that she could leave the service due to pregnancy.
+
+The Veteran's service treatment records (STRs) do not document any complaints, findings, diagnosis, or treatment of PTSD, MDD, or any other acquired psychiatric disorder, nor do they contain any reference to the Veteran's alleged in-service sexual trauma incidents.  However, a December 1964 STR confirmed that she was pregnant (5 to 6 months along), and it was also noted at her January 1965 service separation examination that she was 26 to 27 weeks pregnant.  Her service personnel records confirmed that she was discharged in January 1965 for "convenience of the government" in light of her pregnancy.
+
+Nearly 18 years after her service discharge, a VA hospital summary documented that the Veteran was hospitalized for six days in December 1982, with a diagnosis of psychotic neurosis (type undetermined), and was evaluated as having a "hysterical personality"; she did not make any mention of the in-service sexual trauma incidents at that time.
+
+The record reflects that the Veteran first sought VA psychiatric treatment for her military sexual trauma incidents in June 2008.  Subsequent VA treatment records have documented her ongoing treatment for the diagnosed disabilities of PTSD and MDD as a result of these in-service stressor incidents.  In particular, in a February 2010 VA treatment record, a VA social worker noted that the Veteran met the criteria for PTSD related to military sexual trauma.  (The Board notes that, while "anxiety" is listed on her VA problem list, she has never been diagnosed with any formal anxiety disorder.)
+
+In statements submitted in July 2010 and November 2010, the Veteran's granddaughter and daughters described the psychological symptoms they had witnessed in the Veteran (including outbursts during nightmares) over many years, and how the Veteran had finally admitted to them recently that such symptoms were related to the sexual trauma stressor incidents she had endured while in service.
+
+On VA PTSD examination in October 2012, the Veteran described her military sexual trauma incidents (as outlined above), and the examiner (a VA clinical psychologist) determined that such stressors were adequate to support a diagnosis of PTSD.  The examiner diagnosed the Veteran with PTSD and with MDD (recurrent, in full remission), and noted that the diagnoses of PTSD and MDD were comorbid and related.  The examiner went on to state that the diagnosis of PTSD was a "historical diagnosis" and that the Veteran did not currently meet the full criteria for PTSD at the present time, as the Veteran's treatment (including group therapy from VA) had been very successfully and thus had significantly reduced her current symptoms.  The examiner opined that the "Veteran's (historical) PTSD is most likely caused by a result of sexual trauma/rape while in the military."  In a November 2012 addendum, the examiner reiterated that the Veteran did not currently meet the full criteria for a diagnosis of PTSD at the present time.
+
+The evidence of record establishes that the Veteran has been diagnosed with PTSD and MDD related to in-service sexual trauma incidents that have been corroborated by credible supporting evidence.  Her service records confirm that she became pregnant in 1964, which resulted in her honorable discharge in January 1965; she has alleged that she became pregnant purposely so that she could be discharged.  She has consistently reported her military sexual trauma incidents and has been diagnosed with both PTSD and MDD throughout the period of the current claim.  The Veteran's granddaughter and daughters have also shared their personal accounts of the Veteran's psychological symptoms as a result of her military stressors.  Although the October 2012 VA examiner determined that the Veteran did not meet all of the criteria for a PTSD diagnosis at the time of that examination, the examiner nevertheless acknowledged that the Veteran had been diagnosed (historically) with PTSD during the course of her VA psychiatric treatment, which began in 2008 and continued throughout the period of the current claim.  See McClain v. Nicholson, 21 Vet. App. 319 (2007) (the requirement of current disability is satisfied when the disability is shown at any point during the pendency of the claim, even if the disability subsequently resolves).  Furthermore, the October 2012 examiner noted that the Veteran's diagnoses of PTSD and MDD were comorbid and related, and opined that the Veteran's (historical) PTSD was most likely caused by a result of sexual trauma/rape while in the military.  See 38 C.F.R. § 3.304(f)(5).
+
+Given the evidence outlined above, and after resolving all doubt in the Veteran's favor, the Board finds that the Veteran's PTSD and MDD (which were both diagnosed during the period of the current claim) are causally related to stressors in service that have been corroborated by credible supporting evidence.  Therefore, the Board concludes that service connection for PTSD and for MDD is warranted.
+
+
+ORDER
+
+Entitlement to service connection for PTSD is warranted.  Entitlement to service connection for MDD is warranted.  The appeal is granted.
+
+
+
+____________________________________________
+ALAN S. PEEVY
+Veterans Law Judge, Board of Veterans' Appeals
+
+
+Department of Veterans Affairs
+
+

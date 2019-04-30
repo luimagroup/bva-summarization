@@ -1,0 +1,508 @@
+Citation Nr: 0928092	
+Decision Date: 07/28/09    Archive Date: 08/04/09
+
+DOCKET NO.  04-07 479A	)	DATE
+	)
+	)
+
+On appeal from the
+Department of Veterans Affairs Regional Office in New 
+Orleans, Louisiana
+
+
+THE ISSUE
+
+Entitlement to service connection for posttraumatic stress 
+disorder (PTSD).
+
+
+REPRESENTATION
+
+Appellant represented by:	Disabled American Veterans
+
+
+WITNESS AT HEARING ON APPEAL
+
+Appellant
+
+
+ATTORNEY FOR THE BOARD
+
+Nathaniel J. Doan, Associate Counsel
+
+INTRODUCTION
+
+The Veteran had active military service from December 1973 to 
+December 1974 and from March 1981 to April 1983.
+
+This case comes before the Board of Veterans' Appeals (Board) 
+on appeal of a July 2003 rating action of the Department of 
+Veterans' Affairs (VA) Regional Office (RO) in New Orleans, 
+Louisiana, that declined to reopen the claim for service 
+connection for PTSD. 
+
+The Veteran provided testimony to the undersigned Acting 
+Veterans Law Judge via videoconference hearing in August 
+2006.  A copy of the transcript has been associated with the 
+file.
+
+In January 2007, the Board reopened the claim for service 
+connection for PTSD and remanded the reopened claim for 
+additional development.  
+
+In March 2009, the Veteran indicated that she had more 
+information and evidence to submit and requested that VA wait 
+30 days prior to adjudication of the appeal.  This period of 
+time has passed without the submission of addition evidence.
+
+The appeal is REMANDED to the RO via the Appeals Management 
+Center (AMC), in Washington, DC.  VA will notify the 
+appellant if further action is required.
+
+
+REMAND
+
+Jurisdiction
+
+One of the matters the Board must address is which issue or 
+issues are properly before it at this time.  Under 
+38 U.S.C.A. § 7105(a), an appeal to the Board must be 
+initiated by a notice of disagreement (NOD) and completed by 
+a substantive appeal after a statement of the case (SOC) is 
+furnished to the claimant.  In essence, the following 
+sequence is required: There must be a decision by the RO, the 
+claimant must express timely disagreement with the decision 
+(NOD), VA must respond by explaining the basis for the 
+decision to the claimant (SOC), and finally the claimant, 
+after receiving adequate notice of the basis of the decision, 
+must complete the process by stating his argument in a 
+timely-filed substantive appeal.  See 38 C.F.R. §§ 20.200, 
+20.201, 20.202, and 20.203.
+
+The issue of service connection for PTSD is clearly before 
+the Board.  In the May 2009 post-remand brief, the 
+representative considered the issue on appeal to a broader 
+issue of entitlement to service connection for an acquired 
+psychiatric disorder.  The Board disagrees.
+
+In this context, the Board is cognizant of the recent 
+decision by the United States Court of Appeals for Veterans 
+Claims (Court) in Clemons v. Shinseki, 23 Vet. App. 1 (2009) 
+that found that the scope of a mental health disability claim 
+includes any mental disability that may reasonably be 
+encompassed by the claimant's description of the claim, 
+reported symptoms, and the other information of record.  
+
+Notably, the Clemons Court involved a situation where 
+multiple diagnoses for a psychiatric disorder existed, where 
+one of the underlying symptoms of these diagnoses was noted 
+in service, and where no prior final VA decision had been 
+made on any diagnosis.  In this context, the Court 
+essentially held that the appellant (given his lay 
+perspective) was reasonably requesting benefits for symptoms 
+of a mental condition which should be broadly construed and 
+adjudicated, however the condition was diagnosed.
+
+However, the Clemons Court specifically noted limitations in 
+its scope of claim rule when multiple diagnoses exist, and 
+one of those diagnoses had been subject to a prior final 
+denial.  For example, the Court cited the decision in Ephraim 
+v. Brown, 82 F.3d 399 (Fed. Cir. 1996) which held that a 
+claim for service connection for PTSD was separate from a 
+claim for an increased rating for a different mental 
+condition that was already service-connected.  The 
+distinction being made that a prior final decision on a 
+particular diagnosis had been reached, and the rules of 
+finality under 38 U.S.C.A. § 7104 could not be simply 
+abrogated.  In this situation, the separate diagnoses were 
+properly considered separate claims.
+
+In this instant case, the issue of entitlement to service 
+connection for an acquired psychiatric disorder, as a 
+separate issue than service connection for PTSD, was 
+previously denied, to include in an April 1996 Board 
+decision.  Review of the claims file indicates that this 
+issue has previously been developed at length, to include the 
+obtainment of an Independent Medical Expert (IME) opinion.  
+
+The January 2003 claim from which the instant appeal stems 
+comes from a request for service connection for PTSD only.  
+As the Veteran has previously separately pursued a claim for 
+an acquired psychiatric disorder [other than PTSD], and that 
+decision is final, the Board finds that her limitation of the 
+claim to PTSD was an informed choice to only pursue service 
+connection for this psychiatric disability at this time.  
+Therefore, the only issue before the Board is a claim of 
+service connection for PTSD.  Clemons, 23 Vet. App. at 8-9; 
+Ephraim, 82 F.3d 399 (Fed. Cit. 1996)
+
+The Veteran, of course, is free to file an application to 
+reopen the previously denied claim.
+
+Stressor adjudication
+
+In January 2007, the Board issued a remand directive ordering 
+the RO to make a specific determination, based upon the 
+complete record, with respect to whether the Veteran was a 
+victim of a personal (sexual assault) in service.  This was 
+to be accomplished prior to scheduling the Veteran for VA 
+PTSD examination.
+
+There is no indication of record that the RO adjudicated the 
+Veteran's claimed personal (sexual assault) stressor.  A 
+remand by the Board confers upon the Veteran, as a matter of 
+law, the right to compliance with the remand instructions, 
+and imposes upon VA a concomitant duty to ensure compliance 
+with the terms of the remand.  See Stegall v. West, 11 Vet. 
+App. 268, 271 (1998).  This issue, therefore, must be 
+addressed by the RO. 
+
+
+PTSD diagnosis
+
+Service connection may be established for disability 
+resulting from personal injury suffered or disease contracted 
+in the line of duty, or from aggravation of a preexisting 
+injury suffered or disease contracted in line of duty.  See 
+38 U.S.C.A. §§ 1110, 1131; 38 C.F.R. § 3.303.  Service 
+connection generally requires evidence of a current 
+disability with a relationship or connection to an injury or 
+disease or some other manifestation of the disability during 
+service.  Boyer v. West, 210 F.3d 1351, 1353 (Fed. Cir. 
+2000).  
+
+Service connection is not warranted without evidence of a 
+currently diagnosed disability.  See Degmetich v. Brown, 104 
+F.3d 1328, 1333 (Fed. Cir. 1997) (holding that the existence 
+of a current disability is the cornerstone of a claim for VA 
+disability compensation).
+
+Establishment of service connection for PTSD 
+requires:  (1) medical evidence diagnosing PTSD; (2) credible 
+supporting evidence that the claimed in-service stressor 
+actually occurred; and (3) medical evidence of a link between 
+current symptomatology and the claimed in-service stressor.  
+38 C.F.R. § 3.304(f).  See also Cohen v. Brown, 10 Vet. 
+App. 128 (1997).  
+
+A diagnosis of PTSD must be established in accordance with 
+38 C.F.R. § 4.125(a), which simply mandates that, for VA 
+purposes, all mental disorder diagnoses must conform to the 
+4th edition of the American Psychiatric Association's 
+Diagnostic and Statistical Manual for Mental Disorders (DSM-
+IV).  See 38 C.F.R. § 3.304(f).  The Court has taken judicial 
+notice of the mental health profession's adoption of the DSM-
+IV as well as its more liberalizing standards to establish a 
+diagnosis of PTSD.  The Court acknowledged the change from an 
+objective "would evoke . . . in almost anyone" standard in 
+assessing whether a stressor is sufficient to trigger PTSD to 
+a subjective standard (e.g., whether a person's exposure to a 
+traumatic event and response involved intense fear, 
+helplessness, or horror).  Thus, as noted by the Court, a 
+more susceptible person could have PTSD under the DSM-IV 
+criteria given his or her exposure to a traumatic event that 
+would not necessarily have the same effect on "almost 
+everyone."  Cohen, 10 Vet. App. 128, 140-141 (1997).
+
+The Board observes that this is an exceptionally complex 
+case.
+
+Historically, the Veteran's psychiatric impairment since 1975 
+has eluded a consistent diagnosis.  For example, she has been 
+variously diagnosed with postpartum depression; depressive 
+neurosis; dysthymic disorder; anxiety disorder not otherwise 
+specified (NOS); major depression, probably unipolar; 
+borderline personality disorder; bipolar disorder; emotional 
+tension; alcohol dependence; depression; and recurrent 
+depression interspersed recurrent mania precipitated 
+postpartum.  
+
+In light of the diagnostic difficulties, a psychiatric IME 
+opinion was obtained in August 1995 wherein the examiner 
+concluded that the Veteran manifested a bipolar disorder and 
+possibly a personality disorder with histrionic and possibly 
+borderline features.
+
+With respect to a PTSD diagnosis, a VA Compensation and 
+Pension (C&P) examination in August 1992 resulted in the 
+examiner's conclusion that it was difficult to support a 
+diagnosis of PTSD based upon conflicting information.  The 
+examiner specifically stated that the Veteran met some of the 
+criteria for PTSD, but that some of these criteria could also 
+be used to support a diagnosis of an anxiety disorder or 
+major depression.
+
+A February 1995 VA psychology note diagnosed the Veteran with 
+PTSD.  The Veteran reported stressors of witnessing a 
+construction worker killed by heavy machinery and being 
+assaulted by her Commanding Officer at the age of 21.  This 
+diagnosis was based upon interview, mental status examination 
+and psychological testing.  She was noted to experience a 
+"full-range of PTSD secondary to previously described 
+stressors."  Notably, this assessment was not made based 
+upon review of the Veteran's complex psychiatric history.
+
+A June 1997 VA C&P examination, based upon review of the 
+claims folder and psychological testing, concluded that the 
+Veteran did not meet the criteria for a PTSD diagnosis as the 
+"symptoms she does have seem to affect her only in a minor 
+way."
+
+A June 1998 VA C&P examination diagnosed the Veteran with 
+bipolar disorder, anxiety disorder not otherwise specified, 
+and alcohol dependence (in remission).  The examiner opined 
+that, even though the Veteran had some symptoms of PTSD, the 
+Veteran did not meet the DSM-IV criteria for PTSD.  The 
+examiner continued by noting that perhaps the Veteran did at 
+one point in time have PTSD but the examiner could not 
+justify making a PTSD diagnosis at that time.
+
+Thereafter, the record reflects that the Veteran has been 
+treated, at times, in the VA clinical setting for PTSD.  The 
+basis for the diagnosis is not fully explained.
+
+Statements from a VA clinical psychologist in July 2004 and 
+May 2005 noted that the Veteran had been receiving VA 
+treatment for bipolar mood disorder and PTSD.  The Veteran's 
+PTSD was said to be attributable to a rape in the military 
+and witnessing a man being killed by a piece of machinery.  
+The Veteran's various symptoms were reported, but an 
+explanation as to how the Veteran met the DSM-IV criteria for 
+a PTSD diagnosis was not explained.
+
+A January 2009 VA C&P examination, based upon review of the 
+claims folder and psychological testing, concluded that the 
+Veteran did not meet the criteria for a PTSD diagnosis for 
+the reported stressors of being raped and witnessing the 
+death of a civilian while she was in the military.  However, 
+examiner was less than clear as to which DSM-IV criterion had 
+not been met.
+
+The Board first observes that it is aware of the Court's 
+holding in McClain v. Nicholson, 21 Vet. App. 319 (2007), 
+which held that the requirement of a current disability is 
+satisfied when a claimant has a disability at the time a 
+claim for VA disability compensation is filed or during the 
+pendency of that claim even if resolved prior to VA's final 
+adjudication.  In McClain, the Board denied a claim of 
+service connection for a psychiatric disability on the basis 
+of no current disability.  Notably, the Board had implicitly 
+found that a psychiatric disability had existed during the 
+appeal period but completely resolved.
+
+In this case, the Veteran does hold a diagnosis of PTSD by VA 
+clinicians.  In reopening this case in January 2007, the 
+Board presumed a current diagnosis of PTSD for purposes of 
+reopening the claim, as required by applicable caselaw.  See 
+Justus v. Principi, 3 Vet. App. 510, 513 (1993).  However, 
+the Board specifically noted that the conflict of evidence 
+concerning whether the Veteran manifested PTSD and that there 
+remained "some question as to the true nature of the 
+[V]eteran's current psychiatric disability."  Unlike 
+McClain, there has been no finding that the Veteran ever 
+manifested PTSD according to the governing criteria of 
+38 C.F.R. § 4.125.
+
+The Board next observes the Court's cautions in Mariano v. 
+Principi, 17 Vet. App. 305, 312 (2003), wherein the Court 
+indicated that it is not permissible for VA to undertake 
+additional development for the purpose of developing negative 
+evidence.
+
+The favorable opinions in this case diagnosing PTSD are 
+based, in part, upon the Veteran's alleged stressor of having 
+being raped during service and are rendered without any 
+benefit of review of the claims folder.  As noted by the 
+Board in the January 2007, the Veteran has blamed at least 
+seven different individuals for this attack over the years 
+and has a history of various examiner's arriving at a 
+consistent diagnosis.  
+
+Additionally, as indicated above, the RO has failed to 
+adjudicate the alleged personal assault stressor, as 
+instructed by the Board in the January 2007 remand 
+directives.
+
+Moreover, the record contains conflicting opinions by various 
+examiners as to whether the DSM-IV criteria for a PTSD 
+diagnosis have been met, and the Board cannot discern from 
+either the favorable or unfavorable opinions the exact basis 
+as to how all DSM-IV criteria have been met.
+
+Finally, the Veteran's representative argued in the May 2009 
+Post-Remand Brief that additional development of this claim 
+may be required.
+
+As noted in Nieves-Rodriguez v. Peake, 22 Vet. App. 295 
+(2008), guiding factors to be considered in resolving 
+differences of expert medical opinion include whether (1) the 
+testimony is based upon sufficient facts or data; (2) the 
+testimony is the product of reliable principles and methods; 
+and (3) the expert witness has applied the principles and 
+methods reliably to the facts of the case.
+
+As held in Stefl v. Nicholson, 21 Vet. App. 120, 124 (2007), 
+a medical opinion must support its conclusion with an 
+analysis the Board can consider and weigh against other 
+evidence in the record.
+
+Overall, the favorable opinions in this case are not based 
+upon sufficient facts, some of which remained to be 
+adjudicated, and the Board can find no adequate basis in the 
+favorable or unfavorable opinions to weigh against the 
+others.  None of these opinions explicitly recognize the 
+basis for the contrary opinions and explain why those 
+conclusions are wrong.  As such, the Board finds ample and 
+necessary basis to remand this case for additional medical 
+opinion.
+
+As with the prior need for an IME in 1998, the evidence now 
+before the Board is convincing that an extensive VA 
+psychiatric examination by a panel of three Board-Certified 
+Psychiatrists in necessary to resolve this appeal.  The Board 
+has considered an additional IME opinion.  However, the Board 
+is of the opinion that the point of dispute in this case 
+appears to be the examiner impressions upon interviewing the 
+Veteran's description of symptoms which can only be resolved 
+with an actual in person psychiatric examination.
+
+Other development
+
+In May 2009, the Veteran's representative raised for the 
+first time argument that there has been incomplete 
+development of the claim as it pertains to obtaining medical 
+records.  In particular, the representative argued that 
+additional searches should be made for treatment records at 
+"a Naval Hospital in Norfolk, Virginia" and treatment at 
+"Ft. Devens mental health clinic in 1974."
+
+The RO has been unable to obtain service treatment records 
+(STRs) pertaining to the Veteran's first period of active 
+service.  On remand, however, the Board will request that 
+direct searches be conducted in the facilities and dates 
+identified.  See Sheed v. Derwinski, 2 Vet. App. 256, 259 
+(1992).
+
+Finally, the Veteran's claims folder reflects that the 
+Veteran had her disability benefits with the Social Security 
+Administration (SSA) restored in approximately 2004.  It is 
+unclear whether she underwent additional examination.  On 
+remand, the RO should request any additional available 
+documentation from SSA since 2004.
+
+Accordingly, the case is REMANDED for the following action:
+
+1.  Obtain the Veteran's complete medical 
+file from the New Orleans VAMC since 
+February 2007 and associate it with the 
+claims folders.
+
+2.  Request from SSA any medical records 
+and legal documents pertaining to the 
+Veteran's reinstatement of benefits in 
+approximately 2004.
+
+3.  Conduct direct searches for any 
+available STRs at the following locations:
+
+a) Fort Devens Mental Health Clinic 
+from 1974 to 1975; and
+    
+b) Norfolk Naval Base Emergency room in 
+October 1974.
+    
+4.  Following the above, make a specific 
+determination, based upon the complete 
+record, with respect to whether the 
+Veteran was the victim of a personal 
+(sexual) assault in service.  In reaching 
+this determination, address any 
+credibility questions raised by the 
+record.
+
+5.  Next, arrange for the Veteran to be 
+afforded a VA psychiatric examination by a 
+panel of three Board-certified 
+psychiatrists.  The claims folders, to 
+include a copy of this Remand and any 
+additional evidence secured, must be made 
+available to and reviewed by the examiner 
+prior to completion of the examination 
+report, and the examination report must 
+reflect that the claims folders were 
+reviewed.  Any indicated studies should be 
+performed.
+
+It must be specified for the examiners the 
+stressor or stressors that are established 
+by the record and the examiners must be 
+instructed that only those events may be 
+considered for the purpose of determining 
+whether the Veteran was exposed to a 
+stressor in service.  At this time, only 
+the Veteran's stressor of witnessing the 
+death of a construction worker for the 
+U.S. Army Corps of Engineers when he got 
+caught in a drilling rig has been 
+established.
+
+Based on a through review of the claims 
+folder, and the examination findings, the 
+panel should provide a consensus opinion 
+addressing the following (if a consensus 
+opinion cannot be achieved, the reasons for 
+that must be explained by the panel in 
+writing):
+
+Determine whether the Veteran manifests 
+PTSD according to the DSM-IV criteria, 
+fully explaining how each criterion have 
+been met or not met.  If PTSD is 
+diagnosed, specify each stressor deemed of 
+sufficient gravity to produce PTSD.  In 
+arriving at this opinion, the examiner 
+should provide a rationale for the 
+opinions expressed.  If an opinion cannot 
+be medically determined without resort to 
+mere speculation or conjecture, this 
+should be commented upon in the report.
+
+The examiner's are requested to reconcile 
+their ultimate diagnosis with the varying 
+examiner impressions of record, including 
+VA C&P examinations in 1992, 1997, 1998 
+and 2009 as well as VA clinician 
+impressions.
+
+6.  Following completion of the foregoing, 
+readjudicate the claim.  If any benefit 
+sought on appeal remains denied, the 
+Veteran and her representative should be 
+provided a supplemental statement of the 
+case (SSOC) and allowed an appropriate 
+period of time for response.
+
+The appellant has the right to submit additional evidence and 
+argument on the matter or matters the Board has remanded.  
+Kutscherousky v. West, 12 Vet. App. 369 (1999).
+
+This claim must be afforded expeditious treatment.  The law 
+requires that all claims that are remanded by the Board of 
+Veterans' Appeals or by the United States Court of Appeals 
+for Veterans Claims for additional development or other 
+appropriate action must be handled in an expeditious manner.  
+See 38 U.S.C.A. §§ 5109B, 7112 (West Supp. 2008).
+
+
+
+_________________________________________________
+T. MAINELLI
+Acting Veterans Law Judge, Board of Veterans' Appeals
+
+Under 38 U.S.C.A. § 7252 (West 2002), only a decision of the 
+Board of Veterans' Appeals is appealable to the United States 
+Court of Appeals for Veterans Claims.  This remand is in the 
+nature of a preliminary order and does not constitute a 
+decision of the Board on the merits of your appeal.  
+38 C.F.R. § 20.1100(b) (2008).
+

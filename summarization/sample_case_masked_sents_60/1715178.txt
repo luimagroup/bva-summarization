@@ -1,0 +1,180 @@
+round 0, index 84: 
+Entitlement to service connection for an acquired psychiatric disorder, to include PTSD, is denied.
+
+round 1, index 12: 
+Service connection for an acquired psychiatric disorder, to include PTSD, is not warranted.
+
+round 2, index 11: 
+FINDING OF FACTThe Veteran is not shown to have an acquired psychiatric disorder, to include PTSD, that is casually or etiologically related to his period of active service.
+
+round 3, index 54: 
+Such internal processes are not readily observable and are not within the competence of the Veteran in this case, who has not been shown by the evidence of record to have no medical training or skills.
+
+round 4, index 83: 
+The benefit of the doubt rule therefore does not apply, and service connection for this disability is not warranted.
+
+round 5, index 13: 
+REASONS AND BASES FOR FINDING AND CONCLUSIONDuties to Notify and AssistVA's duty to notify was satisfied by May, June, and July 2009 letters.
+
+round 6, index 14: 
+VA must also make reasonable efforts to assist the Veteran in obtaining evidence necessary to substantiate the claim for the benefit sought, unless no reasonable possibility exists that such assistance would aid in substantiating the claims.
+
+round 7, index 16: 
+All post-service treatment records identified by the Veteran have also been obtained by the VA.
+
+round 8, index 17: 
+The Veteran has not identified any additional records that should be obtained prior to a Board decision.
+
+round 9, index 18: 
+Therefore, VA's duty to further assist the Veteran in locating additional records has been satisfied.
+
+round 10, index 15: 
+Service treatment records are associated with the claims file.
+
+round 11, index 53: 
+Determining the specific nature and etiology of an acquired psychiatric disorder requires medical inquiry into internal biological and neurological processes.
+
+round 12, index 36: 
+Reasonable doubt is a substantial doubt and one within the range of probability as distinguished from pure speculation or remote possibility.
+
+round 13, index 19: 
+The Veteran has been afforded VA examinations in connection with his claim.
+
+round 14, index 37: 
+Service connection may be established for a chronic disability resulting from injury suffered or disease contracted in the line of duty in active service.
+
+round 15, index 55: 
+As a result, the probative value of his lay assertions is low.
+
+round 16, index 85: 
+Veterans Law Judge, Board of Veterans' AppealsDepartment of Veterans Affairs
+
+round 17, index 20: 
+The Board finds the September 2016 VA examination is adequate for the purposes of determining service connection, as it involved a review of the Veteran's service medical records as well as a clinical evaluation of the Veteran, and provide an adequate discussion of the diagnosis provided.
+
+round 18, index 56: 
+In light of the competent medical evidence of record, the Board finds that the preponderance of the evidence of record indicates that the Veteran does not currently have a diagnosis of PTSD.
+
+round 19, index 57: 
+The existence of a current disability is the cornerstone of a claim for VA disability compensation.
+
+round 20, index 32: 
+Board decisions must be based on the entire record, with consideration of all the evidence.
+
+round 21, index 21: 
+The instant claim was previously remanded by the Board in January 2016.
+
+round 22, index 39: 
+Service connection for PTSD requires medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a); a link, established by medical evidence, between current symptoms and an in-service stressor; and credible supporting evidence that the claimed in-service stressor occurred.
+
+round 23, index 38: 
+There must be competent evidence of a current disability; medical evidence, or in certain circumstances lay evidence, of in-service occurrence or aggravation of a disease or injury; and competent evidence of a nexus between an in-service injury or disease and the current disability.
+
+round 24, index 1: 
+This matter is on appeal from a November 2009 rating decision by the Department of Veterans Affairs (VA) Regional Office (RO) in Sioux Falls, South Dakota.
+
+round 25, index 52: 
+While lay persons are competent to provide evidence on some medical issues, the question of whether the Veteran is suffering specifically from PTSD falls outside the knowledge of the Veteran in this case.
+
+round 26, index 35: 
+By reasonable doubt it is meant that an approximate balance of positive and negative evidence exists which does not satisfactorily prove or disprove the claim.
+
+round 27, index 40: 
+38 C.F.R. § 3.304(f) and 38 C.F.R. § 4.125 (requiring PTSD diagnoses to conform to the DSM-IV/V).
+
+round 28, index 41: 
+While the Veteran is competent to report (1) symptoms observable to a layperson, e.g., depression or anxiety; (2) a diagnosis that is later confirmed by clinical findings; or (3) a contemporary diagnosis, he is not competent to independently render a medical diagnosis or opine as to the specific etiology of a condition.
+
+round 29, index 42: 
+Because there is no universal rule as to competence of a lay person, the Board must decide on a case by case basis whether a particular condition is the type of condition that is within the competence of a lay person to provide an opinion as to etiology.
+
+round 30, index 31: 
+In light of the foregoing, the Board is satisfied that all relevant facts have been adequately developed to the extent possible; no further assistance to the Veteran in developing the facts pertinent to the issue on appeal is required to comply with the duty to assist.
+
+round 31, index 0: 
+The Veteran served on active duty from February 1972 to May 1973.
+
+round 32, index 10: 
+The appeal was once again remanded by the Board in January 2016 to the Agency of Original Jurisdiction (AOJ) for further development.
+
+round 33, index 80: 
+As a result, the probative value of his lay assertions is low.
+
+round 34, index 79: 
+Such internal processes are not readily observable and are not within the competence of the Veteran in this case, who has not been shown by the evidence of record to have medical training or skills.
+
+round 35, index 2: 
+The Veteran testified before a Veterans Law Judge in June 2013.
+
+round 36, index 3: 
+A transcript of the hearing is of record.
+
+round 37, index 43: 
+Lay persons are competent to provide opinions on some medical issues.
+
+round 38, index 34: 
+When, after careful consideration of all procurable and assembled data, a reasonable doubt arises regarding service origin, the degree of disability, or any other point, such doubt will be resolved in favor of the Veteran.
+
+round 39, index 33: 
+The law requires that the Board address its reasons for rejecting evidence favorable to the Veteran.
+
+round 40, index 77: 
+While lay persons are competent to provide evidence on some medical issues, the specific etiology of the Veteran's unspecified depressive disorder falls outside the knowledge of a lay person.
+
+round 41, index 81: 
+The September 2016 VA examiner's opinions are more probative than the other evidence of record.
+
+round 42, index 30: 
+The Board finds that all relevant evidence was obtained and the requested examination was completed in December 2013.
+
+round 43, index 78: 
+Determining the etiology of an acquired psychiatric disorder requires medical inquiry into internal biological and neurological processes.
+
+round 44, index 8: 
+The Veteran appealed this decision to the Court of Appeals for Veterans Claims (Court) which, in a November 2015 Order, granted the parties'
+
+round 45, index 9: 
+Joint Motion for Remand (JMR) and remanded for additional development.
+
+round 46, index 82: 
+The Board concludes that the preponderance of the evidence is against the claim for service connection for the Veteran's acquired psychiatric disorder.
+
+round 47, index 7: 
+This appeal was remanded by the Board in October 2013 for further development and was denied by the Board in March 2015.
+
+round 48, index 75: 
+In turn, it is not necessary to address the presumption of soundness.
+
+round 49, index 6: 
+(stating that the scope of a mental health disability claim includes any mental disability that may reasonably be encompassed by the claimant's description of the claim, reported symptoms, and the other information of record).
+
+round 50, index 76: 
+The Board acknowledges that throughout the appeal period the Veteran has asserted that his unspecified depressive disorder is the result of an isolated traumatic event that occurred while the Veteran was on active duty.
+
+round 51, index 51: 
+In considering whether the Veteran suffers from PTSD, the Board has considered the Veteran's statements, both in conjunction with the current appeal and those to treatment providers, as well as the Veteran-submitted buddy statements, regarding the Veteran's in-service stressors and current symptomatology.
+
+round 52, index 74: 
+In this case, the probative medical opinion of the VA examiner states that the Veteran does not have a personality disorder.
+
+round 53, index 49: 
+In support of his opinion, the VA examiner notes that the Veteran endorses very few symptoms of PTSD, the content of the Veteran's therapy identifies a focus other than PTSD, and outside of some vague nightmares, no other criteria of PTSD are found in the Veteran's psychiatric treatment records.
+
+round 54, index 50: 
+In turn, the VA examiner concludes the "Veteran is less likely than not suffering from PTSD, or any other mental health disorder as a result of his military service or exposure to any military related trauma.
+
+round 55, index 5: 
+The Board has characterized the issue on appeal as one claim for service connection for an acquired psychiatric disorder, to include PTSD.
+
+round 56, index 58: 
+Therefore, as the Board has determined that the Veteran does not have a current diagnosis of PTSD, the claim must be denied and a further discussion of the elements of service connection for PTSD is unnecessary.
+
+round 57, index 22: 
+Specifically, the Board noted the December 2013 VA examination was inadequate because it failed to provide a sufficient rationale in support of the examiner's conclusion that the Veteran's current acquired psychiatric disorder, depression, was unrelated to his in-service symptoms.
+
+round 58, index 48: 
+Furthermore, the VA examiner opines that "[t]o this point, no psychiatrist identifies sufficient criteria to establish a diagnosis of PTSD."
+
+round 59, index 70: 
+Additionally, following the Veteran's September 2016 VA examination, the VA examiner noted that the Veteran's medical history indicated that no isolated trauma had a lasting impact on the Veteran, and that the Veteran "continues to be outgoing, enjoying his art, marriage, and a number of social interactions with his only [mental health] difficulties being situational based on current situational stressors.
+

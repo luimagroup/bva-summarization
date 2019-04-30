@@ -1,0 +1,180 @@
+round 0, index 139: 
+Entitlement to service connection for PTSD is denied.
+
+round 1, index 138: 
+In the absence of corroboration that the veteran had TDY at Fort Chaffee and witnessed his alleged stressor event, the killing of a Vietnamese refugee at Fort Chaffee, the preponderance of the evidence is against this claim and it must be denied.
+
+round 2, index 140: 
+Veterans Law Judge, Board of Veterans' Appeals Department of Veterans Affairs
+
+round 3, index 120: 
+There is no evidence to suggest that the veteran engaged in combat nor has he alleged that he engaged in combat.
+
+round 4, index 119: 
+Consequently, the remaining question is whether this alleged stressor has been corroborated.
+
+round 5, index 15: 
+Although complete VCAA notice was not given prior to the rating on appeal, the appellant had ample opportunity to respond to the notice letters and to supplement the record after notice was given.
+
+round 6, index 16: 
+He is not prejudiced by any technical notice deficiency that may have occurred along the way, and no further notice is required.
+
+round 7, index 17: 
+Regarding VA's duty to assist, the RO has obtained the veteran's service medical records, along with available VA and private medical evidence.
+
+round 8, index 18: 
+Also in 2002 the veteran was provided with an "information in support of a claim for PTSD form" on which he reported his alleged stressor event, witnessing the killing of a Vietnamese refugee while stationed at Fort Chaffee, Arkansas in May or June 1975.
+
+round 9, index 20: 
+The veteran has not identified any additional evidence pertinent to this claim.
+
+round 10, index 14: 
+This was equivalent to advising him to submit everything in his possession pertinent to the claim.
+
+round 11, index 13: 
+Although this letter did not advise the veteran verbatim to submit everything he had pertinent to his claim, it explained the type of evidence necessary to substantiate his claim and asked him to submit any such evidence.
+
+round 12, index 21: 
+The veteran is not prejudiced by the Board's proceeding with appellate review.
+
+round 13, index 9: 
+that VA will seek to provide; (3) that the claimant is expected to provide; and (4) must ask the claimant to provide any evidence in her or his possession that pertains to the claim in accordance with 38 C.F.R. § 3.159(b)(1).  VCAA notice should be provided to a claimant before the initial unfavorable agency of original jurisdiction (AOJ) decision on a claim.
+
+round 14, index 10: 
+The veteran has been advised of VA's duties to notify and assist in the development of his claim.
+
+round 15, index 23: 
+Factual BackgroundService medical records do not reveal any findings, complaints or diagnoses of psychiatric disorder or stress-related pathology.
+
+round 16, index 19: 
+In response the RO obtained the veteran's service personnel records and also made a request to the Service Department to check for any TDY orders from May to June 1975 showing TDY for the veteran at Fort Chaffee but was unable to obtain verification of the TDY from either source.
+
+round 17, index 12: 
+It also explained that VA was responsible for obtaining relevant records from any federal agency, and that VA would attempt to obtain records not held by a federal agency, but that it was the veteran's responsibility to make sure that VA received all requested records not in the possession of a federal department or agency.
+
+round 18, index 24: 
+On the November 1976 separation examination the veteran's psychiatric functioning was found to be normal and the veteran reported that, to the best of his knowledge, he was in good health.
+
+round 19, index 113: 
+When there is an approximate balance of positive and negative evidence regarding the merits of an issue material to the determination of the matter, the benefit of the doubt in resolving each such issue shall be given to the claimant.
+
+round 20, index 121: 
+Instead, he has alleged the noncombat stressor of witnessing the killing of the Vietnamese man at the Fort Chaffee.
+
+round 21, index 22: 
+II.
+
+round 22, index 122: 
+The evidence of record, however, does not establish that the veteran actually had TDY at Fort Chaffee at the time he alleges the killing took place.
+
+round 23, index 124: 
+The only evidence of record showing that the veteran actually had TDY at Fort Chaffee is his own self-report and the statement of C.F., his fellow serviceman.
+
+round 24, index 112: 
+however, the reasonable doubt rule is not a means for reconciling actual conflict or a contradiction in the evidence.
+
+round 25, index 11: 
+A February 2001 letter from the RO explained what the evidence needed to show to substantiate the claim.
+
+round 26, index 123: 
+Nor does it show that the alleged killing actually took place.
+
+round 27, index 26: 
+Performance evaluations generally show that the veteran met or exceeded his duty requirements.
+
+round 28, index 41: 
+He would then have difficulty falling back to sleep.
+
+round 29, index 106: 
+If the evidence establishes that the veteran engaged in combat with the enemy and the claimed stressor is related to that combat, in the absence of clear and convincing evidence to the contrary, and provided that the claimed stressor is consistent with the circumstances, conditions, or hardships of the veteran's service, the veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor.
+
+round 30, index 101: 
+He also noted that he would always wake up in a sweat, tossing and turning.
+
+round 31, index 7: 
+Proper VCAA notice must inform the claimant of any information and evidence not of record (1) that is necessary to substantiate the claim;
+
+round 32, index 0: 
+The appellant is a veteran who served on active duty from
+
+round 33, index 25: 
+Service personnel records do not show any TDY assignments, disciplinary problems or sudden change in the level of the veteran's performance.
+
+round 34, index 1: 
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a June 2002 rating decision of the Oakland Regional Office (RO) of the
+
+round 35, index 2: 
+Department of Veterans Affairs (VA) that in pertinent part denied service connection for PTSD.
+
+round 36, index 8: 
+(2)
+
+round 37, index 104: 
+Service connection may be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disability was incurred in service.
+
+round 38, index 103: 
+Law and RegulationsService connection may be established for a disability resulting from disease or injury incurred in or aggravated by active service.
+
+round 39, index 114: 
+When all of the evidence is assembled, VA is responsible for determining whether the evidence supports the claim or is in relative equipoise, with the veteran prevailing in either event, or whether a fair preponderance of the evidence is against the claim, in which case the claim is denied.
+
+round 40, index 6: 
+Upon receipt of a complete or substantially complete application for benefits, VA is required to notify the claimant and his or her representative, if any, of any information, and any medical or lay evidence, that is necessary to substantiate the claim.
+
+round 41, index 105: 
+Service connection for PTSD requires medical evidence diagnosing the condition in accordance 38 C.F.R. § 4.125(a); a link, established by medical evidence, between current symptoms and an in-service stressor; and credible supporting evidence that the claimed in-service stressor occurred.
+
+round 42, index 27: 
+The veteran's military occupational specialty (MOS) was infantry indirect fire crewman.
+
+round 43, index 107: 
+Where VA determines that the veteran did not engage in combat, the veteran's lay testimony, by itself, as a matter of law, cannot be sufficient to establish the alleged stressor.
+
+round 44, index 115: 
+IV.
+
+round 45, index 51: 
+The veteran also reported that he had smoked marijuana and crack cocaine in the 80s and had drunk alcohol for social reasons but that he had stopped using because of unwanted side effects and because he simply decided that drugs and alcohol were not for him.
+
+round 46, index 136: 
+Thus, in the absence of any indication of an additional source to which the RO could reasonably turn for further corroboration efforts, the Board finds that further development at this point would serve no useful purpose.
+
+round 47, index 3: 
+A Travel Board hearing was held before the undersigned in September 2007; a transcript of the hearing is of record.
+
+round 48, index 125: 
+In contrast, the veteran's personnel records do not show that he ever had TDY at Fort Chaffee and there is no other documentation of record actually showing that he had TDY there.
+
+round 49, index 40: 
+The veteran reported difficulty sleeping for the previous 20 years with nightmares on the weekend, which would wake him up around 2 AM in the morning.
+
+round 50, index 102: 
+The veteran indicated that he was not in touch with any fellow serviceman (other than C.F. who had already submitted a statement on his behalf regarding his TDY) who could verify that he had TDY at Fort Chaffee or that he witnessed the killing of the Vietnamese refugee there.   III.
+
+round 51, index 65: 
+He was so scared that he did not notice all the blood on him.
+
+round 52, index 64: 
+As of that moment, he felt that his life was threatened and he ran and hollered out for help from the other guards.
+
+round 53, index 111: 
+It is the policy of VA to administer the law under a broad interpretation, consistent with the facts in each case with all reasonable doubt to be resolved in favor of the claimant;
+
+round 54, index 52: 
+He was currently working as veteran's representative and had been employed 9 years.
+
+round 55, index 109: 
+Those service records which are available must support and not contradict the veteran's lay testimony concerning the noncombat stressors.
+
+round 56, index 108: 
+Rather, the record must contain service records or other independent credible evidence to corroborate the veteran's testimony as to the alleged stressor.
+
+round 57, index 100: 
+By the time he realized that he needed real help his marriage was already dissolved.
+
+round 58, index 97: 
+He initially did not seek out help thinking that he just wanted to focus on having a good life.
+
+round 59, index 76: 
+He ran for his life and was unable to save the man who died and he had not been able to sleep well since the incident.
+

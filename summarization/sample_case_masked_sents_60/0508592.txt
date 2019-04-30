@@ -1,0 +1,180 @@
+round 0, index 102: 
+The claim for service connection for PTSD is denied.
+
+round 1, index 103: 
+RENÉE M. PELLETIER			     LAWRENCE M. SULLIVAN              Veterans Law Judge                                             Veterans Law Judge          Board of Veterans' Appeals                                  Board of Veterans' Appeals 	                        	MICHAEL D. LYON 	Veterans Law Judge, Board of Veterans' Appeals Department of Veterans Affairs
+
+round 2, index 101: 
+Consequently, as the preponderance of the competent, probative evidence of record indicates that the veteran does not have PTSD, the benefit-of-the-doubt doctrine is not for application, and her claim for service connection for this disorder must be denied.
+
+round 3, index 9: 
+PTSD was not incurred in or aggravated by service.
+
+round 4, index 8: 
+The preponderance of the competent, probative evidence of record reflects that the veteran does not have PTSD.
+
+round 5, index 10: 
+REASONS AND BASES FOR FINDING AND CONCLUSIONVCAA
+
+round 6, index 11: 
+The Veterans Claims Assistance Act of 2000 (VCAA), Pub. L.
+
+round 7, index 77: 
+She commented about "the devils and demons in the world" and her affect changed and she became tearful when asked about this statement.
+
+round 8, index 78: 
+"It is not clear to me just what is going on for her in this regard although she assures me that she is not actively hallucinating and she did not appear to be doing that, but I see her as somewhat vulnerable and frail."
+
+round 9, index 79: 
+The diagnosis was, "Schizoaffective disorder, probable post-traumatic stress disorder."
+
+round 10, index 41: 
+(2)
+
+round 11, index 40: 
+inform the claimant about the information and evidence not of record that is necessary to substantiate the claim;
+
+round 12, index 59: 
+Service connection may be granted for disability resulting from a disease contracted or an injury sustained while on active duty in the military, or for aggravation during service.
+
+round 13, index 42: 
+inform the claimant about the information and evidence that VA will seek to provide; (3) inform the claimant about the information and evidence the claimant is expected to provide; and (4) request or tell the claimant to provide any evidence in his or her possession that pertains to the claim.
+
+round 14, index 60: 
+In addition to the requirements generally applicable to service connection claims, service connection for PTSD requires medical evidence establishing a diagnosis in accordance with 38 C.F.R. § 4.125(a) (2004) (the diagnosis must conform to DSM-IV and be supported by findings on examination), credible supporting evidence that the claimed in-service stressors actually occurred, and a link, established by medical evidence, between the current symptomatology and the claimed in-service stressors.
+
+round 15, index 61: 
+With PTSD as with other disabilities, evidence of current disability is one of the fundamental requirements for a grant of service connection.
+
+round 16, index 43: 
+This new "fourth element" of the notice requirement comes from the language of 38 C.F.R. § 3.159(b)(1) (2004).
+
+round 17, index 13: 
+There have also been final regulations promulgated to implement the new law.
+
+round 18, index 80: 
+February 2001 VAOPT notes diagnosed the veteran with depressive disorder and anxiety and various physical disorders.
+
+round 19, index 75: 
+There was no diagnosis of personality disorder (Axis II).
+
+round 20, index 97: 
+Id.
+
+round 21, index 12: 
+This law redefines the obligations of VA with respect to the duty to assist and includes an enhanced duty to notify a claimant as to the information and evidence necessary to substantiate a claim for VA benefits.
+
+round 22, index 96: 
+Board may accept one medical opinion and reject others.
+
+round 23, index 49: 
+In that case, please tell us about it and we will make reasonable efforts to try to get it."
+
+round 24, index 44: 
+According to GC, Pelegrini did not require that VCAA notification contain any specific "magic words," and that it can be satisfied by a SOC or SSOC as long as the document meets the four content requirements listed above.
+
+round 25, index 98: 
+At the same time, Board cannot make its own independent medical determinations, and there must be plausible reasons, based upon medical evidence in the record, for favoring one medical opinion over another.
+
+round 26, index 76: 
+A September 2000 VAOPT note entitled, "Individual Therapy," stated that the veteran appeared somewhat bizarre in appearance and different in presentation.
+
+round 27, index 62: 
+In the present case, the preponderance of the competent, probative evidence of record indicates that the veteran does not have PTSD.
+
+round 28, index 38: 
+The Court in Pelegrini also held that VCAA notice must:
+
+round 29, index 39: 
+(1)
+
+round 30, index 63: 
+There is no record of treatment for any psychiatric disorder during service, and the May 1971 separation examination reflects that the veteran's psychiatric condition was normal.
+
+round 31, index 0: 
+The veteran had active service from June 1969 to June 1971, with subsequent service in the National Guard and Army Reserves.
+
+round 32, index 1: 
+This case comes before the Board of Veterans' Appeals (Board) from a rating decision of the Department of Veterans Affairs (VA) Regional Office (RO) in Pittsburgh, Pennsylvania, which denied the veteran's claim for service connection for PTSD.
+
+round 33, index 24: 
+Consequently, GC implied that these statements constituted dicta rather than binding holdings.
+
+round 34, index 81: 
+At a July 2001 VA examination, the veteran's claims file and available clinical records were reviewed, including the June 1996 VA examination, which was described as "highly detailed."
+
+round 35, index 2: 
+The veteran testified at a January 2005 hearing before the undersigned Veterans Law Judge (VLJ) of the Board.
+
+round 36, index 3: 
+A prior hearing before an undersigned Veterans Law Judge was conducted, but a transcript could not be made.
+
+round 37, index 23: 
+Initially, GC noted that the Court had described the statements in its opinion as to the timing and content of VCAA notification as "holdings," but, according to GC, the issues to which these "holdings" related were not necessary to the disposition of the case.
+
+round 38, index 50: 
+And, as previously indicated, the RO noted its duty to assist under the VCAA in its August 2001 readjudication of the veteran's claim.
+
+round 39, index 25: 
+Id. (citing dissenting opinion in Pelegrini and other cases characterizing Court statements as dicta).
+
+round 40, index 82: 
+After describing the mental status examination and objective findings, the examiner stated that the veteran's clinical picture remained highly consistent with a diagnosis of major depression, recurrent with psychotic features, and generalized anxiety disorder with somatization.
+
+round 41, index 48: 
+The RO also wrote: "There may be other evidence you would like us to consider.
+
+round 42, index 20: 
+The Court addressed both the timing and content of these notice requirements.
+
+round 43, index 30: 
+Id. at 2 (quoting Pelegrini, 18 Vet. App. at 120).
+
+round 44, index 45: 
+These requirements were met in this case.
+
+round 45, index 99: 
+This is particularly true in the case of PTSD, which applicable regulations require be diagnosed in accordance with DSM-IV and be supported by findings on examination.
+
+round 46, index 58: 
+Applicable Legal Principles, Factual Background, and Analysis
+
+round 47, index 31: 
+Therefore, according to GC, the Pelegrini
+
+round 48, index 22: 
+The Board is bound by the precedent opinions of VA's General Counsel as the chief legal officer of the Department.
+
+round 49, index 26: 
+In the case at hand, however, even if the Pelegrini Court's statements as to the timing and content of VCAA notice were binding holdings, the RO complied with them.
+
+round 50, index 47: 
+Specifically, the RO explained the type of evidence needed to substantiate the veteran's claim and the respective responsibilities of the veteran and the RO in obtaining this evidence.
+
+round 51, index 21: 
+In VAOPGCPREC 7-2004 (July 16, 2004), VA's Office of General Counsel (GC) undertook to explain the holding of Pelegrini.
+
+round 52, index 84: 
+The examiner also noted the veteran's claimed stressor of being molested by a female perpetrator in service, a stressor that the examiner found to be highly consistent over time based on his review of the record.
+
+round 53, index 83: 
+Also noted were a complicated history of victimization, compounded by mixed personality disturbance.
+
+round 54, index 100: 
+Because the most recent, July 2001 VA examination contained a detailed and accurate discussion of the veteran's psychiatric history, explained why the examiner, although crediting the veteran's statements regarding her claimed stressor, concluded that she did meet the criteria for PTSD as required by the applicable regulatory criteria, and is supported by the other evidence of record, whereas the single diagnosis of "probable" PTSD did not contain any such examination findings or explanation of its conclusion, the Board gives greater weight to the former and correspondingly discounts the latter.
+
+round 55, index 4: 
+In view of the two hearings, a Board of three decision is indicated.
+
+round 56, index 34: 
+Here, the RO's March 2000 rating decision denying service connection for PTSD took place prior to enactment of the VCAA, and, therefore, prior to any VCAA notification.
+
+round 57, index 14: 
+In the present case, the VCAA took effect after the veteran filed her February 2000 claim.
+
+round 58, index 64: 
+A March 1984 quadrennial examination from the veteran's Army reserve service similarly indicates her psychiatric condition as normal.
+
+round 59, index 32: 
+Court did not hold that VA must vitiate all AOJ decisions rendered prior to November 9, 2000 denying service connection claims that were still pending before VA on that date in order to provide VCAA notice and adjudicate the claims anew.
+

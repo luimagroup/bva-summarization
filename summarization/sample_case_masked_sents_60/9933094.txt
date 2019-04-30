@@ -1,0 +1,180 @@
+round 0, index 66: 
+Service connection is denied for arrhythmia, claimed as secondary to medications prescribed as treatment for service-connected PTSD.
+
+round 1, index 64: 
+The doctrine of reasonable doubt has been considered, however, that doctrine is not for application as the preponderance of the evidence is unfavorable to the veteran's claim.
+
+round 2, index 62: 
+In light thereof and upon careful examination of the evidence, the Board has concluded that the preponderance of the evidence is unfavorable to the veteran's claim.
+
+round 3, index 61: 
+Although the veteran has a strong belief that his arrhythmia was caused by Nardil, the Board is unwilling to base a grant of service connection solely on the veteran's subjective contentions, especially in light of the absence of corroborating medical information or evidence.
+
+round 4, index 60: 
+As a layman the appellant is not competent to offer opinions on medical causation and, moreover, the Board may not accept unsupported lay speculation with regard to medical issues.
+
+round 5, index 58: 
+In the Board's view, therefore, there is no evidence to suggest a positive etiological relationship between the use of Nardil as treatment for PTSD and the subsequent development of an arrhythmia.
+
+round 6, index 63: 
+The Board also finds that the medical evidence fails to demonstrate evidence of additional disability arising from VA medical treatment, such that a grant of service connection would be warranted under the provisions of 38 U.S.C.A. § 1151 (West 1991 & Supp. 1999).
+
+round 7, index 65: 
+Accordingly, service connection is denied for arrhythmia claimed as secondary to medication prescribed as treatment for service-connected PTSD.
+
+round 8, index 57: 
+Furthermore, the VA examiner did not provide an opinion that the currently manifested diagnosis of intermittent atrial arrhythmia is related to the prescription of Nardil-rather, the examiner characterized the etiology of this disorder as unclear.
+
+round 9, index 59: 
+On weighing the available evidence, the Board has found that there is an absence of medical documentation, to include a medical opinion, which provides support or corroboration for the veteran's contention that his arrhythmia is related to the prescription of Nardil.
+
+round 10, index 49: 
+The examiner provided an impression of intermittent atrial arrhythmia.
+
+round 11, index 48: 
+Cardiovascular examination was essentially normal, with regular rate and rhythm, normal S1 and S1, normal aortic pulsation, and no murmurs, rubs, or gallops.
+
+round 12, index 10: 
+When service-connection is thus established for a secondary condition, the secondary condition shall be considered a part of the original condition.
+
+round 13, index 50: 
+The VA examiner commented that although this arrhythmia was benign, the symptoms of palpitations, shortness of breath, and worsening anxiety may be caused or worsened as a result.
+
+round 14, index 9: 
+A disability which is proximately due to or the result of a service-connected disease or injury shall be service connected.
+
+round 15, index 51: 
+It was further noted that the etiology of the arrhythmia was unclear, and although the veteran felt that the medication
+
+round 16, index 52: 
+Nardil was responsible for precipitating his arrhythmia, Holter monitors have shown that the condition persists despite being taken off this medication.
+
+round 17, index 53: 
+Upon review of the record, the Board has concluded that the preponderance of the available evidence weighs against a finding that the veteran's currently manifested arrhythmia is proximately due to or the result of medication which was prescribed as treatment for his service-connected PTSD.
+
+round 18, index 54: 
+Specifically, the record lacks objective evidence which suggests that the intermittent atrial arrhythmias from which the veteran currently suffers are etiologically related to Nardil which was prescribed for treatment of PTSD for a period of approximately 3 months between October 1993 and January 1994.
+
+round 19, index 34: 
+It was noted that medications included Clonidine, Diphenhydramine, Divalproex, Maalox, and Acetaminophen.
+
+round 20, index 8: 
+In addition, service connection may be granted for any disease diagnosed after discharge, when all of the evidence, including that pertinent to service, establishes that the disease was incurred in service.
+
+round 21, index 11: 
+U.S.C.A. § 1151 (West 1991) provides that a veteran who has been injured as the result of VA medical or surgical treatment, and not as a result of the veteran's own willful misconduct, shall be awarded compensation if that injury results in additional disability, in the same manner as if such disability were service-connected.
+
+round 22, index 55: 
+The record shows that although the veteran initially complained of tachycardia while taking Nardil in December 1994, he continued to experience arrhythmia and symptoms of palpitations and chest pain well after the drug had been discontinued.
+
+round 23, index 35: 
+In February 1995, the veteran complained that Effexor made his heart race.
+
+round 24, index 36: 
+A cardiac consultation report, dated February 9, 1995, shows that the veteran had been referred regarding an irregular rhythm.
+
+round 25, index 37: 
+The veteran reported "skipped beats" every now and then and he denied prolonged periods of palpitations.
+
+round 26, index 56: 
+According to the 1998 VA examiner, Holter monitors show that this condition persists despite the fact that he was taken off of Nardil.
+
+round 27, index 38: 
+He did not report any dizziness or syncope, and he denied other cardiopulmonary symptoms such as chest pain and shortness of breath.
+
+round 28, index 39: 
+It was noted that he seemed to think that since being taking off of antidepressant therapy one month before the frequency of the extra beats had diminished.
+
+round 29, index 7: 
+According to 38 U.S.C.A. § 1110, 1131 (West 1991 & Supp. 1999), service connection may be granted for a disability if it is shown that the veteran suffers from a disease or injury incurred in or aggravated by service.
+
+round 30, index 28: 
+Additional medications are shown to include Paxil (March 1994), Doxepin (April 1994), and Divalproex (July 1994).
+
+round 31, index 6: 
+The preponderance of the available evidence weighs against a finding that the veteran's currently manifested arrhythmia is proximately due to or the result of medication prescribed as treatment for PTSD.
+
+round 32, index 5: 
+Nardil and the intermittent atrial arrhythmia from which the veteran currently suffers.
+
+round 33, index 0: 
+The veteran served on active duty from January 1965 to November 1967.
+
+round 34, index 1: 
+This appeal arises before the Board of Veterans' Appeals (Board) from a November 1997 rating decision of the Salt Lake City, Utah, Regional Office (RO) of the Department of Veterans Affairs (VA), in which service connection was denied for a cardiac condition claimed as secondary to service-connected PTSD.
+
+round 35, index 4: 
+In the opinion of the VA examiner, the etiology of the veteran's arrhythmia is unclear, and there is no medical or evidence which suggests an etiological relationship between
+
+round 36, index 33: 
+An assessment of peripheral vascular disease with history of benign dysrhythmia, now with intermittent asymptomatic arrhythmia, was given.
+
+round 37, index 47: 
+On the examination report, the examiner discussed the pertinent cardiac history, apparently as reported by the veteran and as found in documentation contained in the claims folder.
+
+round 38, index 32: 
+It was noted that he had a history of arrhythmia starting in January 1994 while he was on Nardil (MAOI), and that 2 weeks after discontinuing that medication he still had symptoms of palpitations and pounding in the chest.
+
+round 39, index 15: 
+Prescription of Nardil is first shown in October 1993, at which time medication dispensation records indicate that that an "MAO" would be tried based on the veteran's history.
+
+round 40, index 16: 
+In November 1993, the dosage of Nardil was noted to be two 15 mg. doses taken at bedtime, followed by three 15 mg. doses at bedtime after 7 days.
+
+round 41, index 17: 
+In December 1993, the veteran complained of tachycardia.
+
+round 42, index 14: 
+These records suggest that his medications were switched frequently due to his complaints of intolerable side effects.
+
+round 43, index 18: 
+In January 1994, he indicated that he felt "lousy" and he complained of missing beats, chest aching, headaches, and shortness of breath.
+
+round 44, index 40: 
+The report shows an assessment of gentleman with palpitations caused by frequent "PAD's."
+
+round 45, index 41: 
+It was noted that two previous Holter monitor evaluations had failed to show a consistent relationship between his symptoms and arrhythmia, and there could be a component of anxiety reaction to his symptoms.
+
+round 46, index 23: 
+The report shows a diagnostic impression of paroxysmal tachycardia, related to starting MAOI, now off.
+
+round 47, index 42: 
+In any case, the veteran was reassured that the nature of his arrhythmia was benign.
+
+round 48, index 26: 
+It was noted that complaints of palpitations and shortness of breath were not consistently related to atrial ectopy.
+
+round 49, index 13: 
+VA treatment records and private medical reports indicate that numerous medications, including anti-depressants, have been prescribed for the veteran as treatment of psychiatric diagnoses such as depression and PTSD.
+
+round 50, index 25: 
+A holter monitor report (dated February 8, 1994) shows an interpretation of sinus rhythm with frequent atrial ectopy and short runs of atrial tachycardia.
+
+round 51, index 27: 
+The report of a February 24, 1994 exercise tolerance test shows that resting and exercise arrhythmia was present consisting of "PAD's," couplets, and short bursts of supraventricular tachycardia.
+
+round 52, index 31: 
+Since admission, he had been noted to have occasional irregular rhythm with decreased heart rates on several occasions, although EKG's had not noted arrhthymia and he had denied symptoms of episodes of arrhythmia.
+
+round 53, index 30: 
+Additional diagnoses included arteriosclerotic heart disease with lower extremity claudication and peripheral vascular disease.
+
+round 54, index 24: 
+In February 1994, the veteran underwent extensive cardiac evaluation.
+
+round 55, index 44: 
+On his VA Form 9 (substantive appeal), received in February 1998, the veteran indicated his belief that the psychiatric outpatient clinic had prescribed a medication (MAO inhibitor "Nardil") which caused an arrhythmia where none had existed previously.
+
+round 56, index 43: 
+VA medication records show a July 1997 notation to the effect that the veteran had been started on Metoprolol for arrhythmia and it was helping.
+
+round 57, index 45: 
+He also stated that he was currently taking a "beta blocker" (metapropyl tartrate) to relieve symptoms including a burning sensation and aching feeling caused by arrhythmia.
+
+round 58, index 22: 
+He reported that since being off of the Nardil for two weeks, he experienced almost hourly palpitations associated with shortness of breath and occasional chest burning.
+
+round 59, index 20: 
+A VA medical certificate shows that in January 1994, he sought treatment for palpitations and low blood pressure.
+

@@ -1,0 +1,180 @@
+round 0, index 37: 
+J. E. DAY	Member, Board of Veterans' AppealsNOTICE OF APPELLATE RIGHTS:  Under 38 U.S.C.A. § 7266
+
+round 1, index 34: 
+The veteran is advised that he may reopen the claims for service connection for the disabilities considered in this appeal at any time by notifying the RO of such an intention and submitting supporting evidence.
+
+round 2, index 39: 
+Appeals granting less than the complete benefit, or benefits, sought on appeal is appealable to the United States Court of Veterans Appeals within 120 days from the date of mailing of notice of the decision, provided that a Notice of Disagreement concerning an issue which was before the Board was filed with the agency of original jurisdiction on or after November 18, 1988.  Veterans' Judicial Review Act, Pub. L. No. 100-687, § 402, 102 Stat. 4105, 4122 (1988).
+
+round 3, index 40: 
+The date which appears on the face of this decision constitutes the date of mailing and the copy of this decision which you have received is your notice of the action taken on your appeal by the Board of Veterans' Appeals.- 2 -
+
+round 4, index 38: 
+(West 1991 &  Supp. 1998), a decision of the Board of Veterans'
+
+round 5, index 30: 
+Hence, the claims for service connection of these disabilities are not plausible, and they are denied as not well grounded.
+
+round 6, index 35: 
+An example of supporting evidence is a medical report showing the presence of PTSD, cancer of the stomach or prostate cancer or medical evidence showing the presence of one of the other disorders with an opinion linking it to an incident of service.
+
+round 7, index 31: 
+The Board recognizes the request from the representative for a remand of the case to the RO to schedule the veteran for a VA psychiatric examination to determine the nature and extent of his current psychiatric condition/s, including PTSD, prior to appellate consideration of the claim for service connection for a psychiatric disability, but this claim is not well grounded for the reasons noted above.
+
+round 8, index 33: 
+The Board notes that the RO denied some of the claims on the merits and finds no prejudice to the veteran in appellate denial of all the claims as not well grounded.
+
+round 9, index 16: 
+If he has not presented such claims, his appeal must, as a matter of law, be denied, and there is no duty on the VA to assist him further in the development of the claims.
+
+round 10, index 32: 
+Therefore, there is no VA duty to assist him further in the development of this claim.
+
+round 11, index 17: 
+The United States Court of Veterans Appeals (Court) has also stated that a claim must be accompanied by supporting evidence; an allegation is not enough.
+
+round 12, index 36: 
+The claims for service connection for a psychiatric disability, including PTSD, a kidney disorder, arthritis of the spine and fingers, a skin condition, stomach cancer, and prostate cancer are denied as not well grounded.
+
+round 13, index 3: 
+His representative requests a remand of the case in order to have the veteran undergo a VA psychiatric examination to determine the nature and extent of his current psychiatric condition/s, including PTSD, prior to appellate consideration of the issue of service connection for a psychiatric disability.
+
+round 14, index 7: 
+There is no competent (medical) evidence demonstrating the presence of PTSD, stomach cancer, or prostate cancer.
+
+round 15, index 6: 
+The veteran has not submitted competent (medical) evidence linking his psychiatric disabilities, kidney condition, arthritis of the spine and fingers, and skin condition, found many years after service, to an incident of service, including exposure to ionizing radiation.
+
+round 16, index 15: 
+that is, evidence which shows that his claims are plausible, meritorious on their own, or capable of substantiation.
+
+round 17, index 2: 
+CONTENTIONS OF APPELLANT ON APPEALThe veteran contends that he has a psychiatric disability, including PTSD, a kidney disorder, arthritis of the spine and fingers, a skin condition, stomach cancer, and prostate cancer due to experiences in service, including exposure to ionizing radiation during World War II while serving in the areas of Nagasaki and Hiroshima, Japan.
+
+round 18, index 13: 
+Other radiogenic diseases, such as various forms of cancer, listed under 38 C.F.R. § 3.311(b)(2) (1997) found 5 years or more after service in an ionizing radiation exposed veteran may be service-connected if the VA Under Secretary for Benefits determines that they are related to ionizing radiation exposure while in service or if they are otherwise linked medically to ionizing radiation exposure while in service.
+
+round 19, index 1: 
+This appeal comes to the Board of Veterans' Appeals (Board) from a June 1995 RO rating decision that denied service connection for a psychiatric disability, a kidney disorder, arthritis of the spine and fingers, a skin condition, stomach cancer, and prostate cancer.
+
+round 20, index 12: 
+In the absence of competent medical evidence linking a disability to service, diseases specific to radiation-exposed veterans, such as various forms of cancers, listed under 38 C.F.R. § 3.309(d)(2) (1997) will be presumed to have been incurred in active service if the veteran participated in a radiation risk activity such as the occupation of Hiroshima or Nagasaki.
+
+round 21, index 0: 
+The veteran had active service from March 1943 to January 1946.
+
+round 22, index 14: 
+The threshold question to be answered in this case is whether the veteran has presented evidence of well-grounded claims;
+
+round 23, index 9: 
+In order to establish service connection for a disability, the evidence must demonstrate the presence of it and that it resulted from disease or injury incurred in service.
+
+round 24, index 26: 
+There is also no competent (medical) evidence demonstrating the presence of PTSD, stomach cancer, and prostate cancer.
+
+round 25, index 11: 
+Service connection may be granted for a disease based on exposure to ionizing radiation when there is medical evidence linking it to such incident.
+
+round 26, index 8: 
+The claims for service connection for a psychiatric disability, including PTSD, a kidney disorder, arthritis of the spine and fingers, a skin condition, stomach cancer, and prostate cancer are not well grounded.
+
+round 27, index 10: 
+Where arthritis becomes manifest to a degree of 10 percent within one year from date of termination of active service, it shall be presumed to have been incurred in active service.
+
+round 28, index 28: 
+The Court has specifically disallowed service connection where there is no present disability:  [c]ongress specifically limits entitlement for service connected disease or injury to cases where such incidents have resulted in a disability.
+
+round 29, index 27: 
+Claims are not well grounded where there is no medical evidence to link a condition found after service to an incident of service or where there is no medical evidence of the claimed disorder.
+
+round 30, index 24: 
+While the veterans assertions indicate that he believes the disabilities being considered in this appeal are due to incidents in service, including exposure to ionizing radiation during World War II, his lay statements are not sufficient to demonstrate the presence of medical disabilities or to support claims based on medical causation.
+
+round 31, index 19: 
+In order for a claim to be well-grounded, there must be competent evidence of current disability (a medical diagnosis) ...; of incurrence or aggravation of a disease or injury in service (lay or medical testimony), ...; and of a nexus between the inservice injury or disease and the current disability (medical evidence).
+
+round 32, index 20: 
+The service medical records are negative for the disabilities being considered in this appeal.
+
+round 33, index 23: 
+Nor do the medical records demonstrate a disease specific to radiation-exposed veterans and/or radiogenic diseases found, respectively, at 38 C.F.R. § 3.309(d)(2) and 3.311(b)(2).
+
+round 34, index 18: 
+In a claim of service connection, this generally means that evidence must be presented which in some fashion links a current disability to a period of military service, or as secondary to a disability which has already been service-connected.
+
+round 35, index 4: 
+DECISION OF THE BOARDThe Board, in accordance with the provisions of 38 U.S.C.A. § 7104 (West 1991 & Supp. 1998), has reviewed and considered all of the evidence and material of record in the veteran's claims file.
+
+round 36, index 21: 
+The post-service medical records do not demonstrate the presence of psychiatric conditions (generalized anxiety disorder and dysthymic disorder), a renal cyst, arthritis of the spine and fingers, and a skin condition until many years after service, and do not link any of these conditions to an incident of service, including exposure to ionizing radiation.
+
+round 37, index 25: 
+In this case, there is no competent (medical) evidence linking his psychiatric conditions, renal cyst, arthritis of the spine and fingers, and skin condition, all found many years after service, to an incident of service.
+
+round 38, index 22: 
+The post-service medical records also reveal the presence of a lipoma of the abdominal wall and a prostate nodule, many years after service, but these records do not reveal the presence of PTSD, stomach cancer, or prostate cancer.
+
+round 39, index 29: 
+In the absence of proof of a present disability there can be no valid claim [for service connection].
+
+round 40, index 5: 
+Based on its review of the relevant evidence, and for the following reasons and bases, it is the decision of the Board that the veteran has not submitted evidence of well-grounded claims for service connection for a psychiatric disability, including PTSD, a kidney disorder, arthritis of the spine and fingers, a skin condition, stomach cancer, and prostate cancer.
+
+round 41, index 0: 
+The veteran had active service from March 1943 to January 1946.
+
+round 42, index 0: 
+The veteran had active service from March 1943 to January 1946.
+
+round 43, index 0: 
+The veteran had active service from March 1943 to January 1946.
+
+round 44, index 0: 
+The veteran had active service from March 1943 to January 1946.
+
+round 45, index 0: 
+The veteran had active service from March 1943 to January 1946.
+
+round 46, index 0: 
+The veteran had active service from March 1943 to January 1946.
+
+round 47, index 0: 
+The veteran had active service from March 1943 to January 1946.
+
+round 48, index 0: 
+The veteran had active service from March 1943 to January 1946.
+
+round 49, index 0: 
+The veteran had active service from March 1943 to January 1946.
+
+round 50, index 0: 
+The veteran had active service from March 1943 to January 1946.
+
+round 51, index 0: 
+The veteran had active service from March 1943 to January 1946.
+
+round 52, index 0: 
+The veteran had active service from March 1943 to January 1946.
+
+round 53, index 0: 
+The veteran had active service from March 1943 to January 1946.
+
+round 54, index 0: 
+The veteran had active service from March 1943 to January 1946.
+
+round 55, index 0: 
+The veteran had active service from March 1943 to January 1946.
+
+round 56, index 0: 
+The veteran had active service from March 1943 to January 1946.
+
+round 57, index 0: 
+The veteran had active service from March 1943 to January 1946.
+
+round 58, index 0: 
+The veteran had active service from March 1943 to January 1946.
+
+round 59, index 0: 
+The veteran had active service from March 1943 to January 1946.
+

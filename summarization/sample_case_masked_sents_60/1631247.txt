@@ -1,0 +1,180 @@
+round 0, index 48: 
+This claim must be afforded expeditious treatment.
+
+round 1, index 49: 
+The law requires that all claims that are remanded by the Board or by the United States Court of Appeals for Veterans Claims for additional development or other appropriate action must be handled in an expeditious manner.
+
+round 2, index 47: 
+The Veteran has the right to submit additional evidence and argument on the matter or matters the Board has remanded.
+
+round 3, index 46: 
+If the benefits sought are not granted, the Veteran and his representative should be furnished a supplemental statement of the case and be afforded a reasonable opportunity to respond before the record is returned to the Board for further review.
+
+round 4, index 50: 
+Veterans Law Judge, Board of Veterans' AppealsUnder 38 U.S.C.A. § 7252 (West 2014), only a decision of the Board is appealable to the United States Court of Appeals for Veterans Claims.
+
+round 5, index 51: 
+This remand is in the nature of a preliminary order and does not constitute a decision of the Board on the merits of your appeal.
+
+round 6, index 45: 
+When the development requested has been completed, the case should be reviewed by the AOJ on the basis of additional evidence received.
+
+round 7, index 23: 
+Accordingly, the case is REMANDED for the following action:
+
+round 8, index 24: 
+The AOJ should request that the Veteran provide the names and addresses of any and all health care providers who have provided treatment for any psychiatric disorders, to include PTSD.
+
+round 9, index 44: 
+A clear rationale for all opinions would be helpful, and a discussion of the facts and medical principles involved would be of considerable assistance to the Board.  5.
+
+round 10, index 11: 
+The appeal is REMANDED to the Agency of Original Jurisdiction (AOJ).  VA will notify the Veteran if further action is required.
+
+round 11, index 32: 
+An explanation for all opinions expressed must be provided.
+
+round 12, index 43: 
+(The term "at least as likely as not" does not mean within the realm of medical possibility, but rather that the medical evidence both for and against a conclusion is so evenly divided that it is as medically sound to find favor of conclusion as it is to find against it).
+
+round 13, index 42: 
+The examiner should state whether any psychiatric disorder, to include PTSD, is caused by or aggravated by his service-connected disability.
+
+round 14, index 13: 
+The Veteran has asserted that he has PTSD that is related to multiple in-service stressors.
+
+round 15, index 14: 
+During his Board hearing, the Veteran testified that in approximately October or November 1975 while stationed in Japan, his master gunnery sergeant, whom he had befriended, was killed in a motorcycle accident.
+
+round 16, index 15: 
+The Veteran also testified that he slipped and hit his head against a forklift and injured his head and neck.
+
+round 17, index 12: 
+The Board finds that remand is required to obtain a VA examination and afford the Veteran an additional opportunity to submit stressor details.
+
+round 18, index 25: 
+After acquiring this information and obtaining any necessary authorization, the AOJ should obtain and associate these records with the claims file.
+
+round 19, index 39: 
+The examiner should first determine whether the diagnostic criteria to support the diagnosis of PTSD have been satisfied.
+
+round 20, index 40: 
+If the PTSD diagnosis is deemed appropriate, the examiner must comment on the link between the current symptomatology and any verified in-service stressor and the fear of hostile military or terrorist activity.
+
+round 21, index 18: 
+On remand the Veteran should be afforded an additional opportunity to submit stressor information in support of his claim and the RO should attempt to verify the Veteran's asserted in-service stressors.
+
+round 22, index 26: 
+The AOJ should also secure any outstanding VA treatment records, including any records from the Hampton VA Medical Center.
+
+round 23, index 22: 
+Under these circumstances, the Board finds that a VA examination and a medical opinion are needed to determine the nature and etiology of any current psychiatric disorder that may be present, to include PTSD.
+
+round 24, index 19: 
+In addition, the Board notes that the Veteran has not been provided a VA examination in connection with his claim for PTSD.
+
+round 25, index 17: 
+Subsequently, he was punished by having his weapon confiscated and was dragged through mud with a belt around his neck and beaten during a motivation camp following the incident.
+
+round 26, index 16: 
+The Veteran further testified that during boot camp, between February and May 1972, his weapon was found to be unsecured.
+
+round 27, index 27: 
+Send the Veteran a VA Form 21-0781 (statement in support of claim for service connection for posttraumatic stress disorder (PTSD)) and request that he provide the specific details about the claimed stressors associated with his PTSD.
+
+round 28, index 35: 
+The examiner must identify all current psychiatric disorders.
+
+round 29, index 36: 
+If any previously diagnosed disorder is no longer present, the examiner must provide an explanation.
+
+round 30, index 30: 
+The examiner must elicit from the Veteran a history of his psychiatric symptoms, to include whether he experienced any symptoms during service.
+
+round 31, index 1: 
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a June 2011 rating decision issued by the Department of Veterans Affairs (VA) Regional Office (RO) in Roanoke, Virginia.
+
+round 32, index 0: 
+The Veteran served on active duty in the United States Marine Corps from February 1973 to June 1981.
+
+round 33, index 21: 
+Furthermore, despite VA treatment records indicating that the Veteran is diagnosed with multiple psychiatric diagnoses, including PTSD, the examiner diagnosed the Veteran as having a diagnosis of traumatic brain injury only.
+
+round 34, index 34: 
+If there is a medical basis to support or doubt the history provided by the Veteran, the examiner should provide a fully reasoned explanation.
+
+round 35, index 29: 
+After completing the foregoing development, provide the Veteran with a VA examination to determine the etiology of any current psychiatric disorder that may be present, to include PTSD.
+
+round 36, index 38: 
+With respect to PTSD, the AOJ must provide the examiner with a summary of any verified in-service stressors and instruct the examiner that only these events and any stressors related to fear of hostile military or terrorist activity may be considered for the purpose of determining whether exposure to an in-service stressor has resulted in PTSD.
+
+round 37, index 31: 
+The examiner must review all pertinent records associated with the claims file, including the Veteran's service treatment records, post-service medical records, and lay statements, and it should be confirmed that such records were available for review.
+
+round 38, index 37: 
+For each disorder identified other than PTSD, the examiner must state whether it is at least as likely as not (a 50 percent or greater probability) that the disorder manifested in or is otherwise related to the Veteran's military service, including as a result of his reported in-service stressors.
+
+round 39, index 28: 
+Upon receipt of the aforementioned VA Form 21-0781 (or other appropriate PTSD development letter), or after a reasonable amount of time has passed without response, if it is determined that sufficient details have been provided so as to warrant an attempt to verify the Veteran's stressors, attempt to verify the in-service stressor(s) through the U.S. Army and Joint Services Records Research Center (JSRRC) and/or other appropriate source(s), following the procedures set forth in 38 C.F.R. § 3.159.  4.
+
+round 40, index 10: 
+Accordingly, any future consideration of this Veteran's case should take into account the existence of this electronic record.
+
+round 41, index 33: 
+The Veteran is competent to attest to observable symptomatology.
+
+round 42, index 4: 
+The Board has recharacterized the claim to consider a psychiatric disorder, to include PTSD, to more accurately reflect the nature of the claim.
+
+round 43, index 2: 
+Jurisdiction was subsequently transferred to the RO in Louisville, Kentucky.
+
+round 44, index 5: 
+A hearing was also held before the undersigned Veterans
+
+round 45, index 7: 
+A transcript of the Board hearing is of record.
+
+round 46, index 3: 
+The issue on appeal was originally adjudicated by the RO as entitlement to service connection for PTSD.
+
+round 47, index 6: 
+Law Judge at the Central Office in Washington, D.C., in June 2016.
+
+round 48, index 41: 
+Moreover, the Veteran is service-connected for residuals of traumatic brain injury.
+
+round 49, index 20: 
+Although the Veteran was afforded a VA mental disorders examination (other than PTSD) in June 2014, the examination was in connection with his claim for service connection for residuals of traumatic brain injury.
+
+round 50, index 9: 
+This appeal was processed using the Virtual VA and Veterans Benefits Management System (VBMS) paperless claims processing system.
+
+round 51, index 0: 
+The Veteran served on active duty in the United States Marine Corps from February 1973 to June 1981.
+
+round 52, index 8: 
+The undersigned Veterans Law Judge held the record open for a 60-day period following the hearing to allow for the submission of additional evidence; however, the Veteran and his representative did not submit any additional evidence thereafter.
+
+round 53, index 0: 
+The Veteran served on active duty in the United States Marine Corps from February 1973 to June 1981.
+
+round 54, index 0: 
+The Veteran served on active duty in the United States Marine Corps from February 1973 to June 1981.
+
+round 55, index 0: 
+The Veteran served on active duty in the United States Marine Corps from February 1973 to June 1981.
+
+round 56, index 0: 
+The Veteran served on active duty in the United States Marine Corps from February 1973 to June 1981.
+
+round 57, index 0: 
+The Veteran served on active duty in the United States Marine Corps from February 1973 to June 1981.
+
+round 58, index 0: 
+The Veteran served on active duty in the United States Marine Corps from February 1973 to June 1981.
+
+round 59, index 0: 
+The Veteran served on active duty in the United States Marine Corps from February 1973 to June 1981.
+

@@ -1,0 +1,180 @@
+round 0, index 180: 
+Service connection for PTSD is denied.
+
+round 1, index 13: 
+The appellant's PTSD was not incurred during service.
+
+round 2, index 12: 
+The medical evidence reflects a diagnosis of PTSD, but there is no credible supporting evidence to verify or corroborate the appellant's alleged stressors during his active military service.
+
+round 3, index 11: 
+The appellant did not engage in combat with the enemy during his active military service.
+
+round 4, index 88: 
+The fact that the veteran served in a "combat area" or "combat zone" does not mean that he himself engaged in combat with the enemy.
+
+round 5, index 14: 
+66 Fed. Reg. 45,620 (Aug. 29, 2001) (to be codified as amended at 38 C.F.R. §§ 3.102 and 3.159).
+
+round 6, index 15: 
+After a thorough review of the evidence of record, the Board finds that entitlement to service connection for PTSD has not been established.
+
+round 7, index 142: 
+Although diagnoses of PTSD are of record, there is no evidence of record corroborating that the alleged inservice stressors actually occurred, and there are no specific details of record indicating that any of the alleged stressors could be verified by competent evidence.
+
+round 8, index 89: 
+Id.
+
+round 9, index 140: 
+He is not competent to render an opinion on a matter involving medical knowledge, such as diagnosis or causation.
+
+round 10, index 16: 
+I.
+
+round 11, index 17: 
+Service connection for PTSDService connection may be established for disability resulting from personal injury or disease incurred in or aggravated by service.
+
+round 12, index 121: 
+It is a substantial doubt and one within the range of probability as distinguished from pure speculation or remote possibility.
+
+round 13, index 139: 
+However, the evidence does not indicate that he possesses medical expertise.
+
+round 14, index 141: 
+After a thorough review of the evidence of record, the Board finds that the preponderance of the evidence is against the appellant's claim for service connection for PTSD.
+
+round 15, index 18: 
+In the absence of chronicity at onset, a grant of service connection requires evidence of continuity of symptomatology demonstrating that a current disability was incurred in service.
+
+round 16, index 181: 
+CONSTANCE B. TOBIAS	Member, Board of Veterans' AppealsIMPORTANT NOTICE:
+
+round 17, index 183: 
+We are in the process of updating the form to reflect changes in the law effective on December 27, 2001.
+
+round 18, index 19: 
+Regulations also provide that service connection may be established where all the evidence of record, including that pertinent to service, demonstrates that the veteran's current disability was incurred in service.
+
+round 19, index 120: 
+A reasonable doubt exists where there is an approximate balance of positive and negative evidence that does not satisfactorily prove or disprove the claim.
+
+round 20, index 115: 
+There is no support in his military records for his allegation that he was involved in any combat activity.
+
+round 21, index 184: 
+In the meanwhile, please note these important corrections to the advice in the form:
+
+round 22, index 20: 
+Service connection for PTSD requires medical evidence establishing a clear diagnosis of the condition, credible supporting evidence that the claimed in-service stressor actually occurred, and a link, established by medical evidence, between current symptomatology and the claimed in-service stressor.
+
+round 23, index 182: 
+We have attached a VA Form 4597 that tells you what steps you can take if you disagree with our decision.
+
+round 24, index 143: 
+Since the preponderance of the evidence is this claim, the benefit of the doubt doctrine does not apply.
+
+round 25, index 167: 
+He has not provided enough specific information as to the dates and places of the events and those events could not be verified.
+
+round 26, index 28: 
+Id.
+
+round 27, index 123: 
+It is not a means of reconciling actual conflict or a contradiction in the evidence.
+
+round 28, index 185: 
+These changes apply to the section entitled "Appeal to the United States Court of Appeals for Veterans Claims."
+
+round 29, index 187: 
+A "Notice of Disagreement filed on or after November 18, 1988" is no longer required to appeal to the Court.
+
+round 30, index 190: 
+?
+
+round 31, index 138: 
+The Board is cognizant of the appellant's own statements to the effect that he experiences symptoms of PTSD that are due to stressors while in service.
+
+round 32, index 7: 
+Thereafter, in August 2000, the Board remanded the case to the RO for the completion of additional development.
+
+round 33, index 122: 
+Id.
+
+round 34, index 144: 
+Accordingly, service connection for PTSD is not warranted.
+
+round 35, index 93: 
+No single item of evidence is determinative, and VA must assess the credibility, probative value, and relative weight of each relevant item of evidence.
+
+round 36, index 124: 
+Id.
+
+round 37, index 135: 
+Accordingly, there is no credible supporting evidence that the claimed stressors actually occurred.
+
+round 38, index 189: 
+You are no longer required to file a copy of your Notice of Appeal with VA's General Counsel.
+
+round 39, index 95: 
+The claimant's assertions that he engaged in combat with the enemy are not ignored, but are evaluated along with the other evidence of record.
+
+round 40, index 146: 
+Veterans Claims Assistance Act of 2000The Board is aware that, in November 2000, the President signed into law the Veterans Claims Assistance Act of 2000, Pub. L. No. 106-475, 114 Stat. 2096 (2000) (VCAA).
+
+round 41, index 186: 
+(1)
+
+round 42, index 125: 
+In this case, for the reasons and bases discussed above, a reasonable doubt does not exist as to whether he engaged in combat with the enemy in Vietnam.
+
+round 43, index 169: 
+As the appellant has been unable to provide the requisite information needed by VA in order to attempt to verify the additional claimed stressors, additional attempts at verification are not warranted.
+
+round 44, index 94: 
+Id.
+
+round 45, index 96: 
+Id.
+
+round 46, index 91: 
+Id.
+
+round 47, index 145: 
+II.
+
+round 48, index 87: 
+VA's General Counsel has defined the phrase "engaged in combat with the enemy" to mean that the veteran must have personally participated in a fight or encounter with a military foe or hostile unit or instrumentality.
+
+round 49, index 175: 
+In short, the Board finds that VA's statutory duty to inform and assist the appellant in the development of his claim has been satisfied under the circumstances presented in this case.
+
+round 50, index 4: 
+States Court of Appeals for Veterans Claims (hereinafter Court).
+
+round 51, index 5: 
+In November 1999, based on the September 1999 Appellee's Motion for Remand and To Stay Further Proceedings that was not opposed by the appellant, the Court vacated the April 1999 Board decision and remanded the case to the Board.
+
+round 52, index 188: 
+(2)
+
+round 53, index 97: 
+In other words, the claimant's assertions that he "engaged in combat with the enemy" are not sufficient, by themselves, to establish this fact.
+
+round 54, index 168: 
+The death of his friend could not be confirmed.
+
+round 55, index 54: 
+He described an incident where a jeep he was riding in was almost blown up by a land mine.
+
+round 56, index 174: 
+As a result, it is manifestly impossible to perform any further meaningful research in order to verify the appellant's claimed stressors.
+
+round 57, index 173: 
+Indeed, the appellant has reported that he is unable to specifically recall any further details relative to his claimed stressors that may be used in an attempt to research his accounts.
+
+round 58, index 90: 
+Moreover, a general statement in the veteran's service personnel records that he participated in a particular operation or campaign would not, in itself, establish that he engaged in combat with the enemy because the terms "operation" and "campaign" encompass both combat and non-combat activities.
+
+round 59, index 2: 
+After remanding the case for additional development in June 1995, the Board denied the appellant's service connection claim in a decision dated April 29, 1999.
+

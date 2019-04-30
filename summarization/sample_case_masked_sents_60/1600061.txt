@@ -1,0 +1,180 @@
+round 0, index 32: 
+This claim must be afforded expeditious treatment.
+
+round 1, index 33: 
+The law requires that all claims that are remanded by the Board or by the United States Court of Appeals for Veterans Claims for additional development or other appropriate action must be handled in an expeditious manner.
+
+round 2, index 31: 
+The Veteran has the right to submit additional evidence and argument on the matter the Board has remanded.
+
+round 3, index 30: 
+If the benefit sought remains denied, furnish the Veteran and his representative an appropriate Supplemental Statement of the Case, and return the case to the Board.
+
+round 4, index 34: 
+Veterans Law Judge, Board of Veterans' AppealsUnder 38 U.S.C.A. § 7252 (West 2014), only a decision of the Board is appealable to the United States Court of Appeals for Veterans Claims.
+
+round 5, index 35: 
+This remand is in the nature of a preliminary order and does not constitute a decision of the Board on the merits of the Veteran's appeal.
+
+round 6, index 23: 
+Accordingly, the case is REMANDED for the following action:
+
+round 7, index 22: 
+To that end, the RO should send another Veterans Claim Assistance Act (VCAA) letter to the Veteran.
+
+round 8, index 29: 
+After the completion of the above development, adjudicate the claim of service connection for a psychiatric disorder, to include PTSD, taking into consideration all evidence added to the file.
+
+round 9, index 28: 
+Obtain all outstanding records of relevant VA and non-VA treatment since service, including records of:a. VA treatment in Tulsa, Oklahoma, around 1982; andb. VA treatment recently (since approximately 2011) at the VAMC in Columbia, Missouri.5.
+
+round 10, index 27: 
+If any such documents are unavailable, it should be noted in the record.
+
+round 11, index 26: 
+Thereafter, secure for the record copies of the Veteran's complete service personnel records, (i.e., his complete 201 file).
+
+round 12, index 25: 
+Request that the Veteran clarify whether his son's death occurred after January 25, 1972, the date he separated from service, and ensure any necessary documentation is associated with the record.
+
+round 13, index 24: 
+Ensure VCAA notice is sent to the Veteran in regard to a claim of entitlement to service connection for a psychiatric disorder other than PTSD.
+
+round 14, index 7: 
+He points to his military service in Vietnam as the cause of the disorder.
+
+round 15, index 8: 
+For example, at the time of a VA examination in September 2012, the Veteran reported such stressors as hostile/sniper fire near his bunker location during night time hours, and an incident when a flare was accidentally set off in a bunker.
+
+round 16, index 12: 
+A review of the record reveals that there is no documentation that verifies the exact date of death of the Veteran's son, but only a brief statement about the death occurring in the early 1970s.
+
+round 17, index 5: 
+The issue of service connection for an acquired psychiatric disability, to include PTSD, is REMANDED to the Agency of Original Jurisdiction (AOJ).  VA will notify the Veteran if further action is required.
+
+round 18, index 21: 
+Therefore, not only must the issue on appeal now be characterized generally as one of service connection for a psychiatric disorder to include PTSD, but further development, under the duty to assist, is also needed.
+
+round 19, index 6: 
+The Veteran contends that he currently has PTSD.
+
+round 20, index 17: 
+Therefore, the RO should seek specific information and evidence from the Veteran to verify the basis upon which the diagnosis was made.
+
+round 21, index 19: 
+In addition, a medical diagnosis that differs from the claimed condition - in this case, PTSD - does not necessarily represent a separate claim;
+
+round 22, index 18: 
+In addition, the Veteran reported VA treatment in Tulsa, Oklahoma, around 1982, and more recently at the VAMC in Columbia, Missouri.
+
+round 23, index 16: 
+Such information is essential for determining whether an event occurred in service that resulted in or gave rise to the current psychiatric disability.
+
+round 24, index 20: 
+and what constitutes a claim cannot be limited by a lay veteran's assertion of his condition in his application, but must be construed based on the reasonable expectations of the non-expert claimant and the evidence developed in processing the claim.
+
+round 25, index 15: 
+However, the Board finds that further development regarding the timeline of events is necessary.
+
+round 26, index 9: 
+On the September 2012 VA examination, the examiner found that the Veteran did not meet the criteria for a diagnosis of PTSD, but opined, in part, that the Veteran was suffering from adjustment disorder with depressed mood, associated with complicated bereavement stemming from his son's tragic death in a house fire in the early 1970s.
+
+round 27, index 14: 
+The Board also notes that Veteran's service records indicate that he was released from active duty one day after returning from Vietnam.
+
+round 28, index 3: 
+Regional Office (RO) which denied service connection for PTSD.
+
+round 29, index 4: 
+The record shows a psychiatric diagnosis other than PTSD.
+
+round 30, index 1: 
+This matter is before the Board of Veterans Appeals (Board) on appeal of a September 2012 rating decision by the St.
+
+round 31, index 2: 
+Louis, Missouri Department of Veterans Affairs (VA)
+
+round 32, index 11: 
+As stated above, the Veteran was discharged from service in January 1972.
+
+round 33, index 10: 
+The examiner, however, found that "the condition is not assessed to be associated with the Veteran's period of service."
+
+round 34, index 13: 
+The Board notes that the 2012 medical record indicates that the death occurred after the Veteran returned from service in Vietnam.
+
+round 35, index 0: 
+The appellant is a Veteran who served on active duty from July 1970 to January 1972.
+
+round 36, index 0: 
+The appellant is a Veteran who served on active duty from July 1970 to January 1972.
+
+round 37, index 0: 
+The appellant is a Veteran who served on active duty from July 1970 to January 1972.
+
+round 38, index 0: 
+The appellant is a Veteran who served on active duty from July 1970 to January 1972.
+
+round 39, index 0: 
+The appellant is a Veteran who served on active duty from July 1970 to January 1972.
+
+round 40, index 0: 
+The appellant is a Veteran who served on active duty from July 1970 to January 1972.
+
+round 41, index 0: 
+The appellant is a Veteran who served on active duty from July 1970 to January 1972.
+
+round 42, index 0: 
+The appellant is a Veteran who served on active duty from July 1970 to January 1972.
+
+round 43, index 0: 
+The appellant is a Veteran who served on active duty from July 1970 to January 1972.
+
+round 44, index 0: 
+The appellant is a Veteran who served on active duty from July 1970 to January 1972.
+
+round 45, index 0: 
+The appellant is a Veteran who served on active duty from July 1970 to January 1972.
+
+round 46, index 0: 
+The appellant is a Veteran who served on active duty from July 1970 to January 1972.
+
+round 47, index 0: 
+The appellant is a Veteran who served on active duty from July 1970 to January 1972.
+
+round 48, index 0: 
+The appellant is a Veteran who served on active duty from July 1970 to January 1972.
+
+round 49, index 0: 
+The appellant is a Veteran who served on active duty from July 1970 to January 1972.
+
+round 50, index 0: 
+The appellant is a Veteran who served on active duty from July 1970 to January 1972.
+
+round 51, index 0: 
+The appellant is a Veteran who served on active duty from July 1970 to January 1972.
+
+round 52, index 0: 
+The appellant is a Veteran who served on active duty from July 1970 to January 1972.
+
+round 53, index 0: 
+The appellant is a Veteran who served on active duty from July 1970 to January 1972.
+
+round 54, index 0: 
+The appellant is a Veteran who served on active duty from July 1970 to January 1972.
+
+round 55, index 0: 
+The appellant is a Veteran who served on active duty from July 1970 to January 1972.
+
+round 56, index 0: 
+The appellant is a Veteran who served on active duty from July 1970 to January 1972.
+
+round 57, index 0: 
+The appellant is a Veteran who served on active duty from July 1970 to January 1972.
+
+round 58, index 0: 
+The appellant is a Veteran who served on active duty from July 1970 to January 1972.
+
+round 59, index 0: 
+The appellant is a Veteran who served on active duty from July 1970 to January 1972.
+

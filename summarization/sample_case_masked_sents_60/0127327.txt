@@ -1,0 +1,180 @@
+round 0, index 106: 
+Entitlement to service connection for PTSD is denied.
+
+round 1, index 107: 
+Barry F. Bohan	Member, Board of Veterans' Appeals
+
+round 2, index 105: 
+The benefit sought on appeal is accordingly denied.
+
+round 3, index 94: 
+There is no evidence that the veteran served in combat.
+
+round 4, index 102: 
+There is no credible corroborating evidence of an in-service stressor, which is one of the elements required for entitlement to service connection for PTSD.
+
+round 5, index 104: 
+In short, for the reasons and bases expressed above the Board concludes that a preponderance of the evidence is against the veteran's claim of entitlement to service connection for PTSD.
+
+round 6, index 2: 
+PTSD was not incurred in or aggravated by the veteran's military service.
+
+round 7, index 103: 
+In the absence of one of the required elements under 38 C.F.R. § 3.304(f), the claim must be denied.
+
+round 8, index 1: 
+The veteran did not engage in combat with the enemy, and there is no credible evidence corroborating any of the veteran's alleged service stressors.
+
+round 9, index 3: 
+REASONS AND BASES FOR FINDING AND CONCLUSIONThe veteran contends, in essence, that he has PTSD as a result of his experiences in Vietnam and Korea and that he should therefore be granted service connection for that disorder.
+
+round 10, index 101: 
+PTSD does not suffice to verify the occurrence of any claimed in-service stressor.
+
+round 11, index 11: 
+There is no pertinent evidence for over two decades after the veteran left military service.
+
+round 12, index 50: 
+With regard to the second criterion, the evidence necessary to establish that the claimed stressor actually occurred varies depending on whether it can be determined that the veteran "engaged in combat with the enemy."
+
+round 13, index 61: 
+To deny a claim on its merits, the evidence must preponderate against the claim.
+
+round 14, index 4: 
+By law, the Board's statement of reasons and bases for its findings and conclusions on all material facts and law presented on the record must be sufficient to enable the claimant to understand the precise basis for the Board's decision, as well as to facilitate review of the decision by courts of competent appellate jurisdiction.
+
+round 15, index 5: 
+The Board must also consider discuss all applicable statutory and regulatory law, as well as the controlling decisions of the appellate courts.
+
+round 16, index 6: 
+With these requirements of law, the Board will first review the evidence of record as found in the veteran's claims folder, discuss the applicable law, and then proceed to an analysis of the claim at issue.
+
+round 17, index 96: 
+He did not receive any decorations or awards indicative of combat status.
+
+round 18, index 7: 
+Factual BackgroundThe veteran served on active duty in the United States Air Force from January 1960 to December 1967, including service in Vietnam and Korea.
+
+round 19, index 10: 
+The veteran's service medical records do not contain any psychiatric complaints or findings.
+
+round 20, index 92: 
+The Board places little weight of probative value on the veteran's brief and vague statements concerning combat and atrocities, which are unsupported by any evidence of record.
+
+round 21, index 68: 
+In this case, the regulations are accordingly applicable.
+
+round 22, index 9: 
+He was not awarded any citations or medals indicative of combat.
+
+round 23, index 60: 
+When there is an approximate balance of evidence regarding the merits of an issue material to the determination of the matter, the benefit of the doubt in resolving each such issue shall be given to the claimant.
+
+round 24, index 19: 
+VA outpatient records dated from May 1991 to April 1993 reveal continued problems with anxiety.
+
+round 25, index 93: 
+The veteran has provided no meaningful information which would provide a basis to refer this case to the U. S. Armed Services Center for Research of Unit Records for verification of any claimed stressors.
+
+round 26, index 91: 
+In evaluating the evidence and rendering a decision on the merits, the Board is required to assess the credibility, and therefore the probative value, of proffered evidence in the context of the record as a whole.
+
+round 27, index 70: 
+As part of the notice, VA is to specifically inform the claimant and the claimant's representative, if any, of which portion, if any, of the evidence is to be provided by the claimant and which part, if any, VA will attempt to obtain on behalf of the claimant.
+
+round 28, index 8: 
+His military occupational specialty was an electrical power specialist.
+
+round 29, index 65: 
+Regulations implementing the VCAA have been enacted.
+
+round 30, index 95: 
+His military occupational specialty was electrical power specialist in the United States Air Force.
+
+round 31, index 79: 
+Board will assume that the veteran has a diagnosis of PTSD.
+
+round 32, index 59: 
+Standard of reviewOnce the evidence has been assembled, it is the Board's responsibility to evaluate the record on appeal.
+
+round 33, index 69: 
+The VCAA requires VA to notify the claimant and the claimant's representative, if any, of any information, and any medical or lay evidence not previously provided to the Secretary that is necessary to substantiate the claim.
+
+round 34, index 12: 
+It was noted during VA hospitalization for heart disease from
+
+round 35, index 73: 
+The Board observes that the veteran was informed in the March 2000 Statement of the Case and the July 2001 Supplemental Statement of the Case of the relevant law and regulations and the type of evidence that could be submitted by him in support of his claim.
+
+round 36, index 72: 
+Board has concluded that the requirements of the VCAA have been effectively satisfied with respect to the issue on appeal.
+
+round 37, index 71: 
+After having carefully reviewed the record on appeal, the
+
+round 38, index 49: 
+Service connection - PTSDService connection for PTSD requires medical evidence establishing a diagnosis of the condition, credible supporting evidence that the claimed in-service stressors actually occurred, and a link, established by medical evidence, between the current symptomatology and the claimed in-service stressors.
+
+round 39, index 48: 
+Notwithstanding the lack of a diagnosis of a disability during service, service connection may still be granted if all of the evidence, including that pertinent to service, establishes that the disease was incurred in service.
+
+round 40, index 78: 
+As indicated in the analysis section below, the
+
+round 41, index 77: 
+Although there is no specific VA compensation and pension psychiatric evaluation of the veteran of record, there are numerous outpatient treatment records.
+
+round 42, index 52: 
+Service connection of such injury or disease may be rebutted by clear and convincing evidence to the contrary.
+
+round 43, index 67: 
+Except for provisions pertaining to claims to reopen based upon the submission of new and material evidence, which are not applicable in the instant case, the implementing regulations are also effective November 9, 2000.
+
+round 44, index 76: 
+After having reviewed the record, the Board concludes that there is sufficient evidence of record with which to make an informed decision.
+
+round 45, index 66: 
+The VCAA is applicable to all claims filed on or after the date of enactment, November 9, 2000, or filed before the date of enactment and not yet final as of that date.
+
+round 46, index 82: 
+Accordingly, the Board will proceed to a decision on the merits on the issue on appeal.
+
+round 47, index 97: 
+Accordingly, the Board concludes that combat status has not been demonstrated in this case.
+
+round 48, index 81: 
+In short, the Board has carefully considered the provisions of the VCAA in light of the record on appeal, and finds that the development of the claim has been consistent with the provisions of the new law.
+
+round 49, index 53: 
+The reasons for granting or denying service connection in each case shall be recorded in full.
+
+round 50, index 47: 
+Determinations relative to service connection will be based on review of the entire evidence of record.
+
+round 51, index 14: 
+The veteran was hospitalized at a VA hospital from June to July 1991 due to complaints of dizziness and light-headedness.
+
+round 52, index 100: 
+Moreover, the diagnosis of "non combat"
+
+round 53, index 16: 
+The diagnoses were anxiety overlay and depression.
+
+round 54, index 80: 
+The outcome of this case hinges on the existence of stressors, and as discussed above the veteran has been given the opportunity top describe his stressors and he has indeed done so.
+
+round 55, index 83: 
+As discussed above, 38 C.F.R. 3.304(f) sets forth the three elements required to establish service connection for PTSD.
+
+round 56, index 15: 
+He complained of depression and was given medication.
+
+round 57, index 54: 
+If it is determined through military citation or other supportive evidence that a veteran engaged in combat with the enemy, and the claimed stressors are related to combat, the veteran's lay testimony regarding the reported stressors must be accepted as conclusive evidence as to their actual occurrence and no further development or corroborative evidence will be necessary, provided that the testimony is found to be satisfactory and consistent with the circumstances, conditions or hardships of such service.
+
+round 58, index 64: 
+The VCAA also includes an enhanced duty to notify a claimant as to the information and evidence necessary to substantiate a claim for VA benefits.
+
+round 59, index 75: 
+The veteran has been accorded ample opportunity to present evidence and argument on his own behalf.
+

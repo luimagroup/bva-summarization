@@ -1,0 +1,553 @@
+Citation Nr: 0309162	
+Decision Date: 05/16/03    Archive Date: 05/27/03
+
+DOCKET NO.  96-48 469	)	DATE
+	)
+	)
+
+On appeal from the
+Department of Veterans Affairs Regional Office in 
+Philadelphia, Pennsylvania
+
+
+THE ISSUE
+
+Entitlement to service connection for post traumatic stress 
+disorder (PTSD).
+
+
+REPRESENTATION
+
+Appellant represented by:	Disabled American Veterans
+
+
+ATTORNEY FOR THE BOARD
+
+Christopher P. Kissel, Counsel
+
+
+
+
+INTRODUCTION
+
+The appellant served on active duty from November 1981 to 
+November 1984, and from January 1991 to April 1991.
+
+This case comes to the Board of Veterans' Appeals (the Board) 
+on appeal from an October 1995 rating decision of the St. 
+Petersburg, Florida, Department of Veterans Affairs (VA) 
+Regional Office (RO).  The RO in Philadelphia, Pennsylvania, 
+presently has jurisdiction over this case.
+
+No further action will be taken with regard to the 
+appellant's request for a hearing before the Board.  She did 
+not appear for her hearing scheduled on April 11, 2003, and 
+no explanation for her failure to report or a request to 
+schedule a new hearing has been submitted in connection with 
+this appeal.
+
+
+REMAND
+
+Notwithstanding the efforts undertaken by the RO to prepare 
+this case for appellate review, the Board finds that a remand 
+is in order.
+
+Veterans Claims Assistance Act of 2000
+
+The Board will remand the appellant's claim of service 
+connection for PTSD to ensure full and complete compliance 
+with the enhanced duty-to-notify and duty-to-assist 
+provisions enacted by the Veterans Claims Assistance Act of 
+2000 (VCAA) Pub. L. No. 106-475, 114 Stat. 2096 (2000) (the 
+VCAA) [codified as amended at 38 U.S.C. §§ 5102, 5103, 5103A, 
+5107], as this claim was pending as of the date of passage of 
+this law, November 9, 2000.  Karnas v. Derwinski, 1 Vet. App. 
+308, 313 (1991) (where law/regulation changes after claim has 
+been filed, but before administrative or judicial appeal 
+process has concluded, version most favorable to claimant 
+should apply).
+
+The United States Court of Appeals for Veterans Claims (the 
+Court) has held that all provisions of the VCAA are 
+potentially applicable to claims pending on the date of the 
+law's enactment, and that concerns of fundamental fairness 
+and fair process demanded further development and 
+readjudication under the VCAA by the lower adjudicatory 
+authority (the Board and RO).  See Holliday v. Principi, 14 
+Vet. App. 280 (2001), mot. for recons. denied, 14 Vet. App. 
+327 (per curium order), mot. for full Court review denied, 15 
+Vet. App. 21 (2001) (en banc order).  Regarding its authority 
+to review the Board's decision on appeal, the Court in 
+Holliday stated that even assuming that it could divine in 
+the first instance on the particular facts of a particular 
+case that no amount of additional evidence could change an 
+adverse outcome, it could not obviate in the first instance 
+the requirement for VA to provide notice to the claimant as 
+to what was required for a claim to be successful under the 
+VCAA's newly-created duty-to-notify provisions, 38 U.S.C. §§ 
+5102(b), 5103(a).  Id; see also Quartuccio v. Principi, 16 
+Vet. App. 183, 187 (2002) (when VA receives substantially 
+complete application for benefits, it has obligation to 
+notify claimant of any information and medical or lay 
+evidence necessary to substantiate the claim).
+
+In this case, the VCAA-notice letter sent to the appellant by 
+the RO in May 2002 is inadequate for purposes of this appeal 
+as the content of that letter addressed an unrelated claim of 
+service connection for depression based on in-service 
+exposure to environmental hazards.  It is clear from the 
+Court's recent case law that the VCAA's duty-to-notify 
+provisions and all assistance provided therein must be 
+specific to the claim or claims under consideration.  
+Quartuccio, 16 Vet. App. 183 (2002); see also Charles v. 
+Principi, 16 Vet. App. 370 (2002).  And, as will be set forth 
+in greater detail below, this requirement is particularly 
+important with respect to claims of service connection for 
+PTSD based on personal assault.  The Board must therefore 
+remand the appellant's PTSD claim because the record does not 
+show that she was provided proper notice under the VCAA.
+
+Regulatory amendments
+
+The Board notes that the regulation governing the award of 
+service connection for PTSD, 38 C.F.R. § 3.304(f), was 
+amended in June 1999.  See 64 Fed. Reg. 32807 (June 18, 
+1999).  The new version of the regulation is effective from 
+March 7, 1997, and hence, the revised version must be 
+considered, which has not been done in this case, to include 
+when the RO readjudicated the claim by supplemental statement 
+of the case in November 2002.  Of significance here is the 
+change to section 3.304(f) which eliminated the requirement 
+for a "clear diagnosis" of PTSD and replaced it with the 
+criteria that an award of service connection depended on 
+whether there was medical evidence diagnosing the condition 
+in accordance with 38 C.F.R. § 4.125(a), which the Board 
+observes is a reference to a diagnosis made on the criteria 
+set forth in the DSM-IV.  In its decisions issued with this 
+appeal, the RO applied the now-deleted "clear diagnosis" 
+standard.  As additional evidentiary development will be 
+required, to include stressor-verification development, the 
+Board believes that the RO should have the appellant re-
+examined by VA in order to determine whether she has a DSM-IV 
+diagnosis of PTSD based on her reported stressors and a 
+complete review of all the evidence in the claims file.  In 
+the Board's view, the appellate record does not at this time 
+contain sufficient medical evidence to decide this claim.  
+See 38 U.S.C.A. § 5103A(d)(1) and (2), as amended by the 
+VCAA.
+
+The Board notes as well that 38 C.F.R. § 3.304(f) was amended 
+for a second time in March 2002, again, during the pendency 
+of this appeal.  See 67 Fed. Reg. 10332 (Mar. 7, 2002).  This 
+regulation is specifically germane to the development and 
+adjudication of this claim as the revision involves the 
+standard of proof and the type of evidence necessary to 
+substantiate a claim of service connection for PTSD based on 
+personal assault.  It also specifically provides that VA will 
+not deny this type of PTSD claim without first advising the 
+claimant that evidence from sources other than the veteran's 
+service records or evidence of behavior changes may 
+constitute credible supporting evidence of the stressor and 
+allowing him or her the opportunity to furnish this type of 
+evidence or advise VA of potential sources of such evidence.  
+38 C.F.R. § 3.304(f)(3) (2002).  The record shows that the RO 
+sent the appellant PTSD-personal assault development letters 
+in 1996 and 1999, predating the revised section 3.304(f)(3), 
+and although these letters set forth many of the same 
+requirements contemplated by the revised regulation, they do 
+not specifically advise her in the manner described by this 
+new regulation.  Given the other deficiencies described above 
+with regard to procedural due process and evidentiary 
+development of this case, the Board finds that full and 
+complete compliance with the amended section 3.304(f)(3) is 
+required.
+
+Because the above-cited regulations changed during the 
+pendency of this appeal, the appellant is entitled to the 
+application of the versions of the regulations that are more 
+favorable to her.  Karnas, 1 Vet. App. 308 (1991).  In this 
+case, the appellant has not been notified of the changes in 
+the regulations described above and has not been afforded any 
+opportunity to present relevant argument.
+
+Evidentiary development
+
+In an effort to assist the RO, the Board has reviewed the 
+claims file and identified certain assistance that must be 
+rendered to comply with the VCAA.  Specifically, additional 
+evidentiary development is required, to include stressor-
+verification development and the scheduling of the appellant 
+for a VA examination to determine whether she has a DSM-IV 
+diagnosis of PTSD based on her reported stressor and a 
+complete review of all the evidence in the claims file.  
+However, it is the RO's responsibility to ensure that all 
+appropriate development is undertaken in this case.
+
+The Board also notes that precedent holdings of the Court 
+provide specific guidance for the adjudication of PTSD claims 
+based on non-combat stressors, at issue in this case.  See 
+Patton v. West, 12 Vet. App. 272 (1999) (verification of non-
+combat stressors); Suozzi v. Brown, 10 Vet. App. 307 (1997) 
+(sufficiency of information to verify stressors); Cohen v. 
+Brown, 10 Vet. App. 128 (1997) and Moreau v. Brown, 9 Vet. 
+App. 389 (1996).  In the Patton case, the Court found error 
+in the Board's decision because it did not discuss the 
+special evidentiary procedures for the development of PTSD 
+claims based on non-combat stressors as established by VA 
+guidelines.  Patton, 12 Vet. App. 272 (1999).  Where, as in 
+this case, the claimant did not serve in combat and the 
+claimed stressor is not related to combat, lay testimony, by 
+itself, will not be enough to establish the occurrence of the 
+alleged stressor.  Id. citing West (Carelton) v. Brown, 7 
+Vet. App. 70, 76 (1994); Zarycki v. Brown, 6 Vet. App. 91, 98 
+(1993).
+
+In these types of cases, special development procedures for 
+non-combat stressors are required pursuant to VA's 
+ADJUDICATION PROCEDURE MANUAL (the M21-1) in order to provide 
+the veteran-claimant every opportunity to verify the 
+occurrence of the claimed stressor.  See M21-1, Part III, 
+Section 5.14 (Mar. 2002).
+
+In light of the Court's precedent holdings, the Board finds 
+it necessary to address the matter of whether there is 
+sufficient corroboration of the appellant's stressor (in-
+service rape and sexual harassment) upon completion of the 
+special development procedures under M21-1, Part III, Sec. 
+5.14, and upon completion thereof, further medical 
+development to determine whether any "markers" or 
+"behavioral changes" that occurred at or close in time to 
+the alleged incident could possibly indicate the occurrence 
+of the stressor, as described in detail in the M21-1.
+
+In this particular case, the RO determined in its November 
+2002 supplemental statement of the case that review of the 
+appellant's service personnel records (201 file) would be 
+"useless" because she failed to provide more specific and 
+detailed information concerning her alleged stressors.  
+However, the Board reviewed the documents in the appellant's 
+201 file, which are of record, and found that in the latter 
+half of 1982 while stationed at the Walter Reed Army Medical 
+Center (WRAMC), she received a negative performance 
+evaluation (compared with her other evaluations) as well as 
+non-judicial punishment involving a dispute with a superior 
+officer over an order she refused to obey.  Although she has 
+not been forthcoming with specific details, the appellant has 
+indicated that all of her alleged stressors occurred at 
+WRAMC.  The M21-1 manual provisions described above as well 
+as the revised section 3.304(f)(3) criteria identify job-
+performance and related incidents (e.g., deterioration in 
+work performance and disregard for military authority) as 
+possible "markers" that could be used to corroborate an 
+alleged stressor.
+
+Therefore, in the Board's view, the 201 file reports, when 
+read together with other evidence, namely, the VA outpatient 
+treatment report dated in August 1994 (which related her 
+account of an in-service rape ten years ago, corresponding to 
+her time at WRAMC) and her September 1995 claim statement and 
+the report of the October 1995 VA examination (which each 
+alluded to her account of seeing private psychiatrists and 
+therapists soon after service for the problems she 
+encountered at WRAMC), indicates that further "markers" 
+development of her case is needed.  There also is shown in 
+this case a subsequent history of mental decompensation in 
+the post service period, not otherwise suggested by the 
+service medical and personnel records, which in the Board's 
+opinion, requires further expert psychiatric analysis to 
+determine whether the appellant's diagnosis and clinical 
+history are consistent with the tell-tale signs of PTSD based 
+on the alleged rape/harassment stressors (which by all 
+accounts of record will never be affirmatively verified by 
+official record).
+
+With respect to the issue of stressor-verification, it is 
+noted that in Suozzi, the Court expressly held that a veteran 
+need not prove "every detail" of an alleged stressor.  Id. 
+at 311.  In addition, in Moreau, the Court stated that 
+credible supporting evidence of a stressor may be obtained 
+from service records or "other sources."  Id. at 395.
+
+The Board is of course aware that the appellant has been less 
+than cooperative in the development of her PTSD claim (she 
+failed to report for two hearings and never responded to the 
+RO's 1996 and 1999 personal assault development letters).  
+However, the procedural due process requirements imposed by 
+the VCAA as well as by the regulation changes and Court 
+decisions dealing with PTSD-personal assault cases sets forth 
+specific and unambiguous development standards that must be 
+met before the Board issues a final decision on the merits. 
+
+Accordingly, although the Board sincerely regrets the 
+additional delay, the case is REMANDED for the following:
+
+1.  The RO must review the claims file 
+and ensure that all notification and 
+development action required by the VCAA 
+is completed under 38 U.S.C.A. §§ 5102, 
+5103, 5103A, and 5107 (West 2002), 
+including written notice of the evidence, 
+if any, the appellant is expected to 
+provide in support of the claim and the 
+evidence, if any, that the RO will obtain 
+for her.  In particular, this notice 
+should advise the appellant that she may 
+submit any corroborating lay and/or 
+medical evidence she may have pertaining 
+to treatment for her PTSD symptoms.  
+
+2.  The RO should assist the appellant in 
+obtaining any identified evidence, as 
+appropriate.  If she identifies medical 
+treatment and provides specific dates, 
+all VA records identified in this manner 
+that have not already been associated 
+with the claims file should be obtained 
+pursuant to established procedures.  With 
+regard to any private medical treatment, 
+if identified as such, after first 
+providing her appropriate releases to 
+obtain such records (VA Form 21-4142), 
+attempts to secure copies of records 
+pertaining to any indicated private 
+physicians and/or facilities should be 
+undertaken.  The RO should proceed with 
+alternative search efforts for any 
+medical records that may have been 
+transferred to another medical facility 
+or retired.  All records received in 
+response to the request should be 
+associated with the claims folder.  The 
+RO should proceed with all reasonable 
+follow-up referrals that may be indicated 
+by the inquiry.
+
+All attempts to obtain records which are 
+ultimately not obtained should be 
+documented, and in accordance with the 
+VCAA and implementing regulations 
+published in August 2001, the RO should 
+notify the appellant of the records it 
+was unable to obtain, briefly explain the 
+efforts made to obtain such records, and 
+describe any further action that the RO 
+will take to obtain such records.  For 
+any VA or other Federal department or 
+agency records, the RO should continue 
+its efforts to obtain any records while 
+the case is under development on remand 
+until it becomes reasonably certain that 
+such records cannot be obtained because 
+they do not exist or until it becomes 
+reasonably certain that further efforts 
+to obtain records from the such sources 
+would be futile.
+
+3.  In addition, the RO should contact 
+the appellant and inform her that may 
+submit any other corroborating evidence 
+she may have pertaining to alleged rape 
+and sexual harassment incidents 
+experienced during service.  The RO 
+should inform her that she may submit any 
+other evidence to verify her alleged 
+stressors from military as well as 
+nonmilitary sources.  The RO should 
+assist the appellant in obtaining such 
+evidence, as appropriate.  In connection 
+with this development, the RO should 
+ensure that all appropriate special 
+development procedures mandated by M21-1, 
+Section 5.14 and 38 C.F.R. § 3.304(f)(3) 
+for verification of a non-combat stressor 
+is fully accomplished and documented in 
+the claims folder, to include issuance of 
+the special development letter to the 
+appellant advising her of the steps 
+necessary to verify her non-combat 
+stressors.
+
+4.  Following the above, the RO must make 
+a specific factual determination, based 
+upon the complete record, with respect to 
+whether one or more of the appellant's 
+stressors occurred as she claims.  In 
+rendering this determination, the 
+attention of the RO is directed to the 
+law cited in the discussion above.  If 
+official service records or alternative 
+records discussed in M21-1, Part III, 
+Sec. 5.14 corroborate the appellant's 
+allegations, the RO should specify that 
+information.  The RO should also indicate 
+whether any behavioral changes that 
+occurred at or close in time to the 
+alleged incidents could possibly indicate 
+the occurrence of a stressor and if so 
+should decide whether this evidence needs 
+interpretation by a clinician. 
+
+5.  Upon completion of the above, the RO 
+should schedule a comprehensive VA 
+psychiatric examination to determine the 
+diagnoses of all psychiatric disorders 
+that are present.  A psychiatrist who has 
+not previously examined, evaluated or 
+treated the appellant, if feasible, 
+should conduct this examination.  The 
+claims folder and a copy of this remand 
+must be provided to the examiner prior to 
+the examination.  The examiner should 
+determine the true diagnoses of any 
+currently manifested psychiatric 
+disorder(s).  The diagnosis(es) must be 
+based on examination findings, all 
+available medical records, complete 
+review of comprehensive testing for PTSD, 
+and any special testing deemed 
+appropriate.  A multiaxial evaluation 
+based on the current DSM-IV diagnostic 
+criteria is required.  If a diagnosis of 
+PTSD is deemed appropriate, the examiner 
+should specify (1) whether the alleged 
+stressor found to be established by the 
+record was sufficient to produce PTSD; 
+and (2) whether there is a link between 
+the current PTSD-symptomatology and the 
+in-service stressor found to be 
+established by the record and found 
+sufficient to produce PTSD by the 
+examiner.
+
+In addition, the examiner must comment on 
+the approximate date of onset and 
+etiology of any diagnosed psychiatric 
+disorder as shown by the evidence of 
+record, and in so doing, the examiner 
+should attempt to reconcile the multiple 
+psychiatric diagnoses and/or assessments 
+of record based on his/her review of all 
+of the evidence of record, particularly 
+with respect to prior diagnoses of PTSD.
+
+Further, in line with the M21-1 
+provisions, the examiner is requested to 
+provide detailed medical analysis and 
+interpretation of the diagnoses found 
+present on examination in light of all 
+the evidence of record for the purpose of 
+addressing whether any behavioral changes 
+that occurred at or close in time to the 
+alleged rape and sexual harassment 
+incidents could possibly indicate the 
+occurrence of an alleged in-service 
+stressor.
+
+A complete rationale for all opinions 
+expressed must be provided.  The copy of 
+the examination report and all completed 
+test reports should thereafter be 
+associated with the claims folder.
+
+6.  The appellant must be given adequate 
+notice of any requested examination, 
+which includes advising her of the 
+consequences of failure to report for a 
+scheduled examination.  If she fails to 
+report for an examination, this fact 
+should be documented in the claims 
+folder.  A copy of all notifications must 
+be associated with the claims folder.
+
+7.  In addition, the RO should take all 
+other proper measures to ensure full and 
+complete compliance with the duty-to-
+notify and duty-to-assist provisions of 
+the VCAA that are specifically germane to 
+the claim on appeal, service connection 
+for PTSD based on personal assault.  This 
+action should include notifying the 
+appellant of her right to submit 
+additional evidence or argument regarding 
+the merits of this claim.
+
+
+
+8.  After completion of the above, the RO 
+should readjudicate the issue of service 
+connection for PTSD based on personal 
+assault with consideration given to all 
+of the evidence of record, including any 
+additional medical evidence obtained by 
+the RO pursuant to this REMAND.  The 
+readjudication of this claim must be on 
+the merits and with full compliance with 
+all relevant duty-to-notify and duty-to-
+assist provisions of the VCAA, as noted 
+above.  Further, the readjudication of 
+this claim must be in accord with the 
+revised 38 C.F.R. § 3.304(f), as amended 
+in June 1999 and March 2002, which 
+include the appropriate notice procedures 
+set forth under the revised section 
+§ 3.304(f)(3) discussed above in this 
+REMAND.  The RO should also carefully 
+consider the benefit of the doubt rule, 
+and in this regard, if the evidence is 
+not in equipoise the RO should explain 
+why.  Cartwright v. Derwinski, 2 Vet. 
+App. 24, 26 (1991).  
+
+If the benefit sought on appeal remains 
+denied, the RO should provide the 
+appellant and her representative an 
+adequate supplemental statement of the 
+case.  The supplemental statement of the 
+case must contain notice of all relevant 
+actions taken on this claim, to include a 
+summary of the evidence and applicable 
+law and regulations considered pertinent 
+to the issues currently on appeal.  The 
+SSOC should provide the veteran citation 
+to 38 C.F.R. § 3.159.  The RO should then 
+allow the appellant an appropriate period 
+of time for response.
+
+Thereafter, subject to current appellate procedures, the case 
+should be returned to the Board for further appellate 
+consideration, if appropriate.
+
+The appellant has the right to submit additional evidence and 
+argument on the matter or matters the Board has remanded to 
+the RO.  Kutscherousky v. West, 12 Vet. App. 369 (1999).
+
+This claim must be afforded expeditious treatment by the RO.  
+The law requires that all claims that are remanded by the 
+Board of Veterans' Appeals or by the United States Court of 
+Appeals for Veterans Claims for additional development or 
+other appropriate action must be handled in an expeditious 
+manner.  See The Veterans' Benefits Improvements Act of 1994, 
+Pub. L. No. 103-446, § 302, 108 Stat. 4645, 4658 (1994), 
+38 U.S.C.A. § 5101 (West 2002) (Historical and Statutory 
+Notes).  In addition, VBA's Adjudication Procedure Manual, 
+M21-1, Part IV, directs the ROs to provide expeditious 
+handling of all cases that have been remanded by the Board 
+and the Court.  See M21-1, Part IV, paras. 8.44-8.45 and 
+38.02-38.03.
+
+
+
+	                  
+_________________________________________________
+	MICHELLE L. KANE
+	Acting Veterans Law Judge, Board of Veterans' Appeals
+
+Under 38 U.S.C.A. § 7252 (West 2002), only a decision of the 
+Board of Veterans' Appeals is appealable to the United States 
+Court of Appeals for Veterans Claims.  This remand is in the 
+nature of a preliminary order and does not constitute a 
+decision of the Board on the merits of your appeal.  
+38 C.F.R. § 20.1100(b) (2002).
+
+

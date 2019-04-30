@@ -1,0 +1,180 @@
+round 0, index 184: 
+The claim for service connection for PTSD is denied as not well grounded.
+
+round 1, index 11: 
+The claim for service connection for PTSD is not well grounded.
+
+round 2, index 183: 
+While the Board notes that the RO most recently denied the veterans claim in a supplemental statement of the case in which it applied the criteria of DSM-III instead of DSM-IV, in view of the Boards finding of the lack of credible supporting evidence from any source verifying any event claimed as a stressor in this matter, the impact of the ROs failure to consider the criteria of DSM-IV is rendered moot.
+
+round 3, index 10: 
+service records or other credible supporting evidence does not verify any of the claimed stressors; he did not engage in combat with the enemy.
+
+round 4, index 6: 
+PTSD was not present in service or manifest within one year thereafter, and there is no evidence of PTSD causally linked to service.
+
+round 5, index 7: 
+There is no clear diagnosis of PTSD of record.
+
+round 6, index 80: 
+None of the veterans service records discloses any reference to an acquired psychiatric disorder, to include PTSD, by complaints, statements of medical history or clinical findings.
+
+round 7, index 8: 
+The veteran had verified active service from March 1970 to November 1971; he received no awards or decorations denoting that he engaged in combat with the enemy.
+
+round 8, index 81: 
+At the separation medical examination in October 1971, no history of an in-service psychiatric disorder was recorded, and there were no findings at that time associated with psychiatric examination.
+
+round 9, index 82: 
+In his original application for compensation or pension in December 1972, the veteran did not make a claim for service connection for an acquired psychiatric disorder, and in a subsequent application in August 1975, the veteran sought service connection for bilateral hearing loss.
+
+round 10, index 112: 
+Function scale (GAF) code of 45 was assigned which the examiner noted to be considerable.
+
+round 11, index 114: 
+The appellant did not respond to this request.
+
+round 12, index 113: 
+A May 1995 letter from the regional office (RO) to the veteran requested additional information regarding the veterans claimed stressors, and a copy was also furnished to the veterans service representative.
+
+round 13, index 115: 
+At the veterans personal hearing in January 1997, the veteran testified that in Vietnam, he was involved in the operation of 155 Howertzers which were mounted on tracks
+
+round 14, index 83: 
+Moreover, at his VA medical examination in November 1975, the veteran did not relate complaints with respect to any psychiatric disorder and no service stressors were identified.
+
+round 15, index 12: 
+Service connection may be established for a disability resulting from disease or injury incurred in or aggravated by active service.
+
+round 16, index 5: 
+Based on its review of the relevant evidence in this matter, and for the following reasons and bases, it is the decision of the Board that the veteran has not submitted evidence of a well grounded claim.
+
+round 17, index 9: 
+The veteran has reported alleged stressors in service;
+
+round 18, index 3: 
+The Board of Veterans Appeals (Board), in accordance with the provisions of 38 U.S.C.A. § 7104 (West 1991 &
+
+round 19, index 84: 
+The first medical evidence which notes that the veteran had reportedly been exposed to stressful experiences in service is a private disability evaluation report from Dr. E. F. W., dated in October 1994, which reflects that the veteran had a history of alcoholism and lead toxicity, and that he was a 13 month Vietnam front-line combat veteran.
+
+round 20, index 85: 
+The veteran further reported that he experienced constant combat duty during his 13 months in Vietnam, and that during this period he became socially withdrawn and developed a hearing loss.
+
+round 21, index 86: 
+At point-blank range, he was sometimes required to fire flechette rounds at enemy troops which were extremely destructive.
+
+round 22, index 13: 
+For the showing of chronic disease in service there is required a combination of manifestations sufficient to identify the disease entity, and sufficient observation to establish chronicity at the time.
+
+round 23, index 182: 
+The Board finds that as the record stands, none of the above events are corroborated by satisfactory evidence.
+
+round 24, index 175: 
+Among the accounts the appellant has presented as events purported as stressors, are the following:
+
+round 25, index 178: 
+The record contains no response from the veteran or his service representative to the correspondence from the RO.
+
+round 26, index 14: 
+If chronicity in service is not established, a showing of continuity of symptoms after discharge is required to support the claim.
+
+round 27, index 16: 
+Service connection may be granted for any disease diagnosed after discharge, when all of the evidence establishes that the disease was incurred in service.
+
+round 28, index 4: 
+Supp. 1997), has reviewed and considered all of the evidence and material of record in the veteran's claims file.
+
+round 29, index 15: 
+Id.
+
+round 30, index 176: 
+Seeing combat and comrades killed in actionBeing under fireExposure to booby trapsGrave detailExposure to sniper fire
+
+round 31, index 0: 
+The veteran had active service from March 1970 to November 1971.
+
+round 32, index 185: 
+RICHARD B. FRANK	Member, Board of Veterans' AppealsNOTICE OF APPELLATE RIGHTS:  Under 38 U.S.C.A. § 7266
+
+round 33, index 37: 
+Id.
+
+round 34, index 180: 
+As the Court has pointed out, at a minimum, the available service records must not contradict allegations of events in service.
+
+round 35, index 79: 
+He has no awards or decorations specific to combat, appropriate to his branch of service.
+
+round 36, index 177: 
+As was noted above, in light of the fact that none of the veterans purported stressors had been verified by service records or otherwise, the RO sent a letter to the veteran in which more details were requested, and a copy of the ROs letter was also furnished to the veterans service representative.
+
+round 37, index 17: 
+For the purposes of section 1110 of this title, and subject to the provisions of section 1113 of this title, in the case of any veteran who served for ninety days or more during a period of war and a chronic disease, including a psychosis, becomes manifest to a degree of ten percent or more within one year from the date of separation from such service, such disease shall be presumed to have been incurred in or aggravated by such service notwithstanding there is no record of evidence of such disease during the period of service.
+
+round 38, index 179: 
+Moreover, the record in this case shows that the one event that could be tested against supporting evidence, the death of a specifically named comrade in service, resulted in the conclusion that the evidence refuted the veterans allegation.
+
+round 39, index 39: 
+The Court noted that the evidence necessary to establish the existence of the recognizable stressor during service will vary depending on whether or not the veteran was engaged in combat with the enemy under
+
+round 40, index 33: 
+Evidence of a nexus between the in-service injury or disease and the current disability (Medical evidence or presumption that certain disabilities manifest within certain periods are related to service);
+
+round 41, index 31: 
+Evidence of incurrence or aggravation of disease or injury in service (lay or medical evidence);
+
+round 42, index 91: 
+There was no evidence of hallucinations or delusions of grandeur, and the veteran denied unwanted thoughts or sleep difficulty.
+
+round 43, index 106: 
+He described having nightmares once every three or four months.
+
+round 44, index 32: 
+(3)
+
+round 45, index 28: 
+(1)
+
+round 46, index 65: 
+(2)
+
+round 47, index 38: 
+Furthermore, a claim that is not well grounded must be denied.
+
+round 48, index 69: 
+In Collette, it was expressly held that during the first two steps of this sequential analysis, the credibility determination must be made as to the veterans evidence standing alone, not weighing the veterans evidence with contrary evidence.
+
+round 49, index 66: 
+Is the proffered evidence consistent with the circumstances, conditions, or hardships of such service.
+
+round 50, index 87: 
+He was also sometimes placed on graves detail, which involved the retrieval of both friendly and enemy soldiers following combat.
+
+round 51, index 89: 
+He initially worked for several timber companies and as a lead salvage specialist from 1980 to 1992.
+
+round 52, index 30: 
+(2)
+
+round 53, index 67: 
+(3)
+
+round 54, index 62: 
+(1)
+
+round 55, index 110: 
+The examiner went on to note that psychosocial stressors had been accumulating through the years, starting with dehumanizing experiences in Vietnam, exposure to high noise during combat, exposure to lead with subsequent lead poisoning, multiple concussions, and alcohol exposure.
+
+round 56, index 68: 
+Once these the first two steps are met, the Secretary shall accept the veterans evidence as sufficient proof of service connection, even if no official record of such incurrence exists, unless the government can met the burden of showing clear and convincing evidence to the contrary.
+
+round 57, index 34: 
+The Court has further held that a lay person is not competent to make a medical diagnosis or to relate a medical disorder to a specific cause.
+
+round 58, index 90: 
+Mental status examination at this time revealed that that his mood varied form unremarkable to mildly sad.
+
+round 59, index 29: 
+Competent evidence of current disability (medical diagnosis);
+

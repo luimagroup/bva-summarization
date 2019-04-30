@@ -1,0 +1,180 @@
+round 0, index 42: 
+The rationale for all opinions expressed should be set forth.
+
+round 1, index 43: 
+All necessary tests should be performed.
+
+round 2, index 44: 
+The claims folder should be made available to the examiner for review of pertinent documents therein in conjunction with the examination.
+
+round 3, index 45: 
+The examiner should indicate whether the claims file was reviewed.
+
+round 4, index 52: 
+This remand is in the nature of a preliminary order and does not constitute a decision of the Board on the merits of your appeal.
+
+round 5, index 51: 
+Veterans Law Judge, Board of Veterans' AppealsUnder 38 U.S.C.A. § 7252 (West 2002), only a decision of the Board of Veterans' Appeals is appealable to the United States Court of Appeals for Veterans Claims.
+
+round 6, index 38: 
+The veteran should then be afforded a VA examination by the appropriate specialist to determine the nature and etiology of any current psychiatric disability, to include PTSD and/or depression.
+
+round 7, index 5: 
+The appeal is REMANDED to the RO via the Appeals Management Center (AMC), in Washington, DC.  VA will notify you if further action is required on your part.
+
+round 8, index 40: 
+In this regard, the examiner is requested to furnish an opinion as to whether any behavioral changes that occurred at or close in time to the alleged personal assaults indicate the occurrence of an alleged in-service stressor.
+
+round 9, index 41: 
+The examiner should be also requested to furnish an opinion as to whether it is at least as likely as not (50 percent or greater probability) that any other psychiatric disorder that may be present, to include depression, is etiologically related to service.
+
+round 10, index 39: 
+The examiner should be requested to furnish an opinion as to whether it as at least as likely as not (50 percent or greater probability) that any current PTSD, if diagnosed, is etiologically related to her claimed stressors in service.
+
+round 11, index 37: 
+After securing the necessary authorizations for release of this information, the RO should seek to obtain copies of all treatment records referred to by the veteran, not already of record.
+
+round 12, index 36: 
+The RO should contact the veteran and request that she furnish the names, addresses, and dates of treatment of all medical providers from whom she has received treatment for her pyschiatric disability, including PTSD since her discharge from service.
+
+round 13, index 35: 
+If after an exhaustive search, it is determined that the report is not available, document this fact and note all attempts that were made to locate it.
+
+round 14, index 34: 
+The RO should attempt to locate the November 1979 military police report at Ft. Gordon referenced by the veteran during her November 2005 hearing.
+
+round 15, index 33: 
+The RO must ensure that all VCAA notice obligations have been satisfied, specifically as to a PTSD stressor development letter with notice of alternate sources of evidence for verification of personal assaults, as contained in 38 C.F.R. § 3.304(f)(3) (2005) and the VA ADJUDICATION PROCEDURE MANUAL
+
+round 16, index 32: 
+As such, the case is REMANDED to the RO for the following actions:
+
+round 17, index 49: 
+Thereafter, the case should be returned to the Board, as appropriate.
+
+round 18, index 50: 
+The appellant has the right to submit additional evidence and argument on the matter the Board has remanded.
+
+round 19, index 48: 
+She should be afforded an opportunity to respond to the supplemental statement of the case.
+
+round 20, index 47: 
+If the determination remains adverse to the veteran, a supplemental statement of the case should be sent to her and her representative.
+
+round 21, index 31: 
+Under the circumstance, the Board finds that additional development is required.
+
+round 22, index 46: 
+Thereafter, the RO should review all of the evidence of record, including all new evidence, and readjudicate the issue of entitlement to service connection for PTSD due to personal assault.
+
+round 23, index 30: 
+Thus, the Board finds that an attempt should be made to locate such report.
+
+round 24, index 18: 
+However, in her January 2004 Notice of Disagreement, the veteran indicated that she did not receive notification of the examination until after the fact.
+
+round 25, index 9: 
+However, in a February 1980 report of examination, the veteran reported a history of frequent trouble sleeping, depression or excessive worry, nervous trouble, periods of unconsciousness, and fear.
+
+round 26, index 26: 
+Nevertheless, in light of the need to remand the appeal for the additional reasons outlined herein, the veteran should be provided a VCAA notice letter specific to the veteran's claim for service connection for PTSD based on personal assaults.
+
+round 27, index 29: 
+However, the veteran indicated that she had not obtained the report.
+
+round 28, index 6: 
+The veteran asserts that service connection is warranted for PTSD based on personal assault.
+
+round 29, index 4: 
+A transcript of that hearing has been associated with the claims file.
+
+round 30, index 0: 
+The veteran had active service in August 1979 to March 1980.
+
+round 31, index 1: 
+This case comes before the Board of Veterans' Appeals (the Board) on appeal from a January 2003 rating decision of the
+
+round 32, index 2: 
+Cleveland, Ohio Department of Veterans Affairs (VA) Regional Office (RO).
+
+round 33, index 8: 
+Medically, the record reflects that the veteran was psychiatrically normal on her August 1979 enlistment examination and that she denied a history of depression or excessive worry, frequent trouble sleeping, or nervous trouble of any sort.
+
+round 34, index 7: 
+The claims folder establishes that her claimed stressors include being sexually assaulted in November 1979, January 1980, and February 1980.
+
+round 35, index 3: 
+In November 2005, the veteran testified at a personal hearing before the Board.
+
+round 36, index 22: 
+The Board observes that although the veteran's claimed stressors include the alleged occurrence of in-service personal assaults, the RO developed the veteran's PTSD claim under provisions of 38 C.F.R. § 3.304(f) and not under the provisions 38 C.F.R. § 3.304(f)(3) (2005)(for PTSD claims based on in-service personal assaults).
+
+round 37, index 25: 
+In this regard, the Board notes that a statement of the case issued in April 2004 contained the provisions of 38 C.F.R. § 3.304 (f)(3) which outline examples of alternate sources of evidence that may be utilized for verification of personal assaults.
+
+round 38, index 27: 
+During her November 2005 hearing, the veteran reported that she filed a report with the military police station at Ft.
+
+round 39, index 28: 
+Gordon after her November 1979 assault and that the individual who allegedly assaulted her was brought in.
+
+round 40, index 20: 
+However, she indicated that she did not receive notice of any such examination.
+
+round 41, index 19: 
+According to the veteran, she contacted the RO to inform them of this and was told that they would send a request to reschedule.
+
+round 42, index 21: 
+Thus, as the veteran has not undergone a VA examination to determine the nature and etiology of her pyschiatric symptomology or a clinical opinion, the Board finds a VA examination and clinical opinion is warranted.
+
+round 43, index 17: 
+The Board observes that she was scheduled for examination in July 2002 and failed to report.
+
+round 44, index 24: 
+The Board also notes that although the veteran was issued VCAA notice for a PTSD claim in November 2001, the record does not reflect that she was provided notice at that time of the alternate sources of evidence that may be utilized for verification of personal assaults, as contained in 38 C.F.R. § 3.304 (f)(3) (2005), as required by the Veterans Claims Assistance Act of 2000, Pub. L. No. 106-475, 114 Stat. 2096 (2000).
+
+round 45, index 16: 
+Also, the record does not demonstrate that the veteran has undergone VA examination.
+
+round 46, index 0: 
+The veteran had active service in August 1979 to March 1980.
+
+round 47, index 15: 
+However, the Board observes that the record does not demonstrate that any of these examiners reviewed the veteran's claims file prior to rendering their diagnosis.
+
+round 48, index 0: 
+The veteran had active service in August 1979 to March 1980.
+
+round 49, index 13: 
+Additionally, the record reflects that the veteran has undergone outpatient treatment for recurrent depression since 2001.
+
+round 50, index 10: 
+An examiner also reported that the veteran was nervous.
+
+round 51, index 0: 
+The veteran had active service in August 1979 to March 1980.
+
+round 52, index 11: 
+Additionally, the record reflects that in March 1980, the veteran went to the Communicable Disease Clinic for gonorrhea.
+
+round 53, index 0: 
+The veteran had active service in August 1979 to March 1980.
+
+round 54, index 14: 
+Further, although some VA outpatient examiners have diagnosed the veteran with PTSD, one has indicated that she did not meet the diagnostic requirement for it.
+
+round 55, index 23: 
+Therefore, the Board concludes, that it must be determined whether the alleged assaults in service are verified by the record.
+
+round 56, index 0: 
+The veteran had active service in August 1979 to March 1980.
+
+round 57, index 12: 
+Moreover, the record establishes that in March 1980, the veteran was discharged due to unsuitability after she was diagnosed with schizoid personality, as manifested by shyness, oversensitivity, seclusiveness, avoidance of close or competitive relationships, and often eccentricity.
+
+round 58, index 0: 
+The veteran had active service in August 1979 to March 1980.
+
+round 59, index 0: 
+The veteran had active service in August 1979 to March 1980.
+

@@ -1,0 +1,180 @@
+round 0, index 62: 
+Service connection for PTSD is denied.
+
+round 1, index 61: 
+As the preponderance of the evidence is against the claim, the benefit of the doubt doctrine is not for application.
+
+round 2, index 60: 
+In sum, the evidence demonstrates that the Veteran is not entitled to service connection for PTSD.
+
+round 3, index 5: 
+Notice was provided in a September 2008 letter.
+
+round 4, index 59: 
+As the Veteran bases his claim on the reported stressors, service connection cannot be granted without verification of them, regardless of the current diagnosis of PTSD or positive nexus opinion.
+
+round 5, index 6: 
+Accordingly, the duty to notify has been fulfilled.
+
+round 6, index 8: 
+The Board has carefully reviewed the record and concludes that there has been no identification of further available evidence not already of record.
+
+round 7, index 10: 
+An October 2009 VA memorandum states that VA had determined that these service medical records were unavailable, all procedures to obtain them had been correctly followed, all efforts to obtain them had been exhausted, further efforts were futile, and, based on these facts, the records were unavailable.
+
+round 8, index 9: 
+Service treatment records from November 1968 to June 1971 are unavailable.
+
+round 9, index 7: 
+With regard to the duty to assist, the claim's file contains the Veteran's available service treatment records, service personnel records, VA and private medical records, and the transcript of a September 2013 hearing before the undersigned Veterans Law Judge.
+
+round 10, index 3: 
+PTSD was not incurred in or aggravated by active service.
+
+round 11, index 11: 
+The memorandum lists the attempts made to obtain the records.
+
+round 12, index 2: 
+The evidence does not show that the Veteran engaged in combat or experienced a stressor during active duty.
+
+round 13, index 4: 
+REASONS AND BASES FOR FINDING AND CONCLUSIONNotice and AssistanceVA has duties to notify and assist claimants in substantiating a claim for VA benefits.
+
+round 14, index 58: 
+In the absence of a showing of combat with the enemy or evidence of a verifiable stressor, the Board concludes that the Veteran has failed to satisfy the criteria for service connection for PTSD.
+
+round 15, index 13: 
+A VA examination was conducted in March 2012.
+
+round 16, index 63: 
+Veterans Law Judge, Board of Veterans' AppealsDepartment of Veterans Affairs
+
+round 17, index 12: 
+The Board is aware that in such situations, it has a heightened obligation to explain its findings and conclusions and carefully consider the benefit-of-the-doubt rule.
+
+round 18, index 14: 
+To that end, when VA undertakes to provide a VA examination or obtain a VA opinion, it must ensure that the examination or opinion is adequate.
+
+round 19, index 15: 
+The Board finds that the March 2012 VA examination report is more than adequate in that it reflects a review of the Veteran's claims file, considers all of the pertinent evidence of record and provides a rationale for the opinion offered.
+
+round 20, index 17: 
+The Board finds that all relevant facts have been properly and sufficiently developed in this appeal and no further development is required to comply with the duty to assist the Veteran in developing the facts pertinent to his claim.
+
+round 21, index 51: 
+A medical opinion premised upon an unsubstantiated account of a claimant is of no probative value.
+
+round 22, index 33: 
+In so finding, the Board observes that there is no evidence that the Veteran was in combat or that he experienced a stressful event during service.
+
+round 23, index 16: 
+Parenthetically, the Board notes that, as discussed below, the opinion provided does not support the Veteran's claim as a stressor has not been established.
+
+round 24, index 18: 
+Legal AnalysisThe Veteran contends that he incurred PTSD during active duty.
+
+round 25, index 32: 
+Based on a thorough review of the record, the Board finds that the preponderance of the evidence is against the Veteran's claim for service connection for PTSD.
+
+round 26, index 31: 
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination, the benefit of the doubt is afforded the claimant.
+
+round 27, index 19: 
+During the hearing and the VA examination, he reported two stressors during active duty.
+
+round 28, index 1: 
+This case is before the Board of Veterans' Appeals (BVA or Board) on appeal from a March 2010 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO) in St. Louis, Missouri, which denied the benefit sought on appeal.
+
+round 29, index 56: 
+The Board is not bound to accept the Veteran's uncorroborated account of his experiences.
+
+round 30, index 30: 
+In each case where a veteran is seeking service connection for any disability, due consideration shall be given to the places, types, and circumstances of such veteran's service as shown by such veteran's service record, the official history of each organization in which such veteran served, such veteran's medical records, and all pertinent medical and lay evidence.
+
+round 31, index 0: 
+The Veteran served on active duty from November 1968 to June 1971, and from September 1984 to February 2005.
+
+round 32, index 44: 
+Significantly, the Veteran has not provided any specific details in support of his contentions that he was in combat while attached to MACV.
+
+round 33, index 20: 
+One occurred while he was with HQ Advisory Group 75th, U.S. Military Assistance Command (MACV), when a jeep in a convoy he was in was hit by a mortar.
+
+round 34, index 36: 
+He stated that he was with MACV at the time of the combat.
+
+round 35, index 22: 
+The second stressor occurred when the Veteran was traveling by motorcycle in Thailand.
+
+round 36, index 34: 
+The Veteran's service personnel records and DD 214 fail to show that he was in combat.
+
+round 37, index 26: 
+In addition, service connection may be granted for any disease diagnosed after discharge, when all the evidence including that pertinent to service, establishes that the disease was incurred in service.
+
+round 38, index 25: 
+The relevant law provides that service connection may generally be granted for a disability resulting from disease or injury incurred in or aggravated by active military service.
+
+round 39, index 27: 
+In particular, service connection for PTSD requires: (1) medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a) (i.e., DSM-IV); (2) credible supporting evidence that the claimed in-service stressor(s) occurred; and (3) medical evidence establishing a link between the current diagnosis and the stressor(s) in service.
+
+round 40, index 35: 
+Although the Veteran asserted that he was in combat, the Veteran has offered no specific details as to dates and locations.
+
+round 41, index 21: 
+The Veteran was told that his name was Alfredo Gonzalez, and the Veteran was ordered to clean up the deceased's body parts.
+
+round 42, index 45: 
+In fact, as noted above, the Veteran's service personnel records fail to show that he was ever attached to MACV.
+
+round 43, index 46: 
+When a claimed stressor is not related to combat a veteran's lay testimony alone will not be enough to establish the occurrence of the alleged stressor.
+
+round 44, index 57: 
+The question of whether a specific event reported by a veteran as a stressor actually occurred is a question of fact for the Board to decide, involving, as it does, factors as much historical as psychological.
+
+round 45, index 23: 
+A friend named Jones, who was also riding a motorcycle, was decapitated as he drove with the Veteran.
+
+round 46, index 24: 
+In August 2008 correspondence and his claim for benefits, the Veteran stated that while with the MACV Advisory Team in Vietnam he engaged in firefights during which artillery was used.
+
+round 47, index 47: 
+The record must contain corroborative evidence that substantiates or verifies the Veteran's testimony or statements as to the occurrence of the claimed stressor.
+
+round 48, index 55: 
+A March 2010 statement from the Joint Service Records Research Center reflected that examined records did not document that a person named Jones was killed, or was killed in an accident, in Thailand during the relevant period.
+
+round 49, index 54: 
+The Vietnam Casualty List did not contain the name of Specialist Alfredo Gonzalez as being killed in Vietnam.
+
+round 50, index 50: 
+The diagnoses are based solely on the Veteran's unsubstantiated assertions regarding what occurred in service.
+
+round 51, index 28: 
+Effective July 13, 2010, VA amended its adjudication regulations governing service connection for PTSD by liberalizing, in certain circumstances, the evidentiary standard for establishing the required in-service stressor.
+
+round 52, index 48: 
+There is no evidence in this case to confirm any of the Veteran's alleged stressors.
+
+round 53, index 29: 
+These amendments pertain to claimed stressors that are related to a veteran's fear of hostile military or terrorist activity.
+
+round 54, index 49: 
+The diagnoses of PTSD in the Veteran's VA treatment records and the March 2012 VA examination report do not corroborate that any stressor occurred.
+
+round 55, index 53: 
+A March 2010 VA memorandum in the claims file notes that the Veteran's service personnel records do not record that he was ever attached to HQ Advisory Group 75th (MACV).
+
+round 56, index 37: 
+However, the Veteran's service personnel records fail to show that he was ever attached to MACV.
+
+round 57, index 39: 
+The March 2012 VA examination report provides an Axis I diagnosis of PTSD.
+
+round 58, index 38: 
+VA treatment records dated during the appeal period reflects a diagnosis of PTSD; combat related.
+
+round 59, index 41: 
+The report relates that the Veteran did not report any other stressors.
+

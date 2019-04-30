@@ -1,0 +1,180 @@
+round 0, index 80: 
+This claim must be afforded expeditious treatment.
+
+round 1, index 81: 
+The law requires that all claims that are remanded by the Board of Veterans' Appeals or by the United States Court of Appeals for Veterans Claims for additional development or other appropriate action must be handled in an expeditious manner.
+
+round 2, index 79: 
+No inference should be drawn regarding the final disposition of this claim as a result of this action.
+
+round 3, index 78: 
+The purposes of this remand are to obtain additional information and comply with all due process considerations.
+
+round 4, index 82: 
+Acting Veterans Law Judge, Board of Veterans' AppealsUnder 38 U.S.C.A. § 7252 (West 2002), only a decision of the Board of Veterans' Appeals is appealable to the United States Court of Appeals for Veterans Claims.
+
+round 5, index 83: 
+This remand is in the nature of a preliminary order and does not constitute a decision of the Board on the merits of your appeal.
+
+round 6, index 62: 
+All indicated tests and studies should be performed.
+
+round 7, index 55: 
+Accordingly, the case is REMANDED for the following action:
+
+round 8, index 60: 
+The claims file, including all newly obtained evidence and a copy of this remand, must be made available to the examiner in conjunction with the examination.
+
+round 9, index 61: 
+A notation to the effect that this review has taken place should be made in the evaluation report.
+
+round 10, index 59: 
+The purpose of the examination is to determine the nature, extent, and etiology of any psychiatric disorder that the Veteran has.
+
+round 11, index 17: 
+The appeal is REMANDED to the RO via the Appeals Management Center (AMC), in Washington, DC.  VA will notify the appellant if further action is required.
+
+round 12, index 56: 
+The agency of original jurisdiction shall ask the Veteran to identify all locations of VA treatment or evaluation for his asserted disability and contact each VA medical facility identified by the Veteran to obtain ongoing medical treatment records pertaining thereto.
+
+round 13, index 58: 
+The agency of original jurisdiction shall schedule the Veteran for a VA mental disorders examination by an appropriate physician other than the examiner who conducted the December 2011 examination.
+
+round 14, index 63: 
+All pertinent psychiatric pathology should be noted in the examination report.
+
+round 15, index 77: 
+He has the right to submit additional evidence and argument on the matter or matters the Board has remanded.
+
+round 16, index 50: 
+However, she determined that these symptoms are "primarily linked to maladaptive personality traits."
+
+round 17, index 76: 
+The Veteran need take no action until he is so informed.
+
+round 18, index 19: 
+The Board regrets the delay associated with this remand, especially considering that this matter was the subject of a previous remand.
+
+round 19, index 75: 
+Thereafter, if appropriate, the case is to be returned to the Board, following applicable appellate procedure.
+
+round 20, index 57: 
+All records obtained must be associated with the Veteran's claims file2.
+
+round 21, index 37: 
+Unfortunately, those records are largely illegible.
+
+round 22, index 74: 
+An appropriate period of time shall be allowed for response.
+
+round 23, index 54: 
+(VA medical records are in constructive possession of the agency, and must be obtained if the material could be determinative of the claim).
+
+round 24, index 53: 
+Finally, as this matter is being remanded for the reasons set forth above, any additional VA treatment records of the Veteran for his asserted psychiatric disorder should also be obtained.
+
+round 25, index 10: 
+This matter was previously before the Board in November 2011 at which time it was remanded for additional development.
+
+round 26, index 12: 
+In correspondence dated in June 2013, the Veteran indicated that he wished to open a "pension claim with aid and attendance."
+
+round 27, index 65: 
+The examiner must specifically address all relevant post-service treatment records.
+
+round 28, index 11: 
+It is now returned to the Board.
+
+round 29, index 64: 
+For any psychiatric disability diagnosed on examination, the examiner should determine whether it is at least as likely as not that any such disability either had its onset during the Veteran's active service, was manifested to a compensable degree within one year from separation from service, or is otherwise etiologically related to his active service.
+
+round 30, index 70: 
+The agency of original jurisdiction will then review the Veteran's claims file and ensure that the foregoing development actions have been conducted and completed in full, and that no other notification or development action, in addition to those directed above, is required.
+
+round 31, index 51: 
+The Board finds that the December 2011 opinion is confusing, contradictory, and inadequate for service connection purposes.
+
+round 32, index 0: 
+The Veteran had active service from October 1985 to October 1987.
+
+round 33, index 1: 
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from an August 2007 decision by the Department of Veterans Affairs (VA), Regional Office (RO), in Nashville, Tennessee.
+
+round 34, index 13: 
+This issue has not been adjudicated by the agency of original jurisdiction.
+
+round 35, index 52: 
+Thus, another examination and opinion should be obtained regarding the etiology of any psychiatric disability that the Veteran may be found to have.
+
+round 36, index 20: 
+However, another remand is necessary to ensure that the Veteran is accorded full compliance with the statutory duty to assist.
+
+round 37, index 18: 
+After carefully considering this matter, and for reasons expressed immediately below, the Board believes that this case must be remanded for further development of the record.
+
+round 38, index 68: 
+If the examiner is unable to provide an opinion without resort to speculation, he or she should explain why this is so and what if any additional evidence would be necessary before an opinion could be rendered.
+
+round 39, index 71: 
+If further action is required, it should be undertaken prior to further claims adjudication.
+
+round 40, index 69: 
+The examiner must provide a rationale for each opinion given.
+
+round 41, index 5: 
+(the scope of a claim pursued by a claimant includes any diagnosis that may reasonably be encompassed by the claimant's description of the claim, reported symptoms, and the other information of record).
+
+round 42, index 14: 
+Therefore, the Board does not have jurisdiction over it, and it is referred to the agency of original jurisdiction for appropriate action.
+
+round 43, index 72: 
+The agency of original jurisdiction will then readjudicate the Veteran's claim.
+
+round 44, index 73: 
+If the benefit sought on appeal remains denied, the Veteran and his representative shall be provided with a Supplemental Statement of the Case.
+
+round 45, index 15: 
+In addition to the paper claims file, there is a Virtual VA paperless claims file associated with the Veteran's claim.
+
+round 46, index 16: 
+A review of the documents in such file reveals that they are either duplicative of the evidence in the paper claims file or are irrelevant to the issue on appeal.
+
+round 47, index 7: 
+In August 2011, he testified at a video conference hearing before the undersigned Acting Veterans Law Judge.
+
+round 48, index 66: 
+In addition, the examiner should assume that, as the Veteran has asserted, he was the victim of a sexual assault and subsequent harassment during service.
+
+round 49, index 2: 
+The Veteran has been diagnosed with numerous psychiatric disorders over the years, to include panic attacks, agoraphobia, anxiety disorder, depression, panic disorder, and obsessive compulsive disorder.
+
+round 50, index 9: 
+Transcripts of both hearings are associated with the claims file.
+
+round 51, index 6: 
+In August 2008, the Veteran testified at a hearing before a Decision Review Officer (DRO).
+
+round 52, index 47: 
+The examiner reviewed the claims file and gave an Axis I diagnosis of panic attacks, but found no evidence of a service connected mental disorder.
+
+round 53, index 67: 
+The absence of evidence of treatment for a psychiatric disorder in the Veteran's service treatment records cannot, standing alone, serve as the basis for a negative opinion.
+
+round 54, index 33: 
+However, the etiology of any current psychiatric disability remains unclear.
+
+round 55, index 48: 
+The examiner noted that the Veteran's presentation and verbal report was "suggestive of a primary characterological disorder rather than a mood or anxiety disorder."
+
+round 56, index 21: 
+The Veteran contends that he developed a psychiatric disability as a result of being sexually assaulted, and subsequently harassed, by a higher ranking service member.
+
+round 57, index 34: 
+The Veteran contends that he has suffered from panic attacks ever since service.
+
+round 58, index 35: 
+He maintains that he sought treatment from various providers for chest pain beginning shortly after discharge.
+
+round 59, index 36: 
+Post-service private treatment records establish that the Veteran sought medical treatment for various symptoms, to include chest pain, from 1988 to the early 1990's.
+

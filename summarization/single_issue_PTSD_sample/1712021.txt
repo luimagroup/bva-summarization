@@ -1,0 +1,145 @@
+Citation Nr: 1712021	
+Decision Date: 04/13/17    Archive Date: 04/19/17
+
+DOCKET NO.  09-50 874	)	DATE
+	)
+	)
+
+On appeal from the
+Department of Veterans Affairs Regional Office in Huntington, West Virginia
+
+
+THE ISSUE
+
+Entitlement to service connection for an acquired psychiatric disorder, to include posttraumatic stress disorder (PTSD), panic disorder with agoraphobia, and anxiety.
+
+
+REPRESENTATION
+
+Veteran represented by:	West Virginia Department of Veterans Assistance
+
+
+ATTORNEY FOR THE BOARD
+
+S. Vang, Associate Counsel
+
+
+
+INTRODUCTION
+
+The Veteran served on active duty from November 1965 to November 1968.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from an October 2008 rating decision by the Department of Veterans Affairs (VA) Regional Office (RO) in Huntington, West Virginia, which denied the Veteran's petition to re-open his claim for service connection for a claimed nervous disorder, to include PTSD, panic disorder, agoraphobia, and anxiety.  
+
+On the December 2009 substantive appeal, the Veteran requested a Board hearing.  However, in September 2011, the Veteran withdrew his request for a Board hearing.  As the Veteran did not subsequently submit a motion for a new hearing, the hearing request is deemed withdrawn.  See 38 C.F.R. § 20.704(e) (2016).
+
+The claim was previously before the Board.  In January 2012, the Board granted the Veteran's petition to re-open the claim and remanded the claim for additional development and an examination.  In February 2016, the claim was remanded again for a new examination.  In March 2016, an examination was completed.
+
+
+FINDINGS OF FACT
+
+1.  The Veteran has current diagnoses of panic disorder with agoraphobia and depressive disorder NOS, but the most probative evidence of record does not show a diagnosis of PTSD during the pendency of the appeal.
+
+2.  The most probative evidence of record indicates that the Veteran's panic disorder with agoraphobia and depressive disorder NOS are etiologically related to service.
+
+
+
+CONCLUSIONS OF LAW
+
+1.  Resolving all doubt in favor of the Veteran, the criteria for entitlement to service connection for an acquired psychiatric disorder, to include panic disorder with agoraphobia and depressive disorder NOS, have been met.  38 U.S.C.A. §§ 1110, 5107(b) (West 2014); 38 C.F.R. §§ 3.102, 3.303(a) (2016).
+
+2.  The criteria for service connection for PTSD are not met.  38 U.S.C.A. § 1110, (West 2014); 38 C.F.R. §§ 3.303(a), 3.304(f) (2016).
+
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+Duties to Notify and Assist
+
+The Veteran Claims Assistance Act of 2000 (VCAA), in part, describes VA's duties to notify and assist a claimant in substantiating a claim for VA benefits.  38 U.S.C.A. §§ 5102, 5103, 5103A, 5106, 5107 (West 2014); 38 C.F.R. §§ 3.102, 3.159, 3.326 (2016).  
+
+Upon receipt of a complete or substantially complete application for benefits, and prior to an initial unfavorable decision, VA is required to notify the claimant and his or her representative, if any, of any information, and any medical or lay evidence, that is necessary to substantiate the claim.  Proper notice from VA must inform the claimant of any information and evidence not of record: (1) that is necessary to substantiate the claim; (2) that VA will seek to provide; and (3) that the claimant is expected to provide.  38 U.S.C.A. § 5103(a) (West 2014); 38 C.F.R. § 3.159(b) (2016); Quartuccio v. Principi, 16 Vet. App. 183, 187 (2002); Pelegrini v. Principi, 18 Vet. App. 112, 120 (2004). 
+
+VA also has a duty to assist the Veteran in the development of the claim.  This duty includes assisting the Veteran in obtaining service treatment records and pertinent treatment records and providing an examination when necessary.  38 U.S.C.A. § 5103A (West 2014); 38 C.F.R. § 3.159(c) (2016); McLendon v. Nicholson, 20 Vet. App. 79, 83-86 (2006).  
+
+With respect to the claim for PTSD, the Board finds that VA has met its duties to notify and assist the Veteran.  VCAA notice requirements were satisfied by virtue of a letter dated April 2008, which was sent to the Veteran prior to the October 2008 decision.  The letter informed the Veteran of what evidence was required to substantiate the claim, and of his and VA's respective duties for obtaining evidence, as well as how disability ratings and effective dates are assigned.  The Board notes that during the course of the appeal period, the Veteran has indicated to VA examiners that he received mental health treatment at private facilities in the early 1980s.  However, the Board finds that additional development for these records is unnecessary because, as discussed in further detail below, the record does not contain evidence of a current diagnosis of PTSD during the appeal period.  See Sabonis v. Brown, 6 Vet. App. 426, 430 (1994) (stating that remands which would only result in unnecessarily imposing additional burdens on VA with no benefit flowing to the Veteran are to be avoided).  Therefore, no further development is required in regard to the PTSD claim.  
+
+With respect to the remaining issues of entitlement to service connection, the Board finds that VA's fulfillment of its duties to notify and assist need not be addressed at this time, considering that the service connection claim for an acquired psychiatric disorder, to include panic disorder and depressive disorder, is granted.
+
+Legal Criteria
+
+Entitlement to VA compensation may be granted for a disability resulting from disease or injury incurred in or aggravated by active military, naval, or air service; or for any disease initially diagnosed after service when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38 U.S.C.A. § 1110 (West 2014); 38 C.F.R. § 3.303(a) (2016).  
+
+Generally, establishing service connection for a claimed disability requires medical or, in certain circumstances, lay evidence of: (1) a current disability; (2) an in-service incurrence or aggravation of a disease or injury; and (3) a nexus between the current disability and the disease or injury incurred or aggravated during service.  Hickson v. West, 12 Vet. App. 247, 253 (1999).  
+
+Service connection for PTSD specifically requires medical evidence establishing a diagnosis of PTSD; credible supporting evidence that the claimed in-service stressor actually occurred; and a link, established by medical evidence, between the current symptomatology and the claimed in-service stressor.  38 C.F.R. § 3.304(f) (2016).  For claims certified for appeal to the Board or are pending before the Board prior to August 4, 2014, VA must apply the diagnostic criteria for PTSD set forth in the DIAGNOSTIC AND STATISTICAL MANUAL FOR MENTAL DISORDERS, Fourth Edition (DSM-IV). 
+
+The Veteran must present credible supporting evidence that the claimed in-service stressor occurred.  38 C.F.R. § 3.304(f) (2016).  Generally, lay testimony alone is not sufficient to establish that a stressor occurred and the record must contain evidence substantiating the occurrence of the claimed stressors.  However, there are specific circumstances in which lay testimony may be sufficient to establish a claimed stressor if, in the absence of clear and convincing evidence to the contrary, the stressor is consistent with the places, types, and circumstances of the Veteran's service.  Id.
+
+The Board is required to assess the credibility and probative weight of all relevant evidence, and may consider factors such as facial plausibility, bias, self-interest, and consistency with other evidence of record.  McClain v. Nicholson, 21 Vet. App. 319, 325 (2007) (Greene, J., concurring in part and dissenting in part) (noting that the Board has the duty to assess credibility and probative weight of evidence); see Jandreau v. Nicholson, 492 F.3d 1372, 1376 (Fed. Cir. 2007) (affirming that the Board retains discretion to make credibility determinations and otherwise weigh the evidence submitted, including lay evidence).  
+
+The probative value of medical opinion evidence is based on the medical expert's personal examination of the patient, the physician's knowledge and skill in analyzing the data, and the medical conclusion that the physician reaches.  Guerrieri v. Brown, 4 Vet. App. 467, 470-71 (1993).  As such, the Board may appropriately favor the opinion of one competent medical authority over another.  Owens v. Brown, 7 Vet. App. 429, 433 (1995); see Wensch v. Principi, 15 Vet. App. 362, 367 (2001).  
+
+The Veteran is entitled to the benefit of the doubt when there is an approximate balance of positive and negative evidence on any issue material to the claim.  38 U.S.C.A. § 5107(b) (West 2014); 38 C.F.R. § 3.102 (2016).  When the evidence supports the claim or is in relative equipoise, the claim will be granted.  Gilbert v. Derwinski, 1 Vet. App. 49, 54-55 (1990); see Wise v. Shinseki, 26 Vet. App. 517, 531 (2014).  If the preponderance of the evidence weighs against the claim, it must be denied.  Alemany v. Brown, 9 Vet. App. 518, 519 (1996). 
+
+Analysis
+
+The Veteran contends that an acquired psychiatric disorder was incurred in active service.  See March 2008 VA Form 21-4138. 
+
+Preliminarily, the Board notes that the evidence does not suggest, nor does the Veteran assert, that he was engaged in combat with the enemy or that his claimed PTSD is related to combat.  Although the Veteran served in a combat zone, Vietnam, his service personnel records and DD Form 214 do not reflect that he participated in combat or received any medals indicating combat service.  Thus, the combat provisions of 38 U.S.C.A. § 1154 are not applicable in this case. See VAOPGCPREC 12-99 (October 18, 1999) (finding that § 1154 does not apply to veterans who served in combat zones, but did not themselves engage in combat with the enemy).  
+
+With respect to the first service connection element, a current diagnosis, the Veteran has diagnoses of panic disorder with agoraphobia and depressive disorder NOS.  See September 2008 VA Examination; October 2009 VA Examination.  However, there is conflicting medical evidence as to whether the Veteran has a current diagnosis of PTSD during the appeal period.  
+
+In a May 2008 opinion, a Vet Center clinician opined that the Veteran presented with sufficient symptoms to warrant a diagnosis of PTSD, panic disorder with agoraphobic features, and depression.  The clinician addressed the DSM-IV diagnostic criteria A through D, but did not address criteria E and F.  In a May 2009 Vet Center record, a clinician noted that the Veteran's symptoms were significant, probable, and prominent with PTSD, but did not provide an assessment of the DSM-IV criteria. 
+
+Early VA medical records indicate that the Veteran was provided with a provisional diagnosis of PTSD during the appeal period.  In a June 2008 VA record, the Veteran was given a provisional diagnosis of PTSD.  In an August 2008 VA record, the Veteran presented with and was treated for unremitting PTSD symptoms.  In a November 2008 VA record, the Veteran was noted to have a significant history of chronic PTSD.  
+
+However, subsequent VA examinations have not revealed a diagnosis of PTSD.  In a September 2008 VA examination, the examiner opined that the DSM-IV criteria for a PTSD diagnosis were not met.  In an October 2009 VA examination, the Veteran received a diagnosis of panic disorder with agoraphobia and depressive disorder NOS, but a diagnosis of PTSD was ruled out.  The examiner opined that Vet Center records appeared consistent with a diagnosis of panic disorder rather than PTSD.  Moreover, the examiner stated that the May 2008 Vet Center opinion did not contain information about how a PTSD diagnosis was derived.  In a March 2016 VA examination, the examiner opined that the diagnostic criteria for a PTSD diagnosis were not met.
+
+Based on a review of the record, the Board finds that the evidence is against a finding of PTSD diagnosis during the appeal period.  The Board acknowledges that Vet Center records and early VA medical records indicate that the Veteran was diagnosed with PTSD.  However, the Veteran's Vet Center diagnosis of PTSD is not shown to have been diagnosed in accordance with 38 C.F.R. § 4.125 (2016).  Specifically, the provisions of § 4.125 applicable in this case require a diagnosis of PTSD in conformance with DSM-IV, which outlines six different criteria (A through F) that must be met.  Mental health professionals are generally presumed to have taken into account the required DSM requirements for a PTSD diagnosis, unless there is evidence to the contrary.  See Cohen v. Brown, 10 Vet. App. 128, 140 (1997).  The Board notes that the May 2008 Vet Center opinion and remaining Vet Center records did not address all the required DSM-IV criteria and, as such, does not meet the requirements for a diagnosis during the pendency of the appeal.  Further, subsequent VA examinations have ruled out a diagnosis of PTSD after addressing all the criteria set forth in DSM-IV.  As such, the Board finds that the May 2008 evidence is not probative.
+
+Accordingly, the Board finds that the Veteran did not have a diagnosis of PTSD during the pendency of the appeal, but the Veteran does have current diagnoses of panic disorder with agoraphobia and depressive disorder NOS.  See Brammer v. Derwinski, 3 Vet. App. 223, 225 (1992) (specifically limiting entitlement to service-connected benefits to cases where there is a current disability).  
+
+With respect to the second service connection element, an in-service incurrence or event, the Veteran maintains that he experienced a significant amount of trauma after witnessing a soldier drown in service.  See May 2008 VA Form 21-0781.  Additionally, the Veteran testified that he feared for his life because his duties as a cargo handler involved handling munitions and explosives.  See March 2013 DRO Hearing Transcript; see also DD Form 214 (showing that the Veteran's Military Occupational Specialty was cargo handler).  The record contains a March 1967 Report of Casualty that corroborates the Veteran's report of a drowning in service.  Additionally, the October 2009 VA examiner opined that the Veteran was exposed to a traumatic event because he witnessed a death in service.  As such, the Board finds that there is credible evidence that an in-service event occurred.
+
+With respect to the third service connection element, evidence of a nexus between the Veteran's current acquired psychiatric disorder and active service, the Board notes that there are several conflicting medical opinions.  
+
+Prior to the appeal period, in a June 2002 private medical record from C.F.P., a treating clinician noted that the Veteran was suffering from depression, panic attacks, and post-traumatic stress from the Vietnam War.  A rationale was not provided.  In September 2006, the Veteran was afforded a VA examination wherein he reported that his panic disorder started immediately after returning from Vietnam and that it got worse over the years.  The examiner opined that the panic disorder was at least as likely as not related to service, based on the history provided by the Veteran.  However, in rendering this opinion, the examiner relied on the Veteran's report of being in a combat zone and exposure to killing in the war in Vietnam.  As previously noted, the record does not indicate that the Veteran was engaged in combat during service.  As such, the Board finds the September 2006 opinion to be of limited probative value.  See Reonal v. Brown, 5 Vet. App. 458, 461 (1993) (holding that the Board may reject a medical opinion based on an inaccurate factual basis).
+
+In a May 2008 opinion, a Vet Center clinician determined that the Veteran presented with sufficient symptoms to warrant a diagnosis of panic disorder with agoraphobia and depression.  The clinician opined that the Veteran's pattern of anger, distress, and fear were related to issues surrounding Vietnam.  Although the opinion was brief and did not reconcile the Veteran's inconsistent self-reports as to the onset of his symptoms, the Board finds that the May 2008 opinion is credible and probative because it is based on the clinician's knowledge of the Veteran's disorder.  See Monzingo v. Shinseki, 26 Vet. App. 97, 106 (2012) (specifying that the fact that the rationale provided by an examiner "did not explicitly lay out the examiner's journey from the facts to a conclusion," did not render the examination inadequate); see also Guerrieri, 4 Vet. App. at 470-71.  Additionally, the Veteran's Vet Center records indicate that the clinician is familiar with the history and treatment of the Veteran's panic disorder and depressive disorder NOS.  See Acevedo v. Shinseki, 25 Vet. App. 286, 294 (2012) (finding medical reports must be read as a whole and in the context of the evidence of record).  
+
+In September 2008, the Veteran was afforded a VA examination wherein the Veteran reported that he first sought mental health treatment for his panic attacks in the early 1980s.  A nexus opinion was not provided.  As such, the examination is inadequate for the Board to make an informed decision on the Veteran's claim.
+
+In October 2009, the Veteran was afforded another VA examination.  The Veteran reported that his symptoms started in 1976, but was unable to recall his first panic attack or the circumstances surrounding it.  The examiner, C.H., opined that it was less likely than not that the panic disorder was caused by active service because it was not possible to hypothesize as to the origins of the panic disorder.  However, he did not address whether additional evidence was needed or whether his inability to provide an opinion was based on the limits of medical knowledge.  See Jones v. Shinseki, 23 Vet. App. 382, 392-93 (2011).  He also opined that it was theoretically possible that the Veteran's panic disorder was related to service, but there was no available evidence to directly link the two and, as such, it was less likely than not related to the in-service event.  
+
+In a July 2010 addendum opinion, C.H. provided another opinion.  For the sake of clarity, the Board notes that the examiner initially addresses the Veteran's disorder as a panic disorder, but subsequently refers to it as an anxiety disorder.  It is unclear if the examiner's use of the term anxiety disorder also encompasses the Veteran's depressive disorder NOS.  The examiner opined that the Veteran's anxiety disorder was less likely than not related to service, but it remained possible that it was related to service.  He noted that the Veteran provided inconsistent reports of when his panic disorder manifested, that discharge documents were silent for complaints, and that there was no evidence of treatment until the early 1980s.  Additionally, he stated that the evidence argued against the presence of a psychiatric disorder until the 1980s because the Veteran did not experience significant enough impairment to seek treatment until then.  
+
+The Board acknowledges that the Veteran's self-reports regarding the date of onset have been inconsistent.  However, the October 2009 and July 2010 opinions are internally inconsistent because the opinions appear to weigh both in favor and against the Veteran's claim.  See Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 301 (2008) (emphasizing that "a medical opinion must contain clear conclusions and supporting data, as well as 'a reasoned medical explanation' connecting the two").  As such, the October 2009 examination and July 2010 opinion are of limited probative value.  
+
+In June 2014, the Veteran was afforded a VA examination.  However, the Veteran was unable to complete the examination.  As such, the examination is inadequate for the Board to make an informed decision on the Veteran's claim.
+
+In March 2016, the Veteran was afforded another VA examination.  The Veteran reported that his first panic attack occurred in service and that he first sought treatment from a psychiatrist in the late 1970s.  The examiner opined that the panic disorder was less likely than not incurred in or caused by the death of a friend during service, or fear for his life due to hostile military activities.  The examiner noted that discharge documents were negative for complaints of anxiety, depression, or other psychiatric disorders.  Additionally, she stated that there was no indication of treatment until the early 1980s and thus, no evidence that the full criteria for a psychiatric disorder were met until the 1980s.  The Board finds that the examiner is competent, and the opinion is credible.  However, the opinion is entitled to less probative weight because the examiner relied on the absence of contemporaneous medical evidence without reconciling her opinion with the Veteran's lay statements regarding onset.  See Dalton v. Nicholson, 21 Vet. App. 23, 40 (2007) (finding that an examination was inadequate where the examiner did not comment on the Veteran's report of in-service injury and relied on the lack of contemporaneous medical evidence to provide a negative opinion).  Additionally, the examiner did not address the etiology of the Veteran's depressive disorder NOS.  
+
+The Board finds that the record contains medical evidence both for and against the Veteran's claim, but, the most probative evidence of record is in favor of a finding of service connection.  As such, the Board will resolve all reasonable doubt in favor of the Veteran and find that the Veteran's panic disorder and depressive disorder are etiologically related to service.
+
+
+
+	(CONTINUED ON NEXT PAGE)
+
+
+
+
+ORDER
+
+Service connection for an acquired psychiatric disorder, to include panic disorder with agoraphobia and depressive disorder NOS, is granted.
+
+
+
+____________________________________________
+K. J. ALIBRANDO
+Veterans' Law Judge, Board of Veterans' Appeals
+
+
+
+Department of Veterans Affairs
+
+

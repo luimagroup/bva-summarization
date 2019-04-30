@@ -1,0 +1,180 @@
+round 0, index 197: 
+Service connection depressive disorder is granted.
+
+round 1, index 198: 
+Service connection for PTSD and alcohol abuse is denied.
+
+round 2, index 9: 
+Service connection for depressive disorder is warranted.
+
+round 3, index 132: 
+Establishing service connection on a secondary basis requires:
+
+round 4, index 44: 
+The Veteran recalls that they were told that, if the aircraft were launched, the Soviets would retaliate with nuclear weapons.
+
+round 5, index 43: 
+He recalls that he was fearful that there was a possibility of the end of life on earth because there were several times when it was believed that it was imminent that the U.S. was going to launch bombers toward the Soviet Union.
+
+round 6, index 42: 
+The Veteran's written communications and hearing testimony include his recollection that he saw a base psychiatrist and a chaplain prior to service discharge.
+
+round 7, index 41: 
+He also claims that his heavy drinking started during his time in the military and that he has alcoholism secondary to PTSD.
+
+round 8, index 98: 
+Dr.
+
+round 9, index 11: 
+Veterans Claims Assistance Act of 2000 (VCAA)
+
+round 10, index 128: 
+Service connection also may be granted for [a disease] initially diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that it was incurred in service.
+
+round 11, index 129: 
+In order to prevail on the issue of service connection, there must be medical evidence of a current disability; medical or, in certain circumstances, lay evidence of in-service incurrence or aggravation of a disease or injury; and medical evidence of a nexus between the claimed in-service disease or injury and the present disease or injury.
+
+round 12, index 131: 
+Service connection may be established on a secondary basis for a disability that is proximately due to, or the result of, or aggravated by a service-connected disease or injury.
+
+round 13, index 40: 
+Factual BackgroundThe Veteran claims that he developed a psychiatric disorder, alleged to be PTSD and depression, from serving at Plattsburgh Air Force Base (a SAC base) from January 1962 to July 1963 during the Cuban Missile Crisis (CMC).
+
+round 14, index 45: 
+The Veteran's DD Form 214, reflects that his last duty assignment and major command was with the 497th Field Maintenance Squadron (SAC) at Plattsburgh AFB, NY, and his military occupational specialty was aircraft missile pneudraulic repairman.
+
+round 15, index 127: 
+A demonstration of continuity of symptomatology is an alternative method of demonstrating the second and/or third elements discussed above.
+
+round 16, index 133: 
+(1)
+
+round 17, index 90: 
+The patient states that he is stable on anti-depressant medication, but if he were to stop the medication, the depression would return.
+
+round 18, index 199: 
+Veterans Law Judge, Board of Veterans' AppealsDepartment of Veterans Affairs
+
+round 19, index 10: 
+Service connection for PTSD and alcohol abuse is not warranted.
+
+round 20, index 12: 
+The VCAA, in part, describes VA's duties to notify and assist claimants in substantiating a claim for VA benefits.
+
+round 21, index 125: 
+Service connection may be granted for disability due to disease or injury incurred in or aggravated by active military service.
+
+round 22, index 130: 
+The determination as to whether these requirements are met is based on an analysis of all the evidence of record and an evaluation of its credibility and probative value.
+
+round 23, index 124: 
+Hence, the Board will summarize the relevant evidence as appropriate, and the Board's analysis will focus specifically on what the evidence shows, or fails to show, as to the claims.
+
+round 24, index 46: 
+As was noted above, the Veteran's STRs are presumed to have been lost in a 1973 fire at the NPRC in St. Louis, Missouri.
+
+round 25, index 4: 
+In September 2009, a videoconference hearing was held before the undersigned.
+
+round 26, index 47: 
+However, his alleged stressful event has been acknowledged (and is not in dispute).
+
+round 27, index 5: 
+A transcript of the hearing is associated with the Veteran's claims file.
+
+round 28, index 6: 
+The case was before the Board in November 2009 and November 2011, when it was remanded for additional development.
+
+round 29, index 7: 
+In January 2011, the Board sought an advisory medical opinion from the Veterans Health Administration (VHA).
+
+round 30, index 139: 
+When there is an approximate balance of positive and negative evidence regarding the merits of an issue material to the determination of the matter, the benefit of the doubt in resolving each such issue shall be given to the claimant.
+
+round 31, index 134: 
+Competent evidence (a medical diagnosis) of a current disability (for which secondary service connection is sought); (2) evidence of a service connected disability; and (3) competent evidence that the current disability was either caused or aggravated by the service connected disability.
+
+round 32, index 186: 
+However, service connection may be granted for an alcohol or drug abuse disability acquired secondary to or as a symptom of service-connected disability.
+
+round 33, index 39: 
+Accordingly, the Board finds that VA's duty to assist is met.
+
+round 34, index 1: 
+This matter is before the Board of Veterans' Appeals (Board) on appeal from
+
+round 35, index 0: 
+The appellant is a Veteran who served on active duty from July 1961 to July 1963.
+
+round 36, index 2: 
+January 2006 and November 2007 rating decisions of the Houston, Texas, Department of Veterans Affairs (VA)
+
+round 37, index 72: 
+(2)
+
+round 38, index 185: 
+The United States Court of Appeals for the Federal Circuit (Federal Circuit) has held that compensation cannot be awarded pursuant to 38 U.S.C.A. §§ 1110, 1131 and 38 C.F.R. § 105(a) either for a primary alcohol abuse disability incurred during service or for any secondary disability that resulted from primary alcohol abuse during service.
+
+round 39, index 187: 
+The Federal Circuit further stated that such compensation may be awarded only "where there is clear medical evidence establishing that alcohol or drug abuse is caused by a veteran's primary service-connected disability, and where the alcohol or drug abuse disability is not due to willful wrongdoing."
+
+round 40, index 3: 
+Regional Office (RO) which, respectively, denied service connection for depression/alcoholism and for PTSD.
+
+round 41, index 126: 
+A disorder may be service connected if the evidence of record shows that the veteran currently has a disorder that was chronic in service or, if not chronic, that was seen in service with continuity of symptomatology demonstrated thereafter.
+
+round 42, index 157: 
+In the absence of proof of a present disability, there is no valid claim of service connection.
+
+round 43, index 135: 
+In rendering a decision on appeal, the Board must analyze the credibility and probative value of the evidence, account for the evidence which it finds to be persuasive or unpersuasive, and provide the reasons for its rejection of any material evidence favorable to the claimant.
+
+round 44, index 136: 
+Competency of evidence differs from weight and credibility.
+
+round 45, index 193: 
+Consequently, he has not presented a valid claim of service connection for an alcohol abuse disability, and such claim must be denied.
+
+round 46, index 69: 
+(1)
+
+round 47, index 13: 
+The VCAA applies to the instant claim.
+
+round 48, index 184: 
+Moreover, Section 8052 also amended 38 U.S.C.A. § 105(a) to provide that, with respect to claims filed after October 31, 1990, an injury or disease incurred during active service will not be deemed to have been incurred in line of duty if the injury or disease was a result of the person's own willful misconduct, including abuse of alcohol or drugs.
+
+round 49, index 123: 
+(VA must review the entire record, but does not have to discuss each piece of evidence).
+
+round 50, index 92: 
+In reviewing the patient's chart, I cannot rule in or out the diagnosis of anxiety disorder NOS.
+
+round 51, index 91: 
+This would suggest a separate mood disorder, but it cannot be confirmed by treatment notes.
+
+round 52, index 76: 
+(3)
+
+round 53, index 194: 
+(38
+
+round 54, index 137: 
+The former is a legal concept determining whether testimony may be heard and considered by the trier of fact, while the latter is a factual determination going to the probative value of the evidence to be made after the evidence has been admitted.
+
+round 55, index 192: 
+Subsequent medical evidence shows that his alcoholism has remained in remission.
+
+round 56, index 138: 
+("although interest may affect the credibility of testimony, it does not affect competency to testify").
+
+round 57, index 94: 
+The C&P of 2010 mentions that there was a history of panic attacks and current symptom of worrying, but there is not enough information about the extent of the worrying, or other symptoms that would clarify an anxiety disorder.
+
+round 58, index 93: 
+[K's] initial note of 06/06/2007 under the diagnosis.
+
+round 59, index 122: 
+Although the Board has an obligation to provide reasons and bases supporting its decision, there is no need to discuss, in detail, every piece of evidence of record.
+

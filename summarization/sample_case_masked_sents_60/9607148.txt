@@ -1,0 +1,180 @@
+round 0, index 42: 
+Service connection for PTSD is granted.
+
+round 1, index 41: 
+Under these circumstances, the Board concludes that service connection for PTSD is warranted.
+
+round 2, index 39: 
+Such doubt is resolved in the veterans favor.
+
+round 3, index 38: 
+The veterans location in the Mekong Delta coupled with what is reported by the ESG, at very least raises a reasonable doubt as to this point.
+
+round 4, index 4: 
+He asserts that his account of the stressors is credible, that he did serve in combat and that PTSD has been diagnosed;
+
+round 5, index 40: 
+Moreover, there is a unanimity of medical opinion as to the fact that the veteran has PTSD which is due to his combat experiences.
+
+round 6, index 21: 
+One of the companies to which the veteran was assigned operated landing craft for the movement of personnel and cargo in the Mekong Delta, and these vessels were equipped with machine guns and grenade launchers.
+
+round 7, index 22: 
+P. A. Lyons, a clinical social worker, reported in January 1992 that the veteran had been initially seen in November 1991 due to complaints of sleep disturbance and nightmares of Vietnam.
+
+round 8, index 20: 
+Seven unit personnel were killed in action.
+
+round 9, index 37: 
+The Board finds that the veteran engaged in combat with the enemy.
+
+round 10, index 24: 
+C. M. Livingston, M. D., reported in May 1992 that she had first seen the veteran in January 1992 on referral from Mr. Lyons, a Vietnam outreach counselor.
+
+round 11, index 19: 
+The boats were subject to ambushes and mining incidents while traveling the Deltas narrow canals and rivers.
+
+round 12, index 18: 
+In any event the ESG did report that the veterans battalion did receive the Meritorious Unit Commendation and that the battalion provided critical combat service support in the Mekong Delta.
+
+round 13, index 23: 
+He felt that the veteran was probably suffering from PTSD.
+
+round 14, index 25: 
+She opined that he had PTSD secondary to his Vietnam related combat.
+
+round 15, index 26: 
+At a VA social survey conducted in May 1992, the veteran related stressors which included being in firefights, assisting a wounded American who died in his arms, observing
+
+round 16, index 5: 
+therefore, service connection should be granted.
+
+round 17, index 27: 
+Viet Cong prisoners being pushed out of a plane, witnessing a burning village after a Viet Cong attack, smelling death, seeing charred bodies and seeing buddies killed.
+
+round 18, index 3: 
+He claims that he has submitted several statements from private doctors, a clinical social worker and members of his therapy group which all show that he did experience the stressors he claims to have experienced while in combat.
+
+round 19, index 7: 
+Based on its review of the relevant evidence in this matter, and for the following reasons and bases, it is the decision of the Board that the evidence supports the claim of service connection for PTSD.
+
+round 20, index 28: 
+At a VA psychiatric examination in May 1992, the examiner concluded that the veterans psychiatric symptomatology seemed to date back to 1970 and that it had gotten worse since 1991, during the period of Desert Storm.
+
+round 21, index 8: 
+It is reasonably probable that the veteran was in combat with the enemy.
+
+round 22, index 29: 
+The present symptoms were deemed consistent with PTSD, and that was the diagnosis.
+
+round 23, index 46: 
+The date which appears on the face of this decision constitutes the date of mailing and the copy of this decision which you have received is your notice of the action taken on your appeal by the Board of Veterans' Appeals.- 2 -
+
+round 24, index 30: 
+In May 1992, Mr. Lyons wrote that the veteran had PTSD.
+
+round 25, index 31: 
+That month, Dr. Livingston wrote that the veteran had PTSD due to his combat experience in Vietnam.
+
+round 26, index 44: 
+This proceeding has been assigned to an individual member of the Board.NOTICE OF APPELLATE RIGHTS:  Under 38 U.S.C.A. § 7266 (West 1991 &  Supp. 1995), a decision of the Board of Veterans'
+
+round 27, index 32: 
+In June 1992, J. Alpert, M.D., concluded that the veteran had PTSD due to Vietnam combat.
+
+round 28, index 35: 
+In summary, every health care professional on record in this case has diagnosed PTSD.
+
+round 29, index 2: 
+The veteran contends that he has PTSD due to his combat experiences in Vietnam.
+
+round 30, index 45: 
+Appeals granting less than the complete benefit, or benefits, sought on appeal is appealable to the United States Court of Veterans Appeals within 120 days from the date of mailing of notice of the decision, provided that a Notice of Disagreement concerning an issue which was before the Board was filed with the agency of original jurisdiction on or after November 18, 1988.  Veterans' Judicial Review Act, Pub. L. No. 100-687, § 402, 102 Stat. 4105, 4122 (1988).
+
+round 31, index 0: 
+The veteran served on active duty from September 1968 to May 1970.
+
+round 32, index 14: 
+His military occupational specialty was that of a cook.
+
+round 33, index 43: 
+Member, Board of Veterans' AppealsThe Board of Veterans' Appeals Administrative Procedures Improvement Act, Pub. L. No. 103-271, § 6, 108 Stat. 740, 741 (1994), permits a proceeding instituted before the Board to be assigned to an individual member of the Board for a determination.
+
+round 34, index 33: 
+Dr. Livingston reported in October 1993 that the veteran had PTSD.
+
+round 35, index 12: 
+A personality disorder was diagnosed in service in April 1970.
+
+round 36, index 1: 
+Appeals (Board) received this case on appeal from a May 1993 RO rating decision.
+
+round 37, index 15: 
+The veteran has provided an extensive description of stressful events in service, which, if deemed credible would support a finding that he engaged in combat with the enemy.
+
+round 38, index 11: 
+The veterans service medical records are negative for clinically documented complaints or findings of an acquired psychiatric disorder.
+
+round 39, index 6: 
+The Board, in accordance with the provisions of 38 U.S.C.A. § 7104 (West 1991 & Supp. 1995), has reviewed and considered all of the evidence and material of record in the veteran's claims file.
+
+round 40, index 34: 
+Lyons and four others, identified as members of a Vietnam Veterans Adjustment Group therapy program since June 1992, signed a statement to the effect that they believed the veteran had PTSD due to his combat experiences in Vietnam.
+
+round 41, index 13: 
+The veterans service personnel records reveal that he served in Vietnam from July 1969 to May 1970.
+
+round 42, index 9: 
+The evidence of record presents a reasonable probability that the veterans current PTSD is related to his combat experiences in Vietnam.
+
+round 43, index 17: 
+The failure to verify much of what the veteran reported was due, in part, to the fact that the Vietnam records were incomplete.
+
+round 44, index 10: 
+The veteran has PTSD which was incurred in wartime service.
+
+round 45, index 36: 
+There is no dispute whatsoever about the psychiatric diagnosis.
+
+round 46, index 16: 
+However, they were not considered specific enough for verification by the U.S. Army and Joint Services Environmental Support Group (ESG).
+
+round 47, index 0: 
+The veteran served on active duty from September 1968 to May 1970.
+
+round 48, index 0: 
+The veteran served on active duty from September 1968 to May 1970.
+
+round 49, index 0: 
+The veteran served on active duty from September 1968 to May 1970.
+
+round 50, index 0: 
+The veteran served on active duty from September 1968 to May 1970.
+
+round 51, index 0: 
+The veteran served on active duty from September 1968 to May 1970.
+
+round 52, index 0: 
+The veteran served on active duty from September 1968 to May 1970.
+
+round 53, index 0: 
+The veteran served on active duty from September 1968 to May 1970.
+
+round 54, index 0: 
+The veteran served on active duty from September 1968 to May 1970.
+
+round 55, index 0: 
+The veteran served on active duty from September 1968 to May 1970.
+
+round 56, index 0: 
+The veteran served on active duty from September 1968 to May 1970.
+
+round 57, index 0: 
+The veteran served on active duty from September 1968 to May 1970.
+
+round 58, index 0: 
+The veteran served on active duty from September 1968 to May 1970.
+
+round 59, index 0: 
+The veteran served on active duty from September 1968 to May 1970.
+

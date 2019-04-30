@@ -1,0 +1,180 @@
+round 0, index 187: 
+Entitlement to service connection for an acquired psychiatric disorder is denied.
+
+round 1, index 10: 
+The criteria for service connection for an acquired psychiatric disorder, to include PTSD, major depression, a personality disorder, and trichotillomania, are not met.
+
+round 2, index 9: 
+Trichotillomania has not been shown by competent evidence to be related to service.
+
+round 3, index 186: 
+For that reason, a psychiatric disorder is not a simple medical condition that a lay person is competent to identify or link to service.
+
+round 4, index 14: 
+The notice requirements may be satisfied if any errors in the timing or content of such notice are not prejudicial to the claimant.
+
+round 5, index 13: 
+The notice must be provided to a claimant before the initial unfavorable adjudication by the RO.
+
+round 6, index 11: 
+Duty to Notify and AssistUpon receipt of a complete or substantially complete application, VA must notify the claimant of the information and evidence not of record that is necessary to substantiate a claim, which information and evidence VA will obtain, and which information and evidence the claimant is expected to provide.
+
+round 7, index 12: 
+The notice requirements apply to all five elements of a service connection claim: veteran status; existence of a disability; a connection between the veteran's service and the disability; degree of disability; and effective date of the disability.
+
+round 8, index 15: 
+This claim is a reopened claim that was previously denied.
+
+round 9, index 16: 
+After the Veteran's December 2005 claim to reopen the previously denied claim was received at the RO, the RO issued a notice letter to the Veteran in January 2006.
+
+round 10, index 17: 
+That notification letter identified the elements of a service connection claim;
+
+round 11, index 19: 
+and identified the relative duties of VA and the claimant to obtain evidence.
+
+round 12, index 20: 
+The letter also notified the Veteran of the reasons for the previous denial of service connection and what evidence qualified as new and material evidence.
+
+round 13, index 38: 
+Based on the foregoing, the RO has substantially complied with the November 2011 remand instructions and no further action is necessary in this regard.
+
+round 14, index 21: 
+VA has a heightened burden of VCAA notification for claims of service connection for PTSD based on in-service personal assault.
+
+round 15, index 18: 
+identified the evidence necessary to substantiate a claim;
+
+round 16, index 188: 
+Veterans Law Judge, Board of Veterans' AppealsDepartment of Veterans Affairs
+
+round 17, index 8: 
+The Veteran has been diagnosed as having a personality disorder; there is no superimposed disease or injury during service that created additional disability.
+
+round 18, index 22: 
+VA will not deny a PTSD claim that is based on in-service personal assault without first advising the claimant that evidence from sources other than the Veteran's service records or evidence of behavior changes may constitute credible supporting evidence of the stressor.
+
+round 19, index 83: 
+(noting that the "clear and convincing" burden of proof, while a higher standard than a preponderance of the evidence, is a lower burden to satisfy than that of "clear and unmistakable evidence".)
+
+round 20, index 84: 
+That is, the standard of proof for rebutting the presumption of soundness is not merely evidence that is "cogent and compelling, i.e., a sufficient showing, but evidence that is clear and unmistakable, i.e., undebatable...."
+
+round 21, index 61: 
+or unexplained economic or social behavior changes.
+
+round 22, index 86: 
+Competency of evidence differs from weight and credibility.
+
+round 23, index 143: 
+The Board does not find the November 2005 opinion that supports the Veteran's claim persuasive.
+
+round 24, index 85: 
+In rendering a decision on appeal, the Board must analyze the credibility and probative value of the evidence, account for the evidence that it finds to be persuasive or unpersuasive, and provide the reasons for its rejection of any material evidence favorable to the claimant.
+
+round 25, index 82: 
+"Clear and unmistakable evidence" is a more formidable evidentiary burden than the preponderance of the evidence standard.
+
+round 26, index 47: 
+With chronic disease shown as such in service so as to permit a finding of service connection, subsequent manifestations of the same chronic disease at any later date, however remote, are service connected, unless clearly attributable to intercurrent causes.
+
+round 27, index 87: 
+The former is a legal concept determining whether testimony may be heard and considered by the trier of fact, while the latter is a factual determination going to the probative value of the evidence to be made after the evidence has been admitted.
+
+round 28, index 88: 
+("Although interest may affect the credibility of testimony, it does not affect competency to testify.").
+
+round 29, index 89: 
+There is no mention of any mental disorder in the Veteran's service entrance examination, and there are no clinical records indicating that the Veteran was treated for or noted to have had a psychiatric disorder prior to her being accepted for active military service in 1978.
+
+round 30, index 48: 
+When the fact of chronicity in service is not adequately supported, then a showing of continuity of symptomatology after discharge is required to support a claim of service connection.
+
+round 31, index 0: 
+The Veteran served on active duty from February 1978 to July 1988This matter is before the Board of Veterans' Appeals (Board) on appeal from a June 2006 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO) in Jackson, Mississippi.
+
+round 32, index 46: 
+Service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by active service.
+
+round 33, index 112: 
+She was medically discharged for failure to meet the weight standards in 1988.
+
+round 34, index 152: 
+The exam was conducted by a licensed clinical psychologist with clinical expertise with psychiatric disabilities.
+
+round 35, index 154: 
+Thus, the Board finds them to be persuasive.
+
+round 36, index 49: 
+When the disease identity is established (leprosy, tuberculosis, multiple sclerosis, etc.), there is no requirement of evidentiary showing of continuity.
+
+round 37, index 50: 
+Service connection may be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.
+
+round 38, index 184: 
+The determination as to the presence, type, and cause of a psychiatric condition is medical in nature and not capable of lay observation.
+
+round 39, index 150: 
+The Board affords greater probative value to the January 2012 examiner's opinion.
+
+round 40, index 81: 
+Evidence of a prolonged period without medical complaint can be considered, along with other factors concerning the Veteran's health and medical treatment during and after military service, as evidence of whether a preexisting condition was aggravated by military service.
+
+round 41, index 80: 
+A "lasting worsening of the condition"-that is, a worsening that existed not only at the time of separation but one that still exists currently is required.
+
+round 42, index 27: 
+During the course of this appeal, the claim was subsequently reopened by the Board in its November 2011 decision, and the matter was remanded for additional development of the record.
+
+round 43, index 185: 
+Indeed, by regulation, the diagnosis of PTSD requires medical evidence diagnosing the condition in accordance 38 C.F.R. § 4.125, that is, a diagnosis that conforms to the Diagnostic and Statistical Manual of Mental Disorders (DSM- IV).
+
+round 44, index 149: 
+Thus, because the Board finds that the reasoning that the examiner used in November 2005 in supporting her opinion is directly contradicted by the objective evidence of record, the Board affords her opinion to be of little probative value.
+
+round 45, index 51: 
+Generally, in order to prevail on the merits on the issue of service connection, there must be medical evidence of current disability; medical or, in certain circumstances lay, evidence of in-service incurrence or aggravation of a disease or injury; and medical evidence of a nexus between the claimed in-service disease or injury and the present disability.
+
+round 46, index 59: 
+Evidence of behavior changes following the claimed assault is one type of relevant evidence that may be found in these sources.
+
+round 47, index 108: 
+These records suggested adequate to good performance until at least 1986.
+
+round 48, index 107: 
+The examiner noted that review of the Veteran's record of promotion during service showed good conduct medals in 1981 and 1984.
+
+round 49, index 173: 
+The absence of symptoms constitutes negative evidence and opposes the claim for this psychiatric condition.
+
+round 50, index 7: 
+There is clear and unmistakable evidence that these conditions were not aggravated during service.
+
+round 51, index 106: 
+She did not stand up for herself because she hated confrontation.
+
+round 52, index 105: 
+She was verbally abused by her mother and picked on by other kids.
+
+round 53, index 67: 
+The effective date of the amendment was March 7, 2002, the date of its first issuance as a final rule.
+
+round 54, index 45: 
+He argues that the presumption of soundness applies as no preexisting psychiatric disorder was noted at time of service entrance.
+
+round 55, index 145: 
+In this regard, the November 2005 report that the Veteran had PTSD related to military and other sexual assaults and abusive relationships is clearly based on the Veteran's reported history, which the Board does not find credible.
+
+round 56, index 153: 
+Importantly, the examiner provided reasoning and cited to objective evidence of record when rendering her opinions.
+
+round 57, index 155: 
+After considering the foregoing, the Board concludes that there is clear and unmistakable evidence to rebut the presumption of soundness to show that the Veteran did have depression and PTSD prior her service entrance.
+
+round 58, index 60: 
+Examples of behavior changes that may constitute credible evidence of the stressor include, but are not limited to: a request for a transfer to another military duty assignment; deterioration in work performance; substance abuse; episodes of depression, panic attacks, or anxiety without an identifiable cause;
+
+round 59, index 114: 
+For rationale, it was noted that the depression had its roots in learning and early childhood experiences.
+

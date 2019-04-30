@@ -1,0 +1,141 @@
+Citation Nr: 1715178	
+Decision Date: 05/05/17    Archive Date: 05/11/17
+
+DOCKET NO.  08-28 015	)	DATE
+	)
+	)
+
+On appeal from the
+Department of Veterans Affairs Regional Office in Sioux Falls, South Dakota
+
+
+THE ISSUE
+
+Entitlement to service connection for an acquired psychiatric disorder, to include posttraumatic stress disorder (PTSD).
+
+
+REPRESENTATION
+
+Veteran represented by:	Disabled American Veterans
+
+
+WITNESS AT HEARING ON APPEAL
+
+Veteran
+
+
+ATTORNEY FOR THE BOARD
+
+B. Riordan, Associate Counsel
+
+
+INTRODUCTION
+
+The Veteran served on active duty from February 1972 to May 1973.
+
+This matter is on appeal from a November 2009 rating decision by the Department of Veterans Affairs (VA) Regional Office (RO) in Sioux Falls, South Dakota.   
+
+The Veteran testified before a Veterans Law Judge in June 2013.  A transcript of the hearing is of record.
+
+The Veteran's initial claim for entitlement to service connection was for PTSD.  The Board has characterized the issue on appeal as one claim for service connection for an acquired psychiatric disorder, to include PTSD.  See Clemons v. Shinseki, 23 Vet. App. 1 (2009) (stating that the scope of a mental health disability claim includes any mental disability that may reasonably be encompassed by the claimant's description of the claim, reported symptoms, and the other information of record).
+
+This appeal was remanded by the Board in October 2013 for further development and was denied by the Board in March 2015.  The Veteran appealed this decision to the Court of Appeals for Veterans Claims (Court) which, in a November 2015 Order, granted the parties' Joint Motion for Remand (JMR) and remanded for additional development.  The appeal was once again remanded by the Board in January 2016 to the Agency of Original Jurisdiction (AOJ) for further development.
+
+
+FINDING OF FACT
+
+The Veteran is not shown to have an acquired psychiatric disorder, to include PTSD, that is casually or etiologically related to his period of active service.
+
+
+
+CONCLUSION OF LAW
+
+Service connection for an acquired psychiatric disorder, to include PTSD, is not warranted.  38 U.S.C.A. §§ 1110, 5103, 5103A, 5107 (West 2014); 38 C.F.R. §§ 3.159, 3.303 (2016).
+
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+Duties to Notify and Assist
+
+VA's duty to notify was satisfied by May, June, and July 2009 letters.  38 U.S.C.A. §§ 5102, 5103, 5103A; 38 C.F.R. § 3.159; Scott v. McDonald, 789 F.3d 1375 (Fed. Cir. 2015).
+
+VA must also make reasonable efforts to assist the Veteran in obtaining evidence necessary to substantiate the claim for the benefit sought, unless no reasonable possibility exists that such assistance would aid in substantiating the claims.  38 U.S.C.A § 5103A; 38 C.F.R. § 3.159.
+
+Service treatment records are associated with the claims file.  All post-service treatment records identified by the Veteran have also been obtained by the VA.  The Veteran has not identified any additional records that should be obtained prior to a Board decision.  Therefore, VA's duty to further assist the Veteran in locating additional records has been satisfied.  The Veteran has been afforded VA examinations in connection with his claim.  See 38 U.S.C.A. § 5103A(d); 38 C.F.R. § 3.159(c)(4).  The Board finds the September 2016 VA examination is adequate for the purposes of determining service connection, as it involved a review of the Veteran's service medical records as well as a clinical evaluation of the Veteran, and provide an adequate discussion of the diagnosis provided.  See Barr v. Nicholson, 21 Vet. App. 303, 311 (2007).
+
+The instant claim was previously remanded by the Board in January 2016.  Specifically, the Board noted the December 2013 VA examination was inadequate because it failed to provide a sufficient rationale in support of the examiner's conclusion that the Veteran's current acquired psychiatric disorder, depression, was unrelated to his in-service symptoms.  The Board instructed that the Veteran's claims file be returned to the VA examiner, and that the examiner file an addendum addressing whether the Veteran's current depression is related to his in-service symptoms.  The Board also ordered that if PTSD is diagnosed, the VA examiner should determine if it is linked to an in-service stressor.  Finally, the remand stated that if a personality disorder is diagnosed, the VA examiner is instructed to address whether the disorder was present during service.  In the event that VA examiner was not available, the Board directed that the Veteran be given a new psychiatric examination.  
+
+The Veteran was provided the requested examination in September 2016, which the Board has found to be adequate, as each of the above listed items was addressed.  There has been substantial compliance with the prior remand, and adjudication of the Veteran's claim may proceed.  See Stegall v. West, 11 Vet. App. 268, 271 (1998).  
+
+Additionally, in October 2013, the Veteran's claim was remanded to the AOJ with instructions to schedule the Veteran for a VA mental health examination and obtain additional medical records for further development.  The Board finds that all relevant evidence was obtained and the requested examination was completed in December 2013.  
+
+In light of the foregoing, the Board is satisfied that all relevant facts have been adequately developed to the extent possible; no further assistance to the Veteran in developing the facts pertinent to the issue on appeal is required to comply with the duty to assist.  38 U.S.C.A. §§ 5103, 5103A; 38 C.F.R. § 3.159.
+
+Analysis
+
+Board decisions must be based on the entire record, with consideration of all the evidence.  The law requires that the Board address its reasons for rejecting evidence favorable to the Veteran.  Timberlake v. Gober, 14 Vet. App. 122 (2000).  When, after careful consideration of all procurable and assembled data, a reasonable doubt arises regarding service origin, the degree of disability, or any other point, such doubt will be resolved in favor of the Veteran.  By reasonable doubt it is meant that an approximate balance of positive and negative evidence exists which does not satisfactorily prove or disprove the claim.  Reasonable doubt is a substantial doubt and one within the range of probability as distinguished from pure speculation or remote possibility.  See 38 U.S.C.A. § 5107(b); 38 C.F.R. § 3.102.
+
+Service connection may be established for a chronic disability resulting from injury suffered or disease contracted in the line of duty in active service.  38 U.S.C.A. §1110; 38 C.F.R. § 3.303.  There must be competent evidence of a current disability; medical evidence, or in certain circumstances lay evidence, of in-service occurrence or aggravation of a disease or injury; and competent evidence of a nexus between an in-service injury or disease and the current disability.  See Hickson v. West, 12 Vet. App. 247, 253 (1999); Jandreau v. Nicholson, 492 F.3d 1372 (Fed. Cir. 2007); Buchanan v. Nicholson, 451 F.3d 1331 (Fed. Cir. 2006).
+
+Service connection for PTSD requires medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a); a link, established by medical evidence, between current symptoms and an in-service stressor; and credible supporting evidence that the claimed in-service stressor occurred. 38 C.F.R. § 3.304(f) and 38 C.F.R. § 4.125 (requiring PTSD diagnoses to conform to the DSM-IV/V).
+
+While the Veteran is competent to report (1) symptoms observable to a layperson, e.g., depression or anxiety; (2) a diagnosis that is later confirmed by clinical findings; or (3) a contemporary diagnosis, he is not competent to independently render a medical diagnosis or opine as to the specific etiology of a condition. See Davidson v. Shinseki, 581 F.3d 1313 (2009).  Because there is no universal rule as to competence of a lay person, the Board must decide on a case by case basis whether a particular condition is the type of condition that is within the competence of a lay person to provide an opinion as to etiology.  See Jandreau, 492 F.3d at 1376-77; see also Kahana v. Shinseki, 24 Vet. App 428 (2011).  Lay persons are competent to provide opinions on some medical issues.  Kahana, 24 Vet. App. at 435.
+
+Service Connection for PTSD 
+
+Initially, the Board observes that following the Veteran's September 2016 VA examination, the VA examiner determined that the Veteran does not have a diagnosis of PTSD.  The VA examiner stated:
+
+Although the Veteran identifies a current diagnosis of PTSD, his treatment records do not support such a diagnosis.  [One of the Veteran's treatment providers] does identify PTSD as a diagnosis in his therapy notes, but the content of therapy through his notes identify a focus unrelated to PTSD and in many cases focus on the Veteran's current relationship and other current life stressors.
+
+The VA examiner goes on to highlight a December 2008 treatment note identifying that the Veteran does not meet the criteria for PTSD.  Furthermore, the VA examiner opines that "[t]o this point, no psychiatrist identifies sufficient criteria to establish a diagnosis of PTSD."  In support of his opinion, the VA examiner notes that the Veteran endorses very few symptoms of PTSD, the content of the Veteran's therapy identifies a focus other than PTSD, and outside of some vague nightmares, no other criteria of PTSD are found in the Veteran's psychiatric treatment records.  In turn, the VA examiner concludes the "Veteran is less likely than not suffering from PTSD, or any other mental health disorder as a result of his military service or exposure to any military related trauma. 
+
+In considering whether the Veteran suffers from PTSD, the Board has considered the Veteran's statements, both in conjunction with the current appeal and those to treatment providers, as well as the Veteran-submitted buddy statements, regarding the Veteran's in-service stressors and current symptomatology.  While lay persons are competent to provide evidence on some medical issues, the question of whether the Veteran is suffering specifically from PTSD falls outside the knowledge of the Veteran in this case.  See Jandreau, 492 F.3d at 1377 n.4.
+
+Determining the specific nature and etiology of an acquired psychiatric disorder requires medical inquiry into internal biological and neurological processes.  Such internal processes are not readily observable and are not within the competence of the Veteran in this case, who has not been shown by the evidence of record to have no medical training or skills.  As a result, the probative value of his lay assertions is low. 
+
+In light of the competent medical evidence of record, the Board finds that the preponderance of the evidence of record indicates that the Veteran does not currently have a diagnosis of PTSD.  The existence of a current disability is the cornerstone of a claim for VA disability compensation.  See Degmetich v. Brown, 104 F. 3d 1328, 1333 (1997).  Therefore, as the Board has determined that the Veteran does not have a current diagnosis of PTSD, the claim must be denied and a further discussion of the elements of service connection for PTSD is unnecessary.
+
+Service Connection for an Acquired Psychiatric Disorder Other Than PTSD
+
+The Board acknowledges that following a December 2013 VA examination, the Veteran was diagnosed with unspecified depressive disorder.
+
+When a disability is first diagnosed after service, service connection is warranted for that condition if the competent medical evidence shows it was incurred in service.  38 C.F.R. § 3.303(d). 
+
+The Veteran's service treatment records indicate that the Veteran was treated for passive dependent personality disorder and reactive depression with episodic drinking while in service during April 1973.  The Veteran was admitted for two days of hospitalization, diagnosed with passive dependent personality disorder, and recommended for administrative discharge.  
+
+Moreover, the Veteran's post service medical history includes multiple diagnoses and treatments for depression.  
+
+As stated above, the Veteran's current unspecified depressive disorder was diagnosed following an December 2013 VA examination.  The Veteran was again diagnosed with a mild, unspecified depressive disorder at his September 2016 VA examination.  The VA examiner formally diagnosed this depressive disorder, but also determined the "symptoms are not severe enough either to interfere with occupational and social functioning or to require continuous medication."  
+
+Despite having a current medical disability, and an in-service injury, the competent medical evidence of record does not establish that the Veteran's current unspecified depressive disorder is related to the mental health symptoms and disorder diagnosed during the Veteran's active service.
+
+In the December 2013 VA examination, the VA examiner noted that the Veteran's treatment history of depression indicated the onset of emotional and behavioral disturbances during times of financial stress and relationship distress following the Veteran's divorces.  In turn, the VA examiner also concluded it was less likely than not that the Veteran's current unspecified depressive disorder was incurred during the Veteran's active duty. 
+
+Additionally, following the Veteran's September 2016 VA examination, the VA examiner noted that the Veteran's medical history indicated that no isolated trauma had a lasting impact on the Veteran, and that the Veteran "continues to be outgoing, enjoying his art, marriage, and a number of social interactions with his only [mental health] difficulties being situational based on current situational stressors.  
+
+The VA examiner determined:
+
+The Veteran is less likely than not suffering from PTSD or any other mental health disorder as a result of his military service or exposure to any military related trauma.  Furthermore, the Veteran is less likely than not suffering from a personality disorder related to his military service or any past military trauma.  Finally, his current mental health condition is not seen as being aggravated beyond its natural progression by his military service or any reported military trauma/experience.
+
+In this case, the probative medical opinion of the VA examiner states that the Veteran does not have a personality disorder.  In turn, it is not necessary to address the presumption of soundness. 
+
+The Board acknowledges that throughout the appeal period the Veteran has asserted that his unspecified depressive disorder is the result of an isolated traumatic event that occurred while the Veteran was on active duty.  While lay persons are competent to provide evidence on some medical issues, the specific etiology of the Veteran's unspecified depressive disorder falls outside the knowledge of a lay person.  See Jandreau, 492 F.3d at 1377 n.4.
+
+Determining the etiology of an acquired psychiatric disorder requires medical inquiry into internal biological and neurological processes.  Such internal processes are not readily observable and are not within the competence of the Veteran in this case, who has not been shown by the evidence of record to have medical training or skills.  As a result, the probative value of his lay assertions is low. 
+
+The September 2016 VA examiner's opinions are more probative than the other evidence of record.  The Board concludes that the preponderance of the evidence is against the claim for service connection for the Veteran's acquired psychiatric disorder.  See 38 C.F.R. § 3.303(d).  The benefit of the doubt rule therefore does not apply, and service connection for this disability is not warranted. 
+
+
+ORDER
+
+Entitlement to service connection for an acquired psychiatric disorder, to include PTSD, is denied. 
+
+
+
+____________________________________________
+  MICHAEL MARTIN
+Veterans Law Judge, Board of Veterans' Appeals
+
+Department of Veterans Affairs
+
+

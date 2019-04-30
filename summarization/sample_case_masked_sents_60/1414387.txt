@@ -1,0 +1,180 @@
+round 0, index 36: 
+A complete rationale for all opinions expressed must be provided.
+
+round 1, index 23: 
+Then, schedule the Veteran for a comprehensive VA psychiatric examination to obtain a current diagnosis including the severity of the Veteran's PTSD (if any), and to determine the nature and etiology of such diagnosis.
+
+round 2, index 24: 
+The entire claims file (i.e. the paper claims file, to include a copy of this REMAND, and any medical records contained in Virtual VA, CAPRI, and AMIE) must be reviewed by the examiner in conjunction with the examination.
+
+round 3, index 25: 
+If the examiner does not have access to Virtual VA, any relevant treatment records contained in Virtual VA file that are not available on CAPRI or AMIE must be printed and associated with the paper claims file so they can be available to the examiner for review.
+
+round 4, index 18: 
+Accordingly, the case is REMANDED for the following action:
+
+round 5, index 27: 
+The diagnosis must be based on examination findings, all available medical records, a complete review of comprehensive testing for PTSD, and all appropriate tests and studies should be conducted, and any consultations deemed necessary should be accomplished.
+
+round 6, index 39: 
+This claim must be afforded expeditious treatment.
+
+round 7, index 35: 
+If an opinion cannot be rendered without resorting to speculation, the examiner should discuss in detail why an opinion cannot be offered.
+
+round 8, index 31: 
+For purposes of this paragraph, "fear of hostile military or terrorist activity" means that a Veteran experienced, witnessed, or was confronted with an event or circumstance that involved actual or threatened death or serious injury, or a threat to the physical integrity of the Veteran or others, such as from an actual or potential improvised explosive device; vehicle-imbedded explosive device; incoming artillery, rocket, or mortar fire; grenade; small arms fire, including suspected sniper fire; or attack upon friendly military aircraft, and the Veteran's response to the event or circumstance involved a psychological or psycho-physiological state of fear, helplessness, or horror.
+
+round 9, index 34: 
+The examiner should reconcile any opinions with the service treatment records, post-service medical evidence, and lay statements of the Veteran.
+
+round 10, index 22: 
+Efforts to obtain these records must be associated with the claims file and requests for these records must continue until the AOJ determines that the records sought do not exist or that further efforts to obtain those records would be futile.
+
+round 11, index 42: 
+This remand is in the nature of a preliminary order and does not constitute a decision of the Board on the merits of your appeal.
+
+round 12, index 20: 
+Obtain all outstanding VA treatment records and reports from the Houma VA Outpatient Clinic.
+
+round 13, index 17: 
+To avoid further delay, and to give the Veteran every consideration, upon receipt of such records, the VA will provide the Veteran with a VA psychiatric evaluation to determine the nature and etiology of the Veteran's PTSD, if any.
+
+round 14, index 33: 
+All opinions and conclusions expressed must be supported by a complete rationale in a report.
+
+round 15, index 32: 
+If PTSD is found, the event that caused the PTSD should be clearly stated in order that a factual determination may be made regarding the authenticity of the event or events cited by the examiner.
+
+round 16, index 28: 
+A multiaxial evaluation based on the current DSM-IV diagnostic criteria is required.
+
+round 17, index 40: 
+The law requires that all claims that are remanded by the Board of Veterans' Appeals or by the United States Court of Appeals for Veterans Claims for additional development or other appropriate action must be handled in an expeditious manner.
+
+round 18, index 30: 
+Whether it is at least as likely as not (a 50% or greater chance) that the Veteran currently suffers from PTSD related to his fear of hostile military or terrorist activity while on active duty, and whether it is adequate to support a diagnosis of PTSD.
+
+round 19, index 26: 
+The examination report should reflect that such a review was accomplished.
+
+round 20, index 29: 
+After a review of the file, the examiner is asked to complete the following:
+
+round 21, index 38: 
+The appellant has the right to submit additional evidence and argument on the matter the Board has remanded.
+
+round 22, index 19: 
+(Please note, this appeal has been advanced on the Board's docket pursuant to 38 C.F.R. § 20.900(c) (2013).  Expedited handling is requested.)
+
+round 23, index 16: 
+In any event, per the October 2013 Joint Motion, this case must be remanded to allow the Agency of Original Jurisdiction additional opportunity to obtain the Veteran's treatment records from the Houma VA Outpatient Clinic for the period 2008 to the present.
+
+round 24, index 21: 
+Specifically, records for the period from January 2008 to the present should be obtained.
+
+round 25, index 37: 
+After completion of the above, the RO/AMC should adjudicate entitlement to service connection for PTSD, to include under the provisions of 38 C.F.R. § 3.304(f)(3) (2013).
+
+round 26, index 41: 
+Veterans Law Judge, Board of Veterans' AppealsUnder 38 U.S.C.A. § 7252 (West 2002), only a decision of the Board of Veterans' Appeals is appealable to the United States Court of Appeals for Veterans Claims.
+
+round 27, index 15: 
+The indispensable query is not treatment for PTSD, or a diagnosis of PTSD, but the Veteran's stressors in service.
+
+round 28, index 11: 
+In the October 2013 Joint Motion (JMR), it was noted that during the Veteran's December 1, 2011 hearing he commented that he was in receipt of ongoing treatment for PTSD at the Houma VA Outpatient Clinic.
+
+round 29, index 10: 
+VA will notify the appellant if further action is required.
+
+round 30, index 13: 
+Importantly, the Veteran's attorney has not submitted these records himself (an effort that could have greatly reduced the delay in the full adjudication of this case given the Veteran's age and the fact that the JMR was in October 20013).
+
+round 31, index 12: 
+In April 2013, the record contained records from the Houma VA Outpatient Clinic, but they only covered a period up to 2008.
+
+round 32, index 3: 
+The Veteran had active military service from February 1953 to December 1954.
+
+round 33, index 2: 
+Please note this appeal has been advanced on the Board's docket pursuant to 38 C.F.R. § 20.900(c) (2013).
+
+round 34, index 1: 
+Accordingly, any future consideration of this appellant's case should take into consideration the existence of this electronic record.
+
+round 35, index 4: 
+In December 2011, the Veteran testified during a Board videoconference hearing before the undersigned Veterans Law Judge (VLJ).
+
+round 36, index 9: 
+This appeal is REMANDED to the Department of Veterans Affairs Regional Office.
+
+round 37, index 14: 
+In this regard, it is important for the Veteran to understand that the fact that the Veteran was being treated for PTSD is not in dispute.
+
+round 38, index 6: 
+In an April 2013 decision, the Board denied the Veteran's appeal.
+
+round 39, index 5: 
+A transcript of that hearing is included in the claims file.
+
+round 40, index 0: 
+This appeal was processed using the Virtual VA paperless claims processing system.
+
+round 41, index 7: 
+The Veteran appealed to the U.S. Court of Appeals for Veterans Claims (Court).
+
+round 42, index 8: 
+In October 2013, the Court granted a joint motion (Joint Motion) of the Veteran and the Secretary of VA, vacated the April 2013 decision, and remanded the matter to the Board for compliance with the instructions in the Joint Motion.
+
+round 43, index 0: 
+This appeal was processed using the Virtual VA paperless claims processing system.
+
+round 44, index 0: 
+This appeal was processed using the Virtual VA paperless claims processing system.
+
+round 45, index 0: 
+This appeal was processed using the Virtual VA paperless claims processing system.
+
+round 46, index 0: 
+This appeal was processed using the Virtual VA paperless claims processing system.
+
+round 47, index 0: 
+This appeal was processed using the Virtual VA paperless claims processing system.
+
+round 48, index 0: 
+This appeal was processed using the Virtual VA paperless claims processing system.
+
+round 49, index 0: 
+This appeal was processed using the Virtual VA paperless claims processing system.
+
+round 50, index 0: 
+This appeal was processed using the Virtual VA paperless claims processing system.
+
+round 51, index 0: 
+This appeal was processed using the Virtual VA paperless claims processing system.
+
+round 52, index 0: 
+This appeal was processed using the Virtual VA paperless claims processing system.
+
+round 53, index 0: 
+This appeal was processed using the Virtual VA paperless claims processing system.
+
+round 54, index 0: 
+This appeal was processed using the Virtual VA paperless claims processing system.
+
+round 55, index 0: 
+This appeal was processed using the Virtual VA paperless claims processing system.
+
+round 56, index 0: 
+This appeal was processed using the Virtual VA paperless claims processing system.
+
+round 57, index 0: 
+This appeal was processed using the Virtual VA paperless claims processing system.
+
+round 58, index 0: 
+This appeal was processed using the Virtual VA paperless claims processing system.
+
+round 59, index 0: 
+This appeal was processed using the Virtual VA paperless claims processing system.
+

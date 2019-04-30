@@ -1,0 +1,180 @@
+round 0, index 55: 
+The appeal is granted.
+
+round 1, index 56: 
+V. L. Jordan	Veterans Law Judge, Board of Veterans' Appeals Department of Veterans Affairs
+
+round 2, index 6: 
+The veteran has a psychiatric disorder that is related to her service-connected diabetes.
+
+round 3, index 54: 
+However, with regard to the benefit being granted by the Board in this decision, the Board need not consider the question of VCAA compliance since there is no detriment to the veteran in light of the favorable disposition.
+
+round 4, index 52: 
+Therefore, service connection is warranted for a chronic acquired psychiatric disorder.
+
+round 5, index 53: 
+In closing, the Board acknowledges the Veterans Claims Assistance Act of 2000 (VCAA), Pub. L. No. 106-475, 114 Stat. 2096 (2000), now codified at 38 U.S.C.A. §§ 5102, 5103, 5103A, 5107 (West 2002) and implementing regulations at 38 C.F.R §§ 3.102, 3.156(a), 3.159 and 3.326(a) (2003).  The Board also acknowledges that various judicial decisions have addressed the notice and assistance requirement of VCAA.
+
+round 6, index 35: 
+The doctor further stated that that the veteran has a diagnosis of neuropathy (for which service connection has also been granted) and experienced pins and needle sensation over her lower extremities.
+
+round 7, index 34: 
+In April 2002, a private medical doctor, Dr. J. A. Flores, opined that the veteran's psychiatric disorder is due to her diabetes mellitus.
+
+round 8, index 33: 
+The veteran has been granted service connection in effect for diabetes mellitus.
+
+round 9, index 32: 
+A December 1997 note from a VA medical professional stated that the veteran was an insulin dependent diabetic and had been under significant stress at her current job, which had a direct effect on her diabetes.
+
+round 10, index 37: 
+The doctor concluded that this affected her mental health and moreover, she experienced periods of depression.
+
+round 11, index 36: 
+The veteran's serum glucose was difficult to control which lead to brief periods of hypoglycemia and weight loss.
+
+round 12, index 8: 
+The issue before the Board involves a claim of entitlement to service connection.
+
+round 13, index 31: 
+VA progress notes dated in December 1997 showed the veteran was depressed due to termination of her job, but was stable.
+
+round 14, index 11: 
+If there is no showing of a resulting chronic condition during service, then a showing of continuity of symptomatology after service is required to support a finding of chronicity.
+
+round 15, index 30: 
+Nevertheless, the Board finds that the veteran's psychiatric disorder appears to be secondary due to her service-connected diabetes.
+
+round 16, index 14: 
+Additionally, disability which is proximately due to or the result of a service-connected disease or injury shall be service connected.
+
+round 17, index 51: 
+Therefore, in giving the veteran the benefit of the doubt, the Board finds that the evidence is in relative equipoise with regard to the claim.
+
+round 18, index 7: 
+The veteran has a psychiatric disorder which is proximately due to or the result of a service-connected disability.
+
+round 19, index 9: 
+Applicable law provides that service connection will be granted if it is shown that the veteran suffers from disability resulting from an injury suffered or disease contracted in line of duty, or for aggravation of a preexisting injury suffered or disease contracted in line of duty, in the active military, naval, or air service.
+
+round 20, index 10: 
+That an injury occurred in service alone is not enough; there must be chronic disability resulting from that injury.
+
+round 21, index 29: 
+Thus without a PTSD diagnosis, the veteran does not meet the criteria for service connection for PTSD
+
+round 22, index 42: 
+Thus, the Board must decide the case based on the available evidence.
+
+round 23, index 38: 
+In light of the above evidence, this case was remanded by the
+
+round 24, index 12: 
+Additionally, for veterans who have served 90 days or more of active service during a war period or after December 31, 1946, certain chronic disabilities, such as psychoses, are presumed to have been incurred in service if manifest to a compensable degree within one year of discharge from service.
+
+round 25, index 13: 
+Service connection may also be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.
+
+round 26, index 4: 
+In September 2000 and June 2003, the Board remanded this issue for further development.
+
+round 27, index 5: 
+A motion to advance this case on the Board's docket was granted under the authority of 38 U.S.C.A. § 7102(a) (West 2002) and 38 C.F.R. § 20.900(c) (2004).
+
+round 28, index 49: 
+The veteran currently is rated as 100 percent disabled for her service-connected diabetes mellitus.
+
+round 29, index 15: 
+The Board also notes that secondary service connection on the basis of aggravation is permitted under 38 C.F.R. § 3.310, and compensation is payable for that degree of aggravation of a non-service-
+
+round 30, index 39: 
+Board for further development in June 2003.
+
+round 31, index 0: 
+The veteran had active duty service from December 1977 to September 1979.
+
+round 32, index 1: 
+This case is before the Board of Veterans' Appeals (Board) on appeal from a January 1998 rating decision by a Regional Office (RO) of the Department of Veterans Affairs (VA).
+
+round 33, index 2: 
+In an April 2002 statement, the veteran appeared to raise additional claims.
+
+round 34, index 3: 
+The Board refers this matter to the RO for appropriate action.
+
+round 35, index 28: 
+The examiner indicated that there was no clear traumatic event.
+
+round 36, index 16: 
+connected disability caused by a service-connected disability.
+
+round 37, index 50: 
+Hence, the evidence has demonstrated that the veteran's chronic acquired psychiatric disorder, is proximately due to or the result of her service-connected diabetes.
+
+round 38, index 48: 
+Flores, opined that the veteran's psychiatric disorder is due to her diabetes mellitus.
+
+round 39, index 43: 
+The Board notes that another medical opinion would have been helpful in determining the veteran's claim.
+
+round 40, index 27: 
+The veteran's July 1997 VA PTSD examination found that the veteran did not meet the criteria for a PTSD diagnosis.
+
+round 41, index 44: 
+The Board also has given consideration to the veteran's reluctance to attend VA examinations due to an alleged unpleasant past experience, as evidenced by a May 1999 Report of Contact.
+
+round 42, index 18: 
+and credible supporting evidence that the claimed in-service stressor occurred.
+
+round 43, index 47: 
+In an April 2002 letter, Dr. J. A.
+
+round 44, index 19: 
+If the evidence establishes that the veteran engaged in combat with the enemy and the claimed stressor is related to that combat, in the absence of clear and convincing evidence to the contrary, and provided that the claimed stressor is consistent with the circumstances, conditions, or hardships of the veteran's service, the veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor.
+
+round 45, index 20: 
+The provisions of 38 C.F.R. § 4.125(a) require that a diagnosis of a mental disorder conform to the Diagnostic and Statistical Manual, Fourth Edition (DSM-IV).
+
+round 46, index 46: 
+Furthermore, the evidence of record showed that a November 1992 VA medical record revealed the veteran had a diagnosis of adjustment disorder, and the July 1997 VA PTSD examination provided the veteran with a diagnosis of panic disorder with agoraphobia.
+
+round 47, index 17: 
+Service connection for PTSD requires medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a), a link, established by medical evidence, between current symptoms and an in-service stressor;
+
+round 48, index 22: 
+If the claimed stressor is related to combat, service department evidence that the veteran engaged in combat or that the veteran was awarded the Purple Heart, Combat Infantryman Badge, or similar combat citation will be accepted, in the absence of evidence to the contrary, as conclusive evidence of the claimed in-service stressor.
+
+round 49, index 41: 
+The claims folder indicates that the veteran failed to report for the VA examination.
+
+round 50, index 45: 
+However, the fact that the veteran's employment situation could have contributed to her depression, does not preclude the veteran's chronic acquired psychiatric disorder from being proximately due to or the result of her service-connected diabetes.
+
+round 51, index 24: 
+However, the amendment did not change the pertinent part of the regulation as in effect from March 1997 dealing with the criteria for a PTSD diagnosis.
+
+round 52, index 25: 
+The veteran claimed that she has PTSD due to the sexual harassment she was subjected to in service.
+
+round 53, index 23: 
+The Board also notes that 38 C.F.R. § 3.304(f) was amended again with regards to the personal assault PTSD claims.
+
+round 54, index 26: 
+The veteran's medical evidence does not indicate that she has a diagnosis of PTSD.
+
+round 55, index 40: 
+The Board asked that the veteran be scheduled for a VA examination to determine whether any current psychiatric disorder is due to the veteran's diabetes or any other service-connected disability, or if any pre-existing psychiatric disorder was aggravated by one or more service-connected disabilities.
+
+round 56, index 21: 
+Prior to March 1997, 38 C.F.R. § 3.304(f) provided that service connection for PTSD requires medical evidence establishing a clear diagnosis of the condition, credible supporting evidence that the claimed in service stressor actually occurred, and a link, established by medical evidence, between current symptomatology and the claimed inservice stressor.
+
+round 57, index 0: 
+The veteran had active duty service from December 1977 to September 1979.
+
+round 58, index 0: 
+The veteran had active duty service from December 1977 to September 1979.
+
+round 59, index 0: 
+The veteran had active duty service from December 1977 to September 1979.
+

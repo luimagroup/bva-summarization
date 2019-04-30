@@ -1,0 +1,180 @@
+round 0, index 42: 
+Entitlement to service connection for post-traumatic stress disorder is denied.
+
+round 1, index 43: 
+U. R. POWELL 	Member, Board of Veterans' Appeals - 6 -
+
+round 2, index 4: 
+FINDING OF FACTA clear diagnosis of post-traumatic stress disorder has not been demonstrated.
+
+round 3, index 40: 
+Inasmuch as the preponderance of the evidence, as discussed above, is against a finding of a current credible diagnosis of PTSD, his claim for service connection for PTSD does not meet one of the requirements of 38 C.F.R. § 3.304(f).
+
+round 4, index 39: 
+Even if assuming that the veteran did "engage in combat," and the applicability of the evidentiary presumption of 38 C.F.R. § 1154(b), with regard to the alleged stressors, there still must be a clear diagnosis of PTSD.
+
+round 5, index 5: 
+PTSD was not incurred in or aggravated by active service.
+
+round 6, index 41: 
+Accordingly, the veteran has failed to establish entitlement to service connection for post-traumatic stress disorder.
+
+round 7, index 38: 
+However, no further corroborating information of the stressors alleged by the veteran were forwarded.
+
+round 8, index 28: 
+The August 1995 VA examination diagnosis was based on review of the medical record, including earlier VA hospitalization and provisional diagnoses of post-traumatic stress disorder.
+
+round 9, index 30: 
+A subsequent September 1996 VA examination report listing a diagnosis of post-traumatic stress disorder pertained to a respiratory examination of the veteran and no psychiatric findings, other than the listing of a psychiatric diagnosis, were made.
+
+round 10, index 29: 
+As such, it is deemed to be more probative.
+
+round 11, index 13: 
+Id.
+
+round 12, index 12: 
+If the claimed stressor is related to combat, service department evidence that the veteran engaged in combat or that the veteran was awarded the Purple Heart, Combat Infantryman Badge, or similar combat citation will be accepted, in the absence of evidence to the contrary, as conclusive evidence of the claimed inservice stressor.
+
+round 13, index 7: 
+That is, the Board finds that the veteran has presented a claim which is not implausible when his contentions and the evidence of the record are viewed in the light most favorable to that claim.
+
+round 14, index 9: 
+Service connection may be established for disability resulting from personal injury suffered or disease contracted in the line of duty, or for aggravation of a pre-existing injury or disease.
+
+round 15, index 6: 
+REASONS AND BASES FOR FINDING AND CONCLUSIONAs a preliminary matter, the Board finds that the veteran's is "well-grounded"
+
+round 16, index 8: 
+The Board is also satisfied that all relevant facts have been properly and sufficiently developed.
+
+round 17, index 31: 
+The veteran's service medical records are negative for evidence of treatment of the veteran for complaints of nervousness or emotional trauma.
+
+round 18, index 32: 
+With respect to the second element necessary for a well-grounded claim for service connection for post-traumatic stress disorder, the veteran's Form DD-214 reveals that his military occupational specialty was that of a disbursing clerk.
+
+round 19, index 33: 
+The Form DD-214 does not reveal the award of any decorations specific for combat.
+
+round 20, index 16: 
+The revision became effective November 7, 1996.  61 Fed. Reg. 52,695 (1996).  On and after that date, all diagnoses of mental disorders for VA purposes must conform to the 4th edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV).
+
+round 21, index 3: 
+That development has been completed and the case is now ready for appellate review.
+
+round 22, index 20: 
+The sufficiency of a stressor is, accordingly, now a clinical determination for the examining mental health professional.
+
+round 23, index 10: 
+Service connection may be granted for any disease diagnosed after discharge when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.
+
+round 24, index 21: 
+With respect to the first element of a post-traumatic stress disorder claim, a clear diagnosis of the condition, the medical evidence includes a September 1989 Agent Orange examination report containing a diagnosis of severe anxiety reaction.
+
+round 25, index 11: 
+With respect to post-traumatic stress disorder, 38 C.F.R. § 3.304(f) (1998) specifically applies to the adjudication of claims for service connection and provides, in pertinent part, that service connection for post-traumatic stress disorder requires medical evidence establishing a clear diagnosis of the condition, credible supporting evidence that the claimed in-service stressor actually occurred, and a link, established by medical evidence, between current symptomatology and the claimed in-service stressor.
+
+round 26, index 34: 
+The veteran contends that inservice stressors included coming under multiple mortar, rocket attacks, and mortar fire while attached to 1st HQ Company of the 1st Marine Division in Vietnam.
+
+round 27, index 14: 
+Even when it is determined that the veteran engaged in combat with the enemy and that the claimed stressor is related to such combat, the veteran's lay testimony regarding the stressor must be accepted as conclusive as to its actual occurrence only when the veteran's testimony is found to be consistent with the circumstances, conditions, or hardships of service.
+
+round 28, index 2: 
+This matter was previously remanded by the Board for further development in July 1997.
+
+round 29, index 37: 
+Those records reveal that the veteran did participate in operations against insurgent communist forces (Viet Cong) during the period August 1969 to March 1970.
+
+round 30, index 17: 
+IV has revised the definition of what constitutes a stressor for purposes of diagnosing post-traumatic stress disorder.
+
+round 31, index 0: 
+The veteran served on active duty from April 1966 to March 1970.
+
+round 32, index 22: 
+A report of VA hospitalization during May and June 1993 includes a diagnosis of post-traumatic stress disorder when the veteran was admitted for substance abuse and was noted to complain of PTSD symptoms.
+
+round 33, index 35: 
+In addition, the veteran stated that he saw many dead bodies, was part of a group of men that were ambushed resulting in two casualties, saw troops land in mine fields, witnessed a woman being thrown from a helicopter, was part of a unit which had napalm dumped upon it, witnessed the burning of a Vietnamese national, and shot a Vietnamese woman after she tried to stab him.
+
+round 34, index 1: 
+This matter comes to the Board of Veterans' Appeals (Board) on appeal from a September 1995 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO) in Louisville, Kentucky.
+
+round 35, index 23: 
+In a summary report of VA hospitalization in May and June 1993, a provisional diagnosis of PTSD was reported.
+
+round 36, index 15: 
+During the pendency of this appeal, VA revised the schedule for evaluating mental disorders.
+
+round 37, index 19: 
+A more susceptible individual might have post-traumatic stress disorder based on exposure to a stressor that would not necessarily have the same effect on "almost anyone."
+
+round 38, index 27: 
+The August 1995 VA examination specifically for post-traumatic stress disorder ruled out such a diagnosis.
+
+round 39, index 26: 
+After reviewing the totality of the medical evidence of record, the Board must conclude that the veteran has failed to meet the first requirement for service connection for post-traumatic stress disorder spelled out in 38 C.F.R.
+
+round 40, index 18: 
+The primary effect of this change is that the criteria have changed from an objective "would evoke...in almost anyone" standard in assessing whether a stressor is sufficient to trigger post-traumatic stress disorder, to a subjective standard; the criteria now require exposure to a traumatic event and a response involving intense fear, helplessness, or horror.
+
+round 41, index 36: 
+Following the Board's July 1997 remand, the RO attempted to obtain service records corroborating the veteran's stressors.
+
+round 42, index 24: 
+However, in the report from an August 1995 VA compensation and pension examination of the veteran, the examining physician opined that the veteran's primary diagnosis was not post-traumatic stress disorder, but instead an organic syndrome secondary to chronic substance abuse and a gunshot wound to the head.
+
+round 43, index 25: 
+In a September 1996 VA examination report specific for respiratory disabilities, the examiner made no findings with respect to psychiatric disability, but carried a diagnosis of post-traumatic stress disorder.
+
+round 44, index 0: 
+The veteran served on active duty from April 1966 to March 1970.
+
+round 45, index 0: 
+The veteran served on active duty from April 1966 to March 1970.
+
+round 46, index 0: 
+The veteran served on active duty from April 1966 to March 1970.
+
+round 47, index 0: 
+The veteran served on active duty from April 1966 to March 1970.
+
+round 48, index 0: 
+The veteran served on active duty from April 1966 to March 1970.
+
+round 49, index 0: 
+The veteran served on active duty from April 1966 to March 1970.
+
+round 50, index 0: 
+The veteran served on active duty from April 1966 to March 1970.
+
+round 51, index 0: 
+The veteran served on active duty from April 1966 to March 1970.
+
+round 52, index 0: 
+The veteran served on active duty from April 1966 to March 1970.
+
+round 53, index 0: 
+The veteran served on active duty from April 1966 to March 1970.
+
+round 54, index 0: 
+The veteran served on active duty from April 1966 to March 1970.
+
+round 55, index 0: 
+The veteran served on active duty from April 1966 to March 1970.
+
+round 56, index 0: 
+The veteran served on active duty from April 1966 to March 1970.
+
+round 57, index 0: 
+The veteran served on active duty from April 1966 to March 1970.
+
+round 58, index 0: 
+The veteran served on active duty from April 1966 to March 1970.
+
+round 59, index 0: 
+The veteran served on active duty from April 1966 to March 1970.
+

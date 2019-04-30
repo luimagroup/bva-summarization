@@ -1,0 +1,180 @@
+round 0, index 108: 
+Service connection for a psychiatric disability including PTSD, major depressive disorder, an anxiety disorder NOS, and an anxiety disorder with psychosis, is granted.
+
+round 1, index 109: 
+Acting Veterans Law Judge, Board of Veterans' AppealsDepartment of Veterans Affairs
+
+round 2, index 106: 
+Therefore, there is credible and persuasive evidence which places the evidence for and against the claim in equipoise.
+
+round 3, index 107: 
+Accordingly, the Board finds that the evidence in this case is so evenly balanced so as to allow application of the benefit-of-the-doubt rule and service connection for PTSD, major depressive disorder, an anxiety disorder NOS, and an anxiety disorder with psychosis, is warranted.
+
+round 4, index 8: 
+Service connection may be granted for disability resulting from disease or injury incurred in or aggravated by service.
+
+round 5, index 9: 
+Further, VA regulation provides that, with chronic disease shown as such in service (or within an applicable presumptive period under section 3.307) so as to permit a finding of service connection, subsequent manifestations of the same chronic disease at any later date, however remote, are service connected, unless clearly attributable to intercurrent causes.
+
+round 6, index 7: 
+As such, any deficiencies with regard to VCAA are harmless and nonprejudicial.
+
+round 7, index 10: 
+For the showing of chronic disease in service there is required a combination of manifestations sufficient to identify the disease entity, and sufficient observation to establish chronicity at the time, as distinguished from merely isolated findings or a diagnosis including the word "chronic."
+
+round 8, index 6: 
+The Veteran's claim is being granted.
+
+round 9, index 93: 
+Id.
+
+round 10, index 28: 
+Examples of such evidence include, but are not limited to: records from law enforcement authorities, rape crisis centers, mental health counseling centers, hospitals, or physicians; pregnancy tests or tests for sexually transmitted diseases; and statements from family members, roommates, fellow service members, or clergy.
+
+round 11, index 29: 
+Evidence of behavior changes following the claimed assault is one type of relevant evidence that may be found in these sources.
+
+round 12, index 11: 
+When the disease identity is established (leprosy, tuberculosis, multiple sclerosis, etc.), there is no requirement of an evidentiary showing of continuity.
+
+round 13, index 12: 
+Continuity of symptomatology is required only where the condition noted during service (or in the presumptive period) is not, in fact, shown to be chronic or where the diagnosis of chronicity may be legitimately questioned.
+
+round 14, index 5: 
+REASONS AND BASES FOR FINDING AND CONCLUSIONThere has been a significant change in the law with the enactment of the Veterans Claims Assistance Act of 2000 (VCAA).
+
+round 15, index 13: 
+When the fact of chronicity in service is not adequately supported, then a showing of continuity after discharge is required to support the claim.
+
+round 16, index 14: 
+In addition, service connection may be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.
+
+round 17, index 15: 
+Service connection for posttraumatic stress disorder requires medical evidence diagnosing the condition in accordance with §4.125(a) of this chapter; a link, established by medical evidence, between current symptoms and an in-service stressor; and credible supporting evidence that the claimed in-service stressor occurred.
+
+round 18, index 16: 
+The following provisions apply to claims for service connection of posttraumatic stress disorder diagnosed during service or based on the specified type of claimed stressor:
+
+round 19, index 17: 
+(1)
+
+round 20, index 18: 
+If the evidence establishes a diagnosis of posttraumatic stress disorder during service and the claimed stressor is related to that service, in the absence of clear and convincing evidence to the contrary, and provided that the claimed stressor is consistent with the circumstances, conditions, or hardships of the Veteran's service, the Veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor.
+
+round 21, index 85: 
+There is general information which clearly shows that the Veteran had sea sickness, problems getting along with others, and saw by the doctor and chaplain, as he has stated.
+
+round 22, index 20: 
+If the evidence establishes that the Veteran engaged in combat with the enemy and the claimed stressor is related to that combat, in the absence of clear and convincing evidence to the contrary, and provided that the claimed stressor is consistent with the circumstances, conditions, or hardships of the Veteran's service, the Veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor.
+
+round 23, index 22: 
+If a stressor claimed by the Veteran is related to the Veteran's fear of hostile military or terrorist activity and a VA psychiatrist or psychologist, or a psychiatrist or psychologist with whom VA has contracted, confirms that the claimed stressor is adequate to support a diagnosis of posttraumatic stress disorder and that the Veteran's symptoms are related to the claimed stressor, in the absence of clear and convincing evidence to the contrary, and provided the claimed stressor is consistent with the places, types, and circumstances of the Veteran's service, the Veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor.
+
+round 24, index 105: 
+Health professionals are experts and are presumed to know the requirements applicable to their practice and to have taken them into account in providing a diagnosis.
+
+round 25, index 86: 
+As noted above, inservice evidence is not required in this type of claim, and there may be considered other corroborating evidence.
+
+round 26, index 23: 
+For purposes of this paragraph, "fear of hostile military or terrorist activity" means that a Veteran experienced, witnessed, or was confronted with an event or circumstance that involved actual or threatened death or serious injury, or a threat to the physical integrity of the Veteran or others, such as from an actual or potential improvised explosive device; vehicle-imbedded explosive device; incoming artillery, rocket, or mortar fire; grenade; small arms fire, including suspected sniper fire; or attack upon friendly military aircraft, and the Veteran's response to the event or circumstance involved a psychological or psycho-physiological state of fear, helplessness, or horror.
+
+round 27, index 104: 
+The Board may not base a decision on its own unsubstantiated medical conclusions but, rather, may reach a medical conclusion only on the basis of independent medical evidence in the record.
+
+round 28, index 87: 
+In this case, there is other evidence which weighs in favor of and against the Veteran's claim.
+
+round 29, index 4: 
+A psychiatric disability including was incurred in active service.
+
+round 30, index 19: 
+(2)
+
+round 31, index 0: 
+The Veteran served on active duty from October 1960 to September 1961.
+
+round 32, index 1: 
+This matter comes to the Board of Veterans' Appeals (Board) on appeal from a June 2005 decision of the Department of Veterans Affairs (VA) Regional Office (RO) in Los Angeles, California.
+
+round 33, index 31: 
+or unexplained economic or social behavior changes.
+
+round 34, index 21: 
+(3)
+
+round 35, index 37: 
+Here, the Board must pay particular attention to the requirements of 38 C.F.R. § 3.304(f)(5), which, as addressed above, provide that VA must consider other substitute forms of evidence and information, beyond that contained in the Veteran's service records, as possible evidence in support of the occurrence of a claimed in-service stressor related to personal assault.
+
+round 36, index 2: 
+In October 2009, the Board remanded this case.
+
+round 37, index 32: 
+VA will not deny a posttraumatic stress disorder claim that is based on in-service personal assault without first advising the claimant that evidence from sources other than the veteran's service records or evidence of behavior changes may constitute credible supporting evidence of the stressor and allowing him or her the opportunity to furnish this type of evidence or advise VA of potential sources of such evidence.
+
+round 38, index 94: 
+Essentially, the Court found that a Veteran does not file a claim to receive benefits only for an acquired psychiatric disorder, such as PTSD, but in fact makes a general claim for whatever mental condition may be afflicting the Veteran.
+
+round 39, index 95: 
+Therefore, the Board must analyze the Veteran's current claim under this expanded framework, based on the Clemons ruling and appropriate review of the evidence of record.
+
+round 40, index 103: 
+The Board is persuaded by the psychologist's conclusions that the Veteran's manifestations of his current psychiatric disorders began during service, particularly since she considered that this was the case even if verification of the stressors could not be made for PTSD.
+
+round 41, index 33: 
+VA may submit any evidence that it receives to an appropriate medical or mental health professional for an opinion as to whether it indicates that a personal assault occurred.
+
+round 42, index 84: 
+In sum, there is no inservice specific evidence which corroborates the Veteran's allegations regarding the claimed stressors.
+
+round 43, index 52: 
+He continued to get seasick and had severe headaches.
+
+round 44, index 24: 
+(4)
+
+round 45, index 3: 
+A psychiatric disability including PTSD, major depressive disorder, an anxiety disorder NOS, and an anxiety disorder with psychosis, is attributable to service.
+
+round 46, index 36: 
+In this case, the Veteran was not in combat service, nor does he assert such as he served in peacetime.
+
+round 47, index 53: 
+He stated that he was "about to lose" himself.
+
+round 48, index 51: 
+Since that time, he had gotten along poorly with the other seamen and had been nervous.
+
+round 49, index 50: 
+He related that his buddies resented this and started saying things about him and started rumors.
+
+round 50, index 26: 
+(5)
+
+round 51, index 35: 
+To do so, the Board must assess the credibility and weight of all the evidence, including the medical evidence, to determine its probative value, accounting for evidence that it finds to be persuasive or unpersuasive, and providing reasons for rejecting any evidence favorable to the appellant.
+
+round 52, index 34: 
+In determining whether service connection is warranted for a disability, VA is responsible for determining whether the evidence supports the claim or is in relative equipoise, with the veteran prevailing in either event, or whether a preponderance of the evidence is against the claim, in which case the claim is denied.
+
+round 53, index 41: 
+He was also called a racial slur.
+
+round 54, index 25: 
+If the evidence establishes that the Veteran was a prisoner-of-war under the provisions of §3.1(y) of this part and the claimed stressor is related to that prisoner-of-war experience, in the absence of clear and convincing evidence to the contrary, and provided that the claimed stressor is consistent with the circumstances, conditions, or hardships of the veteran's service, the veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor.
+
+round 55, index 48: 
+It was noted that he was referred to the hospital because of severe, chronic seasickness, nervousness, and apprehension.
+
+round 56, index 49: 
+The Veteran reported that while aboard ship, he was seasick and was unable to do much work.
+
+round 57, index 27: 
+If a posttraumatic stress disorder claim is based on in-service personal assault, evidence from sources other than the Veteran's service records may corroborate the veteran's account of the stressor incident.
+
+round 58, index 30: 
+Examples of behavior changes that may constitute credible evidence of the stressor include, but are not limited to: a request for a transfer to another military duty assignment; deterioration in work performance; substance abuse; episodes of depression, panic attacks, or anxiety without an identifiable cause;
+
+round 59, index 40: 
+He contends that during service about the USS Klondike AR22, he was beaten in his bunk, was locked in a freezer, was kicked, was thrown in the brig with minimal food or water, and was served contaminated food.
+

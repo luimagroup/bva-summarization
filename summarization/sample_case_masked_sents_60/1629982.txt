@@ -1,0 +1,180 @@
+round 0, index 100: 
+Service connection for an acquired psychiatric disorder, to include PTSD, is denied.
+
+round 1, index 90: 
+The Board has considered the doctrine of reasonable doubt, however, as is stated above, the preponderance of the evidence is against the appellant's claim, and the doctrine is not for application.
+
+round 2, index 101: 
+Veterans Law Judge, Board of Veterans' AppealsDepartment of Veterans Affairs
+
+round 3, index 10: 
+An acquired psychiatric disorder, to include PTSD, was not incurred in, or as a result of, service.
+
+round 4, index 91: 
+There is no indication in this record of a failure to notify.
+
+round 5, index 89: 
+Given the foregoing, the Board finds that the medical evidence outweighs the appellant's contentions to the effect that he has the claimed condition due to his service.
+
+round 6, index 92: 
+Pursuant to the duty to assist, VA must obtain "records of relevant medical treatment or examination" at VA facilities.
+
+round 7, index 94: 
+In addition, where the Veteran "sufficiently identifies" other VA medical records that he or she desires to be obtained, VA must also seek those records even if they do not appear potentially relevant based upon the available information.
+
+round 8, index 95: 
+In this case, the Veteran has not indicated that such records exist, and all pertinent records have been obtained.
+
+round 9, index 96: 
+The Veteran has been afforded an examination, he has been determined to not have PTSD, and two VA examiners have concluded that an etiological opinion cannot be provided due to unreliable self-reporting.
+
+round 10, index 49: 
+He claimed to have daily intrusive memories, but not of any specific event.
+
+round 11, index 50: 
+He claimed to have recurrent nightmares several times a week, but was not clear about the content of the dreams.
+
+round 12, index 68: 
+The Board therefore finds that the Veteran is not an accurate historian.
+
+round 13, index 51: 
+Thus, it was questionable that the dreams were related to his reported stressor.
+
+round 14, index 52: 
+He claimed to have near-dissociative flashbacks a few times a week, lasting 10 to 15 minutes at a time, in which he thought that he was in Germany, and to have near-daily triggered memories causing intense emotional distress.
+
+round 15, index 93: 
+All records pertaining to the condition at issue are presumptively relevant.
+
+round 16, index 98: 
+Based on the foregoing, the Board finds that the Veteran has not been prejudiced by a failure of VA in its duty to assist, and that any violation of the duty to assist could be no more than harmless error.
+
+round 17, index 99: 
+Id.
+
+round 18, index 22: 
+Id.
+
+round 19, index 69: 
+To the extent that the claim includes a claim for PTSD, the Board finds that this condition is not shown.
+
+round 20, index 58: 
+There was no Axis I diagnosis.
+
+round 21, index 9: 
+The Veteran does not have an acquired psychiatric disorder, to include PTSD, due to his service.
+
+round 22, index 48: 
+He was quick to claim problems, but often could not provide credible descriptions of the symptoms.
+
+round 23, index 70: 
+Notwithstanding the notations in VA progress notes of "possible PTSD," or features of PTSD," which are equivocal by their terms, there is no competent evidence to show that the Veteran has been diagnosed with PTSD.
+
+round 24, index 56: 
+These observations, combined with his MMPI-2 (Minnesota Multiphasic Personality Inventory) profile that was invalid due to over-reporting of items rendered his self-report non-credible.
+
+round 25, index 59: 
+The RO subsequently noted that the Veteran had provided additional details of his claimed stressors, and that additional medical evidence had been received since the May 2013 VA PTSD DBQ, and requested another opinion.
+
+round 26, index 34: 
+The RO noted that March and June of 2013, it had requested additional details of the claimed stressors from the Veteran, but that no response had been received.
+
+round 27, index 57: 
+As such, an opinion could not be offered without resorting to mere speculation.
+
+round 28, index 11: 
+REASONS AND BASES FOR FINDING AND CONCLUSIONThe Veteran asserts that he has an acquired psychiatric disorder, to include PTSD, due to his service.
+
+round 29, index 88: 
+Two VA examiners have concluded that a diagnosis and an etiological opinion cannot be provided due to unreliable self-reports.
+
+round 30, index 47: 
+For a significant period of time he identified one stressor that was different from what he had previously claimed in his stressor statement.
+
+round 31, index 73: 
+Accordingly, the Board finds that the preponderance of the evidence is against the claim that the Veteran has PTSD due to his service, and that the claim must be denied.
+
+round 32, index 18: 
+Id.
+
+round 33, index 0: 
+The Veteran had active service from August 1986 to May 1988.
+
+round 34, index 1: 
+This appeal comes to the Board of Veterans Appeals  (Board) arises from an October 2012 rating action by the Regional Office (RO) in St.
+
+round 35, index 13: 
+The Board initially notes that service connection is currently in effect for disabilities that include a traumatic brain injury.
+
+round 36, index 55: 
+He was very general in his claims and despite claiming rather severe levels of distress, he was observed to be quite calm throughout the interview.
+
+round 37, index 54: 
+Additionally, he was not clear about what memories were being triggered, saying, "All of it."
+
+round 38, index 74: 
+Simply stated, the best evidence provides evidence against this claim.
+
+round 39, index 72: 
+These opinions are considered highly probative, as the examiners summarized the Veteran's relevant service treatment records and post-service medical history, and as the opinions are accompanied by a sufficient explanation and findings.
+
+round 40, index 53: 
+He identified helicopters as a trigger, but could not explain how it related to his claimed stressor.
+
+round 41, index 8: 
+Therefore, the Board does not have jurisdiction over them, and they are referred to the AOJ for appropriate action.
+
+round 42, index 23: 
+In this case, as discussed infra, the Veteran is not shown to have service involving a fear of hostile military or terrorist activity.
+
+round 43, index 24: 
+Effective August 4, 2014, VA amended the portion of its Schedule for Rating Disabilities that addressed mental disorders to remove outdated references to the DSM and to replace them with references to the recently updated DSM-5.
+
+round 44, index 60: 
+A VA PTSD DBQ, dated in September 2014, shows that a psychologist (Dr. K), stated that the Veteran reported that his service in Germany was "very tense," and that he had served near the Fulda Gap, which would have been a key strategic point in any fighting with the Soviet Union.
+
+round 45, index 71: 
+The May 2013 and September 2014 VA examiners both specifically concluded that a PTSD diagnosis could not be provided, because the Veteran's self-reports were non-credible.
+
+round 46, index 6: 
+Accordingly, any future consideration of this appellant's case should take into consideration the existence of this electronic record.
+
+round 47, index 27: 
+In this case, the new provision is not for application, as the claim was adjudicated by the RO in October 2012.
+
+round 48, index 84: 
+Accordingly, the Board finds that the preponderance of the evidence is against the claim, and that the claim must be denied.
+
+round 49, index 78: 
+There is no competent opinion of record in support of the claim.
+
+round 50, index 83: 
+These opinions are considered highly probative on the issue of whether or not there is a basis to provide an etiological opinion, as the examiners summarized the Veteran's relevant service treatment records and post-service medical history, and as the opinions are accompanied by sufficient explanations and findings.
+
+round 51, index 7: 
+The issues of entitlement to an increased rating for service-connected traumatic brain injury, and entitlement to a total rating on the basis of individual unemployability due to service-connected disability (TDIU), have been raised by the record in a March 2016 statement, but have not been adjudicated by the Agency of Original Jurisdiction (AOJ).
+
+round 52, index 46: 
+The report notes the following: the Veteran had trouble identifying a stressor.
+
+round 53, index 5: 
+This appeal was processed using the VBMS and Virtual VA paperless claims processing system.
+
+round 54, index 97: 
+To the extent that the September 2014 VA examiner indicated that the criteria for PTSD had not been met under DSM-5 (as opposed to DSM-IV), given the lack of a verified stressor, and the examiner's ultimate conclusion that he was unable to provide an etiological opinion due to unreliable self-reporting, this can be no more than harmless error.
+
+round 55, index 81: 
+(the duty to assist a claimant is not a one-way street, and the claim must accordingly be decided based upon the evidence of record);
+
+round 56, index 82: 
+(the claimant is obligated to cooperate in the development of evidence, and failure to do so puts him at risk of an adverse adjudication based on an incomplete and underdeveloped record).
+
+round 57, index 25: 
+The provisions of the interim final rule applied to all applications for benefits that are received by VA or that are pending before the agency of original jurisdiction on or after August 4, 2014.
+
+round 58, index 28: 
+Where the claimed stressor does not involve participation in combat and did not take place in a war zone, as in this case, there must be independent evidence to corroborate the Veteran's statement as to the occurrence of the claimed stressor.
+
+round 59, index 26: 
+The Secretary did not intend for the provisions of the interim final rule to apply to claims that had been already certified for appeal to the Board, or that were pending before the Board, the Court, or the United States Court of Appeals for the Federal Circuit.
+

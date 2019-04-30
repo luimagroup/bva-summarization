@@ -1,0 +1,180 @@
+round 0, index 110: 
+Entitlement to service connection for a psychiatric disability, to include PTSD is granted.
+
+round 1, index 111: 
+Veterans Law Judge, Board of Veterans' AppealsDepartment of Veterans Affairs
+
+round 2, index 108: 
+The Board notes that an RO letter dated May 2005 informed the Veteran of the manner in which disability ratings and effective dates are assigned.
+
+round 3, index 109: 
+The RO will take such actions in the course of implementing this grant of service connection, and the Veteran may always file a timely notice of disagreement if he wishes to appeal from those downstream determinations.
+
+round 4, index 106: 
+Veterans Claims Assistance Act of 2000 (VCAA)
+
+round 5, index 104: 
+The Board finds that the evidence is at least in equipoise in this case.
+
+round 6, index 81: 
+Dr.
+
+round 7, index 80: 
+She diagnosed schizoaffective disorder and stated that the Veteran's "psychiatric symptoms clearly started in the military."
+
+round 8, index 79: 
+She stated that the Veteran's military records were lost but it sounds like his symptoms started in the military.
+
+round 9, index 78: 
+An April 2006 psychiatry note, written by Dr. E.P.A. reflects that the Veteran reported hearing voices and attempting suicide while in service.
+
+round 10, index 46: 
+It made him sick and affected his skin.
+
+round 11, index 102: 
+In some cases, the physician's special qualifications or expertise in the relevant medical specialty or lack thereof may be a factor.
+
+round 12, index 77: 
+The examiner noted that the Veteran's statements that he does not drive and that he is having significant financial difficulty were undermined by these events.
+
+round 13, index 82: 
+E.P.A. submitted an August 2008 correspondence in which she stated that she was the Veteran's care provider for the past six years.
+
+round 14, index 83: 
+She further stated that she believes that the Veteran's schizoaffective disorder began during military service.
+
+round 15, index 84: 
+She stated that the Veteran served in the Air Force from 1972-1974 and that during this time, he began hearing voices 3-4 times per week.
+
+round 16, index 85: 
+The voices would tell him to harm himself, and the Veteran began to drink alcohol in order to quiet them.
+
+round 17, index 86: 
+He attempted suicide during service and was hospitalized in a psychiatry ward for one week.
+
+round 18, index 105: 
+Consequently, service connection for a psychiatric disability, to include PTSD is warranted.
+
+round 19, index 107: 
+There is no need to undertake any review of compliance with the Veterans Claims Assistance Act of 2000 (VCAA) and implementing regulations in this case since there is no detriment to the Veteran as a result of any VCAA deficiency in view of the fact that the full benefit sought by the Veteran is being granted by this decision of the Board.
+
+round 20, index 87: 
+His symptoms were so severe that he had to be put in restraints.
+
+round 21, index 75: 
+When he got to the main door, his pace was normal.
+
+round 22, index 88: 
+She stated that although the Veteran was treated for alcohol abuse, these symptoms indicated more than an alcohol problem.
+
+round 23, index 101: 
+Other factors for assessing the probative value of a medical opinion are the physician's access to the claims file and the thoroughness and detail of the opinion.
+
+round 24, index 89: 
+She stated that in 1974, the Veteran was prescribed Lithium by someone who may or may not have been a psychiatrist (the Veteran could not remember).
+
+round 25, index 90: 
+Dr. E.P.A. stated that the Veteran had been consistent in reporting these in-service symptoms.
+
+round 26, index 4: 
+In May 2015, pursuant to a Joint Motion for Remand, the United States Court of Appeals for Veterans Claims (Court) vacated the Board's decision.
+
+round 27, index 103: 
+In every case, the Board must support its conclusion with an adequate statement of its reasoning of why it found one medical opinion more persuasive than the other.
+
+round 28, index 91: 
+In July 2015, the Veteran submitted a private medical opinion from Dr. R.I.F.
+
+round 29, index 76: 
+Then the Veteran got in a Cadillac and sped away.
+
+round 30, index 11: 
+If there is no showing of a resulting chronic condition during service, then a showing of continuity of symptomatology after service is required to support a finding of chronicity.
+
+round 31, index 0: 
+The Veteran served on active duty from August 1970 to May 1974.
+
+round 32, index 1: 
+This matter comes to the Board of Veterans' Appeals (Board) on appeal from a June 2006 rating decision by a Regional Office (RO) of the Department of Veterans Affairs (VA).
+
+round 33, index 100: 
+In assessing evidence such as medical opinions, the failure of the physician to provide a basis for his opinion goes to the weight or credibility of the evidence in the adjudication of the merits.
+
+round 34, index 98: 
+Greater weight may be placed on one medical professional's opinion over another, depending on factors such as reasoning employed by the medical professionals and whether or not, and the extent to which, they reviewed prior clinical records and other evidence.
+
+round 35, index 22: 
+He talked about going to Vietnam and dying.
+
+round 36, index 45: 
+The Veteran reported that after finishing basic training, he was sent to a fuel center where he would work with gas.
+
+round 37, index 3: 
+It then denied the claim on a de novo basis.
+
+round 38, index 99: 
+Adequate reasons and bases, in short, must be presented if the Board adopts one medical opinion over another.
+
+round 39, index 5: 
+The Veteran presented testimony at a Board hearing in May 2012.
+
+round 40, index 2: 
+In May 2014, the Board found that new and material evidence was received to reopen the claim for service connection for a psychiatric disability, to include PTSD.
+
+round 41, index 44: 
+The examiner noted that the Veteran was being evaluated for the first time for the purpose of establishing service connection for depression.
+
+round 42, index 10: 
+That an injury occurred in service alone is not enough; there must be chronic disability resulting from that injury.
+
+round 43, index 19: 
+He was observed as noisy and loud, until he was placed in a seclusion room.
+
+round 44, index 96: 
+VA examiners in March 2004 and August 2005 have offered opinions that weigh against the Veteran's claim, and Drs. E.P.A. and R.I.F. have rendered August 2008 and July 2015 opinions that weighs in favor of the claim.
+
+round 45, index 47: 
+He asked for a transfer for 18 months and was briefly sent to work in a hospital.
+
+round 46, index 14: 
+The service treatment records reflect that the Veteran was treated for anxiety in July 1972 at the Wiesbaden Hospital in Germany.
+
+round 47, index 15: 
+The impression was "(s)ome anxiety otherwise no organic neurological problem."
+
+round 48, index 43: 
+The Veteran underwent another VA examination in December 1997.
+
+round 49, index 42: 
+He was diagnosed with rule out schizoaffective disorder, alcohol dependency in remission.
+
+round 50, index 37: 
+He had recently lost his apartment, and he was in the middle of divorce proceedings.
+
+round 51, index 97: 
+The Court has held that the Board must determine how much weight is to be attached to each medical opinion of record.
+
+round 52, index 18: 
+He talked about using drugs and wanting to jump out a window.
+
+round 53, index 71: 
+He further noted some inconsistencies and likely untrue statements.
+
+round 54, index 12: 
+Additionally, for Veterans who have served 90 days or more of active service during a war period or after December 31, 1946, certain chronic disabilities, such as psychoses, are presumed to have been incurred in service if manifest to a compensable degree within one year of discharge from service.
+
+round 55, index 48: 
+However, he was eventually sent back and "at that point he snapped."
+
+round 56, index 13: 
+Service connection may also be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.
+
+round 57, index 24: 
+Hand and leg restraints were used.
+
+round 58, index 23: 
+He was put to bed with the side rails up, but he continued to be uncooperative.
+
+round 59, index 74: 
+However, when the examination was over, the Veteran walked slowly to the door.
+

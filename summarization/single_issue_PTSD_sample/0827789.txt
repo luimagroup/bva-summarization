@@ -1,0 +1,549 @@
+Citation Nr: 0827789	
+Decision Date: 08/15/08    Archive Date: 08/22/08
+
+DOCKET NO.  06-00 182	)	DATE
+	)
+	)
+
+On appeal from the
+Department of Veterans Affairs (VA) Regional Office (RO)
+in New York, New York
+
+
+THE ISSUE
+
+Entitlement to service connection for an acquired psychiatric 
+disability, to include post-traumatic stress disorder (PTSD) 
+and social phobia.
+
+
+REPRESENTATION
+
+Appellant represented by:	Veterans of Foreign Wars of 
+the United States
+
+
+WITNESS AT HEARING ON APPEAL
+
+Appellant
+
+
+ATTORNEY FOR THE BOARD
+
+J. Hager, Counsel
+INTRODUCTION
+
+The veteran had active service from July 1966 to June 1968.
+
+This appeal to the Board of Veterans Appeals (Board) arises 
+from a June 2004 rating decision that denied service 
+connection for PTSD.  The veteran filed a notice of 
+disagreement (NOD) in June 2005, and the RO issued a 
+statement of the case (SOC) in November 2005.  The veteran 
+filed a substantive appeal (via a VA Form 9, Appeal to the 
+Board of Veterans' Appeals) in January 2006.
+
+In June 2006, the veteran testified during a Board hearing 
+before the undersigned Veterans Law Judge at the RO; a 
+transcript of the hearing is of record.
+
+In June 2007, the Board remanded this matter-recharacterized 
+to include psychiatric disability other than PTSD-to the RO, 
+via the Appeals Management Center (AMC), in Washington, D.C., 
+for additional development.  After substantially complying 
+with the requested action (as discussed below), the AMC 
+continued the denial of the claim (as reflected in an April 
+2008 supplemental SOC (SSOC), and returned this matter to the 
+Board for  appellate consideration.
+
+
+FINDINGS OF FACT
+
+1.  All notification and development action needed to fairly 
+adjudicate the claim on appeal has been accomplished.
+
+2.  Although the record reflects several conclusory 
+assessments and diagnoses of PTSD, the weight of the 
+competent, probative evidence establishes that the veteran 
+does not meet the diagnostic criteria for PTSD.
+
+3.  While the record reflect diagnoses of s psychiatric 
+disability other than PTSD-to include schizophrenia, and 
+social phobia-the medical record reflects that a psychiatric 
+disability was not present in service or for many years 
+thereafter, and there is no medical evidence or opinion even 
+suggesting a nexus between any such disability and service.
+
+4.  The only medical opinion to address the etiology of a 
+diagnosed psychiatric disability other than PTSD indicates 
+that the veteran's social phobia with associated panic 
+attacks and high levels of anxiety preexisted, and was not 
+aggravated by, service.
+
+
+CONCLUSION OF LAW
+
+The criteria for service connection for an acquired 
+psychiatric disability, to include PTSD, are not met.  38 
+U.S.C.A. §§ 1110, 1111, 1112, 1113, 5103, 5103A, 5107(b) 
+(West 2002 & Supp. 2007); 38 C.F.R. §§ 3.102, 3.159, 3.303, 
+3.304, 3.307, 3.309, 4.125(a) (2007).
+
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSION
+
+I.  Duties to Notify and Assist
+
+The Veterans Claims Assistance Act of 2000 (VCAA), Pub. L. 
+No. 106-475, 114 Stat. 2096 (Nov. 9, 2000) (codified at 
+38 U.S.C.A. §§ 5100, 5102, 5103, 5103A, 5106, 5107, and 5126 
+(West 2002 & Supp. 2007)) includes enhanced duties to notify 
+and assist claimants for VA benefits.  VA regulations 
+implementing the VCAA have been codified, as amended at 
+38 C.F.R. §§ 3.102, 3.156(a), 3.159, and 3.326(a) (2007).
+
+Notice requirements under the VCAA essentially require VA to 
+notify a claimant of any evidence that is necessary to 
+substantiate the claim(s), as well as the evidence that VA 
+will attempt to obtain and which evidence he or she is 
+responsible for providing.  See, e.g., Quartuccio v. 
+Principi, 16 Vet. App. 183 (2002) (addressing the duties 
+imposed by 38 U.S.C.A. § 5103(a) and 38 C.F.R. § 3.159(b)).  
+As delineated in Pelegrini v. Principi, 18 Vet. App. 112 
+(2004), after a substantially complete application for 
+benefits is received, proper VCAA notice must inform the 
+claimant of any information and evidence not of record (1) 
+that is necessary to substantiate the claim(s); (2) that VA 
+will seek to provide; (3) that the claimant is expected to 
+provide; and (4) must ask the claimant to provide any 
+evidence in her or his possession that pertains to the 
+claim(s), in accordance with 38 C.F.R. § 3.159(b)(1).
+
+The Board notes that, effective May 30, 2008, 38 C.F.R. § 
+3.159 has been revised, in part.  See 73 Fed. Reg. 23,353-
+23,356 (April 30, 2008).  Notably, the final rule removes the 
+third sentence of 38 C.F.R. § 3.159(b)(1), which had stated 
+that VA will request that a claimant provide any pertinent 
+evidence in his or her  possession.
+
+VA's notice requirements apply to all five elements of a 
+service connection claim: veteran status, existence of a 
+disability, a connection between the veteran's service and 
+the disability, degree of disability, and effective date of 
+the disability.  Dingess/Hartman v. Nicholson, 19 Vet. App. 
+473 (2006).
+
+VCAA-compliant notice must be provided to a claimant before 
+the initial unfavorable decision on a claim for VA benefits 
+by the agency of original jurisdiction (in this case, the RO, 
+to include the AMC).  Id.; Pelegrini, 18 Vet. App. at 112.  
+See also Disabled American Veterans v. Secretary of Veterans 
+Affairs, 327 F.3d 1339 (Fed. Cir. 2003).  However, the VCAA 
+notice requirements may, nonetheless, be satisfied if any 
+errors in the timing or content of such notice are not 
+prejudicial to the claimant.  Id.
+
+In this appeal, a pre-rating February 2004 letter and a post-
+rating July 2007 letter provided notice to the veteran 
+regarding what information and evidence was needed to 
+substantiate the claim, as well as what information and 
+evidence must be submitted by the veteran, what information 
+and evidence would be obtained by VA, and the need for the 
+veteran to advise VA of and to submit any further evidence 
+that is relevant to the claim.  The February 2004 included a 
+request for specific information regarding PTSD and an 
+enclosed questionnaire requesting specific information 
+regarding the veteran's claimed stressful in-service 
+experiences.  Each letter also included a specific request 
+that the veteran furnish pertinent evidence in his possession 
+(consistent with Pelegrini and the version of 38 C.F.R. 
+§ 3.159 then in effect).  The July 2007 letter also informed 
+the veteran how disability ratings and effective dates are 
+assigned, as well as the type of evidence that impacts those 
+determinations
+
+After issuance of each notice described above, and 
+opportunity for the veteran to respond, the April 2008 SSOC 
+reflects readjudication of the claim.  Hence, while some 
+notice was provided to the veteran after the June 2004 
+initial adjudication of the claim, the veteran is not shown 
+to be prejudiced by the timing of VCAA-compliant notice.  See 
+Mayfield v. Nicholson, 20 Vet. App. 537, 543 (2006); see also 
+Prickett v. Nicholson, 20 Vet. App. 370, 376 (2006) (the 
+issuance of a fully compliant VCAA notification followed by 
+readjudication of the claim, such as in a statement of the 
+SOC or SSOC, is sufficient to cure a timing defect).
+
+The record also reflects that VA has made reasonable efforts 
+to obtain or to assist in obtaining all relevant records 
+pertinent to the matter on appeal.  Pertinent objective 
+evidence associated with the claims file consists of the 
+veteran's service medical records, service personnel records, 
+post-service private medical records, VA outpatient treatment 
+(VAOPT) records and reports of VA examinations.  Also of 
+record and considered in connection with the appeal are 
+various written statements submitted by the veteran and by 
+his representative, on his behalf, as well as an August 2005 
+statement of a fellow serviceman.  The Board also finds that 
+no further RO action prior to appellate consideration of the 
+claim is warranted.
+
+As regards the March 2008 VA examination conducted pursuant 
+to the Board's June 2007 remand, the Board notes that, while 
+the Board instructed that the examination was to be conducted 
+by a physician (M.D.), this examination was, in fact, 
+performed by a licensed psychologist with a PhD.  In the July 
+2008 informal hearing presentation, the veteran's 
+representative, citing Stegall v. West, 11 Vet. App. 268, 271 
+(1998), requested a remand, asserting that this constituted a 
+failure to comply with the Board's June 2007 remand 
+instructions.  However, the March 2008 examination report was 
+also signed by a physician (M.D.), whose name appears at the 
+conclusion of the report, and whose signature acknowledging 
+receipt of the report appears to reflect concurrence with the 
+psychologist's conclusions.  The Board therefore finds that 
+VA has substantially complied with the June 2007 remand 
+directives, and that no further action in this regard is 
+required.  See Dyment v. West, 13 Vet. App. 141, 146-47 
+(1999) (remand not required under Stegall v. West, where 
+there is substantial compliance with Board's remand 
+instructions).
+
+The veteran's representative also requested remand because 
+the AMC only considered PTSD and not the other psychiatric 
+disabilities noted by the Board in its June 2007 remand.  
+However, the AMC's April 2008 SSOC correctly characterized 
+the issue on appeal to include psychiatric disabilities other 
+than PTSD, and addressed these other disabilities in the 
+reasons and bases section of the SSOC, concluding that no 
+nexus has been established between an acquired psychiatric 
+disability and military service, and that no psychosis had 
+manifested to a compensable degree within one year from 
+discharge.  Accordingly, on  these facts, remand of this 
+matter to the RO is unnecessary.  .
+
+In summary, the duties imposed by the VCAA have been 
+considered and satisfied.  Through various notices of the 
+RO/AMC, the veteran has been notified and made aware of the 
+evidence needed to substantiate this claim, the avenues 
+through which he might obtain such evidence, and the 
+allocation of responsibilities between himself and VA in 
+obtaining such evidence.  There is no additional notice that 
+should be provided, nor is there any indication that there is 
+additional existing evidence to obtain or development 
+required to create any additional evidence to be considered 
+in connection with the claim.  Consequently, any error in the 
+sequence of events or content of the notice is not shown to 
+prejudice the veteran or to have any effect on the appeal.  
+Any such error is deemed harmless and does not preclude 
+appellate consideration of the matter on appeal, at this 
+juncture.  See Mayfield, 20 Vet. App. at 543 (rejecting the 
+argument that the Board lacks authority to consider harmless 
+error and affirming that the provision of adequate notice 
+followed by a readjudication "cures" any timing problem 
+associated with inadequate notice or the lack of notice prior 
+to an initial adjudication).  See also ATD Corp. v. Lydall, 
+Inc., 159 F.3d 534, 549 (Fed. Cir. 1998).
+
+
+
+II.  Analysis
+
+Service connection may be established for disability 
+resulting from personal injury or disease contracted in line 
+of duty, or for aggravation of a pre-existing injury suffered 
+or disease contracted in line of duty.  38 U.S.C.A. § 1110 
+(West 2002 & Supp. 2007); 38 C.F.R. § 3.303 (2007).  Service 
+connection may be granted for any disease diagnosed after 
+discharge from service when all the evidence, including that 
+pertinent to service, establishes that the disease was 
+incurred in service.  38 C.F.R. § 3.303(d) (2007).
+
+Service connection for PTSD requires medical evidence 
+diagnosing the condition in accordance with 38 C.F.R. § 
+4.125(a); a link, established by medical evidence, between 
+current symptoms and an in-service stressor; and credible 
+supporting evidence that the in-service stressor occurred.  
+38 C.F.R. § 3.304(f) (2007).
+
+In his written statements and his Board hearing testimony, 
+the veteran claimed that he has PTSD as a result of the 
+following experiences in Vietnam: driving a jeep through the 
+streets of Nha Trang at night; coming under fire during the 
+Tet offensive; flying as a courier in airplanes; and training 
+to use an M-14 rifle.
+
+As indicated above, the first requirement for service 
+connection for PTSD is a valid medical diagnosis of the 
+condition.  Diagnoses of PTSD must be rendered in accordance 
+with the diagnostic criteria for the condition set forth in 
+Fourth Edition of the American Psychiatric Association's 
+Diagnostic and Statistical Manual of Mental Disorders (DSM-
+IV). See 38 C.F.R. § 4.125 (indicating that VA has adopted 
+the nomenclature of the DSM-IV) (2007).
+
+Review of the record in this case reveals that, while some 
+health care professionals indicated that the veteran had 
+PTSD, most indicated that he did not have PTSD or did not 
+diagnose this disability.
+
+York Hospital treatment records from March to April 1981 
+reflect that the veteran was admitted to the hospital based 
+on his bizarre behavior and discharged with a diagnosis of 
+paranoid schizophrenia and alcohol abuse.  January 1984 to 
+March 2004 treatment records from the Babylon, Long Island 
+Vet Center contain detailed notes of conversations with the 
+veteran regarding his history and symptoms but do not contain 
+a diagnosis of PTSD.  Two VAOPT notes, dated in April and May 
+2004, consisting of a brief recitation of presenting problem 
+and psychiatric history, followed by a mental status 
+examination "check the box" form, contain diagnoses of 
+PTSD, psychosis not otherwise specified, and chronic PTSD, 
+without indicating the general basis for each diagnosis or a 
+specific incident or incident on which it was based.  A May 
+2004 VAOPT note patient medical history (PMH) includes PTSD.  
+However,  s reflected  in April and June 2004 VAOPT notes, a 
+VA attending psychiatrist indicated that there were no 
+symptoms or signs suggestive of psychosis or cognitive 
+defects, did not diagnose PTSD, and noted symptoms of anxiety 
+reaction, depression, obsession, and simple phobia.
+
+In a June 2004 VA examination report, a VA physician, after 
+reviewing the claims file and examining the veteran, noted 
+the veteran's claimed stressors of flying on cargo planes and 
+being at a base that was fired upon during the Tet offensive, 
+and concluded that the veteran did not meet the DSM-IV 
+criteria for PTSD.  The examiner diagnosed social phobia, 
+with associated panic attacks and high general levels of 
+anxiety.  A June 2004 VA examination report (prepared in 
+connection with the veteran's claim for nonservice-connected 
+pension benefits that was subsequently granted) contains a 
+diagnosis of anxiety disorder.  A September 2005 PTSD 
+screening was negative.  A September 2005 VA primary care 
+outpatient treatment note reflects an assessment of PTSD with 
+no indication of the basis for this assessment.  As  noted 
+above, after reviewing the claims file and examining the 
+veteran, the March 2008  VA examiner indicated that the prior 
+diagnoses of PTSD were not supported by the veteran's 
+symptoms, and diagnosed social phobia with associated panic 
+attacks and high levels of anxiety. 
+
+Thus, the only assessments and diagnoses of PTSD were not 
+based on the veteran's claimed stressors and did not indicate 
+the reasons for the conclusion that the veteran had PTSD.  By  
+contrast, the two VA examiners specifically indicated that 
+the veteran does not have PTSD, with the June 2004 VA 
+examiner specifically referring to the DSM-IV criteria and 
+the March 2008 VA examiner discussing the prior diagnoses of 
+PTSD, and each examiner explained the reasons for this 
+conclusion in light of the veteran's medical history and 
+claimed stressors.  Moreover, the VA attending psychiatrist 
+explained the reasons for his conclusions, which did not 
+include a diagnosis of PTSD, in the April and June 2004 VAOPT 
+notes.  
+
+Under these circumstances, the Board finds that the medical 
+opinions that concluded that the veteran does not have PTSD 
+are entitled to greater weight than the conclusory 
+assessments and diagnoses of PTSD.  See Gabrielson v. Brown, 
+7 Vet. App. 36, 40 (1994) (greater weight may be placed on 
+one physician's than another's depending on factors such as 
+the reasoning employed by the physicians and whether or not 
+(and the extent to which) they reviewed prior clinical 
+records and other evidence); Prejean v. West, 13 Vet. App. 
+444, 448-49 (2000) (factors for assessing the probative value 
+of a medical opinion include the physician's access to the 
+claims file and the thoroughness and detail of the opinion); 
+Hernandez- Toyens v. West, 11 Vet. App. 379, 382 (1998) (the 
+failure of the physician to provide a basis for his opinion 
+goes to the weight or credibility of the evidence in the 
+adjudication of the merits); Miller v. West, 11 Vet. App. 
+345, 348 (1998) (a bare conclusion, even one reached by a 
+health care professional, is not probative without a factual 
+predicate in the record).
+
+As the preponderance of the competent evidence establishes 
+that the first criterion for service connection for PTSD-a  
+medical diagnosis of the condition-has not been met, service 
+connection for PTSD cannot be established, and the Board need 
+not address the remaining criteria for service connection for 
+PTSD.  See 38 C.F.R. § 3.304(f) (2007).  
+
+The Board further notes that, while the record reflects 
+diagnoses of a psychiatric disability other than PTSD-to 
+include schizophrenia and social phobia-there simply is no 
+competent evidence of a nexus between any such disability and 
+service.  
+
+There is a single notation in the service medical records 
+indicating that the veteran was seen for a psychiatric 
+consultation, and that a certificate was written and sent to 
+his unit.  However, the June 1968 separation examination 
+report reflects that the psychiatric examination was normal.  
+Thus, there is no evidence of a psychiatric disability in 
+service.
+
+Moreover, the first evidence of a psychiatric disability is 
+reflected in the above-noted March to April 1981 York 
+Hospital records, which include diagnoses of paranoid 
+schizophrenia and alcohol abuse.  While the March 2008 VA 
+examiner conclusion that the diagnosis of schizophrenia, was 
+erroneous, even if true, the first diagnosis was 19 years 
+after service, and, thus, well outside the presumptive period 
+for a psychosis.  See 38 U.S.C.A. §§ 1101, 1112, 1113, 1137 
+(West 2002); 38 C.F.R. §§  3.307, 3.309 (2008).  The Board 
+points out that the passage of many years between discharge 
+from active service and documentation of a claimed disability 
+is a factor that weighs against any claim for service 
+connection.  See Maxson v. Gober, 230 F.3d 1330, 1333 (Fed. 
+Cir. 2000) 
+
+It is also significant to note that none of the above-
+discussed evidence containing diagnoses of psychiatric 
+disabilities includes any comment even suggesting that any 
+such disability is related to the veteran's service, and 
+neither the veteran nor his representative has presented or 
+identified any such existing medical evidence or opinion.  
+
+Towards the end of the June 2006 Board hearing, the veteran's 
+representative argued that, based on the veteran's statements 
+to Vet Center and VA personnel, as well as his hearing 
+testimony, he may have had a pre-existing psychological 
+deficiency was aggravated by service.  See Transcript, pp. 
+18-19.  However, there simply is no competent evidence to 
+support any such assertion. 
+
+In this regard, the Board notes that every person employed in 
+the active military, naval, or air service shall be taken to 
+have been in sound condition when examined, accepted and 
+enrolled for service, except as to defects, infirmities, or 
+disorders noted at the time of the examination, acceptance 
+and enrollment, or where clear and unmistakable evidence 
+demonstrates that the injury or disease existed before 
+acceptance and enrollment and was not aggravated by such 
+service.  See 38 U.S.C.A. §§ 1111 (West 2002 & Supp. 2007).
+
+In July 2003, the VA General Counsel issued a precedent 
+opinion holding that to rebut the presumption of soundness in 
+38 U.S.C.A. § 1111, VA must show by clear and unmistakable 
+evidence both that the disease or injury existed prior to 
+service and that the disease or injury was not aggravated by 
+service.  See VAOPGCPREC 3-2003 (July 16, 2003). The claimant 
+is not required to show that the disease or injury increased 
+in severity during service before VA's duty under the second 
+prong of this rebuttal standard attaches.  Id.  See also 
+Wagner v. Principi, 370 F. 3d 1089 (Fed. Cir. 2004).
+
+In this case, no defects were noted in the April 1966 pre-
+induction examination report, and the veteran is therefore 
+presumed to have been in sound condition when he entered 
+service.  
+
+However the statements of the veteran, including during the 
+Board hearing and to the March 2008 VA examiner, indicate 
+that he had psychiatric difficulties prior to service that 
+resulted in truancy, expulsion from school, and other 
+problems.  See, e.g., Hearing transcript, pp. 3-4.  
+
+Moreover, the only opinion to address as to the whether the 
+veteran had a psychiatric disability that preexisted service 
+and whether such disability was aggravated by service is that 
+of the March 2008 VA examiner, who as noted, reviewed the 
+claims file and examined the veteran, and diagnosed social 
+phobia with associated panic attacks and high general levels 
+of anxiety.  The examiner concluded that the veteran's social 
+phobia and panic attacks were present prior to service and 
+were not likely caused or permanently aggravated by his 
+military service.  The examiner based this conclusion on the 
+fact that the veteran indicated that he had worked at a 
+variety of jobs after service but had spent five months 
+sequestered at home prior to service (thus indicating that 
+his psychiatric condition was no worse after service than it 
+had been before service).  Therefore, as the March 2008 VA 
+examiner explained the reasons for his conclusion in light of 
+the evidence of record including the veteran's statements to 
+him during the examination, his opinion is entitled to 
+substantial weight.  See Gabrielson, 7 Vet. App. at 40; 
+Prejean, 13 Vet. App. at  448-49.  Moreover,  no contrary 
+opinion  on this point has been presented or identified.  
+
+The Board therefore finds that there is clear and 
+unmistakable evidence that the veteran's social phobia with 
+associated panic attacks and high levels of anxiety 
+preexisted service and were not aggravated thereby, thus 
+rebutting the presumption of sound condition with regard to 
+this disability, and indicating that it is not related to 
+service.
+
+The Board also notes that the veteran was diagnosed with 
+alcohol abuse in the March to April 1981 York hospital 
+records, and alcohol abuse was also indicated in the Vet 
+Center records.  In addition, the March 2008 VA examiner 
+indicated that the veteran's alcohol dependence was at least 
+as likely as not the result of service, in particular 
+constant enforced contact with other service members, and 
+represented an attempt to medicate his heightened anxiety.  
+However, the veteran stated to the June 2004 and March 2008 
+VA examiners that he stopped drinking in 1983 or 1984, and 
+the March 2008 VA examiner diagnosed alcohol dependence in 
+sustained remission.  Thus, to the extent that secondary 
+service connection may be granted for disabilities resulting 
+from alcohol abuse or dependence (see Allen v. Principi, 237 
+F.3d 1368, 1376 (Fed. Cir. 2001), there is no evidence that, 
+at any time since he filed his claim), the veteran has had a 
+disability due to alcohol dependence that was caused by 
+service, and there is therefore no basis for a grant of 
+service connection on this basis.  See McClain v. Nicholson, 
+21 Vet. App. 319, 321 (2007) (the requirement of the 
+existence of a current disability is satisfied when a veteran 
+has a disability at the time he files his claim for service 
+connection or during the pendency of that claim).
+
+As a final point, the Board notes that, in addition to the 
+medical evidence, in adjudicating this claim, the Board has 
+considered the assertions of the veteran, his representative, 
+and a fellow serviceman who wrote in an August 2005 letter 
+about the veteran's stressful Vietnam experiences and 
+concluded that his social anxiety and panic attacks are 
+related to these experiences.  However, none of this evidence 
+provides a basis for allowance of the claim.  As none of the 
+above mentioned individuals is  shown to be other than a 
+layperson without the appropriate medical training and 
+expertise, none is competent to render a probative opinion on 
+a medical matter, such as whether the veteran's symptoms meet 
+the diagnostic criteria for PTSD in accordance with DSM- IV 
+or whether any acquired psychiatric other than PTSD is 
+medically related to service.   See, e.g., Bostain v. West, 
+11 Vet. App. 124, 127 (1998), citing Espiritu v. Derwinski, 2 
+Vet. App. 492 (1992).  See also Routen v. Brown, 10 Vet. App. 
+183, 186 (1997) ("a layperson is generally not capable of 
+opining on matters requiring medical knowledge").  Hence, the 
+lay assertions in this regard have no probative value.
+
+For the foregoing reasons, the claim for service connection 
+for an acquired psychiatric disability, to include PTSD and 
+social phobia, must be denied.  In reaching this conclusion, 
+the Board has considered the applicability of the benefit-of-
+the-doubt doctrine.  However, as the preponderance of the 
+evidence is against the veteran's claim, that doctrine is not 
+applicable.  See 38 U.S.C.A. § 5107(b) (West 2002 & Supp. 
+2007); 38 C.F.R. § 3.102 (2007); Gilbert v. Derwinski, 1 Vet. 
+App. 49, 53-56 (1990).
+
+
+ORDER
+
+Service connection for an acquired psychiatric disability, to 
+include PTSD and social phobia, is denied.
+
+
+
+
+____________________________________________
+JACQUELINE E. MONROE
+Veterans Law Judge, Board of Veterans' Appeals
+
+
+ Department of Veterans Affairs
+
+

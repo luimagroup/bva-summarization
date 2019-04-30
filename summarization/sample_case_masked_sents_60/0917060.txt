@@ -1,0 +1,180 @@
+round 0, index 69: 
+This claim must be afforded expeditious treatment.
+
+round 1, index 68: 
+The appellant has the right to submit additional evidence and argument on the matter or matters the Board has remanded.
+
+round 2, index 67: 
+If this claim is denied, the Veteran should be issued a supplemental statement of the case, and given an opportunity to respond, before the case is returned to the Board.
+
+round 3, index 70: 
+The law requires that all claims that are remanded by the Board of Veterans' Appeals or by the United States Court of Appeals for Veterans Claims for additional development or other appropriate action must be handled in an expeditious manner.
+
+round 4, index 71: 
+Veterans Law Judge, Board of Veterans' AppealsUnder 38 U.S.C.A. § 7252 (West 2002), only a decision of the Board of Veterans' Appeals is appealable to the United States Court of Appeals for Veterans Claims.
+
+round 5, index 72: 
+This remand is in the nature of a preliminary order and does not constitute a decision of the Board on the merits of your appeal.
+
+round 6, index 58: 
+All indicated studies, tests, and evaluations deemed necessary should be performed.
+
+round 7, index 59: 
+The examiner should report a multi-axial diagnosis, identifying all current psychiatric disorders.
+
+round 8, index 57: 
+Arrange for a VA PTSD examination.
+
+round 9, index 3: 
+The appeal is REMANDED to the RO via the Appeals Management Center (AMC), in Washington, DC.  VA will notify the appellant if further action is required.
+
+round 10, index 56: 
+Accordingly, the case is REMANDED for the following action:
+
+round 11, index 66: 
+Then readjudicate the claim of entitlement to service connection for PTSD.
+
+round 12, index 64: 
+The claims file, including a copy of this remand must be made available to the examiner for proper review of the medical history.
+
+round 13, index 65: 
+The VA examiner must also be provided a copy of this remand and a description of all verified stressors.
+
+round 14, index 63: 
+The rationale for all opinions expressed should be explained.
+
+round 15, index 4: 
+The Veteran has claimed entitlement to service connection for PTSD based on incidents that occurred while he was stationed in Okinawa, Japan.
+
+round 16, index 62: 
+If PTSD is not diagnosed, the examiner should explain why the diagnosis was not made.
+
+round 17, index 61: 
+If PTSD is diagnosed, the examiner should identify the specific stressor(s) supporting the diagnosis.
+
+round 18, index 60: 
+A diagnosis of PTSD under DSM-IV criteria should be made or definitively ruled out.
+
+round 19, index 55: 
+Given the findings reached during the first VA examination, as well as the reservations expressed in the report of the January 2008 VA examination as to the validity of the diagnosis, the Board finds that a new VA examination is required in order to clearly determine (1) whether the Veteran has PTSD, and (2) if yes, whether the Veteran's PTSD may be attributable to verified, in-service stressors.
+
+round 20, index 53: 
+For example, the examination report notes that, "[p]rior to beginning regular misuse of illicit substances, [the Veteran] performed his job without impairment, despite having been exposed to the traumas reported above."
+
+round 21, index 52: 
+The examination report does not provide a clear opinion on the role that the Veteran's personality disorder or substance abuse may have played in the exaggeration or manifestation of PTSD symptoms.
+
+round 22, index 51: 
+that the psychological test results suggest malingering and finds the test results are "[p]robably [i]nvalid."
+
+round 23, index 40: 
+The Board also observes that duties such as standing guard at a stockade, setting up road blocks, and investigating suicides and motorcycle and automobile accidents are generally consistent with duties that Military Police would be expected to perform.
+
+round 24, index 41: 
+Therefore, while VA has not verified any of the specific incidents described by the Veteran in connection with this claim, and the Veteran has not provided specific information such as names or dates that would allow VA to attempt verify, it must be considered that the claimed stressors appear consistent with the types of situations he would be expected to encounter in the course of performing his Military Police duties.
+
+round 25, index 17: 
+The soldier was badly burned and later died from shock.
+
+round 26, index 5: 
+Establishing service connection for PTSD currently requires: (1) medical evidence diagnosing PTSD in accordance with 38 C.F.R. § 4.125 (for VA purposes, all mental disorder diagnoses must conform to DSM-IV); (2) credible supporting evidence that the claimed in-service stressor actually occurred; and (3) medical evidence of a link between current symptomatology and the claimed in-service stressor.
+
+round 27, index 50: 
+While the January 2008 report does state that the Veteran meets criteria for a diagnosis of PTSD under the American Psychiatric Association: Diagnostic and Statistical Manual of Mental Disorders (4th ed. 1994) (DSM-IV), it also makes clear
+
+round 28, index 7: 
+Otherwise, the law requires verification of a claimed stressor.
+
+round 29, index 6: 
+If the evidence establishes that the Veteran engaged in combat with the enemy and the claimed stressor is related to that combat, in the absence of clear and convincing evidence to the contrary, and provided that the claimed stressor is consistent with the circumstances, conditions, or hardships of the Veteran's service, the Veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor.
+
+round 30, index 48: 
+Psychological testing was conducted in January 2008.
+
+round 31, index 18: 
+In another incident, a Marine refused to stop at a road block.
+
+round 32, index 0: 
+The Veteran served on active duty from October 1969 to April 1972.
+
+round 33, index 1: 
+This case comes before the Board of Veterans' Appeals (Board) on appeal from a March 2004 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO) in Atlanta, Georgia.
+
+round 34, index 2: 
+In March 2009, the Veteran testified at a personal hearing before the undersigned Veterans Law Judge.  A transcript of this hearing was prepared and associated with the claims file.
+
+round 35, index 20: 
+The Veteran reported being at his side shortly after he hit the ground.
+
+round 36, index 47: 
+Noting the varying diagnosis that the Veteran has been given throughout his course of treatment, including findings of a significant personality disorder and possible malingering, the examiner deferred diagnosis in the absence of psychological testing.
+
+round 37, index 49: 
+The January 2008 VA examination report describes the Veteran's history as told by the Veteran himself, noting several inconsistencies between his current narration and the information he provided at the October 2007 examination.
+
+round 38, index 42: 
+In essence, it is reasonable to assume that the Veteran's role in law enforcement would have put him in the position of encountering people who had been injured or died, particularly as a consequence of events such as automobile or motorcycle accidents, as well as suicides.
+
+round 39, index 54: 
+As noted, even having accepted that the Veteran's claimed in-service stressors did occur, the evidence must also show that he has been diagnosed with PTSD in accordance with 38 C.F.R. § 4.125, and that such diagnosis is specifically related to the in-service stressors.
+
+round 40, index 46: 
+The first examination, from October 2007, gives a detailed account of the Veteran's medical, social, and employment histories as well as a mental status evaluation.
+
+round 41, index 43: 
+The above stressors are therefore considered verified for the purposes of attempting to establish service connection for PTSD.
+
+round 42, index 45: 
+With respect to establishing a PTSD diagnosis, the Board notes that there are two VA examination reports of record.
+
+round 43, index 25: 
+It was too late, and this man also died in the Veteran's arms.
+
+round 44, index 38: 
+The Board therefore finds that this stressor has been verified.
+
+round 45, index 19: 
+The Veteran pursued him, and the Marine lost control, went into a field, and hit a tree.
+
+round 46, index 27: 
+At his March 2009 hearing, the
+
+round 47, index 32: 
+The Court has held that, in order to show presence during a stressful event, evidence need not demonstrate that a Veteran actually was present during the event if the evidence shows that his unit was present during the event.
+
+round 48, index 24: 
+He broke the window, removed the man, and tried to revive him.
+
+round 49, index 16: 
+He described another motorcycle accident in which a soldier lost control and his gas tank exploded on impact.
+
+round 50, index 15: 
+He described searching for a soldier who ran off the road in his motorcycle, and finding him with a limb through his neck.
+
+round 51, index 14: 
+He stated that he investigated many serious and fatal accidents during this time.
+
+round 52, index 13: 
+In September 1970, he was reassigned to the Traffic Investigation Division.
+
+round 53, index 44: 
+Having established the occurrence of several of the Veteran's claimed in-service stressors, the Board now turns to the question of whether the Veteran has been diagnosed with PTSD and, if so, whether his PTSD is linked to any of his verified stressors.
+
+round 54, index 10: 
+Moreover, a medical opinion diagnosing PTSD does not suffice to verify the occurrence of the claimed in-service stressors.
+
+round 55, index 39: 
+With respect to the remaining stressors, the Board notes that the Veteran's personnel records clearly verify that he served with the Military Police.
+
+round 56, index 12: 
+He noted that there was always the threat of violence and that he witnessed inmates hurt each other with homemade weapons and saw another Correctional Officer get hit in the head with a water pitcher.
+
+round 57, index 11: 
+In an August 2003 stressor statement, the Veteran reported that he was stationed as a Correctional Officer at the stockade at Camp Sukiron in March or April 1970.
+
+round 58, index 23: 
+The Veteran knew it was a suicide.
+
+round 59, index 26: 
+The Veteran also reported having been on base in Okinawa during the 1970 Koza riots.
+

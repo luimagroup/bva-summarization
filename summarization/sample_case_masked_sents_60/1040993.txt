@@ -1,0 +1,180 @@
+round 0, index 44: 
+Service connection for CAD as secondary to the PTSD is granted.
+
+round 1, index 6: 
+I.
+
+round 2, index 4: 
+There is competent and credible, so probative, medical evidence indicating his PTSD as likely as not aggravates his CAD.
+
+round 3, index 5: 
+Resolving all reasonable doubt in his favor, the CAD is secondary to the PTSD.
+
+round 4, index 7: 
+The Duties to Notify and AssistAs provided for by the Veterans Claims Assistance Act of 2000 (VCAA), VA has duties to notify and assist claimants in substantiating claims for VA benefits.
+
+round 5, index 45: 
+Veterans Law Judge, Board of Veterans' Appeals Department of Veterans Affairs
+
+round 6, index 40: 
+So this examiner believed that it is as likely as not the Veteran's PTSD has at least aggravated his CAD.
+
+round 7, index 41: 
+In light of these several medical opinions acknowledging this purported relationship between the Veteran's PTSD and aggravation of his CAD, service connection is warranted on this permissible secondary basis.
+
+round 8, index 39: 
+Significantly, however, this commenting physician also conceded there was some evidence in the medical literature linking PTSD and the early development of CAD.
+
+round 9, index 38: 
+In an October 2009 addendum, this physician essentially noted that other factors - including the Veteran's family history, hypertension, and dyslipidemia, increased his chances of developing CAD, and that these conditions outweigh any effect due to PTSD.
+
+round 10, index 42: 
+There is no probative evidence in the record to rebut these favorable opinions, and the Veteran's medical history and current findings seem to substantiate their suppositions.
+
+round 11, index 43: 
+Certainly then, with resolution of all reasonable doubt in the Veteran's favor, the claim must be granted.
+
+round 12, index 9: 
+II.
+
+round 13, index 3: 
+The Veteran's PTSD is a service-connected disability.
+
+round 14, index 8: 
+Here, though, since the claim is being granted, the Board need not discuss whether there has been compliance with these notice and duty to assist provisions of the VCAA because the Veteran is receiving the requested benefits, regardless.
+
+round 15, index 14: 
+This presumption, however, is rebuttable by probative evidence to the contrary.
+
+round 16, index 10: 
+General Statutes, Regulations and Cases Pertaining to Service ConnectionIn general, service connection is granted for disability resulting from disease or injury incurred in or aggravated by active military service.
+
+round 17, index 11: 
+To establish entitlement to direct service connection for a claimed disability, there must be:  (1) medical evidence of current disability; (2) medical, or in certain circumstances, lay evidence of in-service incurrence or aggravation of a disease or injury; and (3) medical evidence of a nexus or link between the claimed in-service disease or injury and the current disability.
+
+round 18, index 13: 
+Service connection will be presumed for certain chronic diseases, such as cardiovascular disease, if manifested to a compensable degree (generally at least 10-percent disabling) within the year after service.
+
+round 19, index 15: 
+Service connection also may be granted for any disability shown after service, when all of the evidence, including that pertinent to service, shows the disability was incurred in service.
+
+round 20, index 12: 
+The determination as to whether these requirements are met is based on an analysis of all the evidence of record and the evaluation of its credibility and probative value.
+
+round 21, index 16: 
+Secondary service connection may be granted for disability that is proximately due to or the result of a service-connected disease or injury.
+
+round 22, index 18: 
+So service connection may be established either by showing direct service incurrence or aggravation or by using applicable presumptions, if available.
+
+round 23, index 20: 
+He underwent percutaneous transluminal coronary angioplasty (PTCA) with stenting in December 1998 and June 2000.
+
+round 24, index 17: 
+This includes situations where a service-connected disability has aggravated a non-service-connected condition; when aggravation of a non-service-connected condition is proximately due to or the result of a service-connected disability, the Veteran will be compensated for the degree of disability (but only that degree) over and above the degree of disability existing prior to the aggravation.
+
+round 25, index 19: 
+The Veteran has diagnoses of CAD dating back to 1998.
+
+round 26, index 2: 
+This case was previously before the Board in August 2006 and again in May 2009, at which time it was remanded for further development and consideration.
+
+round 27, index 21: 
+At the time of his military separation examination in May 1971, the Veteran had complained of left anterior chest pains that had been present for approximately three years, and which occurred about every two weeks, lasting from one to two days.
+
+round 28, index 22: 
+But physical examination of his heart and vascular system during his separation exam was entirely within normal limits, and no pertinent diagnosis was noted.
+
+round 29, index 23: 
+There also is no clinical diagnosis of heart disease until many years later, until as mentioned in 1998, so some 27 years after service.
+
+round 30, index 24: 
+Moreover, there is no competent medical evidence indicating the Veteran's heart disease is directly related to his service (so as to warrant concluding the condition was directly or even presumptively incurred in service, since not manifested to the required degree of at least 10-percent disabling within the initial, post-service year).
+
+round 31, index 0: 
+The Veteran served on active duty from August 1969 to August 1971, including a tour in Vietnam from January to December 1970.
+
+round 32, index 1: 
+This appeal to the Board of Veterans' Appeals (Board) is from decisions in July 2003, January 2004, and June 2004 by the Department of Veterans Affairs (VA) Regional Office (RO) in Los Angeles, California.
+
+round 33, index 25: 
+Nevertheless, this is not the basis of the Veteran's claim.
+
+round 34, index 36: 
+The Veteran resultantly had another VA examination in December 2008.
+
+round 35, index 35: 
+In light of the Veteran's medical history, the Board remanded this case for an additional medical nexus opinion concerning any potential clinical relationship or correlation between the Veteran's CAD and PTSD.
+
+round 36, index 37: 
+The examiner, however, did not have access to the Veteran's claims file for consideration of this history and therefore deferred a final decision regarding the claim until after having the opportunity to review the file.
+
+round 37, index 34: 
+She concluded that it was as likely as not that his PTSD with ongoing stress, depression, and anger management issues contributed to the development and progression of his CAD.
+
+round 38, index 33: 
+In a February 2008 statement, a VA nurse practitioner reported that she had been providing cardiac care to the Veteran since 2005.
+
+round 39, index 31: 
+Moreover, he had a "long history" of substantial stress and was service connected for PTSD.
+
+round 40, index 30: 
+During a VA cardiovascular examination in September 2006, the examiner noted the Veteran had several active "risk factors" for CAD, including his age, male sex, hyperlipidemia, and hypertension.
+
+round 41, index 32: 
+In the opinion of the examiner, stress could certainly contribute to the development of CAD and may have in fact done this in the Veteran, though "it was impossible to determine which of [his] several risk factors contributed what proportion of the risk of coronary disease."
+
+round 42, index 28: 
+Following a VA psychiatric examination in June 2003, the examiner voiced his opinion that the majority of the Veteran's "medical problems" were likely the result of his efforts to cope with his PTSD symptomatology, and that these conditions "tended to aggravate each other."
+
+round 43, index 29: 
+Further, during VA psychiatric examination in September 2006, it was noted the Veteran's "anxiety symptoms" appeared to be aggravating his "medical conditions" and vice versa.
+
+round 44, index 27: 
+The record contains several opinions regarding this claimed cause-and-effect correlation between these two conditions, his PTSD and CAD.
+
+round 45, index 26: 
+He is alleging, instead, that his service-connected PTSD causes stress, which affects his heart disability.
+
+round 46, index 0: 
+The Veteran served on active duty from August 1969 to August 1971, including a tour in Vietnam from January to December 1970.
+
+round 47, index 0: 
+The Veteran served on active duty from August 1969 to August 1971, including a tour in Vietnam from January to December 1970.
+
+round 48, index 0: 
+The Veteran served on active duty from August 1969 to August 1971, including a tour in Vietnam from January to December 1970.
+
+round 49, index 0: 
+The Veteran served on active duty from August 1969 to August 1971, including a tour in Vietnam from January to December 1970.
+
+round 50, index 0: 
+The Veteran served on active duty from August 1969 to August 1971, including a tour in Vietnam from January to December 1970.
+
+round 51, index 0: 
+The Veteran served on active duty from August 1969 to August 1971, including a tour in Vietnam from January to December 1970.
+
+round 52, index 0: 
+The Veteran served on active duty from August 1969 to August 1971, including a tour in Vietnam from January to December 1970.
+
+round 53, index 0: 
+The Veteran served on active duty from August 1969 to August 1971, including a tour in Vietnam from January to December 1970.
+
+round 54, index 0: 
+The Veteran served on active duty from August 1969 to August 1971, including a tour in Vietnam from January to December 1970.
+
+round 55, index 0: 
+The Veteran served on active duty from August 1969 to August 1971, including a tour in Vietnam from January to December 1970.
+
+round 56, index 0: 
+The Veteran served on active duty from August 1969 to August 1971, including a tour in Vietnam from January to December 1970.
+
+round 57, index 0: 
+The Veteran served on active duty from August 1969 to August 1971, including a tour in Vietnam from January to December 1970.
+
+round 58, index 0: 
+The Veteran served on active duty from August 1969 to August 1971, including a tour in Vietnam from January to December 1970.
+
+round 59, index 0: 
+The Veteran served on active duty from August 1969 to August 1971, including a tour in Vietnam from January to December 1970.
+

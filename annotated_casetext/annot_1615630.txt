@@ -1,0 +1,585 @@
+#Procedure#
+Citation Nr: 1615630
+
+#Procedure#
+Decision Date: 04/18/16
+
+#Procedure#
+Archive Date: 04/26/16
+
+#Procedure#
+DOCKET NO.  14-06 595
+
+#Header#
+DATE
+
+#Procedure#
+On appeal from the
+Department of Veterans Affairs Regional Office in Huntington, West Virginia
+
+#Header#
+THE ISSUE
+
+#Procedure#
+Entitlement to service connection for a left knee disability.
+
+#Header#
+REPRESENTATION
+
+#Procedure#
+Appellant represented by:	The American Legion
+
+#Header#
+WITNESS AT HEARING ON APPEAL
+
+#Procedure#
+Appellant
+
+#Header#
+ATTORNEY FOR THE BOARD
+
+#Procedure#
+S. Kim, Associate Counsel
+
+#Header#
+INTRODUCTION
+
+#Evidence#
+The Veteran served on active duty from August 1958 to August 1962.
+
+#Procedure#
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a December 2013 rating decision decided by the Department of Veterans Affairs (VA) Regional Office (RO) in Huntington, West Virginia.
+
+#Procedure#
+In October 2015, the Veteran testified at a videoconference hearing before the undersigned Veterans Law Judge (VLJ).
+
+#Procedure#
+A hearing transcript has been associated with the record.
+
+#Procedure#
+This matter was previously remanded in December 2015 for further development and now returns to the Board for final appellate review.
+
+#Procedure#
+This appeal was processed using the Virtual VA and Virtual Benefits Management System (VBMS) paperless claims processing systems.
+
+#Procedure#
+This appeal has been advanced on the Board's docket pursuant to 38 C.F.R. § 20.900(c) (2015).
+
+#Citation#
+38 U.S.C.A. § 7107(a)(2) (West 2014).
+
+#Header#
+FINDING OF FACT
+
+#EvidenceBasedFinding#
+A left knee disability is not shown to be causally or etiologically related to any disease, injury, or incident during service, and arthritis did not manifest within one year of service discharge.
+
+#Header#
+CONCLUSION OF LAW
+
+#ConclusionOfLaw#
+The criteria for service connection for a left knee disability have not been met.
+
+#Citation#
+§§ 1101, 1112, 1131, 1137, 5107 (West 2014); 38 C.F.R. §§ 3.102, 3.303, 3.307, 3.309 (2015).
+
+#Header#
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+#LegalPolicy#
+The Veterans Claims Assistance Act of 2000 (VCAA) and implementing regulations impose obligations on VA to provide claimants with notice and assistance.
+
+#Citation#
+38 U.S.C.A. §§ 5102, 5103, 5103A, 5107 (West 2014); 38 C.F.R. 
+§§ 3.102, 3.156(a), 3.159, 3.326(a) (2015).
+
+#LegalRule#
+Proper VCAA notice must inform the claimant of any information and evidence not of record (1) that is necessary to substantiate the claim; (2) that VA will seek to provide; and (3) that the claimant is expected to provide.
+
+#Citation#
+38 U.S.C.A. § 5103(a); 38 C.F.R. § 3.159(b)(1).
+
+#LegalRule#
+In Dingess/Hartman v. Nicholson, 19 Vet. App. 473 (2006), the United States Court of Appeals for Veterans Claims (Court) held that the VCAA notice requirements of 38 U.S.C.A. § 5103(a)  and 38 C.F.R. § 3.159(b)  apply to all five elements of a service connection claim.
+
+#LegalRule#
+Those five elements include: 1) Veteran status; 2) existence of a disability; 3) a connection between the Veteran's service and the disability; 4) degree of disability; and 5) effective date of the disability.
+
+#LegalRule#
+In Pelegrini v. Principi, 18 Vet. App. 112 (2004), the Court held that VCAA notice, as required by 38 U.S.C.A. § 5103(a), must be provided to a claimant before the initial unfavorable AOJ decision on the claim for VA benefits.
+
+#EvidenceBasedFinding#
+Relevant to the claim adjudicated herein, the Board finds that VA has satisfied its duty to notify under the VCAA.
+
+#EvidenceBasedReasoning#
+In this regard, while an October 2013 letter, sent prior to the December 2013 rating decision, and an October 2015 letter, sent after the December 2013 rating decision, only advised the Veteran that he should send any treatment records or other evidence relating to his disability during service, the Board finds that, despite such deficient notice, no prejudice results to the Veteran in proceeding with a decision on his claim at this time.
+
+#EvidenceBasedReasoning#
+In the instant case, neither the Veteran nor his representative has identified any deficiency in notice which would compromise a fair adjudication of the claim.
+
+#EvidenceBasedReasoning#
+Nevertheless, the Board has considered whether the defective notice provided to the Veteran resulted in prejudicial error.
+
+#LegalPolicy#
+In this regard, the Board observes that, although the Supreme Court reversed the presumptive prejudice framework set forth in Sanders, it did not find fault with the analysis for determining whether a VCAA notice error affected the essential fairness of the adjudication.
+
+#Citation#
+See Sanders v. Nicholson, 487 F.3d 881 (2007), rev'd on other grounds, Shinseki v. Sanders, 129 S.Ct. 1696 (2009).
+
+#LegalRule#
+Accordingly, where there is a defect in the content of VCAA notice, it may be established that such error did not affect the essential fairness of the adjudication by showing that the essential purpose of the notice was not frustrated.
+
+#Citation#
+See Sanders at 889.
+
+#LegalRule#
+Such a showing may be made by demonstrating, for example, (1) that the claimant had actual knowledge of what was necessary to substantiate the claim and that the claim was otherwise properly developed, (2) that a reasonable person could be expected to understand from the notice what was needed to substantiate the claim, or (3) that the benefit could not be awarded as a matter of law.
+
+#Citation#
+Id.
+
+#EvidenceBasedReasoning#
+In this case, the evidence of record reflects that a reasonable person could have been expected to understand what was needed to support the Veteran's service connection claim for a left knee disability based on notice that was provided to him during the course of his appeal.
+
+#EvidenceBasedReasoning#
+Specifically, the December 2013 decision, February 2014 statement of the case, and February 2016 supplemental statement of the case informed the Veteran of the basis of the original denial, the elements of service connection, and VA's and his respective responsibilities in obtaining evidence in support of his claim.
+
+#Evidence#
+In this regard, the December 2013 rating decision informed the Veteran the evidence did not show that his condition was not a result of his military service.
+
+#Evidence#
+Furthermore, the February 2014 statement of the case informed him of the provisions of sections 3.159 (VA assistance in developing claims); 3.303 (principles relating to service connection); 3.304 (direct service connection); and 3.306 (aggravation of preservice disability).
+
+#Evidence#
+Moreover, such specifically informed him of elements of service connection and advised him that the evidence received in connection with his current claim does not demonstrate that his claimed disability was incurred in or otherwise related to his service.
+
+#Evidence#
+The February 2016 supplemental statement of the case again informed him of the basis for the determination that service connection could not be established because evidence, to include a February 2016 Disability Benefits Questionnaire (DBQ) report, did not establish that the claimed left knee disability was related to service.
+
+#Evidence#
+Further, there was no evidence of arthritis within a year post-service.
+
+#EvidenceBasedFinding#
+Moreover, the Board finds that the Veteran had actual knowledge of what was necessary to establish a service connection claim for a left knee disability.
+
+#EvidenceBasedReasoning#
+In this regard, the testimony provided through questioning at the October 2015 Board videoconference hearing indicates that the Veteran understood that the evidence need to show that his left knee disability was incurred in or caused by his military service.
+
+#Citation#
+In this regard, the Veteran testified that he injured his left knee in boot camp, but that he did not seek treatment during service because being placed in "sick bay" meant that he would have been "considered not a good person" and that "[t]here was something wrong with you."
+
+#Citation#
+See October 2015 hearing transcript at 5.
+
+#Evidence#
+Furthermore, the Veteran has submitted lay statements from his brothers, reporting that they have observed the Veteran's reported left knee injury during his service.
+
+#Citation#
+See January 2014 statements.
+
+#Evidence#
+The Veteran also submitted a November 2013 statement, recounting the claimed in-service left knee injury.
+
+#EvidenceBasedFinding#
+Therefore, based on the Veteran's own statements, as well as lay statements submitted on behalf of the Veteran, the Board finds that the Veteran has demonstrated actual knowledge of the evidence and information necessary to substantiate his service connection claim for a left knee disability.
+
+#EvidenceBasedFinding#
+For the foregoing reasons, the Board finds that VA's failure to provide the Veteran with adequate VCAA notice with respect to the elements of service connection, and VA's and his respective responsibilities in obtaining evidence in support of his claim did not affect the essential fairness of the adjudication of his claim and, therefore, such error is harmless.
+
+#Evidence#
+The Board further observes that the Veteran was not provided notice of the evidence and information necessary to establish a disability rating and an effective date in accordance with Dingess/Hartman, supra.
+
+#EvidenceBasedFinding#
+However, the Board finds no prejudice in proceeding with a decision regarding the Veteran's service connection claim.
+
+#EvidenceBasedFinding#
+In this regard, as the Board concludes herein that the preponderance of the evidence is against the Veteran's claim, any questions as to the appropriate disability rating or effective date to be assigned are rendered moot.
+
+#EvidenceBasedFinding#
+Therefore, the Board finds no prejudice to the Veteran in proceeding with the issuance of a final decision.
+
+#Citation#
+See Bernard v. Brown, 4 Vet. App. 384, 394 (1993) (where the Board addresses a question that has not been addressed by the agency of original jurisdiction, the Board must consider whether the Veteran has been prejudiced thereby).
+
+#EvidenceBasedFinding#
+Accordingly, the Board finds that VA has satisfied its duty to notify under the VCAA in accordance with 38 U.S.C.A. § 5103(a)  and 38 C.F.R. § 3.159(b)(1) .
+
+#LegalRule#
+Next, VA has a duty to assist the Veteran in the development of the claim.
+
+#LegalRule#
+This duty includes assisting him in the procurement of service treatment records and pertinent treatment records and providing an examination when necessary.
+
+#Citation#
+38 U.S.C.A.  § 5103A; 38 C.F.R. § 3.159.
+
+#EvidenceBasedReasoning#
+Relevant to the duty to assist, the Veteran's service treatment records and post-service VA treatment records have been obtained and considered.
+
+#Evidence#
+At the October 2015 videoconference hearing, the Veteran testified that he received all of his post-service medical treatment at VA.
+
+#Evidence#
+The AOJ issued a formal finding of unavailability of service treatment records in October 2013 and notified the Veteran of such in an October 2013 letter.
+
+#Evidence#
+Neither the Veteran nor his representative has identified any additional, outstanding records that have not been requested or obtained.
+
+#EvidenceBasedFinding#
+Therefore, the Board finds that VA has satisfied its duty to assist in this regard.
+
+#Evidence#
+The Veteran was afforded a DBQ examination in February 2016.
+
+#EvidenceBasedFinding#
+The Board finds that the February 2016 DBQ examination is adequate to decide the issue on appeal as it is predicated on an interview with the Veteran, a review of the record, to include his in-service and post-service medical records, lay statements, and an appropriate examination.
+
+#EvidenceBasedFinding#
+The Board finds that the conclusions reached by the VA examiner considered all of the pertinent evidence of record and provided a complete rationale, relying on and citing to the records reviewed.
+
+#EvidenceBasedReasoning#
+Moreover, the examiner offered clear conclusions with supporting data as well as reasoned medical explanations connecting the two.
+
+#Citation#
+See Nieves-Rodriguez v. Peake, 22 Vet. App. 295 (2008); Stefl v. Nicholson, 21 Vet. App. 120, 124 (2007) ("[A] medical opinion . . . must support its conclusion with an analysis that the Board can consider and weigh against contrary opinions").
+
+#EvidenceBasedFinding#
+Accordingly, the Board finds that VA's duty to assist with respect to obtaining a VA examination and opinion regarding the issue decided herein has been met.
+
+#Evidence#
+In December 2015, the Board remanded the case for additional development.
+
+#Evidence#
+The Board directed the AOJ to obtain updated treatment record, afford the Veteran a VA examination as to the claimed left knee disability, and readjudicated the Veteran's claim in a supplemental statement of the case.
+
+#Evidence#
+As per the December 2015 remand directive, updated VA treatment records through December 2015 were obtained, the Veteran was afforded a DBQ examination in February 2016, and the Veteran's claim was readjudicated in a February 2016 supplemental statement of case (SSOC).
+
+#EvidenceBasedFinding#
+Based on the foregoing, the Board finds that the AOJ has substantially complied with the December 2015 remand directives such that no further action is necessary in this regard.
+
+#Citation#
+See D'Aries, supra.
+
+#Evidence#
+Additionally, in October 2015, the Veteran was provided an opportunity to set forth his contentions during the hearing before the undersigned Veterans Law Judge.
+
+#LegalRule#
+In Bryant v. Shinseki, the Court held that 38 C.F.R. § 3.103(c)(2) requires that the RO Decision Review Officer or Veterans Law Judge who chairs a hearing to fulfill two duties: (1) the duty to fully explain the issues and (2) the duty to suggest the submission of evidence that may have been overlooked.
+
+#Citation#
+Bryant v. Shinseki, 23 Vet. App. 488 (2010).
+
+#Evidence#
+Here, during the October 2015 hearing, the undersigned Veterans Law Judge enumerated the issue on appeal.
+
+#Evidence#
+Also, information was solicited regarding the Veteran's in-service and post-service left knee symptoms.
+
+#Evidence#
+His representative provided argument that the Veteran's left knee disability was a result of his military service, to specifically include the in-service left knee injury.
+
+#Evidence#
+Moreover, the undersigned advised the Veteran of the type of evidence needed to establish the service connection claim.
+
+#EvidenceBasedReasoning#
+Therefore, not only was the issue "explained . . . in terms of the scope of the claim for benefits," but "the outstanding issues material to substantiating the claim," were also fully explained.
+
+#Citation#
+Id. at 497.
+
+#EvidenceBasedReasoning#
+Moreover, the hearing discussion did not reveal any additional outstanding evidence necessary for the adjudication of such issue.
+
+#EvidenceBasedReasoning#
+Under these circumstances, nothing gives rise to the possibility that evidence had been overlooked with regard to the Veteran's claim decided herein.
+
+#EvidenceBasedFinding#
+As such, the Board finds that, consistent with Bryant, the undersigned Veterans Law Judge complied with the duties set forth in 38 C.F.R. 3.103(c)(2)  and that the Board may proceed to adjudicate the claim based on the current record.
+
+#EvidenceBasedFinding#
+Thus, the Board finds that VA has fully satisfied the duty to assist.
+
+#EvidenceBasedReasoning#
+In the circumstances of this case, additional efforts to assist or notify the Veteran in accordance with the VCAA would serve no useful purpose.
+
+#Citation#
+See Soyini v. Derwinski, 1 Vet. App. 540, 546 (1991) (strict adherence to requirements of the law does not dictate an unquestioning, blind adherence in the face of overwhelming evidence in support of the result in a particular case; such adherence would result in unnecessarily imposing additional burdens on VA with no benefit flowing to the Veteran); Sabonis v. Brown, 6 Vet. App. 426, 430 (1994) (remands which would only result in unnecessarily imposing additional burdens on VA with no benefit flowing to the Veteran are to be avoided).
+
+#EvidenceBasedFinding#
+VA has satisfied its duty to inform and assist the Veteran at every stage in this case; at least insofar as any errors committed were not harmful to the essential fairness of the proceeding.
+
+#EvidenceBasedFinding#
+Therefore, the Veteran will not be prejudiced as a result of the Board proceeding to the merits of his claims.
+
+#Header#
+Analysis
+
+#LegalRule#
+Service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by service.
+
+#Citation#
+38 U.S.C.A. §§ 1131; 38 C.F.R. § 3.303(a).
+
+#LegalRule#
+Service connection may also be granted for any disease diagnosed after discharge, when all of the evidence, including that pertinent to service, establishes that the disease was incurred in service.
+
+#Citation#
+38 C.F.R. § 3.303(d).
+
+#LegalRule#
+Direct service connection may not be granted without evidence of a current disability; in-service incurrence or aggravation of a disease or injury; and a nexus between the claimed in-service disease or injury and the present disease or injury.
+
+#Citation#
+Id.; see also Caluza v. Brown, 7 Vet. App. 498, 506 (1995), aff'd, 78 F.3d 604 (Fed. Cir. 1996).
+
+#LegalRule#
+Additionally, for Veterans who have served 90 days or more of active service during a war period or after December 31, 1946, certain chronic disabilities, such as arthritis, are presumed to have been incurred in service if manifest to a compensable degree within one year of discharge from service.
+
+#Citation#
+38 U.S.C.A. §§ 1101, 1112, 1137; 38 C.F.R. §§ 3.307, 3.309.
+
+#LegalRule#
+Alternatively, when a disease at 38 C.F.R. § 3.309(a) is not shown to be chronic during service or the one year presumptive period, service connection may also be established by showing continuity of symptomatology after service.
+
+#Citation#
+See 38 C.F.R.
+§ 3.303(b).
+
+#LegalRule#
+However, the use of continuity of symptoms to establish service connection is limited only to those diseases listed at 38 C.F.R. § 3.309(a) and does not apply to other disabilities which might be considered chronic from a medical standpoint.
+
+#Citation#
+See Walker v. Shinseki, 708 F.3d 1331 (Fed. Cir. 2013).
+
+#LegalRule#
+Pertinent to a claim for service connection, such a determination requires a finding of current disability that is related to an injury or disease in service.
+
+#Citation#
+See Brammer v. Derwinski, 3 Vet. App. 223 (1992).
+
+#LegalRule#
+The requirement of a current disability is satisfied when the Veteran has a disability at the time he files his service connection claim or during the pendency of that claim, even if the disability resolves prior to adjudication of the claim.
+
+#Citation#
+McClain v. Nicholson, 21 Vet. App. 319, 321 (2007).
+
+#LegalRule#
+However, when the record contains a recent diagnosis of disability prior to the Veteran's filing of a claim for benefits based on that disability, the report of the diagnosis is relevant evidence that the Board must address in determining whether a current disability existed at the time the claim was filed or during its pendency.
+
+#Citation#
+Romanowsky v. Shinseki, 26 Vet. App. 289 (2013).
+
+#LegalRule#
+The Board must consider that when there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary shall give the benefit of the doubt to the claimant.
+
+#Citation#
+38 U.S.C.A. § 5107; 38 C.F.R. § 3.102; see also Gilbert v. Derwinski, 1 Vet. App. 49 (1990).
+
+#Evidence#
+The Veteran seeks service connection for a left knee disability.
+
+#Evidence#
+He claims that the left knee disability was incurred during his service, to specifically include an in-service left knee injury during boot camp training.
+
+#Evidence#
+The Veteran's service treatment records are negative for complaints, treatments, or diagnoses related to any knee disorder.
+
+#Evidence#
+Post-service treatment records reveal complaints of bilateral knee pain and an October 2007 diagnosis of knee arthralgia.
+
+#Evidence#
+A February 2016 DBQ report reflects diagnosis of degenerative arthritis of the left knee.
+
+#Evidence#
+In a November 2013 statement from the Veteran, the Veteran reported that he injured his left knee during his service during a drill and that he did not seek treatment because he did not want to be viewed unfavorably by his drill instructors.
+
+#Evidence#
+In a January 2014 statement from the Veteran's brother, E.M.Y., the Veteran's brother reported that he saw the Veteran limping when he visited home for Christmas while on active duty.
+
+#Evidence#
+In a January 2014 statement from the Veteran's brother, C.E.Y., the Veteran's brother reported that the Veteran described his in-service injury to the left knee.
+
+#Evidence#
+During an October 2015 Board videoconference hearing, the Veteran testified that he was diagnosed with arthritis of the left leg about a year ago and recounted the left leg injury during service.
+
+#Evidence#
+The Veteran reported that while in boot camp, the Veteran's left knee failed to turn during a drill and he collapsed.
+
+#Evidence#
+The Veteran reported that he did not seek treatment for the left knee injury during service because he believed that being placed in sick bay would mean that he would be "considered not a good person," that there was "something wrong with [him]."
+
+#Evidence#
+The Veteran further testified that he felt "okay on the leg" after three days and that his left leg did not hurt him enough to seek treatment during service.
+
+#Evidence#
+Post-service, the Veteran testified that "as time went on," he realized that he "could not walk the distances [he] had walked before."
+
+#Evidence#
+The Veteran testified that he favors his right leg over his left leg.
+
+#Evidence#
+A February 2016 DBQ reflects a diagnosis of degenerative arthritis of the left knee.
+
+#Evidence#
+The DBQ report also reflects the Veteran's report that he injured his left knee in boot camp while marching during service.
+
+#Evidence#
+The Veteran reported that he did not seek treatment for his left knee injury because he was afraid such would have a negative impact on potential for promotion.
+
+#Evidence#
+The DBQ report also reflects that the Veteran reported he has been "favoring his left knee during walking since then."
+
+#Evidence#
+The examiner opined that the claimed left knee disability was less likely than not incurred in or caused by the claimed in-service injury.
+
+#Evidence#
+As rationale, the examiner cited to medical literature and stated that degenerative arthritis usually "starts at the age of 45 or more" and that the Veteran was 21 or 22 by the time of discharge.
+
+#Evidence#
+As such, "it was not possible to get anybody degenerative arthritis at that age" and that the degenerative arthritis was "more likely from a part of generalized degeneration due to age."
+
+#Evidence#
+Further, the examiner noted that while the Veteran has reported favoring his left knee, the examiner found such statement "controversial" because if he favored the left knee, he "ha[d] to limp, but his gate [was] normal" at the time of the DBQ examination.
+
+#EvidenceBasedFinding#
+Based on the foregoing, the preponderance of the evidence is against the Veteran's claim for service connection for a left knee disability.
+
+#EvidenceBasedReasoning#
+The Board has first considered whether service connection is warranted on a presumptive basis.
+
+#EvidenceBasedReasoning#
+However, the clinical evidence of record fails to show that the Veteran manifested arthritis to a degree of 10 percent within the one year following his active duty service discharge in August 1962.
+
+#EvidenceBasedFinding#
+As such, presumptive service connection is not warranted for a left knee disability.
+
+#Citation#
+38 U.S.C.A. §§ 1101, 1112; 38 C.F.R. §§ 3.307, 3.309; Walker, supra.
+
+#EvidenceBasedFinding#
+Relevant to direct service connection, while the evidence of record indicates that the Veteran is diagnosed with degenerative arthritis of the left knee, the probative evidence of record demonstrates that such is not related to his service.
+
+#EvidenceBasedReasoning#
+In this regard, the Board places great probative weight on the February 2016 DBQ examiner's opinion that the Veteran's degenerative arthritis of the left knee is less likely than not related to service, but rather was the result of aging.
+
+#EvidenceBasedReasoning#
+This opinion had clear conclusions and supporting data, as well as a reasoned medical explanation connection the two.
+
+#Citation#
+See Nieves-Rodriguez, supra; Stefl, supra.
+
+#EvidenceBasedReasoning#
+No contrary medical opinion is of record.
+
+#Evidence#
+The Board notes that the Veteran, as well as his two brothers, has contended that his current left knee disability is related to his service, to specifically include the in-service left knee injury during a drill.
+
+#LegalRule#
+Lay witnesses are competent to provide testimony or statements relating to symptoms or facts of events that the lay witness observed and is within the realm of his or her personal knowledge, but not competent to establish that which would require specialized knowledge or training, such as medical expertise.
+
+#Citation#
+Layno v. Brown, 6 Vet. App. 465, 469-70 (1994).
+
+#LegalRule#
+Lay evidence may also be competent to establish medical etiology or nexus.
+
+#Citation#
+Davidson v. Shinseki, 581 F.3d 1313, 1316   (Fed. Cir. 2009).
+
+#EvidenceBasedReasoning#
+The Veteran is credible to describe current symptoms such as knee pain and swelling.
+
+#EvidenceBasedFinding#
+As to the etiology of the degenerative arthritis of the left knee, the Board finds such subject matter to be complex in nature and beyond the competence of a lay person.
+
+#Citation#
+See Woehlaert v. Nicholson, 21 Vet. App. 456 (2007) (although the claimant is competent in certain situations to provide a diagnosis of a simple condition such as a broken leg or varicose veins, the claimant is not competent to provide evidence as to more complex medical questions).
+
+#EvidenceBasedReasoning#
+In this regard, knowledge of degeneration of bone in the knee as a result of marching during a drill involves a medical subject concerning an internal physical process extending beyond an immediately observable cause-and-effect relationship.
+
+#EvidenceBasedReasoning#
+ Thus, the Board accords the statements from the Veteran and his two brothers regarding the etiology of his degenerative arthritis of the left knee to have little probative value as they are not competent to opine on such complex medical questions.
+
+#LegalRule#
+Specifically, where the determinative issue is one of medical causation, only those with specialized medical knowledge, training, or experience are competent to provide evidence on the issue.
+
+#Citation#
+See Jones v. Brown, 7 Vet. App. 134, 137 (1994).
+
+#EvidenceBasedReasoning#
+Additionally, the opinions of the VA examiner who has the necessary training and medical knowledge to competently speak to the issues at hand are highly probative.
+
+#EvidenceBasedReasoning#
+Moreover, the Veteran and his brothers have offered only conclusory statements regarding the relationship between his purported in-service knee injury and/or symptoms and his current degenerative arthritis of the left knee.
+
+#EvidenceBasedReasoning#
+In contrast, the February 2016 DBQ examiner took into consideration all the relevant facts in providing an opinion, to include the type of the Veteran's purported in-service injury and/or symptoms and the current nature of his left knee disability.
+
+#EvidenceBasedReasoning#
+Therefore, the Board accords greater probative weight to the February 2016 DBQ examiner's opinion.
+
+#LegalRule#
+In addition, in adjudicating this claim, the Board must assess not only competency of the Veteran's statements, but also their credibility.
+
+#Citation#
+See Buchanan v. Nicholson, 451 F.3d 1331   (Fed. Cir. 2006).
+
+#Evidence#
+The Board notes that the Veteran testified during his October 2015 hearing that he experienced left knee pain since his service.
+
+#LegalRule#
+In weighing credibility, VA may consider interest, bias, inconsistent statements, bad character, internal inconsistency, facial plausibility, self-interest, consistency with other evidence of record, malingering, desire for monetary gain, and demeanor of the witness.
+
+#Citation#
+Caluza, supra.
+
+#EvidenceBasedFinding#
+In the instant case, the Board finds such statements to lack credibility as they are inconsistent with the other evidence of record and were made under circumstances indicating bias or interest and, therefore, accords no probative weight to such contentions.
+
+#EvidenceBasedReasoning#
+In this regard, the Veteran did not report a history of left knee injury or other symptoms related to the knee, but reported detailed injury to his shoulder in his VA treatment records.
+
+#Evidence#
+Specifically, while a May 2006 VA treatment record notes that the Veteran "denie[d] any injury" referable to his complaint of knee pain, the VA treatment record indicates the Veteran's detailed reports about injury to his hand and shoulders.
+
+#Citation#
+See September 2005 VA treatment note; May 2008 VA treatment note.
+
+#Citation#
+See Rucker v. Brown, 10 Vet. App. 67, 73 (1997) (ascribing heightened credibility to statements made to clinicians for the purpose of treatment); see also Williams v. Gov. of Virgin Islands, 271 F.Supp.2d 696, 702 (V.I.2003) (noting that statements made for the purpose of diagnosis or treatment "are regarded as inherently reliable because of the recognition that one seeking medical treatment is keenly aware of the necessity for being truthful in order to secure proper care").
+
+#EvidenceBasedReasoning#
+Furthermore, while the Veteran testified during the October 2015 videoconference hearing that he favored the right knee, the February 2016 DBQ report reflects otherwise, noting that the Veteran reported favoring his left knee.
+
+#EvidenceBasedFinding#
+Therefore, in light of these inconsistent statements, the Board finds the Veteran's statements regarding his in-service onset of left knee symptoms to not be credible or probative.
+
+#EvidenceBasedReasoning#
+In reaching this decision, the Board has considered the applicability of the benefit of the doubt doctrine.
+
+#EvidenceBasedFinding#
+However, the preponderance of the evidence is against the Veteran's claim of entitlement to service connection for a left knee disability.
+
+#ConclusionOfLaw#
+As such, that doctrine is not applicable in the instant appeal, and his claim must be denied.
+
+#Citation#
+38 U.S.C.A. § 5107; 38 C.F.R. § 3.102; Gilbert, supra.
+
+#Header#
+ORDER
+
+#Procedure#
+Service connection for a left knee disability is denied.
+
+#Procedure#
+WAYNE M. BRAEUER
+
+#Procedure#
+Veterans Law Judge, Board of Veterans' Appeals
+
+#Procedure#
+Department of Veterans Affairs
+

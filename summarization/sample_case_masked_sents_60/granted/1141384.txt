@@ -1,0 +1,180 @@
+round 0, index 45: 
+The appeal is granted.
+
+round 1, index 6: 
+PTSD was incurred during the Veteran's active duty service.
+
+round 2, index 5: 
+The Veteran has been diagnosed with PTSD due to a verified stressor incurred in service.
+
+round 3, index 44: 
+Service connection is warranted for PTSD.
+
+round 4, index 8: 
+That an injury occurred in service alone is not enough; there must be chronic disability resulting from that injury.
+
+round 5, index 7: 
+REASONS AND BASES FOR FINDING AND CONCLUSIONApplicable law provides that service connection will be granted if it is shown that the Veteran suffers from disability resulting from an injury suffered or disease contracted in line of duty, or for aggravation of a preexisting injury suffered or disease contracted in line of duty, in the active military, naval, or air service.
+
+round 6, index 9: 
+If there is no showing of a resulting chronic condition during service, then a showing of continuity of symptomatology after service is required to support a finding of chronicity.
+
+round 7, index 10: 
+Service connection may also be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.
+
+round 8, index 27: 
+Thus, two of the Veteran's stressors have been verified.
+
+round 9, index 24: 
+Similarly, in June 2010, the JSRRC confirmed that, in March 1982, while the USS Nicholson was participating in the ASW exercise SHARE 47 in the Ionian Sea, a LAMPS helicopter from the USS McCandless experienced engine failure and radioed to the USS Nicholson for an emergency landing.
+
+round 10, index 12: 
+Service connection for PTSD requires medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a), a link, established by medical evidence, between current symptoms and an in-service stressor; and credible supporting evidence that the claimed in-service stressor occurred.
+
+round 11, index 13: 
+If the evidence establishes that the Veteran engaged in combat with the enemy and the claimed stressor is related to that combat, in the absence of clear and convincing evidence to the contrary, and provided that the claimed stressor is consistent with the circumstances, conditions, or hardships of the Veteran's service, the Veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor.
+
+round 12, index 14: 
+The provisions of 38 C.F.R. § 4.125(a) require that a diagnosis of a mental disorder conform to the Diagnostic and Statistical Manual, Fourth Edition (DSM-IV). Effective July 13, 2010, VA amended its adjudication regulations governing service connection for PTSD by liberalizing, in certain circumstances, the evidentiary standard for establishing the required in-service stressor.
+
+round 13, index 11: 
+The Veteran is seeking service connection for an acquired psychiatric disability, claimed as PTSD.
+
+round 14, index 15: 
+Specifically, the final rule amends 38 C.F.R. § 3.304(f) by redesignating current paragraphs (f)(3) and (f)(4) as paragraphs (f)(4) and (f)(5), respectively, and by adding a new paragraph (f)(3) that reads as follows:
+
+round 15, index 46: 
+Veterans Law Judge, Board of Veterans' AppealsDepartment of Veterans Affairs
+
+round 16, index 16: 
+If a stressor claimed by a veteran is related to the veteran's fear of hostile military or terrorist activity and a VA psychiatrist or psychologist, or a psychiatrist or psychologist with whom VA has contracted, confirms that the claimed stressor is adequate to support a diagnosis of [PTSD] and that the veteran's symptoms are related to the claimed stressor, in the absence of clear and convincing evidence to the contrary, and provided the claimed stressor is consistent with the places, types, and circumstances of the veteran's service, the veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor.
+
+round 17, index 17: 
+For purposes of this paragraph, "fear of hostile military or terrorist activity" means that a veteran experienced, witnessed, or was confronted with an event or circumstance that involved actual or threatened death or serious injury, or a threat to the physical integrity of the veteran or others, such as from an actual or potential improvised explosive device; vehicle-imbedded explosive device; incoming artillery, rocket, or mortar fire; grenade; small arms fire, including suspected sniper fire; or attack upon friendly military aircraft, and the veteran's response to the event or circumstance involved a psychological or psycho-physiological state of fear, helplessness, or horror.
+
+round 18, index 41: 
+In closing, there is no need to undertake any review of compliance with the Veterans Claims Assistance Act of 2000 (VCAA) and implementing regulations in this case since there is no detriment to the Veteran as a result of any VCAA deficiency in view of the fact that the full benefit sought by the Veteran is being granted by this decision of the Board.
+
+round 19, index 40: 
+The Board notes that in reaching this conclusion, the evidence is at least in equipoise, and the benefit of the doubt doctrine has been applied where appropriate.
+
+round 20, index 18: 
+The Board remanded the case in September 2005 and May 2009 in order for the RO to attempt to verify the Veteran's alleged stressors and to schedule a VA examination if any of the stressors were verified.
+
+round 21, index 39: 
+Under the circumstances, the Board finds that service connection is warranted for PTSD.
+
+round 22, index 19: 
+As noted in the Board's September 2005 remand, the Veteran claimed a number of stressors indicating that he was in fear of bodily harm or death for himself or others.
+
+round 23, index 28: 
+The Veteran underwent a VA PTSD examination in January 2010.
+
+round 24, index 21: 
+In turn, his lay testimony alone may also establish the occurrence of the claimed in-service stressor.
+
+round 25, index 42: 
+The Veteran was furnished notice of the manner of assigning a disability evaluation and an effective date in January 2009 and again in August 2011.
+
+round 26, index 25: 
+The ship's quick response and timely recovery gained her honors as COMNAVAIRLANT's Pro of the Week award, with no damages or casualties reported.
+
+round 27, index 20: 
+Under the new criteria, the Veteran's claimed stressors effectively include a fear for his life that is consistent with the places, types, and circumstances of his active duty service as detailed in his service personnel records.
+
+round 28, index 37: 
+Here, the VA examiner has diagnosed the Veteran with PTSD based on an incident involving actual or threatened serious injury or death to the Veteran and others.
+
+round 29, index 26: 
+The Veteran was aboard the USS Nicholson at that time.
+
+round 30, index 29: 
+During that examination, the Veteran presented three in-service stressors-a helicopter crash off the USS Nicholson, a friendly fire incident aboard the USS Nicholson, and the USS Barney crossing Gaddafi's "Line of Death."
+
+round 31, index 0: 
+The Veteran served on active duty from June 1973 to March 1987.
+
+round 32, index 1: 
+The matter came before the Board of Veterans' Appeals (Board) initially on appeal from a May 2002 rating decision issued in June 2002 in which the RO, in part, denied the Veteran's service-connection claim for PTSD.
+
+round 33, index 2: 
+Even though the Veteran's initial claim was for service connection for PTSD, the issue on appeal has been recharacterized as described on the title page as a claim for entitlement to service connection for an acquired psychiatric disorder, claimed as PTSD, since he has been assessed with PTSD, major depression, anxiety, and alcohol abuse.
+
+round 34, index 3: 
+The case previously was remanded in September 2005 and May 2009.
+
+round 35, index 32: 
+In a July 2010 addendum opinion, based on the fact that the Veteran made no reference to the only verifiable stressor or any aspects of that verifiable stressor (deployment of the USS Barney in support of a rescue attempt during the Iranian Hostage Crisis), the VA examiner concluded that the Veteran's PTSD was not caused by or a result of the verifiable stressor nor is the verifiable stressor linked to the Veteran's current PTSD diagnosis.
+
+round 36, index 4: 
+It is now before the Board for further appellate consideration.
+
+round 37, index 38: 
+And the verified incident is consistent with the places, types, and circumstances of the Veteran's active naval service.
+
+round 38, index 43: 
+He will have the opportunity to initiate an appeal from these "downstream" issues if he disagrees with the determinations which will be made by the RO in giving effect to the Board's grant of service connection.
+
+round 39, index 22: 
+Further, as the September 2005 and May 2009 remands were issued prior to the effective date of the new regulation, the Board directed the RO to attempt to verify the Veteran's stressors with the U.S. Army and Joint Services Records Research Center (JSRRC) (previously the U.S. Armed Services Center for Research of Unit Records (USASCRUR)).
+
+round 40, index 23: 
+In January 2010, the Veteran's personnel file confirmed that he was assigned to the USS Barney between November 1980 and April 1981 and that it has been verified that the Veteran was deployed in support of the Iranian Hostage Crisis aboard the USS Barney during that time period.
+
+round 41, index 33: 
+After the March 1982 helicopter emergency landing incident on the USS Nicholson was verified in June 2010, another opinion was sought from the same VA psychologist who had examined the Veteran in January 2010.
+
+round 42, index 35: 
+The examiner added, given that the Veteran is at least as likely as not to have observed the incident as described in the JSRRC's stressor verification review, the stressor-the March 1982 helicopter emergency landing incident-would be adequate to support a diagnosis of PTSD and the Veteran's PTSD symptoms are related to this stressor.
+
+round 43, index 34: 
+The psychologist first addressed the discrepancy between the Veteran's stressor account (helicopter was shot down killing about 12 people on board) and the stressor verification review (no damages or casualties reported), noting that the Veteran does not always report facts as they are in reality.
+
+round 44, index 31: 
+Subsequently, the January 2010 VA examiner was informed that the only verified stressor was the fact that the Veteran was assigned to the USS Barney between November 1980 and April 1981, which had been deployed in support of a rescue attempt during the Iranian Hostage Crisis.
+
+round 45, index 36: 
+Thus, the January 2010 VA examiner concluded that the Veteran's PTSD is caused by or result of his exposure to the incident as described in the stressor verification review.
+
+round 46, index 30: 
+Following a review of the claims file and examination of the Veteran, the VA examiner diagnosed the Veteran with PTSD based on accident involving actual or threatened serious injury or death to others.
+
+round 47, index 0: 
+The Veteran served on active duty from June 1973 to March 1987.
+
+round 48, index 0: 
+The Veteran served on active duty from June 1973 to March 1987.
+
+round 49, index 0: 
+The Veteran served on active duty from June 1973 to March 1987.
+
+round 50, index 0: 
+The Veteran served on active duty from June 1973 to March 1987.
+
+round 51, index 0: 
+The Veteran served on active duty from June 1973 to March 1987.
+
+round 52, index 0: 
+The Veteran served on active duty from June 1973 to March 1987.
+
+round 53, index 0: 
+The Veteran served on active duty from June 1973 to March 1987.
+
+round 54, index 0: 
+The Veteran served on active duty from June 1973 to March 1987.
+
+round 55, index 0: 
+The Veteran served on active duty from June 1973 to March 1987.
+
+round 56, index 0: 
+The Veteran served on active duty from June 1973 to March 1987.
+
+round 57, index 0: 
+The Veteran served on active duty from June 1973 to March 1987.
+
+round 58, index 0: 
+The Veteran served on active duty from June 1973 to March 1987.
+
+round 59, index 0: 
+The Veteran served on active duty from June 1973 to March 1987.
+

@@ -1,0 +1,180 @@
+round 0, index 47: 
+This claim must be afforded expeditious treatment.
+
+round 1, index 46: 
+The appellant has the right to submit additional evidence and argument on the matter or matters the Board has remanded.
+
+round 2, index 45: 
+After the veteran and his representative have had an adequate opportunity to respond, the appeal should be returned to the Board for appellate review.
+
+round 3, index 48: 
+The law requires that all claims that are remanded by the Board of Veterans' Appeals or by the United States Court of Appeals for Veterans Claims for additional development or other appropriate action must be handled in an expeditious manner.
+
+round 4, index 49: 
+Veterans Law Judge, Board of Veterans' AppealsUnder 38 U.S.C.A. § 7252 (West 2002), only a decision of the Board of Veterans' Appeals is appealable to the United States Court of Appeals for Veterans Claims.
+
+round 5, index 50: 
+This remand is in the nature of a preliminary order and does not constitute a decision of the Board on the merits of your appeal.
+
+round 6, index 33: 
+The RO should arrange for the veteran to undergo a VA psychiatric examination by an examiner with appropriate expertise to determine the nature, extent and etiology of the veteran's psychiatric disability or disabilities, to include bipolar disorder, depressive disorder, mood disorder, and PTSD, if found to be present.
+
+round 7, index 34: 
+The examiner should render all applicable psychiatric diagnoses.
+
+round 8, index 39: 
+The examiner should then express an opinion as to whether it is at least as likely as not (at least a 50 percent probability) that the veteran has a psychiatric disability, to include bipolar disorder, depressive disorder, mood disorder, and PTSD, as a result of the stressful event.
+
+round 9, index 44: 
+If the issue on appeal remains denied, a supplemental statement of the case should be provided to the veteran and his representative.
+
+round 10, index 5: 
+The appeal is REMANDED to the RO via the Appeals Management Center (AMC), in Washington, DC.  VA will notify the appellant if further action is required.
+
+round 11, index 32: 
+Accordingly, the case is REMANDED for the following action:
+
+round 12, index 36: 
+The veteran's claims file, including a copy of this remand, must be made available to and reviewed by the examiner.
+
+round 13, index 43: 
+Thereafter, the RO should readjudicate the issue of entitlement to service connection for a psychiatric disability, to include bipolar disorder, depressive disorder, mood disorder, and PTSD.
+
+round 14, index 41: 
+If the examiner is unable to give an opinion without resorting to speculation, the report should so state.
+
+round 15, index 42: 
+The veteran is hereby advised that failure to report for a scheduled VA examination without good cause shown may have adverse effects on this claim.
+
+round 16, index 35: 
+All indicated studies should be performed, to include psychological testing if appropriate, and all findings should be reported in detail.
+
+round 17, index 40: 
+A complete rationale must be given for any opinion expressed, and the foundation for all conclusions should be clearly set forth.
+
+round 18, index 38: 
+In reviewing the veteran's claims file, the examiner should identify and examine all records including the performance evaluations, July 1977 Article 15, August 1977 record which showed he was evaluated by mental health for an adjustment disorder, October 1977 report of depression/excessive worry, as well as all post-service medical evidence to the claimed sexual trauma alleged by the veteran to have occurred during active service, and offer an opinion as to the clinical significance, if any, of such evidence in light of the veteran's psychiatric diagnoses and whether, under such circumstances, such are sufficient evidence of an actual stressor.
+
+round 19, index 37: 
+The examination report is to reflect that such a review of the claims file was made.
+
+round 20, index 31: 
+As such, the Board finds that an examination is necessary before a decision can be reached on this claim.
+
+round 21, index 6: 
+To provide the veteran a VA examination.
+
+round 22, index 7: 
+The veteran contends that he has a psychiatric disability as a result of military sexual trauma.
+
+round 23, index 28: 
+Patton v. West, 12 Vet. App. 272 (1999) (citing VA Adjudication Procedure Manual M 21-1 Part III, paragraph 5.14(c)).
+
+round 24, index 29: 
+In this regard, the veteran alleges that his performance declined following the sexual assault and there is an opinion relating the alleged in-service sexual trauma to several of the veteran's psychiatric disabilities.
+
+round 25, index 30: 
+However, the veteran's mental health care provider did not provide much detail to support his conclusions.
+
+round 26, index 3: 
+In a letter to VA dated in June 2007, the veteran withdrew his request for a personal hearing.
+
+round 27, index 27: 
+The United States Court of Appeals for Veterans Claims (Court) has stated that "VA has provided special evidentiary development procedures, including the interpretation of behavioral changes by a clinician and interpretation in relation to a medical diagnosis" with regard to personal assault cases.
+
+round 28, index 4: 
+Accordingly, the Board will proceed with consideration of this appeal based on the evidence of record.
+
+round 29, index 18: 
+The medical evidence reflected that the veteran has been variously diagnosed with bipolar disorder, schizoaffective disorder, panic disorder, major depression with psychotic features, mood disorder, adjustment disorder with anxiety, and PTSD.
+
+round 30, index 25: 
+In February 2005, the veteran's mental health care provider opined that the veteran's diagnoses of post traumatic stress disorder (PTSD), bipolar disorder, depressive disorder, and mood disorder were related to an in-service sexual trauma.
+
+round 31, index 24: 
+The veteran is currently on Social Security disability with a disability onset date of March 2001 for affective (mood) disorders.
+
+round 32, index 0: 
+The veteran served on active duty from March 1976 to November 1977.
+
+round 33, index 1: 
+This matter comes before the Board of Veterans' Appeals (BVA or Board) on appeal from an August 2003 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO) in Louisville, Kentucky, which denied the benefit sought on appeal.
+
+round 34, index 2: 
+In his substantive appeal to the Board, received in August 2004, the veteran requested a travel board hearing.
+
+round 35, index 26: 
+The veteran has not had an examination in connection with his claim.
+
+round 36, index 11: 
+A review of the veteran's service treatment records showed that in August 1977, the veteran was evaluated at community mental health for adjustment difficulties.
+
+round 37, index 23: 
+The social worker did not provide a diagnosis.
+
+round 38, index 15: 
+An evaluation report for the period January 1977 to August 1977 had a total score of 110 and an evaluation report for the period from September 1977 to October 1977 contained a score of 95.
+
+round 39, index 16: 
+In October 1977, the veteran was separated by reason of dependency.
+
+round 40, index 14: 
+The service personnel records showed that in July 1977, the veteran received an Article 15 for failing to go at the time prescribed to his appointed place of duty.
+
+round 41, index 17: 
+Additionally, the RO ascertained that the veteran's alleged assailant served in the military at the same time as the veteran.
+
+round 42, index 10: 
+Since his discharge, the veteran claims that the sexual trauma has continued to effect his life and he cannot hold a job.
+
+round 43, index 13: 
+An undated report of contact associated with the veteran's claims file between December 2002 and August 2003 indicated that attempts to locate any mental health clinical records revealed that these records have been lost.
+
+round 44, index 9: 
+The veteran stated that he had a decline in his military performance following this sexual trauma and also received an Article 15.
+
+round 45, index 12: 
+On an October 1977 report of medical history, the veteran marked that he had depression or excessive worry.
+
+round 46, index 0: 
+The veteran served on active duty from March 1976 to November 1977.
+
+round 47, index 21: 
+In a September 2004 letter from the Vet Center, a social worker relayed that the veteran reported being sexually assaulted by a male friend, who was also a superior officer, and did not report this incident because he was afraid of repercussions.
+
+round 48, index 20: 
+The assessment was bipolar disorder versus schizoaffective disorder, panic disorder, and the veteran described symptoms of PTSD.
+
+round 49, index 19: 
+A December 2003 VA treatment entry indicated that the veteran reported being sexually abused while in the Army.
+
+round 50, index 0: 
+The veteran served on active duty from March 1976 to November 1977.
+
+round 51, index 22: 
+After the incident, the veteran related that his job performance declined following the event and that he discontinued his military service to care for his ill father.
+
+round 52, index 0: 
+The veteran served on active duty from March 1976 to November 1977.
+
+round 53, index 0: 
+The veteran served on active duty from March 1976 to November 1977.
+
+round 54, index 0: 
+The veteran served on active duty from March 1976 to November 1977.
+
+round 55, index 0: 
+The veteran served on active duty from March 1976 to November 1977.
+
+round 56, index 8: 
+In his August 2002 PTSD stressor statement, the veteran alleged that he was sexually assaulted by someone he once considered a friend while staying at this person's house.
+
+round 57, index 0: 
+The veteran served on active duty from March 1976 to November 1977.
+
+round 58, index 0: 
+The veteran served on active duty from March 1976 to November 1977.
+
+round 59, index 0: 
+The veteran served on active duty from March 1976 to November 1977.
+

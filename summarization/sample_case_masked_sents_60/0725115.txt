@@ -1,0 +1,180 @@
+round 0, index 46: 
+This claim must be afforded expeditious treatment.
+
+round 1, index 45: 
+The appellant has the right to submit additional evidence and argument on the matter or matters the Board has remanded.
+
+round 2, index 44: 
+After the veteran and his representative have had an adequate opportunity to respond, the appeal should be returned to the Board for appellate review.
+
+round 3, index 47: 
+The law requires that all claims that are remanded by the Board of Veterans' Appeals or by the United States Court of Appeals for Veterans Claims for additional development or other appropriate action must be handled in an expeditious manner.
+
+round 4, index 48: 
+Veterans Law Judge, Board of Veterans' AppealsUnder 38 U.S.C.A. § 7252 (West 2002), only a decision of the Board of Veterans' Appeals is appealable to the United States Court of Appeals for Veterans Claims.
+
+round 5, index 49: 
+This remand is in the nature of a preliminary order and does not constitute a decision of the Board on the merits of your appeal.
+
+round 6, index 32: 
+Thereafter, the RO should arrange for the veteran to undergo a VA psychiatric examination by a physician with appropriate expertise to determine the nature, extent and etiology of the veteran's PTSD, if found to be present.
+
+round 7, index 33: 
+All indicated studies should be performed, to include psychological testing if appropriate, and all findings should be reported in detail.
+
+round 8, index 30: 
+Accordingly, the case is REMANDED for the following action:
+
+round 9, index 31: 
+The RO should obtain a complete set of the veteran's personnel records from the National Personal Records Center (NPRC) and associate it with the claims files.
+
+round 10, index 43: 
+If the issue on appeal remains denied, a supplemental statement of the case should be provided to the veteran and his representative.
+
+round 11, index 42: 
+Thereafter, the RO should readjudicate the issue of entitlement to service connection for PTSD.
+
+round 12, index 34: 
+The veteran's claims files, including a copy of this remand, must be made available to and reviewed by the examiner.
+
+round 13, index 36: 
+In reviewing the veteran's claims files, the examiner should identify and examine all records indicating any change of behavior or performance subsequent to the claimed assault alleged by the veteran to have occurred during active service (to specifically include consideration of the June 1971 diagnosis of a personality disorder), and offer an opinion as to the clinical significance, if any, of such evidence to changes.
+
+round 14, index 18: 
+The veteran contends that he has PTSD as a result of an in-service sexual assault.
+
+round 15, index 4: 
+The appeal is REMANDED to the RO via the Appeals Management Center (AMC), in Washington, DC.  VA will notify the appellant if further action is required.
+
+round 16, index 40: 
+If the examiner is unable to give an opinion without resorting to speculation, the report should so state.
+
+round 17, index 41: 
+The veteran is hereby advised that failure to report for a scheduled VA examination without good cause shown may have adverse effects on this claim.
+
+round 18, index 39: 
+A complete rationale must be given for any opinion expressed, and the foundation for all conclusions should be clearly set forth.
+
+round 19, index 37: 
+The examiner should then express an opinion as to whether it is at least as likely as not (at least a 50 percent probability) that any in-service stressful experience described by the veteran occurred.
+
+round 20, index 38: 
+If the examiner determines that any claimed in-service stressful event occurred, he or she should make a determination as to whether the veteran has PTSD as a result of the stressful event or whether it is a result of any other stressful event, to include the veteran's history of sexual assaults on him during childhood.
+
+round 21, index 9: 
+Examples of behavioral changes that may constitute credible evidence of a stressor include, but are not limited to:
+
+round 22, index 16: 
+The RO should document its efforts and, if such efforts are unsuccessful, the RO should so inform the veteran and advise him to submit alternate forms of evidence to support his claim of entitlement to service connection for PTSD.
+
+round 23, index 10: 
+Request for transfer to another military duty assignment;
+
+round 24, index 8: 
+Evidence of behavioral changes following the claimed assault is one type of relevant evidence that may be found in these sources.
+
+round 25, index 6: 
+Examples of such evidence include, but are not limited to:
+
+round 26, index 15: 
+Although these personnel records, as well as the veteran's DA Form 20 are of record, it is not clear from the record whether the RO has attempted to obtain his entire personnel folder, as required when developing a claim for service connection for PTSD based on personal trauma.
+
+round 27, index 5: 
+Where claims of entitlement to service connection for PTSD are based on allegations of personal or sexual assault, evidence from sources other than the veteran's service records may corroborate the veteran's account of the stressful incident or incidents.
+
+round 28, index 35: 
+The examination report is to reflect that such a review of the claims files was made.
+
+round 29, index 17: 
+The United States Court of Claims for Veterans Appeals (Court) has stated that "VA has provided special evidentiary development procedures, including the interpretation of behavioral changes by a clinician and interpretation in relation to a medical diagnosis" with regard to personal assault cases.
+
+round 30, index 12: 
+The veteran's DD Form 214 does not indicate the character of his service.
+
+round 31, index 11: 
+deterioration in work performance; substance abuse; episodes of depression, panic attacks, or anxiety without an identifiable cause; or unexplained economic or social behavioral changes.
+
+round 32, index 0: 
+The veteran served on active duty from July 1970 to August 1971.
+
+round 33, index 1: 
+This matter came to the Board of Veterans' Appeals (Board) on appeal from a December 1999 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO) in Louisville, Kentucky.
+
+round 34, index 2: 
+In March 2003, December 2004 and March 2006 the Board remanded the case for further development.
+
+round 35, index 3: 
+The requested development has been completed and the case has been returned to the Board for further appellate action.
+
+round 36, index 14: 
+The veteran, in written statements and in testimony, has indicated that he was discharged for either drug abuse or a mental condition diagnosed as a personality disorder.
+
+round 37, index 13: 
+However, a DD Form 215, dated in January 1972, shows that his DD Form 214 was corrected to reflect service under honorable conditions.
+
+round 38, index 7: 
+Records from law enforcement authorities, rape crisis centers, mental health counseling centers, hospitals, or physicians; tests for sexually transmitted diseases; and statements from family members, roommates, fellow service members, or clergy.
+
+round 39, index 29: 
+An April 2006 VA psychiatric examination report notes the veteran's histories of childhood and in-service sexual assaults and shows a diagnosis of PTSD, which the examiner etiologically links to the veteran's alleged in-service sexual assault.
+
+round 40, index 19: 
+Review of the record shows that in his July 1970 report of medical history, the veteran had no relevant complaints and denied any trouble sleeping, problems with nightmares, depression, excessive worry, memory loss or amnesia, bed wetting, nervous trouble, drugs, or excessive drinking habits.
+
+round 41, index 28: 
+Prior to that time, the veteran's written statements indicate he was sexually threatened, but do not indicate a sexual assault in service.
+
+round 42, index 24: 
+The accompanying separation examination report shows that a psychiatric evaluation was normal.
+
+round 43, index 21: 
+His June 1971 report of medical history indicates that the veteran experienced depression or excessive worry.
+
+round 44, index 20: 
+His accompanying enlistment medical examination report shows that his psychiatric evaluation was normal.
+
+round 45, index 25: 
+However, a summary of defects indicates diagnosed dissocial type personality disorder.
+
+round 46, index 23: 
+He worried about people harming him, although it was specifically noted that he did not worry about physical harm, and that he sometimes used drugs.
+
+round 47, index 22: 
+The report further notes that his parents had split up and that he had inadequate personality development and that he was unable to cope with people in the Army.
+
+round 48, index 0: 
+The veteran served on active duty from July 1970 to August 1971.
+
+round 49, index 26: 
+Several VA treatment records show the veteran gave histories of 2 childhood sexual assaults.
+
+round 50, index 0: 
+The veteran served on active duty from July 1970 to August 1971.
+
+round 51, index 27: 
+The evidence of record further shows the veteran initially gave a history of an in-service sexual assault in 2002.
+
+round 52, index 0: 
+The veteran served on active duty from July 1970 to August 1971.
+
+round 53, index 0: 
+The veteran served on active duty from July 1970 to August 1971.
+
+round 54, index 0: 
+The veteran served on active duty from July 1970 to August 1971.
+
+round 55, index 0: 
+The veteran served on active duty from July 1970 to August 1971.
+
+round 56, index 0: 
+The veteran served on active duty from July 1970 to August 1971.
+
+round 57, index 0: 
+The veteran served on active duty from July 1970 to August 1971.
+
+round 58, index 0: 
+The veteran served on active duty from July 1970 to August 1971.
+
+round 59, index 0: 
+The veteran served on active duty from July 1970 to August 1971.
+

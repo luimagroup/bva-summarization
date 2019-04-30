@@ -1,0 +1,180 @@
+round 0, index 232: 
+Service connection for an acquired psychiatric disorder, including PTSD is denied.
+
+round 1, index 19: 
+An acquired psychiatric disorder, to include post-traumatic stress disorder, was not incurred in or aggravated by active military service.
+
+round 2, index 18: 
+There is no competent medical evidence that the veteran has an acquired psychiatric disorder, including PTSD, related to his active military service.
+
+round 3, index 17: 
+There are no comprehensive and credible medical evaluations of the veteran that have diagnosed PTSD based upon actual, verified or credible experiences during active duty.
+
+round 4, index 231: 
+Ultimately, of course, such lay evidence from Mr. [redacted] or the Fallens could not establish medical diagnosis or causation, and thus can not serve as competent evidence of the presence of PTSD or any psychiatric disorder related to service.
+
+round 5, index 15: 
+The veteran is not a reliable historian as to alleged stressful events in service; even if it were assumed that he did engage in combat with the enemy his accounts of his experiences are not satisfactory since they are contradicted by service records.
+
+round 6, index 20: 
+The veteran served in the Republic of South Vietnam, and there are diagnoses of PTSD in VA clinical records.
+
+round 7, index 233: 
+Member, Board of Veterans' AppealsThe Board of Veterans' Appeals Administrative Procedures Improvement Act, Pub. L. No. 103-271, § 6, 108 Stat. 740, 741 (1994), permits a proceeding instituted before the Board to be assigned to an individual member of the Board for a determination.
+
+round 8, index 14: 
+The veteran has reported stressors in service; service records or other credible supporting evidence does not verify any of the claimed stressors; he did not engage in combat with the enemy.
+
+round 9, index 160: 
+Psychiatric evaluation was also conducted in October 1995.
+
+round 10, index 176: 
+It was believed he was subthreshold for criterion C, and as far as criterion D was concerned he had no hyperviligence, sleep disturbance, and the startle response did not appear to be severe.
+
+round 11, index 162: 
+He said some of his acquaintances were killed but could give no details regarding that.
+
+round 12, index 221: 
+Since this opinion is that the veteran does not have PTSD, the requirements of Watson are not met.
+
+round 13, index 230: 
+Further, the vivid description of nightmares is contradicted by the absence of such complaints when the appellant was initially seen, and by the current findings which emphasize the lack of indication that the appellant reexperiences events in service.
+
+round 14, index 175: 
+In regard to criterion C he did nave a sense of foreshortened future, but this was his usual depressive pessimistic view of the world.
+
+round 15, index 150: 
+It was noted that the events described were probably sufficient to meet DSM-III-R criterion.
+
+round 16, index 234: 
+This proceeding has been assigned to an individual member of the Board.NOTICE OF APPELLATE RIGHTS:  Under 38 U.S.C.A. § 7266 (West 1991 &  Supp. 1995), a decision of the Board of Veterans'
+
+round 17, index 184: 
+The existence of a stressor, though not its quality, is an adjudicative, not a medical determination.
+
+round 18, index 21: 
+On the basis of this evidence, the Board finds his claim for service connection for PTSD plausible, and thus well-grounded.
+
+round 19, index 22: 
+The Board further finds that the RO has amply discharged the duty to assist under
+
+round 20, index 163: 
+He also reported seeing 4 or 5 dead north Vietnamese on barbed wire, seeing a helicopter blown up after leaving the ground , seeing some wounded in a hospital and some body bags containing 2 marines ostensible killed in a house of ill fame.
+
+round 21, index 236: 
+The date which appears on the face of this decision constitutes the date of mailing and the copy of this decision which you have received is your notice of the action taken on your appeal by the Board of Veterans' Appeals.- 2 -
+
+round 22, index 23: 
+Basically, the applicable law and regulations provide that service connection can be established if a particular disease or injury, resulting in disability, is incurred coincident with service, if a disability is found to be proximately due to or the result of a service-connected disease or injury, or if a chronic disease, as specified in 38 U.S.C.A. § 1101, is manifested to a compensable degree within one year thereaf-ter.
+
+round 23, index 177: 
+It was opined that he veteran had some manifestations of post-traumatic stress disorder, but the examiner believed they may have been of subthreshold magnitude and perhaps half of his psychopathology and impaired social and vocational functioning had been based on personality disorder, anxiety and depression, and that this was only partially related to PTSD.
+
+round 24, index 72: 
+In December 1983 the impression was adjustment reaction, alcohol abuse.
+
+round 25, index 235: 
+Appeals granting less than the complete benefit, or benefits, sought on appeal is appealable to the United States Court of Veterans Appeals within 120 days from the date of mailing of notice of the decision, provided that a Notice of Disagreement concerning an issue which was before the Board was filed with the agency of original jurisdiction on or after November 18, 1988.  Veterans' Judicial Review Act, Pub. L. No. 100-687, § 402, 102 Stat. 4105, 4122 (1988).
+
+round 26, index 24: 
+Presumptive periods are not intended to limit service connection to diseases so diagnosed when the evidence warrants direct service connection.
+
+round 27, index 25: 
+Determinations as to service connection will be based on review of the entire evidence of record, with due consideration of the policy of the VA to administer the law under a broad and liberal interpretation consistent with the facts in each individual case.
+
+round 28, index 161: 
+The veteran reported being exposed to mortar and artillery attacks, perhaps once a week, and during the TET offensive in 1968 he reported being exposed to rocket and mortar attacks and being very frightened.
+
+round 29, index 158: 
+Overall the results did not clearly support a diagnosis of PTSD.
+
+round 30, index 180: 
+Although the Board must point out below some obvious discrepancies in the record, the Board by no means believes that these discrepancies stem from any deliberate fabrication as opposed to simply inaccurate memory.
+
+round 31, index 174: 
+He did not act or feel as if the events were recurring.
+
+round 32, index 185: 
+Board finds nothing in the documentary evidence of record from the service department, either in the form of administrative or medical records, to show that the veteran engaged in combat with the enemy.
+
+round 33, index 0: 
+The veteran had active military service from March 1968 to October 1969.
+
+round 34, index 1: 
+His awards and decorations include the Fleet Marine Force Combat Operation Insignia for service with the U.S. Naval Mobile Construction Battalion TWENTY-TWO during the period August 31, 1968 to March 3, 1969.
+
+round 35, index 186: 
+His awards and decorations are not combat related, and his duties and assignments were with a support unit.
+
+round 36, index 4: 
+The Board, in a decision in January 1991 denied service con-nection for PTSD.
+
+round 37, index 173: 
+There was no intense psychological distress, no recurrent intrusive recollection of the traumatic events, and he was no longer having nightmares.
+
+round 38, index 2: 
+The letter no-tifying the veteran of this award dated in November 1968 states that it is for service performed in the combat zone.
+
+round 39, index 222: 
+Accordingly, the Board concludes that the overwhelming weight of the evidence is against the claim for PTSD and the doctrine of reasonable doubt is not for application.
+
+round 40, index 214: 
+In this case the Board concludes that the diagnoses of PTSD by Dr.
+
+round 41, index 223: 
+In regard to the post-service diagnosis of an acquired psychiatric disorder, variously diagnosed, it is for consideration that there is no competent medical evidence associating any such disorder with any event of his active military service, including the evaluation on the hospital ship in October 1968.
+
+round 42, index 3: 
+He has no awards or decorations specific to combat.
+
+round 43, index 220: 
+The Board finds this medical opinion as to the existence of a current PTSD is entitled to the greatest weight.
+
+round 44, index 229: 
+Mr. [redacted]s recollections of post service events likewise are highly suspect.
+
+round 45, index 224: 
+It has been indicated, at least once, that the veterans depression is associated with his childhood development.
+
+round 46, index 49: 
+The impression was inadequate personality (probably paranoid personality).
+
+round 47, index 6: 
+however, service connection was still denied.
+
+round 48, index 228: 
+Given the dramatic difference between Mr. [redacted]s recollections of events prior to service and the actual record, the Board finds that
+
+round 49, index 159: 
+The diagnostic impression was dysthymia, anxiety disorder NOS (subthreshold PTSD symptomatology) and personality disorder NOS.
+
+round 50, index 227: 
+It on this basis, the Board does not find Mr. [redacted]s recollections to be credible, not in the sense of whether he reports honestly what he now recollects, but in the sense of whether his recollections are accurate.
+
+round 51, index 26: 
+A determination of service connection for post-traumatic stress disorder requires medical evidence establishing a clear diagnosis thereof, credible supporting evidence that the claimed service stressors actually occurred, and a link, established by medical evidence, between current symptomatology and the claimed service stressor.
+
+round 52, index 182: 
+None of these factors, alone or collectively, however, provides a basis for favorable action.
+
+round 53, index 112: 
+There was no explanation for the basis for these diagnoses.
+
+round 54, index 62: 
+A brief personal history was given.
+
+round 55, index 217: 
+Falk relied upon the accounts of alleged stressors that the Board does not find credible, the Board finds that the diagnosis is not supportable.
+
+round 56, index 7: 
+The case was remanded for additional development in June 1995, and has been returned to the Board for further appellate considera-tion.
+
+round 57, index 27: 
+If the claimed stressor is related to combat, service department evidence that the veteran engaged in combat or that he was awarded the requisite combat citations will be accepted, in the absence of evidence to the contrary, as conclusive evidence of the claimed in service stressors.
+
+round 58, index 61: 
+In February he complained of being socially inept and problems around girls.
+
+round 59, index 213: 
+A determination of service connection requires a finding of the existence of a current disability and a determination of a relationship between that disability and an injury or disease incurred in service.
+

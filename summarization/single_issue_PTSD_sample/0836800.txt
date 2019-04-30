@@ -1,0 +1,385 @@
+Citation Nr: 0836800	
+Decision Date: 10/27/08    Archive Date: 11/05/08
+
+DOCKET NO.  05-24 507A	)	DATE
+	)
+	)
+
+On appeal from the
+Department of Veterans Affairs Regional Office in Atlanta, 
+Georgia
+
+
+THE ISSUE
+
+Entitlement to service connection for post-traumatic stress 
+disorder (PTSD).
+
+
+REPRESENTATION
+
+Appellant represented by:	Georgia Department of Veterans 
+Services
+
+
+WITNESS AT HEARING ON APPEAL
+
+Appellant
+
+
+ATTORNEY FOR THE BOARD
+
+Jason R. Davitian, Counsel
+
+
+INTRODUCTION
+
+The veteran served on active duty from December 1984 to 
+December 1987.
+
+This case is before the Board of Veterans' Appeals (BVA or 
+Board) on appeal from a May 2004 rating decision of the 
+Department of Veterans Affairs (VA) Regional Office in 
+Atlanta, Georgia (RO), which denied the benefit sought on 
+appeal.
+
+
+FINDING OF FACT
+
+The competent medical evidence, overall, does not show that 
+the veteran's active duty caused PTSD or aggravated 
+preexisting PTSD.
+
+
+CONCLUSION OF LAW
+
+Service connection for PTSD is not warranted.  38 U.S.C.A. 
+§§ 1131, 5103, 5103A, 5107 (West 2002 & Supp. 2007); 
+38 C.F.R. §§ 3.303, 3.304 (2007).
+
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+Veterans Claims Assistance Act of 2000 (VCAA)
+
+As provided for by the VCAA, VA has a duty to notify and 
+assist claimants in substantiating a claim for VA benefits.  
+38 U.S.C.A. §§ 5100, 5102, 5103, 5103A, 5107, 5126 (West 2002 
+& Supp. 2007); 38 C.F.R. §§ 3.102, 3.156(a), 3.159 and 
+3.326(a) (2007).  
+
+Upon receipt of a complete or substantially complete 
+application for benefits, VA is required to notify the 
+claimant and his or her representative, if any, of any 
+information, and any medical or lay evidence, that is 
+necessary to substantiate the claim.  38 U.S.C.A. § 5103(a); 
+38 C.F.R. § 3.159(b); Quartuccio v. Principi, 16 Vet. App. 
+183 (2002).  Proper notice from VA must inform the claimant 
+of any information and evidence not of record (1) that is 
+necessary to substantiate the claim; (2) that VA will seek to 
+provide; (3) that the claimant is expected to provide; and 
+(4) must ask the claimant to provide any evidence in her or 
+his possession that pertains to the claim in accordance with 
+38 C.F.R. § 3.159(b)(1).  This notice must be provided prior 
+to an initial unfavorable decision on a claim by the agency 
+of original jurisdiction (AOJ).  Mayfield v. Nicholson, 444 
+F.3d 1328 (Fed. Cir. 2006); Pelegrini v. Principi, 18 Vet. 
+App. 112 (2004).  
+
+For claims pending before VA on or after May 30, 2008, 38 
+C.F.R. § 3.159 was amended to eliminate the requirement that 
+VA request that a claimant submit any evidence in his or her 
+possession that might substantiate the claim.  See 73 FR 
+23353 (Apr. 30, 2008).  
+
+Here, the VCAA duty to notify was satisfied by way of a 
+letter sent to the appellant in June 2003 that fully 
+addressed all necessary notice elements and was sent prior to 
+the initial AOJ decision in this matter.  The letter informed 
+the appellant of what evidence was required to substantiate 
+the claim and of the appellant's and VA's respective duties 
+for obtaining evidence.  
+
+In Dingess v. Nicholson, 19 Vet. App. 473 (2006), the U.S. 
+Court of Appeals for Veterans Claims held that, upon receipt 
+of an application for a service-connection claim, 38 U.S.C. 
+§ 5103(a) and 38 C.F.R. § 3.159(b) require VA to review the 
+information and the evidence presented with the claim and to 
+provide the claimant with notice of what information and 
+evidence not previously provided, if any, will assist in 
+substantiating, or is necessary to substantiate, each of the 
+five elements of the claim, including notice of what is 
+required to establish service connection and that a 
+disability rating and an effective date for the award of 
+benefits will be assigned if service connection is awarded.  
+In this case, although the notice provided did not address 
+either the rating criteria or effective date provisions that 
+are pertinent to the appellant's claim, such error was 
+harmless given that service connection is being denied, and 
+hence no rating or effective date will be assigned with 
+respect to this claimed condition.  
+
+VA has a duty to assist the veteran in the development of the 
+claim.  This duty includes assisting the veteran in the 
+procurement of service medical records and pertinent 
+treatment records and providing an examination when 
+necessary.  38 U.S.C.A. § 5103A; 38 C.F.R. § 3.159.  
+
+The Board finds that all necessary development has been 
+accomplished, and therefore appellate review may proceed 
+without prejudice to the appellant.  See Bernard v. Brown, 4 
+Vet. App. 384 (1993).  The RO has obtained VA and private 
+outpatient treatment reports.  The veteran was provided an 
+opportunity to set forth his contentions during a hearing 
+before the undersigned Veterans Law Judge in June 2008.  The 
+appellant was afforded VA medical examinations in May 2004 
+and April 2006.  
+
+Significantly, neither the appellant nor his representative 
+has identified, and the record does not otherwise indicate, 
+any additional existing evidence that is necessary for a fair 
+adjudication of the claim that has not been obtained.  The 
+transcript of the Board hearing reflects that the record was 
+held open for 60 days in order to enable the veteran to 
+obtain relevant medical records, but no such information has 
+been provided to VA for consideration.  
+
+At the time of the hearing the veteran submitted an August 
+2007 determination by the Social Security Administration 
+(SSA) that found him disabled as of December 2005.  The 
+determination noted that the veteran had severe impairments 
+consisting of bipolar anxiety disorder, PTSD, and 
+degenerative disc disease.  The veteran also submitted some 
+corresponding medical records relied on by SSA.  The Board 
+finds that the proper adjudication of the veteran's claim 
+does not require VA to obtain any additional medical records 
+from SSA.  The fact that the veteran has already submitted 
+some of these medical records suggests that he has submitted 
+all that he deems relevant to his claim.  He has not stated 
+that any outstanding medical records from SSA would be 
+relevant to his claim.  In addition, by their nature any 
+medical records submitted to SSA would address the veteran's 
+current employability, not what happened to him during 
+service nearly two decades earlier.  
+
+Hence, no further notice or assistance to the appellant is 
+required to fulfill VA's duty to assist the appellant in the 
+development of the claim.  Smith v. Gober, 14 Vet. App. 227 
+(2000), aff'd 281 F.3d 1384 (Fed. Cir. 2002); Dela Cruz v. 
+Principi, 15 Vet. App. 143 (2001); see also Quartuccio v. 
+Principi, 16 Vet. App. 183 (2002).
+
+Service Connection
+
+The veteran contends that he incurred or aggravated PTSD 
+during active duty.  He identifies the stressful incident as 
+the poor treatment he received after wrecking his car in 
+February 1987.  The veteran was accused of driving while 
+intoxicated and injuring his passenger, another sailor.  
+Accordingly, when the veteran returned to ship he was not 
+given any medical treatment for a week.  He had to do his 
+usual duties although he was too injured.  Fellow sailors 
+accused him of being drunk and crippling the passenger.  The 
+veteran's service medical records confirm the motor vehicle 
+accident (MVA).  
+
+Service connection may be granted if the evidence 
+demonstrates that a current disability resulted from an 
+injury or disease incurred or aggravated in active military 
+service.  38 U.S.C.A. § 1131 (West 2002); 38 C.F.R. 
+§ 3.303(a) (2007).  Service connection generally requires 
+evidence of a current disability with a relationship or 
+connection to an injury or disease or some other 
+manifestation of the disability during service.  Boyer v. 
+West, 210 F.3d 1351, 1353 (Fed. Cir. 2000).  A disorder may 
+be service-connected if the evidence of record reveals that 
+the veteran currently has a disorder that was chronic in 
+service or, if not chronic, that was seen in service with 
+continuity of symptomatology demonstrated thereafter.  38 
+C.F.R. § 3.303(b); Savage v. Gober, 10 Vet. App. 488, 494-97 
+(1997).  Disorders diagnosed after discharge may still be 
+service-connected if all the evidence, including pertinent 
+service records, establishes that the disorder was incurred 
+in service.  38 C.F.R. § 3.303(d).
+
+Where the determinative issue involves medical causation or a 
+medical diagnosis, there must be competent medical evidence 
+to the effect that the claim is plausible; lay assertions of 
+medical status do not constitute competent medical evidence.  
+Grottveit v. Brown, 5 Vet. App. 91, 93 (1993); Espiritu v. 
+Derwinski, 2 Vet. App. 492, 494 (1992).  When there is an 
+approximate balance of positive and negative evidence 
+regarding any issue material to the determination, the 
+benefit of the doubt is afforded the claimant.  38 U.S.C.A. 
+§ 5107(b).
+
+Service connection for PTSD, in particular, requires: (1) 
+medical evidence diagnosing the condition in accordance with 
+38 C.F.R. § 4.125(a) (i.e., DSM-IV); (2) credible supporting 
+evidence that the claimed in-service stressor(s) occurred; 
+and (3) medical evidence establishing a link between the 
+current diagnosis and the stressor(s) in service.  38 C.F.R. 
+§ 3.304(f).
+
+As an initial matter, medical evidence of record raises a 
+question of whether the veteran had preexisting PTSD at the 
+time of his enlistment.  A veteran is presumed in sound 
+condition except for defects noted when examined and accepted 
+for service.  According to 38 C.F.R. § 3.304(b), the term 
+"noted" denotes only such conditions that are recorded in 
+examination reports.  The existence of conditions prior to 
+service reported by the veteran as medical history does not 
+constitute a notation of such conditions, but will be 
+considered together with all other material evidence in 
+determining the question of when a disease or disability 
+began.  See 38 C.F.R. § 3.304(b)(1).
+
+Clear and unmistakable evidence that the disability existed 
+prior to service and was not aggravated by service will rebut 
+the presumption of soundness.  38 U.S.C.A. § 1111; VAOPGCPREC 
+3- 2003.  A preexisting disease will be considered to have 
+been aggravated by active service where there is an increase 
+in disability during service, unless there is a specific 
+finding that the increase in disability is due to the natural 
+progression of the disease.  38 U.S.C.A. § 1153; 38 C.F.R. § 
+3.306.
+
+The report of the veteran's October 1984 enlistment 
+examination notes that his psychiatric evaluation was normal.  
+The report identifies no pertinent defects or diagnoses.  The 
+veteran denied all psychiatric complaints on his October 1984 
+enlistment report of medical history.  Therefore, the veteran 
+is presumed to have been sound at entrance.
+
+Because the presumption of soundness has attached, VA holds 
+the burden of proving by clear and unmistakable evidence that 
+both (1) the veteran's disease or injury preexisted service 
+and (2) that such disease or injury was not aggravated by 
+service.  VAOGCPREC 3-03.
+
+Clear and unmistakable evidence is a more formidable 
+evidentiary burden than the preponderance of the evidence 
+standard.  See Vanerson v. West, 12 Vet. App. 254, 258 (1999) 
+(noting that "clear and convincing" burden of proof, while a 
+higher standard than a preponderance of the evidence, is a 
+lower burden to satisfy than clear and unmistakable 
+evidence).  It is an "onerous" evidentiary standard, 
+requiring that the no-aggravation result be "undebatable".  
+Cotant v. Principi, 17 Vet. App. 116, 131 (2003).  Concerning 
+clear and unmistakable evidence that the disease or injury 
+was not aggravated by service, the second step necessary to 
+rebut the presumption of soundness, a lack of aggravation may 
+be shown by establishing that there was no increase in 
+disability during service or that any increase in disability 
+was due to the natural progress of the preexisting condition.  
+Wagner v. Principi, 370 F.3d 1089, 1096 (Fed. Cir. 2004); 38 
+U.S.C.A. § 1153.
+
+In the present case, the evidence indicates the veteran had 
+PTSD that clearly preexisted service.  For example, a June 
+2003 report from a private psychologist, R.R.B., Ph.D., 
+provides that the veteran had long-standing mood and anxiety 
+problems.  His anxiety and PTSD were likely from childhood.  
+In a November 2004 report, Dr. R.R.B. provides that the 
+veteran suffered from multiple severe psychiatric problems, 
+including PTSD.  The veteran was the victim of significant 
+emotional and physical abuse throughout all of his childhood.  
+The report also refers to the veteran's "childhood-based 
+PTSD symptoms."  The Board notes that these detailed reports 
+follow and revise an April 2003 report in which Dr. R.R.B. 
+revealed that the veteran reported PTSD symptoms stemming 
+from a service-related MVA in 1987.  
+
+Similarly, the report of an April 2006 VA psychiatric 
+examination provides an Axis I diagnosis of PTSD from 
+traumatic childhood.  An addendum provides that the veteran's 
+stressor that originated the PTSD diagnosis was the constant 
+mental and physical abuse in childhood by his father.  
+
+The Board also finds that the medical evidence of record, 
+overall, demonstrates that the veteran's preexisting PTSD did 
+not undergo an increase in severity during service and was 
+thus not aggravated by service.  
+
+In so finding, the Board observes that the veteran's service 
+medical records are negative for psychiatric complaints, 
+symptoms, findings or diagnoses.  The report of his December 
+1987 separation medical examination notes that his 
+psychiatric evaluation was normal.  It identifies no 
+pertinent defects or diagnoses.  The veteran denied all 
+psychiatric complaints on his December 1987 separation report 
+of medical history.  
+
+The Board recognizes that Dr. R.R.B.'s June 2003 report notes 
+that the veteran's childhood-based PTSD was "severely 
+exacerbated by experience in US Navy...."  Dr. R.R.B.'s 
+November 2004 report states that the poor treatment of the 
+veteran after the MVA triggered very severe reenactment 
+experiences stemming from the veteran's childhood experience 
+and exacerbated his childhood-based PTSD symptoms.  
+
+However, the Board finds it significant that Dr. R.R.B.'s 
+reports do not identify any symptoms of such exacerbations in 
+service or state that they were permanent.  The Board also 
+finds it significant that the veteran's service medical 
+records (which are negative for any psychiatric complaints, 
+symptoms, findings or diagnoses) document no PTSD symptoms or 
+exacerbations.  The Board finds that the contemporary nature 
+of the veteran's service medical records means they outweigh 
+Dr. R.R.B.'s later opinions.  
+
+The report of a May 2004 VA psychiatric examination reflects 
+that the veteran denied recurrent recollection of the 1987 
+MVA.  He denied intense distress at exposure to a similar 
+event as well as physiological or psychological distress at 
+the exposure of any event that would resemble or remind him 
+of the event.  He denied efforts to avoid thoughts, feeling 
+or conversations associated with the MVA as well as efforts 
+to avoid activities, places or people that aroused 
+recollection of the event.  
+
+The addendum to the April 2006 VA psychiatric examination 
+provides that the 1987 inservice MVA resulted in minimal 
+aggravation of the veteran's preexisting childhood-based 
+PTSD.  The MVA was not sufficient to alter, but momentarily, 
+the veteran's current Global Assessment of Functioning score 
+of 55.  Therefore, the examiner stated that the GAF score of 
+55 preexisted the inservice MVA and there was no lasting 
+worsening of the problem.  The examiner stated that he based 
+this opinion on the records reviewed, including the May 2004 
+VA examination report (documenting the absence of any 
+reference to the MVA in recollections or any other PTSD 
+symptoms, except nightmares) and Dr. R.R.B.'s June 2003 
+report (noting that the veteran's mood and anxiety problems 
+from childhood were exacerbated by his experience in the U.S. 
+Navy). 
+
+Although the Board does not doubt the veteran's belief that 
+his PTSD was incurred or aggravated during service, he is not 
+a medical professional competent to render an opinion on 
+matters of a medical diagnosis or the etiology of a diagnosed 
+disorder.  Espiritu v. Derwinski, 2 Vet. App. 492 (1992).
+
+Overall, the Board finds that the evidence shows that the 
+veteran did not incur or aggravate PTSD during active duty.  
+As the preponderance of the evidence is against the claim, 
+the benefit of the doubt doctrine is not for application.  
+See generally Gilbert v. Derwinski, 1 Vet. App. 49 (1990); 
+Ortiz v. Principi, 274 F. 3d 1361 (Fed. Cir. 2001).
+
+
+ORDER
+
+Service connection for PTSD is denied.
+
+
+
+____________________________________________
+JONATHAN B. KRAMER
+Veterans Law Judge, Board of Veterans' Appeals
+
+
+
+ Department of Veterans Affairs
+
+

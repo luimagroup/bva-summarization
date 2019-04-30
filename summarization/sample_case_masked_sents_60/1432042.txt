@@ -1,0 +1,180 @@
+round 0, index 107: 
+Entitlement to service connection for a psychiatric disorder, to include PTSD, is denied.
+
+round 1, index 11: 
+A psychiatric disorder was not incurred in or aggravated by service.
+
+round 2, index 44: 
+I don't think I have a lot of problems with that.
+
+round 3, index 13: 
+Appropriate notice was provided in July 2007, prior to the initial AOJ decision on his claim.
+
+round 4, index 14: 
+All efforts have been made to obtain relevant, identified and available evidence, and VA has notified the Veteran of any evidence that could not be obtained.
+
+round 5, index 15: 
+VA, therefore, has made every reasonable effort to obtain all records relevant to the Veteran's claim.
+
+round 6, index 12: 
+I.  Notice and Assistance RequirementsVA's duties to notify and assist claimants in substantiating a claim for VA benefits are described in 38 U.S.C.A. §§ 5100, 5102, 5103, 5103A, 5107 and 5126;
+
+round 7, index 16: 
+The Veteran was afforded VA examination on his claim in May 2012.
+
+round 8, index 17: 
+The Board acknowledges that, at an Informal Conference held before a Decision Review Officer (DRO) at the RO in February 2014, the Veteran and his representative argued that the May 2012 VA examination was inadequate.
+
+round 9, index 18: 
+The Veteran's main contention was that he did not know what to say during the examination.
+
+round 10, index 45: 
+I don't think about it too much.
+
+round 11, index 20: 
+The report of this examination reflects that the examiner reviewed the Veteran's past medical history, recorded his current complaints, conducted appropriate examination, and rendered appropriate diagnoses and opinions consistent with the remainder of the evidence of record.
+
+round 12, index 19: 
+The DRO told the Veteran and his representative that he did not find the VA examination to be inadequate for rating purposes on its face and it is consistent with other evidence of record.
+
+round 13, index 23: 
+Additional efforts to assist or notify him would serve no useful purpose.
+
+round 14, index 26: 
+Service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by service.
+
+round 15, index 46: 
+It's just things that happened in the past."
+
+round 16, index 21: 
+The Board, therefore, concludes that this examination report is adequate for purposes of rendering a decision in the instant appeal.
+
+round 17, index 22: 
+Thus, the Board finds that VA has satisfied its duties to inform and assist the Veteran at every stage of this case.
+
+round 18, index 47: 
+Also, when asked how his military service affected him, he answered:
+
+round 19, index 48: 
+I think I did a good job."
+
+round 20, index 24: 
+Therefore, he will not be prejudiced as a result of the Board proceeding to the merits of his claim.
+
+round 21, index 25: 
+II.
+
+round 22, index 53: 
+He reported decreasing his alcohol intake from 6 16-oz beers a day to 1 to 2 16-oz beers.
+
+round 23, index 27: 
+Service connection generally requires credible and competent evidence showing: (1) the existence of a present disability;
+
+round 24, index 28: 
+(2)
+
+round 25, index 9: 
+The medical and lay evidence of record fails to demonstrate the Veteran has a current diagnosis of PTSD.
+
+round 26, index 29: 
+in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service.
+
+round 27, index 36: 
+The Board is charged with the duty to assess the credibility and weight given to evidence.
+
+round 28, index 77: 
+mild memory loss such as forgetting names, directions or recent events (said forgets day wife died, day got shot, wife's birthday) but no evidence of memory difficulty on examination; (6) impaired abstract thinking (gave concrete interpretation of proverb); (7) difficulty in establishing and maintaining effective work and social relationships (unstable living situation - living with cousin last month and was with unspecified other people for the previous year or so, work is irregular); (8) difficulty in adapting to stressful circumstances including work or a work like setting; and (9) inability to establish and maintain effective relationships.
+
+round 29, index 61: 
+Depression and anxiety screens were negative.
+
+round 30, index 30: 
+Service connection for PTSD requires medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a); a link, established by medical evidence, between current symptoms and an in-service stressor; and credible supporting evidence that the claimed in-service stressor occurred.
+
+round 31, index 43: 
+With regard to his service in Vietnam, the Veteran stated:  " I don't know too much about Vietnam.
+
+round 32, index 1: 
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from an October 2007 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO) in Houston, Texas, which denied service connection for PTSD and entitlement to nonservice-connected pension.
+
+round 33, index 0: 
+The Veteran had active military service from June 1965 to August 1972, including two tours of duty in the Republic of Vietnam.
+
+round 34, index 31: 
+38 C.F.R. § 4.125(a) requires that diagnoses of mental disorders conform to the Diagnostic and Statistical Manual for Mental Disorders (DSM-IV).
+
+round 35, index 2: 
+Subsequently, in an August 2010 rating decision, entitlement to nonservice-connected pension was granted.
+
+round 36, index 3: 
+As that was a full grant of the benefit sought on appeal, that claim is no longer on appeal to the Board.
+
+round 37, index 33: 
+A layperson is competent to report on the onset and continuity of his current symptomatology.
+
+round 38, index 35: 
+When considering whether lay evidence is competent the Board must determine, on a case by case basis, whether the veteran's particular disability is the type of disability for which lay evidence may be competent.
+
+round 39, index 37: 
+As a finder of fact, when considering whether lay evidence is satisfactory, the Board may also properly consider internal inconsistency of the statements, facial plausibility, consistency with other evidence submitted on behalf of the veteran, and the veteran's demeanor when testifying at a hearing.
+
+round 40, index 32: 
+In making all determinations, the Board must fully consider the lay assertions of record.
+
+round 41, index 52: 
+He also stated that his nerves bothered him in the morning but did not feel like he was too anxious most of the day.
+
+round 42, index 8: 
+The issue is thus restated on the title page of this decision.
+
+round 43, index 34: 
+Lay evidence can also be competent and sufficient evidence of a diagnosis or to establish etiology if (1) the layperson is competent to identify the medical condition, (2) the layperson is reporting a contemporaneous medical diagnosis, or (3) lay testimony describing symptoms at the time supports a later diagnosis by a medical professional.
+
+round 44, index 7: 
+(per curiam order) (it is the responsibility of the Board to consider alternate current conditions within the scope of the claim).
+
+round 45, index 76: 
+(5)
+
+round 46, index 50: 
+The diagnoses given were alcohol dependence; rule out substance induced mood disorder versus anxiety disorder, not otherwise specified; and rule out dysthymic disorder.
+
+round 47, index 4: 
+Thus the only remaining issue on appeal is that listed on the title page of this decision.
+
+round 48, index 6: 
+Construing the claim liberally, however, the Board finds that it should be characterized as one for service connection for a psychiatric disorder, to include PTSD.
+
+round 49, index 49: 
+The physician also stated in assessing the Veteran that he had evidence of depressive symptoms, notably anhedonia, as well as a long history of alcohol dependence and a history of cocaine dependence.
+
+round 50, index 75: 
+Rather than PTSD symptoms, the examiner stated the Veteran reported having the following symptoms:  (1) depressed mood - not consistently, but when he has conflict with his daughter; recognizes he is not "living up to his potential"; and said his life has been going "downhill" since his wife died;  (2) anxiety - in that he experiences restlessness like he needs to be somewhere different and he smokes a cigarette, drinks and tries not to think about it and it mostly goes away; (3) panic attacks that occur weekly or less often (described as feeling like choking); (4) chronic sleep impairment - has bad dreams, wakes in a panic, trying to get away from something - present for last 10 to 20 years, also regularly wakes during middle of the night, awake for an hour or more, wakes again around 4:30 to 5:30 am, but also naps during the afternoon - last 10 plus years;
+
+round 51, index 74: 
+The Veteran did, however, report he avoids large crowds, cafes and clubs and endorsed persistent symptoms of increased arousal such as difficulty with concentration (noted to be endorsed on self-report instrument but denied verbally when asked and showed no evidence of on mental status examination) and difficulty falling or staying asleep.
+
+round 52, index 73: 
+Furthermore, the examiner remarked that the traumatic event is not persistently re-experienced and there was no persistent avoidance of stimuli associated with the trauma or numbing of general responsiveness.
+
+round 53, index 78: 
+The Veteran reported other symptoms to include fatigue, low energy and poor appetite.
+
+round 54, index 10: 
+The Veteran's depressive and anxiety symptoms are more likely than not related to his polysubstance abuse and/or dependence.
+
+round 55, index 38: 
+The Veteran contends that he currently has PTSD that is due to his service in the Republic of Vietnam.
+
+round 56, index 106: 
+The Board has considered the doctrine of reasonable doubt, but finds that the record does not provide an approximate balance of negative and positive evidence on the merits.
+
+round 57, index 105: 
+Based on the foregoing, the Board finds that the preponderance of the evidence is against finding that the Veteran has PTSD or that any depressive or anxiety symptoms he does have are related to his military service.
+
+round 58, index 39: 
+Although he claimed he has PTSD, the evidence of record fails to demonstrate that the Veteran has been given such a diagnosis.
+
+round 59, index 65: 
+When asked how his military service affected him, he did not answer.
+

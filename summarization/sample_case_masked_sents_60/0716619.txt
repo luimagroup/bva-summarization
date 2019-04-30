@@ -1,0 +1,180 @@
+round 0, index 49: 
+Service connection for hypertension, to include as secondary to service-connected PTSD, is denied.
+
+round 1, index 7: 
+Service connection for hypertension, to include as secondary to service-connected PTSD, is not established.
+
+round 2, index 6: 
+There is no evidence of hypertension in service or for years thereafter, no competent evidence of a nexus between hypertension and the veteran's period of service or his service-connected PTSD, and no competent evidence that the service-connected PTSD has aggravated the hypertension.
+
+round 3, index 29: 
+Again, the veteran's personal, lay opinion as to any relationship between his hypertension and his period of service or his PTSD is not competent evidence required to establish service connection.
+
+round 4, index 28: 
+There is no contrary, competent medical opinion of record.
+
+round 5, index 30: 
+Board finds that the preponderance of the evidence is against service connection for hypertension, to include as secondary to service-connected PTSD.
+
+round 6, index 31: 
+The Duty to Notify and the Duty to AssistReview of the claims folder reveals compliance with the duty to notify.
+
+round 7, index 44: 
+The Board further finds that any deficiency in the notice to the veteran or the timing of these notices is harmless error.
+
+round 8, index 45: 
+Board erred by relying on various post-decisional documents to conclude that adequate 38 U.S.C.A. § 5103(a) notice had been provided to the appellant, the Court found that the evidence established that the veteran was afforded a meaningful opportunity to participate in the adjudication of his claims, and found that the error was harmless, as the Board has done in this case).
+
+round 9, index 46: 
+With respect to the duty to assist, the RO has obtained all available service records, VA treatment records, and a VA examination.
+
+round 10, index 32: 
+That is, by letters dated September 2002, June 2004, and April 2006, as well as in the
+
+round 11, index 47: 
+In addition, the veteran provided additional medical records as well as lay evidence in the form of his own written statements and his testimony at his November 2005 Board videoconference hearing.
+
+round 12, index 43: 
+In the present appeal, the veteran was provided with such notice regarding disability rating and effective dates by letters dated April 2006 and June 2006.
+
+round 13, index 33: 
+March 2003 statement of the case and June 2005 and December 2006 supplemental statements of the case, the RO advised the veteran of the evidence needed to substantiate his claim and explained what evidence it was obligated to obtain or to assist the veteran in obtaining and what information or evidence the veteran was responsible for providing.
+
+round 14, index 48: 
+As there is no indication of outstanding evidence, the Board is satisfied that the duty to assist has been met.
+
+round 15, index 24: 
+Finally, there is no competent evidence of a nexus between the veteran's hypertension and his period of service or his service-connected PTSD.
+
+round 16, index 34: 
+In addition, the March 2003 statement of the case and June 2005 and December 2006 supplemental statements of the case include the text of the regulation that implements the notice and assistance provisions from the statute.
+
+round 17, index 5: 
+The case returns to the Board following a remand to the RO in April 2006.
+
+round 18, index 8: 
+REASONS AND BASES FOR FINDING AND CONCLUSIONService connection may be granted if the evidence demonstrates that a current disability resulted from an injury or disease incurred or aggravated in active military service.
+
+round 19, index 35: 
+Accordingly, the Board finds that the RO has provided all required notice.
+
+round 20, index 23: 
+Nor may service connection be established based on chronicity in service or continuity of symptomatology after service.
+
+round 21, index 22: 
+Therefore, service connection may not be established on a presumptive basis.
+
+round 22, index 36: 
+During the pendency of this appeal, on March 3, 2006, the Court issued a decision in the consolidated appeal of Dingess v. Nicholson, 19 Vet. App. 473 (2006), which held that the notice requirements of 38 U.S.C.A. § 5103(a) and 38 C.F.R. § 3.159(b) apply to all five elements of a service connection claim.
+
+round 23, index 50: 
+Veterans Law Judge, Board of Veterans' Appeals Department of Veterans Affairs
+
+round 24, index 9: 
+Service connection may be demonstrated either by showing direct service incurrence or aggravation or by using applicable presumptions, if available.
+
+round 25, index 10: 
+Direct service connection generally requires evidence of a current disability with a relationship or connection to an injury or disease or some other manifestation of the disability during service.
+
+round 26, index 37: 
+Those five elements include:  (1) veteran status; (2) existence of a disability;
+
+round 27, index 42: 
+Id.
+
+round 28, index 4: 
+A transcript of that hearing has been associated with the claims folder.
+
+round 29, index 17: 
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination, the benefit of the doubt is afforded the claimant.
+
+round 30, index 11: 
+A disorder may be service connected if the evidence of record reveals that the veteran currently has a disorder that was chronic in service or, if not chronic, that was seen in service with continuity of symptomatology demonstrated thereafter.
+
+round 31, index 18: 
+The Board finds that service connection for hypertension, to include as secondary to service-connected PTSD, is not in order.
+
+round 32, index 15: 
+Secondary service connection may also be established when there is aggravation of a veteran's non-service connected condition that is proximately due to or the result of a service-connected condition.
+
+round 33, index 0: 
+The veteran had active service from August 1963 to August 1967.
+
+round 34, index 1: 
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a November 2002 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO) in Chicago, Illinois.
+
+round 35, index 2: 
+The veteran's claims folder was subsequently transferred to the RO in Atlanta, Georgia.
+
+round 36, index 16: 
+Where the determinative issue involves medical causation or a medical diagnosis, there must be competent medical evidence to the effect that the claim is plausible; lay assertions of medical status do not constitute competent medical evidence.
+
+round 37, index 13: 
+Some chronic diseases are presumed to have been incurred in service, although not otherwise established as such, if manifested to a degree of ten percent or more within one year of the date of separation from service.
+
+round 38, index 14: 
+In addition, a disability is service connected if it is proximately due to or the result of a service connected disease or injury.
+
+round 39, index 27: 
+The physician further commented that the veteran had hypertension for 30 years (while he was only relatively recently diagnosed with PTSD) and had a history of alcohol abuse, heavy cigarette smoking, gambling, and gout, all of which can cause or aggravate hypertension.
+
+round 40, index 25: 
+Specifically, the July 2006 VA examiner noted that PTSD is not listed as a cause of hypertension and that, while the emotional upset associated with PTSD can result in some elevation of blood pressure, such elevation is considered temporary, not longstanding, and not the cause of hypertension.
+
+round 41, index 26: 
+Similarly, in a September 2006 addendum to the VA hypertension examination, the physician opined that it is not at least as likely as not that the veteran's hypertension is secondary to PTSD (i.e., that the veteran's hypertension was not at least as likely as not caused or aggravated by his PTSD).
+
+round 42, index 20: 
+The veteran's April 1963 pre-induction examination tested his blood pressure at 104/78 mm Hg, while his August 1967 separation examination tested his blood pressure at 122/72 mm Hg. Hypertension was not diagnosed on either examination.
+
+round 43, index 12: 
+Disorders diagnosed after discharge may still be service connected if all the evidence, including pertinent service records, establishes that the disorder was incurred in service.
+
+round 44, index 38: 
+(3)
+
+round 45, index 39: 
+a connection between the veteran's service and the disability; (4) degree of disability; and (5) effective date of the disability.
+
+round 46, index 19: 
+Although the veteran is currently diagnosed as having hypertension, there is no evidence of hypertension in service or for years thereafter.
+
+round 47, index 41: 
+Additionally, this notice must include notice that a disability rating and an effective date for the award of benefits will be assigned if service connection is awarded.
+
+round 48, index 3: 
+The veteran testified before the undersigned Veterans Law Judge at a videoconference hearing in November 2005.
+
+round 49, index 40: 
+The Court held that upon receipt of an application for a service-connection claim, 38 U.S.C.A. § 5103(a) and 38 C.F.R. § 3.159(b) require VA to review the information and the evidence presented with the claim and to provide the claimant with notice of what information and evidence not previously provided, if any, will assist in substantiating or is necessary to substantiate the elements of the claim as reasonably contemplated by the application.
+
+round 50, index 21: 
+In fact, the veteran related at his July 2006 VA hypertension examination that his hypertension problems did not have their onset until the 1970s, years after his separation from service.
+
+round 51, index 0: 
+The veteran had active service from August 1963 to August 1967.
+
+round 52, index 0: 
+The veteran had active service from August 1963 to August 1967.
+
+round 53, index 0: 
+The veteran had active service from August 1963 to August 1967.
+
+round 54, index 0: 
+The veteran had active service from August 1963 to August 1967.
+
+round 55, index 0: 
+The veteran had active service from August 1963 to August 1967.
+
+round 56, index 0: 
+The veteran had active service from August 1963 to August 1967.
+
+round 57, index 0: 
+The veteran had active service from August 1963 to August 1967.
+
+round 58, index 0: 
+The veteran had active service from August 1963 to August 1967.
+
+round 59, index 0: 
+The veteran had active service from August 1963 to August 1967.
+

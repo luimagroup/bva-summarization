@@ -1,0 +1,180 @@
+round 0, index 49: 
+The report of examination should include the complete rationale for all opinions expressed.
+
+round 1, index 50: 
+All necessary special studies or tests should be accomplished.
+
+round 2, index 48: 
+If the diagnosis of PTSD is deemed appropriate, the examiners should comment upon which event was of the quality required to support the diagnosis of PTSD and as to whether there is a link between the current symptomatology and one or more of the inservice stressors found to be established by the RO.
+
+round 3, index 51: 
+The claims folder must be made available to the examiners prior to the examination.
+
+round 4, index 63: 
+This remand is in the nature of a preliminary order and does not constitute a decision of the Board on the merits of your appeal.
+
+round 5, index 62: 
+Board of Veterans' Appeals is appealable to the United States Court of Veterans Appeals.
+
+round 6, index 61: 
+This proceeding has been assigned to an individual member of the Board.
+
+round 7, index 59: 
+The Board intimates no opinion, either factual or legal, as to the ultimate conclusion warranted in this case.
+
+round 8, index 47: 
+The examiners should integrate the previous psychiatric findings and diagnoses with current findings to obtain an accurate picture of the nature of the veteran's psychiatric status.
+
+round 9, index 46: 
+The examination report should reflect review of pertinent material in the claims folder.
+
+round 10, index 45: 
+The RO must specify for the examiners the stressor or stressors that it has determined are established by the record and the examiners must be instructed that only those events may be considered for the purpose of determining whether exposure to a stressor in service has resulted in current psychiatric symptoms and in determining whether the nature of the alleged event is of the quality required to produce PTSD.
+
+round 11, index 44: 
+If, and only if, the RO determines that the record establishes the existence of a stressor or stressors, then the RO should arrange for the veteran to be accorded an examination by a board of two VA psychiatrists, if available, who have not previously examined him to determine the diagnoses of all psychiatric disorders that are present.
+
+round 12, index 57: 
+The veteran need take no action until he is further informed.
+
+round 13, index 52: 
+The RO should then review the record and ensure that all the above actions have been completed.
+
+round 14, index 56: 
+Thereafter, subject to current appellate procedures, the case should be returned to the Board for further appellate consideration, if appropriate.
+
+round 15, index 60: 
+Member, Board of Veterans' AppealsThe Board of Veterans' Appeals Administrative Procedures Improvement Act, Pub. L. No. 103-271, § 6, 108 Stat. 740, 741 (1994), permits a proceeding instituted before the Board to be assigned to an individual member of the Board for a determination.
+
+round 16, index 12: 
+In the test report summary, the examiner noted that there was some question regarding the validity of the magnitude of his combat experience, and attributed it to conceptual difficulties and possible mild thought disturbance rather than an attempt to exaggerate symptoms.
+
+round 17, index 43: 
+In reaching this determination, the RO should address any credibility questions raised by the record.
+
+round 18, index 42: 
+If the RO determines that the record establishes the existence of a stressor or stressors, the RO must specify what stressor or stressors in service it has determined are established by the record.
+
+round 19, index 41: 
+In any event, the RO must specifically render a finding as to whether the appellant "engaged in combat with the enemy."
+
+round 20, index 58: 
+The purpose of this REMAND is to obtain additional information and to afford the veteran due process of law.
+
+round 21, index 32: 
+However, the records used to make that determination are not associated with the file.
+
+round 22, index 55: 
+The veteran and his representative should be afforded the applicable time to respond.
+
+round 23, index 25: 
+Likewise, if the examiners render a diagnosis of PTSD that is not clearly based upon stressors in service whose existence the adjudicators have accepted, the examination would be inadequate for rating purposes.
+
+round 24, index 54: 
+If the benefit sought is denied, a supplemental statement of the case should be issued which includes a summary of additional evidence submitted, any additional applicable laws and regulations, and the reasons for the decision.
+
+round 25, index 40: 
+In rendering this determination, the attention of the RO is directed to the cases of Zarycki and West and the discussion above.
+
+round 26, index 37: 
+All records obtained should then be associated with the claims folder.
+
+round 27, index 36: 
+Private medical records should be secured upon the proper release.
+
+round 28, index 53: 
+When the RO is satisfied that the record is complete and the psychiatric examination is adequate for rating purposes, the claim should be readjudicated.
+
+round 29, index 35: 
+The RO should also obtain from the SSA the records pertinent to the veterans claim for Social Security disability benefits or SSI as well as the medical records relied upon concerning that claim.
+
+round 30, index 33: 
+Therefore, the case is REMANDED for the following actions:
+
+round 31, index 28: 
+In his notice of disagreement, dated January 1995, the veteran provided a list of places and dates where he received psychiatric treatment since the 1970s.
+
+round 32, index 0: 
+The veteran served on active duty from September 1968 to August 1970.
+
+round 33, index 1: 
+This matter initially came to the Board of Veterans Appeals (Board) from a November 1994 decision of the Department of Veterans Affairs (VA) Regional Office (RO) in Winston-Salem, North Carolina, which denied service connection for a nervous condition, to include PTSD.
+
+round 34, index 39: 
+Following the above, the RO must make specific determinations as to whether the veteran engaged in combat and as to the occurrence of the claimed stressors.
+
+round 35, index 34: 
+The RO should obtain the medical records the veteran listed on his January 1995 notice of disagreement.
+
+round 36, index 23: 
+In such a referral, the adjudicators should specify to the examiner(s) precisely what stressors have been accepted as established by the record, and the medical examiners must be instructed that only those events may be considered in determining whether stressors to which the veteran was exposed during service were of sufficient severity as to have resulted in current psychiatric symptoms.
+
+round 37, index 27: 
+The Board notes that there is the need to secure additional medical records.
+
+round 38, index 29: 
+However, those records are not associated with the claims folder.
+
+round 39, index 38: 
+The RO should provide information regarding the veterans claimed stressors, including the wounding of Jerry Walton, Ronnie Church, and Jerry Archibald, and other combat experiences, as described in the hearing of September 1996, along with a copy of the veteran's DD Form 214, and any other relevant documentation, to the United States Army and Joint Services Environmental Support Group (ESG), 7798 Cissna Road, Springfield, Virginia 22150, for the purpose of verifying any of the stressors reported by the veteran.
+
+round 40, index 31: 
+The medical evidence also includes an assessment report used by an administrative law judge, to grant Social Security Administration (SSA) disability benefits in 1994.
+
+round 41, index 19: 
+In West, the Court held that the sufficiency of the stressor is a medical determination, and therefore adjudicators may not render a determination on this point in the absence of independent medical evidence.
+
+round 42, index 18: 
+In Zarycki, the Court held that in addition to demonstrating the existence of a stressor, the facts must also establish that the alleged stressful event was sufficient to give rise to PTSD.
+
+round 43, index 22: 
+If the adjudicators conclude that the record establishes the existence of such a stressor or stressors, then and only then, the case should be referred for a medical examination to determine the sufficiency of the stressor and whether the remaining elements required to support the diagnosis of PTSD have been met.
+
+round 44, index 21: 
+Upon reviewing Zarycki and West, it appears that in approaching a claim for service connection for PTSD, the question of the existence of an event claimed as a recognizable stressor must be resolved by adjudicatory personnel.
+
+round 45, index 13: 
+The Board notes that it does not appear that the claims folder was reviewed prior to the examination.
+
+round 46, index 20: 
+The Court also held in West that a psychiatric examination for the purpose of establishing the existence of PTSD was inadequate for rating purposes because the examiners relied, in part, on events whose existence the Board had rejected.
+
+round 47, index 7: 
+In March 1970, he was assigned to Radio & Cable Company, SigSptAgcy, Saigon.
+
+round 48, index 9: 
+At that time, testing was performed and diagnoses of PTSD and major depression were given.
+
+round 49, index 30: 
+The only medical evidence of record are the veterans VA treatment reports from March 1971 and a VA hospitalization report from March 1990.
+
+round 50, index 11: 
+However, the test findings were consistent with PTSD symptoms.
+
+round 51, index 10: 
+However, it is noted in the testing report that the veteran had difficulty being specific about his combat experiences.
+
+round 52, index 8: 
+A VA rating examination was conducted in November 1994.
+
+round 53, index 24: 
+In other words, if the adjudicators determine that the existence of an alleged stressor or stressors in service is not established by the record, a medical examination to determine whether PTSD due to service is present is pointless.
+
+round 54, index 6: 
+Service records also show that in August 1969, the veteran was assigned to Company B, 69/44th SigBn, and HHC (SigSpt) 69th SigBn.
+
+round 55, index 26: 
+It is the Board's judgment that there is the need for additional development which might confirm the existence of the veteran's combat experience, if any, or corroborate the veteran's description of stressor events during that service.
+
+round 56, index 3: 
+Additionally, service connection for PTSD requires medical evidence establishing a clear diagnosis of the condition, credible supporting evidence that the claimed inservice stressor actually occurred, and a link, established by the medical evidence, between current symptomatology and the claimed inservice stressor.
+
+round 57, index 2: 
+In adjudicating a claim for service connection for PTSD, the Board is required to evaluate the supporting evidence in light of the places, types, and circumstances of service, as evidenced by the veteran's military records, and all pertinent medical and lay evidence.
+
+round 58, index 5: 
+The Board notes that the veteran has contended that he received the Purple Heart.
+
+round 59, index 4: 
+Service personnel records indicate that the veteran served in Vietnam from August 1969 to July 1970, and received the usual medals associated with service in Vietnam.
+

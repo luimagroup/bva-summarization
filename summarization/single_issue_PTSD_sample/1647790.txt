@@ -1,0 +1,95 @@
+Citation Nr: 1647790	
+Decision Date: 12/22/16    Archive Date: 01/06/17
+
+DOCKET NO.  10-01 406	)	DATE
+	)
+	)
+
+On appeal from the
+Department of Veterans Affairs Regional Office in Chicago, Illinois
+
+
+THE ISSUE
+
+Entitlement to service connection for hypertension as secondary to service-connected posttraumatic stress disorder (PTSD) and herbicide exposure.  
+
+
+REPRESENTATION
+
+Appellant represented by:	Illinois Department of Veterans Affairs 
+
+
+WITNESS AT HEARING ON APPEAL
+
+The Veteran
+
+
+ATTORNEY FOR THE BOARD
+
+C. Biggins, Associate Counsel
+
+INTRODUCTION
+
+The Veteran served on active duty from July 1969 to November 1971.  
+
+This matter is before the Board of Veterans' Appeals (Board) on appeal from January 2009 and July 2009 rating decisions of the Chicago, Illinois, Department of Veterans Affairs (VA) Regional Office (RO).  
+
+The Veteran testified before the undersigned Veterans Law Judge at a November 2012 Board videoconference hearing, a transcript of this hearing is of record. 
+
+
+FINDING OF FACT
+
+The more probative medical opinion shows that the Veteran's hypertension is likely caused by his service-connected PTSD and is likely etiologically related to his active service to include his exposure to herbicides. 
+
+
+CONCLUSION OF LAW
+
+Service connection for hypertension is warranted.  38 U.S.C.A. §§ 1110, 5107 (West 2014); 38 C.F.R. §§ 3.102, 3.303, 3.304 (2016).
+
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSION
+
+I.  Legal Criteria 
+
+Establishing service connection generally requires medical or, in certain circumstances, lay evidence of (1) a current disability; (2) an in-service incurrence or aggravation of a disease or injury; and (3) a nexus between the claimed in-service disease or injury and the present disability.  See Davidson v. Shinseki, 581 F.3d 1313 (Fed. Cir. 2009); Hickson v. West, 12 Vet. App. 247 (1999).  The determination as to whether these requirements are met is based on an analysis of all the evidence of record and an evaluation of its credibility and probative value.  Baldwin v. West, 13 Vet. App. 1 (1999); 38 C.F.R. § 3.303(a).
+
+In making all determinations, the Board must fully consider the lay assertions of record.  A layperson is competent to report on the onset and continuity of his current symptomatology.  Lay evidence can also be competent and sufficient evidence of a diagnosis or to establish etiology if: (1) the layperson is competent to identify the medical condition, (2) the layperson is reporting a contemporaneous medical diagnosis, or (3) lay testimony describing symptoms at the time supports a later diagnosis by a medical professional.
+
+II.  Analysis 
+
+The Veteran is seeking service connection for hypertension, which he has claimed is either etiologically related to his in-service herbicide exposure or his service-connected PTSD.  As a preliminary matter the Board notes that herbicide exposure has been conceded due to the Veteran's service in country service in Vietnam between 1969 and 1971.     
+
+A May 2009 VA opinion was obtained which concluded that it was less likely than not that the Veteran's hypertension was caused by his PTSD because "There is no established well documented [e]tiolgoical relation between PTSD and benign essential hypertension." The VA opinion provider noted the Veteran's service treatment records (STRs) did not contain evidence of liable hypertension which is associated with episodes of stress.
+
+The Veteran submitted a November 2011 opinion from his private physician which indicated that his hypertension was associated with his PTSD.  The Veteran also submitted several articles which noted a link between hypertension and PTSD.  See, Stress on Your Body, 2009,  Hypertension in relation to [PTSD] and depression in National Comorbidity Survey Abstract, 2009, [PTSD] and Cardiovascular Disease,  2011, Ask The Mayo Clinic: PTSD, high blood pressure and heart disease can be related, 2008.  
+
+A VA treatment provider provided a September 2012 letter noting that the Veteran was diagnosed with hypertension in April 2004 and that it was more likely than not that his hypertension was related to his PTSD.
+
+Following a February 2013 Board remand, the Veteran was provided with a February 2013 VA examination in connection with his claim for service connection for hypertension.  The examiner concluded the Veteran's hypertension was not etiologically related to his active service because he did not have hypertension in service.  The examiner also concluded that the Veteran's hypertension was not caused by his service-connected PTSD because his PTSD was stable and not serious enough to cause hyper adrenergic state. 
+
+In July 2016 the Board requested a medical opinion to address whether the Veteran's current hypertension was etiologically related to his active service, to include his exposure to herbicides, or his service-connected PTSD.  A November 2016 opinion was provided.  The opinion provider concluded that the Veteran's hypertension was etiologically related to his active service, to include herbicide exposure.  The opinion provider explained that a 2014 report from the Institute of Medicine regarding Veterans and Agent Orange found that there is limited and suggestive evidence that hypertension might be linked to herbicide exposure.  The examiner also commented on the biological mechanism for effect on vasculature.  It was the examiner's conclusion that the Veteran's "hypertension is at least as likely as not secondary to his Agent Orange exposure."  
+
+The opinion provider also concluded that the Veteran's hypertension was caused by his service-connected PTSD.  The opinion provider noted that the Veteran's PTSD symptoms were noted as severe as evidenced by his marital strain, work conflicts, and social isolation.  The opinion provider found that the Veteran's PTSD was so severe that it caused a state of chronic stress.  The opinion provider listed several studies which noted PTSD had an impact on cardiovascular disease to include hypertension.  The opinion provider found the May 2009 VA negative nexus opinion inadequate as since that time the studies the opinion provider previously mentioned found a link between PTSD and hypertension.  As such, the opinion provider concluded "based on the demonstrated correlation between PTSD and hypertension and on the severity of the [Veteran's] PTSD symptoms, the [Veteran's] hypertension is at least as likely as not secondary to his service connected PTSD."  The opinion provider found that the Veteran's service-connected PTSD did not aggravate the Veteran's hypertension because the Veteran's hypertension did not worsen significantly over time.  
+
+The Board finds the November 2016 medical opinion highly probative evidence which weighs in favor of the Veteran's claim.  The opinion provider provided a thorough rationale for her conclusion which included a review of the evidence in the Veteran's claims file and supporting scientific research.  
+
+The Board finds the May 2009 VA opinion inadequate as the opinion provider based her conclusion on the absence of a documented etiological relation between PTSD and hypertension, however, as noted above, the Veteran has provided several articles outlining the possibility of an etiological link between PTSD and hypertension, and the November 2016 opinion provider noted an etiological link between PTSD and hypertension.  Additionally, the Board finds the February 2013 VA examination inadequate as the examiner seemingly based their conclusion on the finding that the Veteran's service-connected PTSD was not severe.  However, the Board notes that the Veteran was provided with an evaluation of 100 percent for his service-connected PTSD effective February 2013.  This evaluation indicates the Veteran's PTSD was so severe that it caused total occupational and social impairment, near continuous depression, disturbances of motivation and mood, and chronic sleep impairment, along with other severe symptoms.  As such, the Board finds the February 2013 VA examiner's opinion inadequate as it did not provide an adequate evaluation of the Veteran's PTSD symptoms.  
+
+Thus, the Board finds the November 2016 positive nexus opinion outweighs the May 2009 and February 2013 negative nexus opinions.  Therefore, when weighing the probative evidence of record, the Board finds that there is a nexus between the Veteran's hypertension and his in-service herbicide exposure as well as his service-connected PTSD.  In this case, there is evidence of a current disability and a probative positive nexus opinion which notes the Veteran's hypertension is etiologically related to his in-service herbicide exposure and service-connected PTSD.  Accordingly, the Board finds that service connection for hypertension is warranted.  
+
+
+ORDER
+
+Entitlement to service connection for hypertension is granted.  
+
+
+
+____________________________________________
+M.E. LARKIN
+Veterans Law Judge, Board of Veterans' Appeals
+
+
+
+Department of Veterans Affairs
+
+

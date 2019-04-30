@@ -1,0 +1,180 @@
+round 0, index 48: 
+This REMAND must be afforded expeditious treatment.
+
+round 1, index 49: 
+The law requires that all claims that are remanded by the Board or the Court for additional development or other appropriate action must be handled in an expeditious manner.
+
+round 2, index 47: 
+The Veteran need take no action until he is otherwise notified, but he may furnish additional evidence and/or argument during the appropriate time frame.
+
+round 3, index 46: 
+By this remand, the Board intimates no opinion as to any final outcome warranted.
+
+round 4, index 50: 
+Veterans Law Judge, Board of Veterans' AppealsUnder 38 U.S.C.A. § 7252 (West 2014), only a decision of the Board of Veterans' Appeals is appealable to the United States Court of Appeals for Veterans Claims.
+
+round 5, index 51: 
+This remand is in the nature of a preliminary order and does not constitute a decision of the Board on the merits of your appeal.
+
+round 6, index 44: 
+If the benefit sought on appeal is not granted to the Veteran's satisfaction, the Veteran and his representative should be furnished an appropriate supplemental statement of the case and be afforded the requisite opportunity to respond.
+
+round 7, index 43: 
+Then, the RO or the AMC should readjudicate the issue on appeal.
+
+round 8, index 42: 
+The RO or the AMC should also undertake any other development it determines to be warranted.
+
+round 9, index 41: 
+If JSRRC is unable to provide information of the type requested, the RO or the AMC must request JSRRC to identify any alternate agency or department that may provide verification of the alleged incidents.
+
+round 10, index 40: 
+The RO or the AMC must attach copies of the Veteran's DD Form 214, his service personnel records, as well as all of his statements related to his stressors, not simply paraphrased descriptions.
+
+round 11, index 39: 
+The RO or the AMC must send an additional request to JSRRC in order for an attempt to be made to verify the following in-service stressors claimed by the Veteran:a) exposure to hostile fire from "slicky boys," or thieves, while assigned to patrol Kunsan AB in Korea as an air policeman with the 6175th Support Squadron from August 24, 1959, to February 4, 1960;b) witnessing the aftermath of the hanging of Korean civilians by a local gang when he was assigned to secure the crime scene, at some time from August 4, 1959, to February 4, 1960.
+
+round 12, index 26: 
+The Board notes that a remand by the Court or the Board confers on the Veteran, as a matter of law, a right to compliance with the remand instructions and imposes upon VA a concomitant duty to ensure compliance with the terms of the remand.
+
+round 13, index 38: 
+Accordingly, this case is REMANDED to the RO or the Appeals Management Center (AMC), in Washington, D.C., for the following actions:
+
+round 14, index 10: 
+The Veteran claims that his currently diagnosed PTSD is related to incidents which occurred during his service as an air policeman in Korea from August 4, 1959, to February 5, 1960.
+
+round 15, index 11: 
+Specifically, the Veteran asserted, first, that he was exposed to hostile fire while on patrol.
+
+round 16, index 23: 
+The history documents the mission of the 6167th SS was to operate and maintain Kimpo Air Base (AB), Korea, and to provide air base support of units assigned or attached to the 6167th SS at Kimpo AB.
+
+round 17, index 22: 
+The AOJ then sent an additional verification request to JSRRC in May 2015 and received a response stating: "[w]e researched the July to December 1959 history submitted by the 6314th Air Base Wing (6314th ABW), the higher headquarters of the 6167th Support Squadron (6167th SS).
+
+round 18, index 37: 
+(VA medical records are in constructive possession of the agency, and must be obtained if the material could be determinative of the claim).
+
+round 19, index 36: 
+On remand, relevant ongoing medical records should be obtained.
+
+round 20, index 24: 
+Unfortunately, the history does not document that the unit came under hostile fire.
+
+round 21, index 31: 
+As such, an attempt to verify both stressors must be requested on remand.
+
+round 22, index 45: 
+Thereafter, the case should be returned to the Board for further appellate action.
+
+round 23, index 9: 
+Although further delay is regrettable, the Board finds that additional development is required before the Veteran's claim is decided.
+
+round 24, index 25: 
+Therefore, we are unable to document that [the Veteran] was exposed to hostile fire while patrolling the North and South Korean borders."
+
+round 25, index 35: 
+As such, the location where the claimed hostile fire took place must be made clear to JSRRC in the verification request made pursuant to this remand.
+
+round 26, index 8: 
+This appeal has been advanced on the Board's docket pursuant to 38 C.F.R. § 20.900(c) (2015).
+
+round 27, index 34: 
+The record shows, however, that the Veteran later clarified that the "border" referred to was the perimeter of Kunsan AB, which he was assigned to patrol.
+
+round 28, index 2: 
+The Board most recently denied the Veteran's claim in April 2012, and he appealed the decision to the United
+
+round 29, index 1: 
+This matter comes before the Board of Veterans' Appeals (Board) on appeal of an October 2000 rating decision by the Department of Veterans Affairs (VA) Regional Office (RO) in New York, New York.
+
+round 30, index 0: 
+The Veteran served on active duty from February 1957 to February 1960.
+
+round 31, index 3: 
+States Court of Appeals for Veterans Claims (Court).
+
+round 32, index 21: 
+The AOJ subsequently received the Veteran's service personnel records, which showed that he served as an air policeman in the 6167th Support Squadron at Kimpo AB in Korea from August 4, 1959, to August 20, 1959, and with the 6175th Support Squadron at Kunsan AB from August 24, 1959, to February 4, 1960.
+
+round 33, index 4: 
+In June 2013, the Court granted a joint motion for remand and returned the case to the Board for action consistent with the joint motion.
+
+round 34, index 7: 
+The record before the Board consists of electronic records within Virtual VA and the Veterans Benefits Management System.
+
+round 35, index 27: 
+In this regard, the Board notes that like JSRRC's response obtained prior to the Court's remand, the latest response is confined to the period of July 1959 to December 1959, and does not address the Veteran's period of service in January and February 1960.
+
+round 36, index 15: 
+In pertinent part, the parties' motion first notes that VA had sent a request to the U.S. Army and Joint Services Records Research Center (JSRRC) seeking to verify the Veteran's claimed in-service stressors.
+
+round 37, index 16: 
+JSRRC responded stating that it had researched the period "July through December 1959" and had not found documentation of the stressors.
+
+round 38, index 17: 
+The parties then noted that JSRRC had not stated whether records from the remaining portion of the Veteran's period of service, from January 1960 to February 1960, were available or had been reviewed, and no follow-up request to JSRRC was made.
+
+round 39, index 20: 
+Specifically, in pertinent part, the Board instructed the agency of original jurisdiction (AOJ) to send copies of the Veteran's DD Form 214, service personnel records, and any stressor statements submitted by the Veteran to JSRRC in order for an attempt to be made to verify the Veteran's alleged in-service stressor of "having been exposed to hostile fire on the border between North and South Korea" during his period of service, specifically from January 1960 through February 1960.
+
+round 40, index 29: 
+Because the absence of a response from JSRRC accounting for the entirety of the Veteran's service was the reason for the Court's remand, and because no such response has been obtained, the Board finds that an additional remand is required.
+
+round 41, index 13: 
+In addition, the Veteran has attributed his PTSD to having witnessed the aftermath of the hanging of Korean civilians (including a young girl with whom he had a close relationship) by a local gang when he was assigned to secure the crime scene.
+
+round 42, index 5: 
+Specifically, the parties to the joint motion agreed that the Board erred when it determined that VA had adequately assisted the Veteran in obtaining information to verify his claimed in-service stressors.
+
+round 43, index 6: 
+Accordingly, in May 2014 the Board remanded the Veteran's claim to the originating agency for additional development.
+
+round 44, index 33: 
+It appears that the AOJ initially interpreted the aforementioned VA physician's reference to "the border" to be a claim that the hostile fire took place on the DMZ.
+
+round 45, index 14: 
+As noted above, in June 2013, the Court granted the parties' joint motion for remand, and remanded the Veteran's claim for action consistent with the joint motion.
+
+round 46, index 19: 
+Accordingly, in May 2014 the Board remanded the Veteran's claim for the required development.
+
+round 47, index 12: 
+The Board notes that while a VA physician stated in a September 1999 letter that the Veteran was exposed to hostile fire while patrolling "the border," the Veteran clarified in April 2002 and March 2007 statements that he had never been sent to the Korean Demilitarized Zone (DMZ), but instead was exposed to hostile fire while patrolling the perimeter of Kunsan Air Force Base
+
+round 48, index 32: 
+In addition, the Board notes that there has been some confusion regarding where the Veteran claimed to have been exposed to hostile fire during service.
+
+round 49, index 30: 
+The Board also notes that JSRRC's response addressed only the Veteran's alleged stressor of having undergone hostile fire, and not his claim of having witnessed the aftermath of the hanging of Korean civilians.
+
+round 50, index 0: 
+The Veteran served on active duty from February 1957 to February 1960.
+
+round 51, index 28: 
+Importantly, the omitted time period forms a portion of the Veteran's service at Kunsan AB, where his claimed exposure to hostile fire took place.
+
+round 52, index 18: 
+As such, the parties agreed that a remand was warranted in order for VA to make an additional request to JSRRC to account for the months of January 1960 and February 1960.
+
+round 53, index 0: 
+The Veteran served on active duty from February 1957 to February 1960.
+
+round 54, index 0: 
+The Veteran served on active duty from February 1957 to February 1960.
+
+round 55, index 0: 
+The Veteran served on active duty from February 1957 to February 1960.
+
+round 56, index 0: 
+The Veteran served on active duty from February 1957 to February 1960.
+
+round 57, index 0: 
+The Veteran served on active duty from February 1957 to February 1960.
+
+round 58, index 0: 
+The Veteran served on active duty from February 1957 to February 1960.
+
+round 59, index 0: 
+The Veteran served on active duty from February 1957 to February 1960.
+

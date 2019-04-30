@@ -1,0 +1,180 @@
+round 0, index 124: 
+Service connection for PTSD is denied.
+
+round 1, index 9: 
+PTSD was not incurred in or aggravated by active military service.
+
+round 2, index 123: 
+This claim must, therefore, be denied.
+
+round 3, index 104: 
+There is no convincing, credible evidence of record that an in-service stressor incident took place.
+
+round 4, index 10: 
+REASONS AND BASES FOR FINDING AND CONCLUSIONDuties to Notify and AssistIn a correspondence dated in March 2003 and August 2006, the agency of original jurisdiction (AOJ) satisfied its duty to notify the Veteran under 38 U.S.C.A. § 5103(a) (West 2002) and 38 C.F.R. § 3.159(b) (2008).
+
+round 5, index 11: 
+Specifically, in the March 2003 notice, the AOJ notified the Veteran of information and evidence necessary to substantiate his claim for service connection for PTSD.
+
+round 6, index 12: 
+He was notified of the information and evidence that VA would seek to provide and the information and evidence that he was expected to provide.
+
+round 7, index 13: 
+In the August  2006 notice, the RO informed the Veteran of the process by which disability ratings and effective dates are assigned.
+
+round 8, index 14: 
+Although the August 2006 notice was delivered after the rating decision, the AOJ subsequently readjudicated the claims based on all the evidence in the February 2009 supplemental statement of the case (SSOC).
+
+round 9, index 15: 
+(the issuance of a fully compliant notification letter followed by readjudication of the claim, such as an SOC or SSOC, is sufficient to cure a timing defect).
+
+round 10, index 16: 
+Thus, the Veteran was not precluded from participating effectively in the processing of his claims and the late notice did not affect the essential fairness of the decision.
+
+round 11, index 46: 
+Persistent symptoms of increased arousal (not present before the trauma), as indicated by two (or more) of the following:(1) difficulty falling or staying asleep; (2) irritability or outbursts of anger; (3) difficulty concentrating; (4) hypervigilance; or (5) exaggerated startle response.
+
+round 12, index 23: 
+VA has done everything reasonably possible to assist the
+
+round 13, index 17: 
+In February 2006, the Board remanded the claim to the Appeals Management Center (AMC) to obtain additional evidence.
+
+round 14, index 122: 
+Board finds that the preponderance of the evidence is against the issue of entitlement to service connection for PTSD.
+
+round 15, index 47: 
+E.
+
+round 16, index 125: 
+Veterans Law Judge, Board of Veterans' Appeals Department of Veterans Affairs
+
+round 17, index 18: 
+The Veteran testified to incidents aboard the U.S.S. Hector and U.S.S. Ajax.
+
+round 18, index 19: 
+The AMC contacted the National Archives and Records Administration (NARA) to obtain copies of the deck logs for each vessel.
+
+round 19, index 21: 
+The Board is satisfied that reasonable efforts have been made to obtain the requested records.
+
+round 20, index 22: 
+Therefore, no further attempts are necessary to obtain evidence in this case.
+
+round 21, index 30: 
+Service connection may also be granted for any disease diagnosed after discharge when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.
+
+round 22, index 121: 
+The record here does not contain evidence that demonstrates that the Veteran has PTSD.
+
+round 23, index 106: 
+However, the Veteran does not claim that his PTSD is combat-related.
+
+round 24, index 24: 
+Veteran with respect to his claim for benefits in accordance with 38 U.S.C.A. § 5103A (West 2002) and 38 C.F.R. § 3.159(c) (2008).
+
+round 25, index 52: 
+If the evidence establishes that the Veteran was engaged in combat with the enemy or was a prisoner of war (POW), and the claimed stressor is related to combat or POW experiences (in the absence of clear and convincing evidence to the contrary, and provided that the claimed stressor is consistent with the circumstances, conditions, or hardships of the Veteran's service), the Veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor.
+
+round 26, index 55: 
+Such corroborating evidence cannot consist solely of after-
+
+round 27, index 25: 
+Service treatment records have been associated with the claims file.
+
+round 28, index 7: 
+As the outcome remained unfavorable for the Veteran, this case has returned to the Board for appellate review.
+
+round 29, index 120: 
+In sum, there can be no valid claim in the absence of proof of a present disability.
+
+round 30, index 45: 
+D.
+
+round 31, index 0: 
+The Veteran served on active duty from May 1967 to February 1971.
+
+round 32, index 1: 
+This matter comes before the Board of Veterans Appeals (Board) on appeal from a June 2003 rating decision by the Los Angeles, California, Regional Office (RO) of the Department of Veterans Affairs (VA), which denied entitlement to service connection for PTSD.
+
+round 33, index 108: 
+There is no evidence of a mental status interview conducted in 2002 where the diagnostic status for Axis I through V was provided by the psychiatrist.
+
+round 34, index 48: 
+Duration of the disturbance (symptoms in Criteria B, C, and D) is more than 1 month.
+
+round 35, index 2: 
+A hearing on this matter was held before the undersigned
+
+round 36, index 3: 
+Veterans Law Judge sitting at the RO on February 7, 2006.
+
+round 37, index 49: 
+F.
+
+round 38, index 29: 
+Service connection may be granted for disability resulting from disease or injury incurred in or aggravated by active military duty.
+
+round 39, index 31: 
+VA regulations reflect that symptoms attributable to PTSD are often not manifested in service.
+
+round 40, index 6: 
+The case was subsequently readjudicated in February 2009.
+
+round 41, index 57: 
+The issue of whether any particular set of circumstances constitutes engagement in combat with the enemy for purposes of section 1154(b) must be resolved on a case-by-case basis.
+
+round 42, index 37: 
+B.
+
+round 43, index 5: 
+In July 2006, this issue of entitlement to service connection for PTSD was remanded to the RO for further development.
+
+round 44, index 40: 
+recurrent and intrusive distressing recollections of the event, including images, thoughts, or perceptions; (2) recurrent distressing dreams of the event;
+
+round 45, index 39: 
+(1)
+
+round 46, index 36: 
+the person experienced, witnessed, or was confronted with an event or events that involved actual or threatened death or serious injury, or a threat to the physical integrity of self or others; and (2) the person's response involved intense fear, helplessness, or horror.
+
+round 47, index 34: 
+The person has been exposed to a traumatic event in which both of the following were present:
+
+round 48, index 56: 
+The ordinary meaning of the phrase "engaged in combat with the enemy," as used in 38 U.S.C. § 1154(b) (2008), requires that a Veteran have participated in events constituting an actual fight or encounter with a military foe or hostile unit or instrumentality.
+
+round 49, index 43: 
+C.
+
+round 50, index 41: 
+(3)
+
+round 51, index 35: 
+(1)
+
+round 52, index 38: 
+The traumatic event is persistently experienced in one (or more) of the following ways:
+
+round 53, index 73: 
+The diagnosis was major depressive disorder.
+
+round 54, index 42: 
+acting or feeling as if the traumatic event were recurring (includes a sense of reliving the experience, illusions, hallucinations, and dissociate flashback episodes, including those that occur on awakening or when intoxicated); (4) intense psychological distress at exposure to internal or external cues that symbolize or resemble an aspect of the traumatic event; or (5) physiological reactivity on exposure to internal or external cues that symbolize or resemble an aspect of the traumatic event.
+
+round 55, index 32: 
+Accordingly, service connection for PTSD requires:  (1) a current diagnosis of PTSD; (2) credible supporting evidence that the claimed in-service stressor actually occurred; and (3) medical evidence of a causal nexus between the current symptomatology and the claimed in-service stressor.
+
+round 56, index 107: 
+Reference was not made to specific criteria of DSM-IV and the medical report is not as thorough as the latter VA examination report.
+
+round 57, index 50: 
+The disturbance causes clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+
+round 58, index 71: 
+He also said he felt like he had no hope and as if he lost everything.
+
+round 59, index 28: 
+Service Connection for PTSDThe Veteran seeks service connection for PTSD.
+

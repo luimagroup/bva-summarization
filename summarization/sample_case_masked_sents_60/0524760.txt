@@ -1,0 +1,180 @@
+round 0, index 182: 
+Service connection for PTSD is denied.
+
+round 1, index 6: 
+PTSD was not incurred in or by military service.
+
+round 2, index 5: 
+The medical evidence does not establish that the veteran manifests a diagnosis of PTSD.
+
+round 3, index 176: 
+As a layperson, without appropriate medical training and expertise, the veteran simply is not competent to offer a probative opinion on a medical matter, such as whether he manifests PTSD that may be etiologically linked to service.
+
+round 4, index 177: 
+Consequently, his statements are competent with regard to his subjective complaints and his history, but they do not constitute competent medical evidence for the purpose of establishing current disability, or of showing a causal connection between current complaints and service.
+
+round 5, index 175: 
+Where, as here, the claim turns on a medical matter, the veteran cannot establish entitlement to service connection on the basis of his assertions, alone.
+
+round 6, index 174: 
+Accordingly, the Board regretfully finds that the medical evidence cannot establish that the veteran manifests PTSD that is the result of his active service.
+
+round 7, index 4: 
+The VA has properly developed and obtained all relevant evidence needed for an equitable disposition of, and has adequately notified the veteran of the evidence necessary to substantiate, the claim addressed in this decision.
+
+round 8, index 60: 
+Organic, recent, and remote memory, as well as concentration and attention span were found to be good.
+
+round 9, index 11: 
+that VA will seek to provide; (3) that the claimant is expected to provide; and (4) must ask the claimant to provide any evidence in her or his possession that pertains to the claim in accordance with 38 C.F.R. § 3.159(b)(1).  VCAA notice should be provided to a claimant before the initial unfavorable agency of original jurisdiction (AOJ) decision on a claim.
+
+round 10, index 10: 
+(2)
+
+round 11, index 59: 
+No hallucinations or delusions were observed, and the examiner found no evidence of psychotic phenomenon.
+
+round 12, index 12: 
+that a VCAA notice, as required by 38 U.S.C.A. § 5103(a), must be provided to a claimant before the initial unfavorable agency of original jurisdiction (AOJ) decision on a claim for VA benefits.
+
+round 13, index 9: 
+Proper VCAA notice must inform the claimant of any information and evidence not of record (1) that is necessary to substantiate the claim;
+
+round 14, index 13: 
+In the present case, the unfavorable AOJ decision that is the basis of this appeal was already decided and appealed prior to VCAA enactment, in February 1993.
+
+round 15, index 58: 
+The report shows objective observations of an articulate, mildly to moderately anxious individual, at times overly loquacious, but overly serious as well.
+
+round 16, index 7: 
+The Veterans Claims Assistance Act of 2000 (VCAA) describes VA's duty to notify and assist claimants in substantiating a claim for VA benefits.
+
+round 17, index 14: 
+The Court acknowledged in Pelegrini that where, as here, the § 5103(a) notice was not mandated at the time of the initial AOJ decision, the AOJ did not err in not providing such notice.
+
+round 18, index 178: 
+With regret, the Board finds that absent medical evidence supporting a current diagnosis of PTSD, the Board is not able to find that the veteran manifests PTSD that is the result of his active service.
+
+round 19, index 179: 
+Hence, as the medical evidence does not reflect that the veteran currently manifests PTSD, the preponderance of the evidence is against finding that the veteran manifests PTSD that may be etiologically related to his active service.
+
+round 20, index 173: 
+The medical evidence presents no other findings, opinions, or other expert medical evidence establishing that the veteran manifests PTSD that may be attributed to his experiences during active service in Vietnam.
+
+round 21, index 8: 
+Upon receipt of a complete or substantially complete application for benefits, VA is required to notify the claimant and his or her representative, if any, of any information, and any medical or lay evidence, that is necessary to substantiate the claim.
+
+round 22, index 180: 
+After review of the record, and for the reasons and bases expressed above, the Board concludes that the preponderance of the evidence is against the veteran's claim for entitlement to service connection for PTSD.
+
+round 23, index 181: 
+The benefits sought on appeal is accordingly denied.
+
+round 24, index 62: 
+The veteran reported symptoms of periodic insomnia, risk taking, lack of emotional involvement in close relationships, lack of emotion in general, various obsessions-particularly with regard to Vietnam.
+
+round 25, index 15: 
+Rather, the appellant has the right to content complying notice and proper subsequent VA process.
+
+round 26, index 102: 
+He reports an exaggerated startle response and numerous episodes of rage.
+
+round 27, index 61: 
+Insight was found to be fair, judgment, intact.
+
+round 28, index 41: 
+Moreover, the veteran was advised of the failure to locate the records at VAMC New York, New York, and he did not offer augmenting information or respond that the records did, in fact exist.
+
+round 29, index 147: 
+Vietnam experiences, and that he does not seem to avoid thoughts or activities associated with any real trauma.
+
+round 30, index 45: 
+Here, the Board finds that any defect with respect to the timing of the VCAA notice requirement was harmless error.
+
+round 31, index 103: 
+...
+
+round 32, index 3: 
+The case is now again before the Board for appellate consideration.
+
+round 33, index 0: 
+The veteran served on active duty from January 1964 to January 1966.
+
+round 34, index 1: 
+This appeal arises before the Board of Veterans' Appeals (Board) from a rating decision rendered in February 1993 by the Department of Veterans Affairs (VA) Regional Office (RO) in New York, New York.
+
+round 35, index 28: 
+The RO asked the veteran to submit these records.
+
+round 36, index 16: 
+However, in November 2002, the RO issued a supplemental statement of the case (SSOC) in which it reconsidered the veteran's claim under the VCAA.
+
+round 37, index 47: 
+The content of the notice provided to the appellant fully complied with the requirements of 38 U.S.C.A. § 5103(a) and 38 C.F.R. § 3.159(b) regarding VA's duty to notify-other than that which was discussed above.
+
+round 38, index 46: 
+Although the notice was provided to the appellant after the initial adjudication, the appellant has not been prejudiced thereby.
+
+round 39, index 44: 
+Furthermore, under these circumstances, the Board is satisfied that the appellant has been adequately informed of the need to submit relevant evidence in his possession.
+
+round 40, index 57: 
+The medical evidence of record shows that the veteran underwent VA examination in August 1988, at which time he was evaluated for a psychiatric condition.
+
+round 41, index 101: 
+This has been the cause of the end of at least one marriage and two other relationships.
+
+round 42, index 34: 
+Neither of these actions was completed.
+
+round 43, index 140: 
+The resultant VA examination, dated in April 2005, is of record.
+
+round 44, index 171: 
+Mr.
+
+round 45, index 124: 
+The examiner objectively observed the veteran to talk very easily and to be quite composed.
+
+round 46, index 50: 
+For these reasons, it is not prejudicial to the appellant for the Board to proceed to finally decide this appeal.
+
+round 47, index 81: 
+He began to talk about Vietnam.
+
+round 48, index 49: 
+Further, the Board finds that the purpose behind the notice requirement has been satisfied because the appellant has been afforded a meaningful opportunity to participate effectively in the processing of her or his claim.
+
+round 49, index 82: 
+He quit his job in sales and took a job with a factory on the night shift.
+
+round 50, index 48: 
+Hence, not only has the appellant been provided with every opportunity to submit evidence and argument in support of his claim and to respond to VA notices, but the actions taken by VA have essentially cured the error in the timing of notice.
+
+round 51, index 51: 
+Service connection may be established for disability resulting from personal injury or disease incurred in or aggravated by service.
+
+round 52, index 125: 
+The examiner found no sign of anxiety or of the veteran being upset.
+
+round 53, index 132: 
+All in all, I do not see this patient as being particularly disturbed and certainly I see no basis for diagnosing him as having post-traumatic stress disorder.
+
+round 54, index 146: 
+He stated he experienced no distressing dreams or flashbacks of his
+
+round 55, index 167: 
+Mr.
+
+round 56, index 172: 
+Sewell's opinion cannot, therefore, carry the probative weight as the opinions of the March 1998 and April 2005 VA examining psychologists.
+
+round 57, index 23: 
+Nevertheless, as a practical matter the Board finds that he has been notified of the need to provide such evidence, for the following reasons.
+
+round 58, index 83: 
+He became more remote from family.
+
+round 59, index 136: 
+Moreover, the record presents evidence of observation of some symptoms and a diagnosis of PTSD by the social worker, as well as by the August 1988 VA examination report, albeit the examiner then qualified his diagnosis by describing the PTSD exhibited by the veteran as atypical and emerging.
+

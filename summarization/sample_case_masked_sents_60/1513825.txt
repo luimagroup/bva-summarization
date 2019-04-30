@@ -1,0 +1,180 @@
+round 0, index 39: 
+This claim must be afforded expeditious treatment.
+
+round 1, index 38: 
+The appellant has the right to submit additional evidence and argument on the matter or matters the Board has remanded.
+
+round 2, index 37: 
+If any benefit sought is not granted, the Veteran and his representative should be furnished with a supplemental statement of the case and afforded an opportunity to respond before the record is returned to the Board for further review.
+
+round 3, index 40: 
+The law requires that all claims that are remanded by the Board of Veterans' Appeals or by the United States Court of Appeals for Veterans Claims for additional development or other appropriate action must be handled in an expeditious manner.
+
+round 4, index 41: 
+Veterans Law Judge, Board of Veterans' AppealsUnder 38 U.S.C.A. § 7252 (West 2014), only a decision of the Board of Veterans' Appeals is appealable to the United States Court of Appeals for Veterans Claims.
+
+round 5, index 42: 
+This remand is in the nature of a preliminary order and does not constitute a decision of the Board on the merits of your appeal.
+
+round 6, index 36: 
+After undertaking any other development deemed appropriate, the RO will re-adjudicate the issues on appeal.
+
+round 7, index 21: 
+Accordingly, the case is REMANDED for the following action:
+
+round 8, index 22: 
+Ask the Veteran to submit a copy of the hospital note discussing internal bleeding from forced intercourse referenced in the February 2012 examination report.
+
+round 9, index 23: 
+If the Veteran is unable to locate the hospital note referenced in the February 2012 examination report, ask her to identify the facility that generated the note and the approximate date of treatment.
+
+round 10, index 13: 
+The appeal is REMANDED to the Agency of Original Jurisdiction (AOJ).  VA will notify the appellant if further action is required.
+
+round 11, index 26: 
+The claims file, and a copy of this Remand must be made available to and be reviewed by the examiner in conjunction with the examination.
+
+round 12, index 24: 
+Thereafter, with any required assistance from the Veteran, please make appropriate efforts to obtain a copy of the note.
+
+round 13, index 20: 
+This note may have an impact on this appeal and the Veteran should be afforded another opportunity to submit the note.
+
+round 14, index 16: 
+The Veteran was afforded a February 2012 VA examination to diagnose and determine the etiology of any diagnosed mental disability.
+
+round 15, index 17: 
+During the examination, the Veteran reported that she had a hospital note documenting internal bleeding from forced intercourse.
+
+round 16, index 35: 
+If the examiner is unable to offer the requested opinion, it is essential that the examiner offer a rationale for the conclusion that an opinion could not be provided without resort to speculation, together with a statement as to whether there is additional evidence that could enable an opinion to be provided, or whether the inability to provide the opinion is based on the limits of medical knowledge.
+
+round 17, index 19: 
+While the examiner advised the Veteran to submit this note to the AOJ, it does not appear that she has done so.
+
+round 18, index 14: 
+Unfortunately, a remand is required in this case.
+
+round 19, index 34: 
+The examiner must provide a rationale for the opinion provided and reconcile any opinion with any contradictory evidence of record.
+
+round 20, index 32: 
+For any psychiatric disability or disabilities diagnosed, the examiner should opine whether it is at least as likely as not (i.e., a 50 percent or greater probability) that the current disability was in whole or part the result of the claimed in-service personal assault or is otherwise attributable to service.
+
+round 21, index 25: 
+If the note referenced in the February 2012 examination report is located, schedule the Veteran for an examination to determine the nature and etiology of any current acquired psychiatric disability.
+
+round 22, index 33: 
+Opinions should be provided based on the results of examination, a review of the medical evidence of record, and sound medical principles.
+
+round 23, index 28: 
+a) Based on examination findings, historical records, and medical principles, the examiner must give a medical opinion, with full rationale, as to whether the Veteran currently has a diagnosis of PTSD, or any other psychiatric disability. b)
+
+round 24, index 31: 
+c)
+
+round 25, index 27: 
+The examination report must indicate that the claims file was reviewed in conjunction with the examination.
+
+round 26, index 15: 
+Although the Board regrets the additional delay, it is necessary to ensure that there is a complete record upon which to decide the Veteran's claim.
+
+round 27, index 29: 
+If a diagnosis of PTSD is deemed appropriate, the examiner should opine whether it is at least as likely as not (i.e., a 50 percent probability or greater) that any in-service stressful experience described by the Veteran occurred (personal or sexual assault).
+
+round 28, index 18: 
+A copy of this treatment note does not appear to be associated with the claims folder.
+
+round 29, index 10: 
+Therefore, VA must consider whether the appellant's psychiatric symptoms regardless of the label attached to them warrant service connection.
+
+round 30, index 0: 
+The Veteran served on active duty in the United States Army from February 20, 1986, to March 26, 1986.
+
+round 31, index 1: 
+This matter comes before the Board of Veterans' Appeals (the Board) on appeal from an August 2007 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO) in Des Moines, Iowa, which denied the Veteran's claim of entitlement to service connection for PTSD.
+
+round 32, index 30: 
+In reaching this opinion the examiner should discuss whether the Veteran's in-service treatment for vaginitis (February 25, 1986) and "honeymoon infection" (March 17, 1986) are indicative of, or consistent with, a sexual assault.
+
+round 33, index 7: 
+This matter was previously remanded by the Board in December 2011 and November 2013 for further development.
+
+round 34, index 12: 
+Accordingly, the Board has recharacterized the issue as service connection for an acquired psychiatric disability, to include PTSD.
+
+round 35, index 6: 
+Under these circumstances, the regulations consider the hearing request to have been withdrawn.
+
+round 36, index 9: 
+During the pendency of this appeal, a Court of Appeals for Veterans Claims (Court) decision held that an appellant, who is a lay person, is not competent to diagnose his/her specific psychiatric disability.
+
+round 37, index 4: 
+A postponement was not requested or granted.
+
+round 38, index 8: 
+The Board notes that the Veteran's specific claim related to service connection for PTSD.
+
+round 39, index 3: 
+However, the Veteran failed to appear for that hearing.
+
+round 40, index 5: 
+The Veteran has not asserted any good cause for missing the hearing or requested that it be re-scheduled.
+
+round 41, index 11: 
+The evidence shows that the Veteran has been diagnosed with various psychiatric disorders, to include PTSD.
+
+round 42, index 2: 
+Pursuant to the Veteran's request, she was scheduled for a videoconference hearing in April 2009.
+
+round 43, index 0: 
+The Veteran served on active duty in the United States Army from February 20, 1986, to March 26, 1986.
+
+round 44, index 0: 
+The Veteran served on active duty in the United States Army from February 20, 1986, to March 26, 1986.
+
+round 45, index 0: 
+The Veteran served on active duty in the United States Army from February 20, 1986, to March 26, 1986.
+
+round 46, index 0: 
+The Veteran served on active duty in the United States Army from February 20, 1986, to March 26, 1986.
+
+round 47, index 0: 
+The Veteran served on active duty in the United States Army from February 20, 1986, to March 26, 1986.
+
+round 48, index 0: 
+The Veteran served on active duty in the United States Army from February 20, 1986, to March 26, 1986.
+
+round 49, index 0: 
+The Veteran served on active duty in the United States Army from February 20, 1986, to March 26, 1986.
+
+round 50, index 0: 
+The Veteran served on active duty in the United States Army from February 20, 1986, to March 26, 1986.
+
+round 51, index 0: 
+The Veteran served on active duty in the United States Army from February 20, 1986, to March 26, 1986.
+
+round 52, index 0: 
+The Veteran served on active duty in the United States Army from February 20, 1986, to March 26, 1986.
+
+round 53, index 0: 
+The Veteran served on active duty in the United States Army from February 20, 1986, to March 26, 1986.
+
+round 54, index 0: 
+The Veteran served on active duty in the United States Army from February 20, 1986, to March 26, 1986.
+
+round 55, index 0: 
+The Veteran served on active duty in the United States Army from February 20, 1986, to March 26, 1986.
+
+round 56, index 0: 
+The Veteran served on active duty in the United States Army from February 20, 1986, to March 26, 1986.
+
+round 57, index 0: 
+The Veteran served on active duty in the United States Army from February 20, 1986, to March 26, 1986.
+
+round 58, index 0: 
+The Veteran served on active duty in the United States Army from February 20, 1986, to March 26, 1986.
+
+round 59, index 0: 
+The Veteran served on active duty in the United States Army from February 20, 1986, to March 26, 1986.
+

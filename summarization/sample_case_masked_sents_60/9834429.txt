@@ -1,0 +1,180 @@
+round 0, index 151: 
+Service connection for PTSD is denied.
+
+round 1, index 23: 
+PTSD was not incurred in service.
+
+round 2, index 150: 
+Hence, such recitation of the veteran's stressors, in the absence of any objective verification, cannot serve as the basis of a grant of service connection for PTSD.
+
+round 3, index 149: 
+However, unenhanced reports of a history provided by a medical examiner do not constitute probative evidence.
+
+round 4, index 24: 
+Initially, the Board finds that the veterans claim is well grounded in accordance with 38 U.S.C.A. § 5107 (West 1991) in that his claim is plausible based upon the clinical evidence of record and the evidentiary assertions provided by the veteran that are within the competence of lay party.
+
+round 5, index 152: 
+V. L. Jordan	Member, Board of Veterans' AppealsNOTICE OF APPELLATE RIGHTS:  Under 38 U.S.C.A. § 7266
+
+round 6, index 25: 
+Once it has been determined that a claim is well grounded, VA has a statutory duty to assist the veteran in the development of evidence pertinent to that claim.
+
+round 7, index 153: 
+(West 1991 &  Supp. 1998), a decision of the Board of Veterans'
+
+round 8, index 155: 
+The date which appears on the face of this decision constitutes the date of mailing and the copy of this decision which you have received is your notice of the action taken on your appeal by the Board of Veterans' Appeals.- 2 -
+
+round 9, index 154: 
+Appeals granting less than the complete benefit, or benefits, sought on appeal is appealable to the United States Court of Veterans Appeals within 120 days from the date of mailing of notice of the decision, provided that a Notice of Disagreement concerning an issue which was before the Board was filed with the agency of original jurisdiction on or after November 18, 1988.  Veterans' Judicial Review Act, Pub. L. No. 100-687, § 402, 102 Stat. 4105, 4122 (1988).
+
+round 10, index 20: 
+Based on its review of the relevant evidence in this matter, and for the following reasons and bases, it is the decision of the Board thatthe preponderance of the evidence is against the claim for service connection for PTSD.
+
+round 11, index 26: 
+Service connection may be established for disability resulting from personal injury suffered or disease contracted in line of duty, or for aggravation of a pre-existing injury suffered or disease contracted in line of duty.
+
+round 12, index 18: 
+The Board, in accordance with the provisions of 38 U.S.C.A.
+
+round 13, index 73: 
+He noted a probable significant history of alcohol abuse but noted that it had been curtailed in prison.
+
+round 14, index 72: 
+The examiner opined that the veterans problems were due to his antisocial personality with aggressive features.
+
+round 15, index 27: 
+Regulations also provide that service connection may be granted for any disease diagnosed after discharge when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.
+
+round 16, index 46: 
+Records from the Wyoming State Hospital in August 1983 reflect diagnoses of alcohol dependence, amphetamine or similarly acting sympathomimetic dependence, cocaine abuse, and antisocial personality.
+
+round 17, index 22: 
+The veteran's accounts of stressors in service are uncorroborated by objective evidence.
+
+round 18, index 28: 
+The United States Court of Veterans Appeals (Court) has held that in order to establish service connection, there must be evidence of both a service-connected disease or injury and a present disability which is attributable to such disease or injury.
+
+round 19, index 19: 
+§ 7104 (West 1991 & Supp. 1998), has reviewed and considered all of the evidence and material of record in the veteran's claims file.
+
+round 20, index 116: 
+In this regard, the Board has noted that the veteran has made a number of statements regarding his service in Vietnam, and the stressful incidents therein.
+
+round 21, index 21: 
+All relevant evidence necessary for an equitable disposition of this claim has been obtained by the RO, to the extent possible.
+
+round 22, index 29: 
+Service connection for PTSD requires medical evidence establishing a clear diagnosis of the condition, credible supporting evidence that the claimed in-service stressor actually occurred, and a link between current symptomatology and the claimed in-service stressor.
+
+round 23, index 30: 
+If the claimed stressor is related to combat, service department evidence that the veteran was awarded the Purple Heart, Combat Infantryman Badge, or similar combat citation will be accepted, in the absence of evidence to the contrary, as conclusive evidence of the claimed in-service stressor.
+
+round 24, index 2: 
+This case was previously before the Board in August 1997 at which time it was remanded for further development.
+
+round 25, index 31: 
+In the case of Zarycki v.
+
+round 26, index 106: 
+The records did not verify any of the veterans claimed stressors.
+
+round 27, index 32: 
+Brown, the Court set forth the framework for establishing the presence of a recognizable stressor, which is the essential prerequisite to support the diagnosis of PTSD.
+
+round 28, index 33: 
+The Court analysis divides into two major components:  the first component involves the evidence required to demonstrate the existence of an alleged stressful event; the second involves a determination as to whether the stressful event is of the quality required to support the diagnosis of PTSD.
+
+round 29, index 114: 
+The evidence does not indicate that he was awarded the Purple Heart or other such combat citation, and the Board finds that there is no other supportive evidence of record that the veteran engaged in combat.
+
+round 30, index 113: 
+These medals were awarded for achievement and not for valor.
+
+round 31, index 0: 
+The veteran served on active duty from August 1966 to May 1969 and from June 1974 to June 1975.
+
+round 32, index 1: 
+This matter comes before the Board of Veterans Appeals (Board) on appeal of a September 1994 rating determination by the Department of Veterans Affairs (VA) Regional Office in Cheyenne, Wyoming.
+
+round 33, index 36: 
+In other words, the claimants assertions that he engaged in combat with the enemy are not sufficient, by themselves, to establish this fact.
+
+round 34, index 74: 
+The examiner commented that he could not put much stock in the veterans history, either his military experiences or his current symptomatology.
+
+round 35, index 3: 
+To the extent indicated below, those actions have been completed and this case is properly before the Board for review upon the merits.
+
+round 36, index 75: 
+The examiner noted that he felt that the veteran was likely to falsify information or stretch the truth if he felt that it was to his best advantage.
+
+round 37, index 45: 
+He served in Vietnam and was awarded the National Defense Service Medal, Vietnam Service Medal W/3*, Republic of Vietnam Campaign Medal (1960), Presidential Unit Citation, Expert Badge (M-14), and Good Conduct Medal.
+
+round 38, index 117: 
+Instead, the record must contain evidence which corroborates the veteran's testimony as to the occurrence of the claimed stressors.
+
+round 39, index 118: 
+Thus, the Board will now consider each of the incidents as reported by the veteran and determine if the required credible supporting evidence is present.
+
+round 40, index 115: 
+Board must make the determination if the veteran had a recognizable stressor.
+
+round 41, index 44: 
+The veterans VA DD Form 214 reveals that the veteran served as a general warehouseman in service.
+
+round 42, index 37: 
+The record must first contain recognized military citations or other supportive evidence to establish that he engaged in combat with the enemy.
+
+round 43, index 38: 
+If the determination with respect to this step is affirmative, then (and only then), a second step requires that the veterans lay testimony regarding claimed stressors must be accepted as conclusive as to their actual occurrence and no further development or corroborative evidence will be required, provided that the veterans testimony is found to be satisfactory, e.g., credible, and consistent with the circumstances, conditions, or hardships of such service.
+
+round 44, index 14: 
+Accordingly, since there is no clear designation of a representative, the Board will proceed with the appeal without referral to a representative.
+
+round 45, index 17: 
+He maintains that his Vietnam experiences caused his PTSD.
+
+round 46, index 112: 
+He was also awarded the Presidential Unit Citation, Expert Badge, and Good Conduct Medal.
+
+round 47, index 105: 
+In September 1997 the Environmental Support Group (ESG), now the U.S. Armed Service Center for Research of Unit Records (USACRUR) provided command chronologies for the 3rd Engineer Battalion from February 1967 to May 1967.
+
+round 48, index 43: 
+During the veterans June 1975 discharge examination, he was again psychiatrically evaluated as normal.
+
+round 49, index 111: 
+He was awarded the Republic of Vietnam Campaign Medal, the Vietnam Service Medal, and National Defense Service Medal.
+
+round 50, index 144: 
+However, there is no corroboration in the available records that the veteran was exposed to a recognizable stressor.
+
+round 51, index 110: 
+He asserted that while assigned to Vietnam, he served as a sniper.
+
+round 52, index 89: 
+He described nightmares and stated that he woke up sweating.
+
+round 53, index 55: 
+He was unclear as to the specific circumstances surrounding his stressful experiences.
+
+round 54, index 148: 
+This determination was made based on the history given by the veteran.
+
+round 55, index 76: 
+The examiner further, explained that even if the rocket attack stressors were confirmed, that the veterans stressors were not at the level of acuity usually associated with PTSD.
+
+round 56, index 109: 
+A review of the evidence of record indicates that the veteran was initially trained as a general warehouseman.
+
+round 57, index 39: 
+if the veteran did not receive any of the recognized military citations which indicate combat pursuant to 38 C.F.R. § 3.304(f) and no evidence of combat has been presented by the veteran, the Board may properly conclude that the veteran did not engage in combat and the Board is not required, pursuant to 38 U.S.C.A. § 1154(b), to accept his lay testimony as conclusive evidence of the presence of in-service stressors.
+
+round 58, index 68: 
+He stated that sometimes he would go months without the dream and at other times it would occur as often as three times a week.
+
+round 59, index 69: 
+He reported that loud noises scared him and that he occasionally became anxious without realizing why.
+

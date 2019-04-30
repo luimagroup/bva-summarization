@@ -1,0 +1,180 @@
+round 0, index 42: 
+This claim must be afforded expeditious treatment.
+
+round 1, index 41: 
+The Veteran has the right to submit additional evidence and argument on the matter the Board has remanded.
+
+round 2, index 40: 
+If any benefit sought on appeal remains denied, provide the Veteran and his representative a supplemental statement of the case and an appropriate period of time to respond.
+
+round 3, index 43: 
+Veterans Law Judge, Board of Veterans' AppealsUnder 38 U.S.C.A. § 7252 (West 2014), only a decision of the Board of Veterans' Appeals is appealable to the United States Court of Appeals for Veterans Claims.
+
+round 4, index 44: 
+This remand is in the nature of a preliminary order and does not constitute a decision of the Board on the merits of your appeal.
+
+round 5, index 36: 
+c)
+
+round 6, index 39: 
+A complete rationale should accompany each opinion provided and should be based on examination findings, historical records, and medical principles.
+
+round 7, index 26: 
+Accordingly, the case is REMANDED for the following action:
+
+round 8, index 28: 
+The Veteran should once again be requested to provide additional information regarding the following alleged PTSD stressors:   a) the location, unit of assignment and name of the soldier who shot himself in 1982;
+
+round 9, index 35: 
+If PTSD is diagnosed at any time since service, the examiner should comment upon the link between the current symptomatology and any verified in-service stressor, including the fear of hostile military or terrorist activity.
+
+round 10, index 38: 
+The examiner is advised that the Veteran is competent to report symptoms, treatment, events, and injuries in service and that his assertions must be taken into account, along with the other evidence of record, in formulating the requested medical opinion, including his inconsistent reports such as serving in Desert Storm which is not verified by his personnel records.
+
+round 11, index 22: 
+Therefore, the case must be remanded for compliance with the prior remand directives.
+
+round 12, index 8: 
+The appeal is REMANDED to the AOJ.  VA will notify the Veteran if further action, on his part, is required.
+
+round 13, index 31: 
+If the examiner is unavailable, forward the claims folder to a similarly qualified examiner.
+
+round 14, index 10: 
+The Veteran has reported a multitude of PTSD stressors which include: 1) witnessing a soldier shoot himself in 1982 (VA clinic record dated March 2004); 2) seeing people dying including a boy blowing up himself while stationed in Germany (VA clinic record dated June 2004); 3) witnessing the decapitation of soldier "O'Brien" during a helicopter accident in 1978 while assigned with the 4th Engineer Battalion at Fort Carson, Colorado (VA Form 21-0781 received September 2008); 4) witnessing the leg of "Sgt. 1st Class Brown" being severed during a tank accident in 1982 while assigned to the 1st & 10th Charlie Company Infantry (VA Form 21-0781 received September 2008); 5) earning a bronze star for service in Desert Storm in 1990 (Private psychologist report dated May 2007); and 6) earning a bronze star for service in Grenada (Private psychologist report dated May 2007).
+
+round 15, index 29: 
+b) further details on the date, location and type of event wherein he saw people dying including a boy blowing up himself while stationed in Germany;   c) his unit assignment and circumstances which led to his claimed award of a Bronze Star for service in Desert Storm in 1990; and   d) his unit assignment and circumstances which led to his claimed award of a Bronze Star for service in Grenada.
+
+round 16, index 37: 
+For any other acquired psychiatric disorder diagnosed since service even if currently asymptomatic, opine as to whether it is at least as likely as not (a 50 percent or higher probability) that such disorder had its onset during or was otherwise related to his service?
+
+round 17, index 34: 
+The examiner is requested to opine whether each of these prior diagnoses was proper and currently asymptomatic, or a misdiagnosis.
+
+round 18, index 33: 
+a) Identify all current acquired psychiatric disorder(s) that have been present since service under DSM-IV criteria, including consideration of the diagnoses of depressive disorder due to other medical conditions, alcohol use disorder, anxiety and panic disorder without agoraphobia, panic disorder with agoraphobia, depression NOS, major depressive disorder and PTSD.
+
+round 19, index 32: 
+The need for additional examination is left to the discretion of the examiner.
+
+round 20, index 27: 
+Associate with the claims folder records of the Veteran's VA treatment since December 2015.
+
+round 21, index 0: 
+The Veteran had active military service, including active duty and active duty for training from June 1975 to July 1978, October 1978 to November 1982, and from December 1986 to October 1992.
+
+round 22, index 1: 
+This matter is before the Board of Veterans' Appeals (Board) on appeal from an October 2007 rating decision of the Department of Veterans Affairs (VA) Regional Office in Indianapolis, Indiana (hereinafter, Agency of Original Jurisdiction (AOJ)).
+
+round 23, index 3: 
+Subsequently, a rating decision dated April 2016, the AOJ granted service connection for tinnitus.
+
+round 24, index 25: 
+Following an attempt at JSRRC corroboration, the claims folder must be returned to the examiner to clarify whether these additional diagnoses may be attributable to service, or whether such diagnoses were incorrect.
+
+round 25, index 24: 
+The examiner did not address the other diagnoses of record which now include anxiety and panic disorder without agoraphobia, panic disorder with agoraphobia, depression not otherwise specified (NOS), major depressive disorder and PTSD.
+
+round 26, index 18: 
+Additionally, the AOJ and JSRRC development procedures must be viewed in the context of VA's statutory obligations.
+
+round 27, index 21: 
+The AOJ's reliance on the VA Adjudication Procedures Manual is an insufficient basis to comply with the prior remand directives.
+
+round 28, index 2: 
+In May 2014, the Board remanded for additional development.
+
+round 29, index 9: 
+As noted in the prior Board remand, the Veteran's VA clinic records reflect diagnoses of PTSD, panic disorder, depression, depressive disorder, and anxiety disorder.
+
+round 30, index 30: 
+Thereafter, return the claims folder to the April 2016 VA examiner for an addendum opinion.
+
+round 31, index 4: 
+This award fully satisfied the appeal and the issue is no longer at issue before the Board.
+
+round 32, index 11: 
+The Board specifically found that the Veteran had submitted sufficient information to attempt to verify the stressors which allegedly occurred in 1978 and 1982, as he provided an approximate date of the event, the location of the event, the name of the individual involved and the unit of assignment.
+
+round 33, index 20: 
+Consistent with Gagne and Jaquay, the Board has "built up" the Veteran's stressor details by his various statements of record, to include his reports to VA clinicians, finding the sufficient information was available for verifying the 1978 and 1982 stressors with JSRRC.
+
+round 34, index 19: 
+(holding that VA's duty to assist is not bound by the JSRRC's requirement to provide the occurrence of an event within a 60-day period, and that strict adherence to the VA Adjudication Procedures Manual could not override VA's statutory duty to assist when a corroboration research could not be deemed "futile.")
+
+round 35, index 23: 
+As for the VA examination, the Board observes that the VA examiner in April 2016 diagnosed depressive disorder due to other medical conditions and alcohol use disorder.
+
+round 36, index 16: 
+The Board understands that the AOJ and JSRRC have specifically defined development procedures for corroborating stressors.
+
+round 37, index 17: 
+However, the Federal Circuit Court has repeatedly emphasized that the VA adjudication system is "paternalistic" and "uniquely pro-claimant" in nature.
+
+round 38, index 7: 
+This appeal was processed using the Virtual VA and Veterans Benefit Management System (VBMS) paperless, electronic claims processing system.
+
+round 39, index 15: 
+As for as verifying the 1978 and 1982 stressors with JSRRC, the JSRRC coordinator issued a formal finding of lack of information to corroborate the stressors citing provisions in the Veterans Benefits Administration (VBA) M21-1 requiring a written statement from the Veteran prior to submitting a JSRRC request.
+
+round 40, index 6: 
+Accordingly, given that the record reflects possible psychiatric diagnoses other than PTSD, the Board has amended the issue on appeal as entitlement to service connection for an acquired psychiatric disorder, to include PTSD, anxiety, depression, adjustment disorder, and panic disorder.
+
+round 41, index 14: 
+In response, the AOJ attempted to obtain additional information but the Veteran did not respond.
+
+round 42, index 5: 
+The Board notes that the Veteran originally filed a claim for service connection for PTSD.
+
+round 43, index 12: 
+However, the Board required further information regarding the other claimed stressors.
+
+round 44, index 0: 
+The Veteran had active military service, including active duty and active duty for training from June 1975 to July 1978, October 1978 to November 1982, and from December 1986 to October 1992.
+
+round 45, index 0: 
+The Veteran had active military service, including active duty and active duty for training from June 1975 to July 1978, October 1978 to November 1982, and from December 1986 to October 1992.
+
+round 46, index 0: 
+The Veteran had active military service, including active duty and active duty for training from June 1975 to July 1978, October 1978 to November 1982, and from December 1986 to October 1992.
+
+round 47, index 13: 
+As such, the Board directed the AOJ to obtain additional information from the Veteran and attempt to verify the stressors which allegedly occurred in 1978 and 1982 with the U.S. Army and Joint Services Records Research Center (JSRRC) as well as any additional stressors which may be verifiable.
+
+round 48, index 0: 
+The Veteran had active military service, including active duty and active duty for training from June 1975 to July 1978, October 1978 to November 1982, and from December 1986 to October 1992.
+
+round 49, index 0: 
+The Veteran had active military service, including active duty and active duty for training from June 1975 to July 1978, October 1978 to November 1982, and from December 1986 to October 1992.
+
+round 50, index 0: 
+The Veteran had active military service, including active duty and active duty for training from June 1975 to July 1978, October 1978 to November 1982, and from December 1986 to October 1992.
+
+round 51, index 0: 
+The Veteran had active military service, including active duty and active duty for training from June 1975 to July 1978, October 1978 to November 1982, and from December 1986 to October 1992.
+
+round 52, index 0: 
+The Veteran had active military service, including active duty and active duty for training from June 1975 to July 1978, October 1978 to November 1982, and from December 1986 to October 1992.
+
+round 53, index 0: 
+The Veteran had active military service, including active duty and active duty for training from June 1975 to July 1978, October 1978 to November 1982, and from December 1986 to October 1992.
+
+round 54, index 0: 
+The Veteran had active military service, including active duty and active duty for training from June 1975 to July 1978, October 1978 to November 1982, and from December 1986 to October 1992.
+
+round 55, index 0: 
+The Veteran had active military service, including active duty and active duty for training from June 1975 to July 1978, October 1978 to November 1982, and from December 1986 to October 1992.
+
+round 56, index 0: 
+The Veteran had active military service, including active duty and active duty for training from June 1975 to July 1978, October 1978 to November 1982, and from December 1986 to October 1992.
+
+round 57, index 0: 
+The Veteran had active military service, including active duty and active duty for training from June 1975 to July 1978, October 1978 to November 1982, and from December 1986 to October 1992.
+
+round 58, index 0: 
+The Veteran had active military service, including active duty and active duty for training from June 1975 to July 1978, October 1978 to November 1982, and from December 1986 to October 1992.
+
+round 59, index 0: 
+The Veteran had active military service, including active duty and active duty for training from June 1975 to July 1978, October 1978 to November 1982, and from December 1986 to October 1992.
+

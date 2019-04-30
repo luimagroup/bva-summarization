@@ -1,0 +1,180 @@
+round 0, index 126: 
+Service connection for an acquired psychological disorder, to include posttraumatic stress disorder (PTSD), anxiety disorder, major depressive disorder, and panic disorder is granted.
+
+round 1, index 127: 
+Veterans Law Judge, Board of Veterans' AppealsDepartment of Veterans Affairs
+
+round 2, index 10: 
+The Veteran has current psychiatric disabilities, namely PTSD, major depressive disorder, anxiety disorder, and panic disorder as the result of the in-service sexual assault stressors.
+
+round 3, index 9: 
+The Veteran has provided consistent reports of two episodes of in-service sexual trauma; she necessitated emergency room treatment for hyperventilation shortly after the episodes of assault.
+
+round 4, index 119: 
+In summary, the record contains credible evidence of in-service sexual assaults and competent medical evidence showing that the Veteran's current symptoms meet the PTSD diagnostic criteria and are related to the reported in-service sexual assault stressors.
+
+round 5, index 120: 
+Service connection for PTSD based upon in-service sexual assault is granted.
+
+round 6, index 31: 
+or unexplained economic or social behavior changes.
+
+round 7, index 29: 
+Evidence of behavior changes following the claimed assault is one type of relevant evidence that may be found in these sources.
+
+round 8, index 30: 
+Examples of behavior changes that may constitute credible evidence of the stressor include, but are not limited to: a request for a transfer to another military duty assignment; deterioration in work performance, substance abuse, episodes of depression, panic attacks, or anxiety without an identifiable cause;
+
+round 9, index 28: 
+Examples of such evidence include, but are not limited to: records from law enforcement authorities, rape crisis centers, mental health counseling centers, hospitals, or physicians; pregnancy tests or tests for sexually transmitted diseases; and statements from family members, roommates, fellow service members, or clergy.
+
+round 10, index 16: 
+Establishing service connection generally requires competent evidence of (1) a current disability;
+
+round 11, index 15: 
+Laws and regulationsService connection will be granted for a disability resulting from disease or injury incurred in or aggravated by active service.
+
+round 12, index 18: 
+in-service incurrence or aggravation of a disease or injury; and (3) a nexus between the claimed in-service disease or injury and the present disability.
+
+round 13, index 17: 
+(2)
+
+round 14, index 19: 
+Under 38 C.F.R. § 3.303(b), an alternative method of establishing the second and third Shedden/Caluza element is through a demonstration of continuity of symptomatology.
+
+round 15, index 13: 
+As the Board is granting the claim for service connection, the claim is substantiated, and there are no further VCAA duties.
+
+round 16, index 20: 
+Continuity of symptomatology may be established if a claimant can demonstrate (1) that a condition was "noted" during service; (2) evidence of post- service continuity of the same symptomatology; and (3) medical or, in certain circumstances, lay evidence of a nexus between the present disability and the post-service symptomatology.
+
+round 17, index 23: 
+"Symptoms, not treatment, are the essence of any evidence of continuity of symptomatology."
+
+round 18, index 24: 
+Once evidence is determined to be competent, the Board must determine whether such evidence is also credible.
+
+round 19, index 25: 
+Service connection may also be granted for a disease first diagnosed after discharge when all of the evidence, including that pertinent to service, establishes that the disease was incurred in service.
+
+round 20, index 26: 
+Service connection for PTSD requires medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a); a link, established by medical evidence, between current symptoms and an in-service stressor; and credible supporting evidence that the claimed in-service stressor occurred.
+
+round 21, index 61: 
+While walking home at night, he saw her and offered her a ride.
+
+round 22, index 27: 
+If a PTSD claim is based on in-service personal assault, evidence from sources other than the veteran's service records may corroborate her account of the stressor incident.
+
+round 23, index 125: 
+Id.
+
+round 24, index 14: 
+(Secretary not required to provide assistance "if no reasonable possibility exists that such assistance would aid in substantiating the claim"); VAOPGCPREC 5-2004; 69 Fed. Reg. 59989 (2004) (the notice and duty to assist provisions of the VCAA do not apply to claims that could not be substantiated through such notice and assistance).
+
+round 25, index 115: 
+Overall, the Board finds the evidence probative to show that two in-service sexual assaults occurred.
+
+round 26, index 32: 
+Id.
+
+round 27, index 33: 
+Service department records do not contain any information or evidence demonstrating any in-service sexual assaults.
+
+round 28, index 22: 
+In relevant part, 38 U.S.C.A. § 1154(a) (West 2002) requires that VA give "due consideration" to "all pertinent medical and lay evidence" in evaluating a claim for disability or death benefits.
+
+round 29, index 34: 
+However, Fort Hood Army Hospital records, dated in May 1979, show that the Veteran sought emergency room (ER) treatment for complaints of synoscope, shortness of breath, and numbness in her right hand.
+
+round 30, index 36: 
+The examiner assessed anxiety attack with hyperventilation.
+
+round 31, index 0: 
+The Veteran had active duty service from October 1978 to May 1979 and January 1983 to June 1983.
+
+round 32, index 62: 
+Since he was a casual acquaintance, she accepted.
+
+round 33, index 21: 
+Savage, 10 Vet. App. at 495-96; see Hickson, 12 Vet. App. at 253 (lay evidence of in-service incurrence sufficient in some circumstances for purposes of establishing service connection);
+
+round 34, index 1: 
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from an October 2006 and November 2007 rating decisions by the Regional Office (RO) of the Department of Veterans Affairs (VA) in Denver, Colorado, that denied service connection for PTSD and for generalized anxiety disorder, major depression, and a panic disorder, respectively.
+
+round 35, index 118: 
+They are uncontroverted by the additional medical evidence of record.
+
+round 36, index 2: 
+Jurisdiction has been transferred to the RO in Montgomery, Alabama.
+
+round 37, index 3: 
+The Board remanded the appeal for a hearing in May 2012.
+
+round 38, index 35: 
+She reported having several similar episodes over the past few weeks.
+
+round 39, index 11: 
+A current psychiatric disability was incurred in active service.
+
+round 40, index 12: 
+The Veterans Claims Assistance Act of 2000 as amended (VCAA) and implementing regulations impose obligations on VA to provide claimants with notice and assistance.
+
+round 41, index 60: 
+She recalled the assailant was also in the military and that she met him at the base cafeteria.
+
+round 42, index 59: 
+She reported that she was stationed at Fort Hood in 1979 when they occurred within a short period of time.
+
+round 43, index 70: 
+Currently, the flashbacks and feelings of helplessness impaired her ability to socialize.
+
+round 44, index 5: 
+A transcript of the hearing is associated with claims folder.
+
+round 45, index 122: 
+The treating clinicians have not delineating a separate etiology for these symptoms.
+
+round 46, index 54: 
+One of the rapes took place when he offered her a ride home in his car, and the other occurred when he attacked her upon entering her residence.
+
+round 47, index 55: 
+Both episodes involved physical violence and death threats if she informed anyone about the assaults.
+
+round 48, index 53: 
+He had become a casual acquaintance after she met him at the base cafeteria.
+
+round 49, index 63: 
+He took her to another location and sexually assaulted her and threatened her life if she informed anyone.
+
+round 50, index 81: 
+She stated that she never told anyone about the two assaults until last year.
+
+round 51, index 121: 
+The Board notes that additional psychiatric diagnoses of anxiety disorder, major depression, and panic disorder are raised by the record.
+
+round 52, index 64: 
+After the first incident, she was in a state of shock and did not socialize with anyone.
+
+round 53, index 65: 
+A few days later, she was again attacked by the assailant upon entering her residence.
+
+round 54, index 123: 
+Where an examiner is unable to distinguish the symptoms of a service-connected disability from non-service connected manifestations, all the manifestations will be considered part of the service-connected disability.
+
+round 55, index 66: 
+He sexually assaulted her in her residence and threatened her.
+
+round 56, index 4: 
+The Veteran was afforded a July 2012 videoconference hearing before the undersigned.
+
+round 57, index 67: 
+Two weeks after the last incident, she was with socializing with friends.
+
+round 58, index 8: 
+A review of the Virtual VA paperless claims processing system does not show any pertinent records that are not already associated with the physical claims folder.
+
+round 59, index 7: 
+Hence, the issue has been recharacterized as a single issue for service connection that encompasses all the psychiatric diagnoses raised by the record.
+

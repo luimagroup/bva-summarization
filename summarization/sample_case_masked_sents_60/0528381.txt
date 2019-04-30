@@ -1,0 +1,180 @@
+round 0, index 112: 
+This claim must be afforded expeditious treatment.
+
+round 1, index 113: 
+The law requires that all claims that are remanded by the Board of Veterans' Appeals or by the United States Court of Appeals for Veterans Claims for additional development or other appropriate action must be handled in an expeditious manner.
+
+round 2, index 111: 
+The appellant has the right to submit additional evidence and argument on the matter or matters the Board has remanded.
+
+round 3, index 114: 
+JOHN KITLAS	Acting Veterans Law Judge, Board of Veterans' AppealsUnder 38 U.S.C.A. § 7252 (West 2002), only a decision of the Board of Veterans' Appeals is appealable to the United States Court of Appeals for Veterans Claims.
+
+round 4, index 115: 
+This remand is in the nature of a preliminary order and does not constitute a decision of the Board on the merits of your appeal.
+
+round 5, index 55: 
+Accordingly, further appellate consideration will be deferred and this case is REMANDED to the RO for the following actions:1.
+
+round 6, index 56: 
+The RO should obtain photocopies of all service medical records of the veteran, particular those for treatment during the years 1969 and 1970.
+
+round 7, index 54: 
+That is, the veteran should be told what information or evidence is needed to substantiate his claim in light of all the documents that are being obtained by means of this remand.
+
+round 8, index 53: 
+Since the RO has not had the opportunity to provide this information, the claim must be returned to the RO for additional processing.
+
+round 9, index 52: 
+Once those records have been obtained and reviewed by the RO, the RO has a duty to notify a claimant of information or lay or medical evidence, in addition to the SSA records, is necessary to substantiate a claim and to indicate what portion of the information or evidence is to be provided by the claimant and what part the Secretary will attempt to obtain.
+
+round 10, index 51: 
+Thus, the claim must also be returned to the RO for the purpose of obtaining those SSA records.
+
+round 11, index 50: 
+These records must be obtained because they may provide additional insight into the veteran's psychiatric disorder.
+
+round 12, index 110: 
+Therefore, the veteran is hereby placed on notice that pursuant to 38 C.F.R. § 3.655 (2005) failure to cooperate by attending the requested VA examination may result in an adverse determination.
+
+round 13, index 109: 
+The purpose of the examinations requested in this remand is to obtain information or evidence (or both), which may be dispositive of the appeal.
+
+round 14, index 107: 
+The Board intimates no opinion as to the ultimate outcome of this case.
+
+round 15, index 14: 
+The appeal is REMANDED to the RO via the Appeals Management Center (AMC), in Washington, DC.  VA will notify the veteran if further action is required on the part of the veteran.
+
+round 16, index 60: 
+If no records exist, it should be so noted in the record.
+
+round 17, index 59: 
+If any of these records have been retired, the RO should attempt to obtain the retired records from the National Personnel Records Center, NPRC, in St. Louis, Missouri, or the appropriate retirement facility.
+
+round 18, index 108: 
+The appellant need take no action unless otherwise notified.
+
+round 19, index 106: 
+Thereafter, the case should be returned to the Board, if in order.
+
+round 20, index 57: 
+When requesting those records, the RO should make sure that it uses the veteran's current full name and the name he was known thereby while in the US Navy.
+
+round 21, index 95: 
+The entire claims folder and a copy of this Remand must be made available to and reviewed by the examiner prior to the examination.
+
+round 22, index 105: 
+An appropriate period of time should be allowed for response.
+
+round 23, index 49: 
+(VA has a duty to attempt to secure all records of the SSA regarding the veteran's determination of unemployability for SSA purposes).
+
+round 24, index 61: 
+The RO should contact the veteran and ask that he identify all sources of medical treatment received since he was released from active duty in October 1970 to the present, and to furnish signed authorizations for release to the VA of private medical records in connection with each non-VA source identified.
+
+round 25, index 25: 
+The veteran has asserted that while on the aircraft carrier, he witnessed a plane crash, a man being blown off the ship's deck, and a man being "sucked up" in an aircraft engine.
+
+round 26, index 70: 
+The RO should provide to the veteran copies of the veteran's previous statements so that the veteran can use those documents to refresh his memories and also add any additional information that he may have forgotten in those documents.
+
+round 27, index 63: 
+All records obtained should be added to the claims folder.
+
+round 28, index 62: 
+Copies of the medical records from all sources, including VA records, (not already in the claims folder) should then be requested.
+
+round 29, index 64: 
+If requests for any private treatment records are not successful, the RO should inform the veteran of the nonresponse so that he will have an opportunity to obtain and submit the records himself, in keeping with his responsibility to submit evidence in support of his claim.
+
+round 30, index 69: 
+The veteran should be advised that this information is vitally necessary to obtain supportive evidence on the stressful events and he must be asked to be as specific as possible.
+
+round 31, index 48: 
+Since the VA has been given notice that the veteran is in receipt of SSA benefits, those records must be obtained and associated in the claims folder.
+
+round 32, index 0: 
+The appellant served on active duty from July 1968 to January 1969, and from June 1969 to October 1970.
+
+round 33, index 1: 
+He also had active-duty-for-training from April 1968 to July 1968.
+
+round 34, index 2: 
+This case comes before the Board of Veterans' Appeals (the Board) on appeal from an August 2003 rating decision of the
+
+round 35, index 5: 
+A transcript of the hearing is of record.
+
+round 36, index 68: 
+The RO should request that the veteran provide another written statement concerning his experience while serving on the USS Ranger (CVA-61).
+
+round 37, index 96: 
+The results proffered by the examiner must reference the complete claims folders and any inconsistent past diagnoses given.
+
+round 38, index 97: 
+Also, it is requested that the results of the examination be typed or otherwise recorded in a legible manner for review purposes.
+
+round 39, index 67: 
+All records obtained should be added to the claims folder.
+
+round 40, index 104: 
+The SSOC must contain notice of all relevant actions taken on the claim for benefits, to include a summary of the evidence and applicable law and regulations considered pertinent to the issue currently on appeal.
+
+round 41, index 99: 
+If any development is incomplete, appropriate corrective action is to be implemented.
+
+round 42, index 101: 
+If the requested report does not include fully detailed descriptions of pathology and all test reports, special studies or adequate responses to the specific opinions requested, the report must be returned for corrective action.
+
+round 43, index 100: 
+Specific attention is directed to the report of examination.
+
+round 44, index 66: 
+Only those records that are not already included in the claims folder should be requested.
+
+round 45, index 103: 
+If the benefits sought on appeal remain denied, the appellant and the appellant's representative should be provided a supplemental statement of the case (SSOC).
+
+round 46, index 98: 
+The RO should review the claims folder and ensure that all of the foregoing development actions have been conducted and completed in full.
+
+round 47, index 84: 
+The RO should arrange for the veteran to be examined by a psychiatrist, who has not previously examined him, to determine the correct diagnosis of any psychiatric disorder.
+
+round 48, index 72: 
+He should be further advised that a failure to respond may result in an adverse action against his claim.
+
+round 49, index 24: 
+Additionally, the record reflects that in 1969 and 1970, the veteran was assigned to the USS Ranger (CVA-61), a Forrestal class aircraft carrier that was part of the Seventh Fleet in the western Pacific Ocean.
+
+round 50, index 71: 
+He should be informed that, without such details, an adequate search for verifying information cannot be conducted.
+
+round 51, index 23: 
+As such, the claim must be remanded for the purpose of obtaining those records, if they still exist.
+
+round 52, index 65: 
+The RO should obtain from Social Security Administration the records pertinent to any disability claim as well as the medical records relied upon for that determination.
+
+round 53, index 102: 
+Thereafter, the RO should readjudicate the claims for service connection for a psychiatric disorder.
+
+round 54, index 93: 
+The report of the examination should include a complete rationale for all opinions expressed.
+
+round 55, index 85: 
+The RO must specify, for the examiner, the stressor or stressors that the RO has determined are established by the record.
+
+round 56, index 83: 
+In reaching this determination, the RO should address any credibility questions raised by the record.
+
+round 57, index 94: 
+The diagnosis should be in accordance with DSM IV.
+
+round 58, index 82: 
+Moreover, the RO must specify what stressor or stressors in service it has determined are established by the record.
+
+round 59, index 81: 
+The RO must specifically render a finding as to whether the record establishes the existence of a stressor or stressors.
+

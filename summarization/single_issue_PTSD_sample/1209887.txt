@@ -1,0 +1,113 @@
+Citation Nr: 1209887	
+Decision Date: 03/16/12    Archive Date: 03/28/12
+
+DOCKET NO.  08-15 578	)	DATE
+	)
+	)
+
+
+On appeal from the
+Department of Veterans Affairs Regional Office in Detroit, Michigan
+
+
+
+THE ISSUE
+
+
+Entitlement to service connection for an acquired psychiatric disorder, to include posttraumatic stress disorder (PTSD).  
+
+
+
+REPRESENTATION
+
+Appellant represented by:	The American Legion
+
+
+
+ATTORNEY FOR THE BOARD
+
+J.R. Bryant, Counsel
+
+
+INTRODUCTION
+
+The Veteran had active service from April 1968 to March 1970.
+
+This matter is before the Board of Veterans' Appeals (Board) on appeal from a rating decision in August 2007 by the above Department of Veterans Affairs (VA) Regional Office (RO).  
+
+
+FINDING OF FACT
+
+At no time during the current appeal period has the Veteran been shown to have a an acquired psychiatric disorder, to include PTSD.  
+
+
+CONCLUSION OF LAW
+
+Service connection for an acquired psychiatric disorder, to include PTSD, is not established.  38 U.S.C.A. §§ 1110, 5103, 5103A, 5107 (West 2002); 38 C.F.R. §§ 3.303, 3.304(f) (2011).
+
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+Duty to Notify and Assist
+
+The Veterans Claims Assistance Act of 2000 (VCAA) enhanced VA's duty to notify and assist claimants in substantiating their claim for VA benefits, as codified in pertinent part at 38 U.S.C.A. §§ 5103, 5103A, 5107, 5126 (West 2002 & Supp. 2009); 38 C.F.R. §§ 3.102, 3.159, 3.326(a) (2011).
+
+Upon receipt of a complete or substantially complete application for benefits, VA is required to notify the claimant and his representative of any information, and any medical or lay evidence, that is necessary to substantiate the claim.  38 U.S.C.A. § 5103(a); 38 C.F.R. § 3.159(b); Quartuccio v. Principi, 16 Vet. App. 183 (2002).  Proper notice from VA must inform the claimant of any information and evidence not of record (1) that is necessary to substantiate the claim; (2) that VA will seek to provide; and (3) that the claimant is expected to provide.  38 C.F.R. § 3.159(b)(1), as amended, 73 Fed. Reg. 23,353 (April 30, 2008).  This notice must be provided prior to an initial decision on a claim by the RO.  Mayfield v. Nicholson, 444 F.3d 1328 (Fed. Cir. 2006); Pelegrini v. Principi, 18 Vet. App. 112 (2004). 
+
+The VCAA notice requirements apply to all five elements of a service connection claim:  (1) veteran status; (2) existence of disability; (3) connection between service and the disability; (4) degree of disability; and (5) effective date of benefits where a claim is granted.  Dingess v. Nicholson, 19 Vet. App. 473, 484 (2006).
+
+If complete notice is not provided until after the initial adjudication, such a timing error can be cured by subsequent legally adequate VCAA notice, followed by readjudication of the claim, as in a Statement of the Case (SOC) or Supplemental SOC (SSOC).  Moreover, where there is an uncured timing defect in the notice, subsequent action by the RO which provides the claimant a meaningful opportunity to participate in the processing of the claim can prevent any such defect from being prejudicial.  Mayfield v. Nicholson, 499 F.3d 1317, 1323-24 (Fed. Cir. 2007); Prickett v. Nicholson, 20 Vet. App. 370, 376 (2006).
+
+In a pre-adjudication letter dated in June 2007, the RO informed the Veteran of its duty to assist him in substantiating his PTSD claim under the VCAA, and the effect of this duty upon his claim.  This letter also informed him of how disability ratings and effective dates are assigned, if service connection were to be granted.  See Dingess v. Nicholson, supra.  He has not demonstrated any error in VCAA notice, and therefore the presumption of prejudicial error as to such notice does not arise in this case.  See Hartman v. Nicholson, 483 F.3d 1311 (Fed. Cir. 2007); see also Shinseki v. Sanders, 129 S.Ct. 1696 (2009).
+
+The Board also finds that VA has satisfied its duty to assist the Veteran in the development of his PTSD claim.  His in-service and pertinent post-service treatment reports are of record.  Attempts were made to obtain Social Security Administration records(SSA). SSA indicated that it had made exhaustive efforts and there were no records relating to the Veteran. While VA did not provide the Veteran with an examination and/or did not obtain a medical opinion, the Board finds that VA had no obligation to do so in connection with the current appeal because both the STRs and post service treatment records are completely negative for evidence of a diagnosis of PTSD or any other psychiatric disability.  See 38 U.S.C.A. § 5103A(d); McLendon v. Nicholson, 20 Vet. App. 79 (2006); Paralyzed Veterans of America, et. al., v. Secretary of Veterans Affairs, 345 F.3d 1334 (Fed. Cir. 2003) (holding that, if the evidence of record does not establish that the veteran suffered an event, injury, or disease in service, no reasonable possibility exists that providing a medical examination or obtaining a medical opinion would substantiate the claim); Godfrey v. Brown, 8 Vet. App. 113, 121 (1995) (holding that the Board is not required to accept a medical opinion that is based on the veteran's recitation of medical history); Duenas v. Principi, 18 Vet. App. 512, 519 (2004) (holding that VA is not obligated to provide an examination for a medical nexus opinion where, as here, the supporting evidence of record consists only of a lay statement).  As discussed in further detail below, the Veteran has failed to submit or identify any medical evidence showing a current psychiatric diagnosis of any kind.  Accordingly, an examination is not required here, even under the low threshold of McLendon.  
+
+Thus, the Board concludes that no further notice or assistance to the Veteran is required to fulfill VA's duty to assist him in the development of his service connection claim.  No useful purpose would be served in remanding this matter for yet more development.  A remand would result in unnecessarily imposing additional burdens on VA, with no additional benefit to the Veteran.  Smith v. Gober, 14 Vet. App. 227 (2000), aff'd 281 F.3d 1384 (Fed. Cir. 2002); Dela Cruz v. Principi, 15 Vet. App. 143 (2001); & Quartuccio v. Principi, supra.  
+
+Law and Analysis
+
+Service connection may be granted if the evidence demonstrates that a current disability resulted from an injury or disease incurred or aggravated in active military service.  38 U.S.C.A. § 1110; 38 C.F.R. § 3.303(a).  Service connection may be granted for any disease diagnosed after discharge, when all of the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38 C.F.R. § 3.303(d).  
+
+To establish entitlement to service connection for PTSD, the record must contain the following:  (1) medical evidence diagnosing PTSD; (2) credible supporting evidence that the claimed in-service stressor actually occurred; and (3) medical evidence of a link between current symptomatology and the claimed in-service stressor.  38 C.F.R. § 3.304(f); see also Cohen v. Brown, 10 Vet. App. 128 (1997).  
+
+After considering all information and lay and medical evidence of record with respect to benefits under laws administered by the Secretary, when there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the benefit of the doubt will be given to the claimant.  38 U.S.C.A. § 5107(b); 38 C.F.R. § 3.102.  The benefit-of-the-doubt rule is inapplicable when the evidence preponderates against the claim.  Ortiz v. Principi, 274 F.3d 1361 (Fed. Cir. 2001). 
+
+The Veteran is seeking service connection for psychiatric problems.  He asserts that because of his experiences in Vietnam he is sensitive to loud noise and has great difficulty during New Year's and July 4th celebrations.  He reports that he underwent an employer-provided psychiatric evaluation with complaints of these problems, but that this occurred before the diagnosis of PTSD was known to most medical specialists.
+
+The Veteran's DD Form 214 and personnel records, which are already associated with the claims file, indicate that he served in Vietnam as a field communications crewman with the HHSB 6th Battalion 11th Artillery.  Although it is unquestioned that the Veteran served in Vietnam during the Vietnam War era, the primary impediment to a grant of service connection in this case is the absence of medical evidence of a current psychiatric disorder.  
+
+The existence of a current disability is the cornerstone of a claim for VA disability compensation.  See Degmetich v. Brown, 104 F. 3d 1328 (1997) (holding that the VA's and the Court's interpretation of sections 1110 and 1131 of the statute as requiring the existence of a present disability for VA compensation purposes cannot be considered arbitrary and therefore the decision based on that interpretation must be affirmed); see also Gilpin v. West, 155 F.3d 1353 (Fed. Cir. 1998); Brammer v. Derwinski, 3 Vet. App. 223, 225 (1992).  In the absence of proof of a present disability, there can be no valid claim.  Rabideau v. Derwinski, 2 Vet. App. 141, 143- 44 (1992).
+
+Turning to the evidence of record, the Veteran's service treatment records (STRs) do not contain any reports of psychiatric complaints or findings.  
+
+The lack of evidence of in-service incurrence is not, however, the only shortcoming in this claim, as no records of post-service treatment for psychiatric complaints or symptomatology have been submitted or identified.  In a March 2007 statement, the Veteran indicated that when hired by Buick Motors Division in 1970 he was referred for psychological evaluation after indicating that loud noise would affect his ability to work.  He later submitted records from his former employer, General Motors Corporation (GM) which show he underwent periodic physicals and audiological testing between 1990 and 2004.  However these records are entirely negative for psychiatric complaints or findings.  
+
+In the absence of a clear psychiatric diagnosis, or symptomatology an award of service connection is not warranted.  While sensitivity to loud noise is the type of symptom capable of lay observation, the record is devoid of evidence to suggest that the Veteran has ever been seen or treated for PTSD or any related psychiatric condition, either during service or after service separation.  See Sanchez-Benitez v. Principi, 239 F.3d 1356 (Fed. Cir. 2001); Sanchez-Benitez v. West, 13 Vet. App. 282 (1999) (service connection may not be granted for symptoms unaccompanied by a diagnosed disability).  The Board does not dispute that the Veteran may experience some sort of symptomatology, but there is no objective clinical confirmation that he suffers from an actual psychiatric disorder and his post-service contention alone cannot satisfy the criteria for a current disability.  
+
+Indeed, without a finding that the Veteran has been diagnosed with any psychiatric disorder at any time during the appeal period, no valid claim for service connection exists.  See also McClain v. Nicholson, 21 Vet. App. 319 (2007) (which stipulates that a service connection claim may be granted if a diagnosis of a chronic disability was made during the pendency of the appeal, even if the most recent medical evidence suggests that the disability resolved).  Based on this evidentiary posture, service connection cannot be awarded.  Moreover as a clear preponderance of the evidence is against a finding that the Veteran has a current diagnosis of PTSD, consideration of any association between his current symptomatology and his claimed in-service stressors is not necessary.  38 C.F.R. § 3.304(f).  
+
+In reaching this conclusion, the Board has not overlooked the Veteran's contentions.  As to his assertions that he developed a psychiatric disorder due to military service, the Board is aware that lay testimony is competent to establish the presence of observable symptomatology and "may provide sufficient support for a claim of service connection."  Jones v. Brown, 7 Vet. App. 134, 137 (1994); Layno v. Brown, 6 Vet. App. 465, 469 (1994) Buchanan v. Nicolson, 451 F.3d 1331 (Fed. Cir. 2006).  When a condition may be diagnosed by its unique and readily identifiable features, the presence of the disorder is not a determination "medical in nature" and is capable of lay observation.  Davidson v. Shinseki, 581 F.3d 1313, 1316.  
+
+Lay evidence can also be competent and sufficient to establish a diagnosis of a condition when (1) a layperson is competent to identify the medical condition, (2) the layperson is reporting a contemporaneous medical diagnosis, or (3) lay testimony describing symptoms at the time supports a later diagnosis by a medical professional.  See Jandreau v. Nicholson, 492 F.3d 1372 (Fed. Cir. 2007).  The Federal Circuit Court also held in Buchanan (and Davidson and Jandreau), however, that the Board retains the discretion to make credibility determinations and otherwise weigh the evidence submitted, including lay evidence.  So to ultimately have probative value, the Veteran's assertions also have to be credible and judged in relation to the other evidence in the file - including any medical evidence addressing the determinative issue of causation.  See Rucker v. Brown, 10 Vet. App. 67 (1997) and Layno, 6 Vet. App. at 469 (1994) (distinguishing between competency ("a legal concept determining whether testimony may be heard and considered") and credibility ("a factual determination going to the probative value of the evidence to be made after the evidence has been admitted")). 
+
+That said, the Board notes that the Veteran is not a medical professional, and therefore, his beliefs and statements about medical matters do not constitute competent evidence on matters of medical etiology or diagnosis.  See Espiritu v. Derwinski, 2 Vet. App. 492 (1992).  A veteran generally can report his or her observations concerning symptoms, but in this particular case, the Veteran is not competent to establish a current diagnosis by his lay statements as such would require medical expertise and diagnostic testing in order for a correct diagnosis to be rendered.  
+
+In other words, while the Veteran is competent to report his military duties and experiences, his opinion regarding the etiology of his claimed psychiatric symptoms is not a statement merely about symptomatology, an observable medical condition, or a contemporaneous medical diagnosis, but rather clearly falls within the realm of requiring medical expertise, which he simply does not have.  Consequently, the probative value of the Veteran's implied or explicit assertions that he has PTSD are greatly outweighed by the objective findings of record.  Compare Woehlaert v. Nicholson, 21 Vet. App. 456, 462 (2007) (unlike varicose veins or a dislocated shoulder, rheumatic fever is not a condition capable of lay diagnosis) with Jandreau, 492 F.3d at 1376 (lay witness capable of diagnosing dislocated shoulder); Barr, 21 Vet. App. at 308-309 (lay testimony is competent to establish the presence of varicose veins); Falzone v. Brown, 8 Vet. App. 398, 405 (1995) (lay person competent to testify to pain and visible flatness of his feet).  The problem in this case is that there is no competent evidence of a psychiatric diagnosis at any time during the current appeal.  
+
+
+Accordingly, the preponderance of the evidence is against the claim for service connection for a right shoulder disability, and there is no reasonable doubt to be resolved.  38 U.S.C.A. § 5107(b).  
+
+
+ORDER
+
+Service connection for PTSD is denied.
+
+
+
+____________________________________________
+K. Parakkal
+Veterans Law Judge, Board of Veterans' Appeals
+
+Department of Veterans Affairs
+
+

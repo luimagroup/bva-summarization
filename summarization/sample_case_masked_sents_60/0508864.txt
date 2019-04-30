@@ -1,0 +1,180 @@
+round 0, index 41: 
+This claim must be afforded expeditious treatment.
+
+round 1, index 42: 
+The law requires that all claims that are remanded by the Board of Veterans' Appeals or by the United States Court of Appeals for Veterans Claims for additional development or other appropriate action must be handled in an expeditious manner.
+
+round 2, index 40: 
+The veteran has the right to submit additional evidence and argument concerning the claim the Board has remanded.
+
+round 3, index 43: 
+KEITH W. ALLEN 	Veterans Law Judge, Board of Veterans' AppealsUnder 38 U.S.C.A. § 7252 (West 2002), only a decision of the Board of Veterans' Appeals is appealable to the United States Court of Appeals for Veterans Claims.
+
+round 4, index 44: 
+This remand is in the nature of a preliminary order and does not constitute a decision of the Board on the merits of your appeal.
+
+round 5, index 38: 
+The veteran need take no action until he is further informed.
+
+round 6, index 37: 
+If his claim continues to be denied, send him and his representative an appropriate supplemental statement of the case (SSOC) and give them an opportunity to respond.
+
+round 7, index 23: 
+Accordingly, this case is REMANDED to the RO for the following development and consideration:
+
+round 8, index 24: 
+Contact the veteran to obtain the information necessary to acquire his complete clinical records pertaining to any treatment for a psychiatric disorder, but particularly PTSD, which are not currently on file.
+
+round 9, index 22: 
+So if a verified stressor is obtained, the veteran should be scheduled for another VA examination to determine whether he has PTSD as a result of a confirmed stressor.
+
+round 10, index 3: 
+Because further development of the evidence is required, this case is being REMANDED to the RO via the Appeals Management Center (AMC) in Washington, DC.  VA will notify you if further action is required on your part.
+
+round 11, index 39: 
+No inference should be drawn regarding the final disposition of the claim as a result of this action.
+
+round 12, index 26: 
+Also ask the veteran to provide a more detailed statement discussing his alleged stressful incidents in service (including specific names, places, and dates and the base(s) and unit(s) to which he was assigned at the time of the incidents in question).
+
+round 13, index 20: 
+And if he provides sufficient information to conduct a meaningful search, the RO must attempt to verify his alleged stressors, for example, by contacting the U.S. Armed Services Center for Unit Records Research (USASCURR).  See VA Adjudication Procedure Manual, M21-1, Part III, 4.23 (Change 41, July 12, 1995) - previously, M21-1, 6.04(e) (Change 150, Jan. 24, 1977).
+
+round 14, index 34: 
+If PTSD is diagnosed, the examiner must specify what specific stressor was the basis of the diagnosis.
+
+round 15, index 36: 
+Then readjudicate the veteran's claim for service connection for PTSD based on the additional evidence obtained.
+
+round 16, index 33: 
+Notify the examiner that only those stressors that were confirmed, or otherwise presumed confirmed, are to be considered.
+
+round 17, index 35: 
+Also ask that he/she discuss the rationale for their medical opinion based on a review of the other relevant evidence in the claims file.
+
+round 18, index 31: 
+Prepare a list of the stressors that were confirmed or, if applicable, those presumed to be credible if the veteran engaged in combat and his stressors are combat related.
+
+round 19, index 32: 
+If there is proof of at least one stressor, schedule the veteran for a VA psychiatric examination to obtain a medical opinion indicating whether it is at least as likely as not that he has PTSD due to that stressor(s).
+
+round 20, index 29: 
+If it is determined the veteran did not engage in combat with the enemy in Vietnam, or that his alleged stressor is not combat related, then attempt to verify his purported stressors in service by all appropriate means.
+
+round 21, index 30: 
+This includes, if necessary, contacting the USASCURR or other appropriate authority.
+
+round 22, index 28: 
+This includes any helpful information such as a statements from fellow servicemen who witnessed the incidents.
+
+round 23, index 19: 
+And as already indicated, asking this level of detail and information does not place an impossible or onerous task on him.
+
+round 24, index 27: 
+He should be informed of his personal responsibility and critical need to provide this information to support his claim.
+
+round 25, index 25: 
+This includes, but is not limited to, his ongoing treatment from clinicians Mills, Nolan, and Solomon.2.
+
+round 26, index 2: 
+To support his claim, the veteran testified at a hearing at the RO in December 2004 before the undersigned Veterans Law Judge (VLJ) of the Board.
+
+round 27, index 17: 
+So he must be given another opportunity to provide more specific information, as more details are still needed.
+
+round 28, index 21: 
+The duty to assist also includes, when necessary to decide a case, an obligation to conduct a thorough and contemporaneous examination to obtain a medical opinion.
+
+round 29, index 18: 
+In remanding this case to give the veteran this additional opportunity, the Board feels compelled to reiterate that he must accept some personal responsibility in the verification of his alleged stressors by providing the requested names, dates and places in question.
+
+round 30, index 11: 
+Although the veteran has received a diagnosis of PTSD stemming from his alleged experiences in service, these experiences have not been verified.
+
+round 31, index 14: 
+During his December 2004 hearing, however, the veteran provided more details regarding his claimed experiences in service.
+
+round 32, index 0: 
+The veteran served on active duty from October 1969 to September 1973.
+
+round 33, index 1: 
+This case comes before the Board of Veterans' Appeals (Board) on appeal from a September 2003 rating decision of the Oakland, California, Department of Veterans Affairs (VA) Regional Office (RO).
+
+round 34, index 12: 
+The RO already has requested that he furnish a list of his claimed stressors in service, however, his response did not provide sufficient detail (insofar as names, places and dates) to enable the RO to verify the alleged incidents.
+
+round 35, index 13: 
+The Court also held in Wood that asking him to provide this level of detail and information does not place an impossible or onerous burden on him.
+
+round 36, index 9: 
+If, however, VA determines either that the veteran did not engage in combat with the enemy or that he did engage in combat, but that the alleged stressor is not combat related, then his lay testimony, in and of itself, is not sufficient to establish the occurrence of the alleged stressor.
+
+round 37, index 10: 
+Instead, the record must contain other objective information that corroborates his testimony or statements.
+
+round 38, index 15: 
+He claimed that he has PTSD as a result of numerous stressors while serving as a radio operator aboard a P-3 Orion aircraft, witnessing another P-3 Orion crash, and undergoing survival, evasion, resistance and escape (SERE) training.
+
+round 39, index 4: 
+Service connection may be established for disability resulting from a personal injury sustained or a disease contracted in the line of duty, or for aggravation during service of a pre-existing condition beyond its natural progression.
+
+round 40, index 5: 
+Service connection for PTSD, in particular, requires medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a); a link, established by medical evidence, between current symptoms and an in-service stressor; and credible supporting evidence that the claimed in-service stressor occurred.
+
+round 41, index 16: 
+His service personnel records do not corroborate any of these incidents.
+
+round 42, index 6: 
+The diagnosis of PTSD must comply with the criteria set forth in the American Psychiatric Association's Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (DSM- IV).
+
+round 43, index 0: 
+The veteran served on active duty from October 1969 to September 1973.
+
+round 44, index 0: 
+The veteran served on active duty from October 1969 to September 1973.
+
+round 45, index 0: 
+The veteran served on active duty from October 1969 to September 1973.
+
+round 46, index 0: 
+The veteran served on active duty from October 1969 to September 1973.
+
+round 47, index 0: 
+The veteran served on active duty from October 1969 to September 1973.
+
+round 48, index 0: 
+The veteran served on active duty from October 1969 to September 1973.
+
+round 49, index 0: 
+The veteran served on active duty from October 1969 to September 1973.
+
+round 50, index 8: 
+If VA determines the veteran engaged in combat with the enemy and his alleged stressor is combat-related, then his lay testimony or statement is accepted as conclusive evidence of the stressor's occurrence and no further development or corroborative evidence is required-provided that such testimony is found to be "satisfactory," i.e., credible, and "consistent with the circumstances, conditions, or hardships of service."
+
+round 51, index 0: 
+The veteran served on active duty from October 1969 to September 1973.
+
+round 52, index 0: 
+The veteran served on active duty from October 1969 to September 1973.
+
+round 53, index 7: 
+The evidence necessary to establish that the claimed stressor actually occurred varies depending on whether the veteran "engaged in combat with the enemy," as established by recognized military combat citations or other official records.
+
+round 54, index 0: 
+The veteran served on active duty from October 1969 to September 1973.
+
+round 55, index 0: 
+The veteran served on active duty from October 1969 to September 1973.
+
+round 56, index 0: 
+The veteran served on active duty from October 1969 to September 1973.
+
+round 57, index 0: 
+The veteran served on active duty from October 1969 to September 1973.
+
+round 58, index 0: 
+The veteran served on active duty from October 1969 to September 1973.
+
+round 59, index 0: 
+The veteran served on active duty from October 1969 to September 1973.
+

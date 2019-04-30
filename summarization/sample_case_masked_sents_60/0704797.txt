@@ -1,0 +1,180 @@
+round 0, index 39: 
+Entitlement to service connection for post-traumatic stress disorder is denied.
+
+round 1, index 40: 
+M. E. LARKIN Acting Veterans Law Judge, Board of Veterans' Appeals Department of Veterans Affairs
+
+round 2, index 9: 
+PTSD was not incurred in or aggravated by service.
+
+round 3, index 31: 
+Specifically, VA notified the veteran of information and evidence necessary to substantiate the claim;
+
+round 4, index 28: 
+The preponderance of the evidence of record is against a grant of service connection for PTSD.
+
+round 5, index 29: 
+The benefit-of-the-doubt doctrine does not apply.
+
+round 6, index 30: 
+In correspondence dated in May 2005, VA satisfied its duty to notify the veteran under 38 U.S.C.A. § 5103(a) and 38 C.F.R.
+
+round 7, index 32: 
+information and evidence that VA would seek to provide; and information and evidence that the veteran was expected to provide.
+
+round 8, index 33: 
+The veteran was instructed to submit any evidence in his possession that pertained to his claim.
+
+round 9, index 37: 
+VA has done everything reasonably possible to assist the veteran with respect the claims decided herein.
+
+round 10, index 34: 
+VA subsequently readjudicated the claim based on all the evidence in May and November 2006, without taint from prior adjudications.
+
+round 11, index 35: 
+Thus, the veteran was not precluded from participating effectively in the processing of his claim and any deficiency in the notice did not affect the essential fairness of the decision.
+
+round 12, index 10: 
+Service connection may be granted for a disability resulting from a disease or injury incurred in or aggravated by service.
+
+round 13, index 8: 
+There is no credible supporting evidence of record that the appellant's claimed in-service stressors occurred.
+
+round 14, index 38: 
+Service medical records and post-service medical records have been associated with the claims file and efforts were made to officially confirm the stressors described by the veteran.
+
+round 15, index 36: 
+Because service connection is denied for PTSD, any question as to the appropriate disability rating or effective date is moot, and there can be no failure to notify prejudice to the veteran.
+
+round 16, index 27: 
+There is no such credible supporting evidence in this case of the occurrence of either of the appellant's two claimed in-service stressors.
+
+round 17, index 26: 
+Although the appellant received a diagnosis of PTSD during hospitalization in 1995 at a VA medical facility and the record includes subsequent diagnoses of PTSD, service connection may not be granted for PTSD unless all of the requirements of 38 C.F.R. § 3.304(f) have been fulfilled, including, for a stressor or stressors not related to combat, credible supporting evidence of the occurrence of the claimed stressor(s) on which the diagnosis of PTSD was based by the psychiatrist, psychologist, or other mental health professional who rendered it.
+
+round 18, index 11: 
+Service connection for PTSD requires (i) medical evidence diagnosing PTSD, (ii) a link, established by medical evidence, between current symptoms and an in-service stressor, and (iii) credible supporting evidence that the in-service stressor occurred.
+
+round 19, index 25: 
+No supporting evidence whatsoever having been presented or identified, there is no credible evidence that the appellant's second claimed in-service stressor occurred.
+
+round 20, index 12: 
+If the evidence establishes that the veteran engaged in combat with the enemy and the claimed stressor is related to that combat, in the absence of clear and convincing evidence to the contrary, and provided that the claimed stressor is consistent with the circumstances, conditions, or hardships of the veteran's service, the veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor.
+
+round 21, index 13: 
+If, however, VA determines that the veteran did not engage in combat with the enemy, the veteran's lay testimony, by itself, is not sufficient to establish the occurrence of the alleged stressor.
+
+round 22, index 16: 
+There is nothing in the claims folder to indicate that the reported incidents were incurred during combat and the veteran does not allege that they are related to combat.
+
+round 23, index 14: 
+Instead, the record must contain credible supporting evidence which corroborates the veteran's testimony or statements.
+
+round 24, index 15: 
+In this case, there is no dispute as to whether the appellant's alleged in-service stressors are related to combat.
+
+round 25, index 17: 
+The appellant has claimed to have experienced the following two stressors during service: (1) in December 1968, during a period of time when he was in the custody of Air Force military police and detention facility personnel, he was subjected to physical and psychological abuse by military prison guards whose names and identities he has not provided to VA and; (2) in January 1969, his reaction to being involved in the collision of two Air Force jeeps while he was a passenger in one of the jeeps being transported from one
+
+round 26, index 24: 
+The veteran and his representative have not submitted to VA any supporting evidence tending to show that such an incident occurred at the time and place described by him.
+
+round 27, index 5: 
+For good cause shown, a motion to advance this appeal on the Board's docket has been granted under the authority of 38 U.S.C.A. § 7107(a) (West 2002) and 38 C.F.R. § 20.900(c) (2006).   1.
+
+round 28, index 19: 
+In written statements to VA and in hearing testimony, the appellant has said that the other jeep rolled over and that the driver or one of the passengers in the other jeep was seriously injured and may have died as a result of injuries in such jeep accident.
+
+round 29, index 7: 
+The appellant's claimed in-service stressors have not been verified by official military records.
+
+round 30, index 18: 
+Air Force base in Alabama to another one for an appearance in a military court.
+
+round 31, index 4: 
+In January 2005, the Board remanded this case.
+
+round 32, index 1: 
+This appeal to the Board of Veterans' Appeals (Board) arises from rating decisions in April 1996 and May 1997 by the Waco, Texas, Regional Office (RO) of the Department of Veterans
+
+round 33, index 2: 
+In September, the appellant testified at a hearing before the undersigned Acting Veterans Law Judge at the RO.
+
+round 34, index 3: 
+A transcript of that hearing is of record.
+
+round 35, index 6: 
+The in-service stressors claimed by the appellant are not related to military combat with an enemy of the United States of America.
+
+round 36, index 0: 
+The appellant had active air service from June 1968 to March 1969, with time lost by reason of being absent without leave (AWOL) from duty in December 1968 and January 1969.
+
+round 37, index 21: 
+With regard to the first claimed in-service stressor, the appellant has not submitted any supporting evidence, such as an affidavit by an eyewitness or by some other person claiming to have personal knowledge of the appellant's alleged abuse in December 1968 by the military prison guards, nor has he or his representative identified any existing evidence which would tend to support or corroborate the appellant's statements concerning such alleged abuse.
+
+round 38, index 22: 
+With regard to the appellant's second claimed in-service stressor arising out of an alleged collision of two military jeeps, VA requested that the U.S. Army and Joint Services Records Research Center (JSRRC) attempt by research of official military records to verify that in January 1969 a collision with personal injuries of two Air Force jeeps occurred in Alabama.
+
+round 39, index 20: 
+In a May 2005 response to a VA request for information, the Air Force Office of Special Investigations reported that no records were found to confirm either incident.
+
+round 40, index 0: 
+The appellant had active air service from June 1968 to March 1969, with time lost by reason of being absent without leave (AWOL) from duty in December 1968 and January 1969.
+
+round 41, index 23: 
+In March 2006, the JSRRC reported to VA that after extensive research, the jeep accident as described by the appellant could not be documented.
+
+round 42, index 0: 
+The appellant had active air service from June 1968 to March 1969, with time lost by reason of being absent without leave (AWOL) from duty in December 1968 and January 1969.
+
+round 43, index 0: 
+The appellant had active air service from June 1968 to March 1969, with time lost by reason of being absent without leave (AWOL) from duty in December 1968 and January 1969.
+
+round 44, index 0: 
+The appellant had active air service from June 1968 to March 1969, with time lost by reason of being absent without leave (AWOL) from duty in December 1968 and January 1969.
+
+round 45, index 0: 
+The appellant had active air service from June 1968 to March 1969, with time lost by reason of being absent without leave (AWOL) from duty in December 1968 and January 1969.
+
+round 46, index 0: 
+The appellant had active air service from June 1968 to March 1969, with time lost by reason of being absent without leave (AWOL) from duty in December 1968 and January 1969.
+
+round 47, index 0: 
+The appellant had active air service from June 1968 to March 1969, with time lost by reason of being absent without leave (AWOL) from duty in December 1968 and January 1969.
+
+round 48, index 0: 
+The appellant had active air service from June 1968 to March 1969, with time lost by reason of being absent without leave (AWOL) from duty in December 1968 and January 1969.
+
+round 49, index 0: 
+The appellant had active air service from June 1968 to March 1969, with time lost by reason of being absent without leave (AWOL) from duty in December 1968 and January 1969.
+
+round 50, index 0: 
+The appellant had active air service from June 1968 to March 1969, with time lost by reason of being absent without leave (AWOL) from duty in December 1968 and January 1969.
+
+round 51, index 0: 
+The appellant had active air service from June 1968 to March 1969, with time lost by reason of being absent without leave (AWOL) from duty in December 1968 and January 1969.
+
+round 52, index 0: 
+The appellant had active air service from June 1968 to March 1969, with time lost by reason of being absent without leave (AWOL) from duty in December 1968 and January 1969.
+
+round 53, index 0: 
+The appellant had active air service from June 1968 to March 1969, with time lost by reason of being absent without leave (AWOL) from duty in December 1968 and January 1969.
+
+round 54, index 0: 
+The appellant had active air service from June 1968 to March 1969, with time lost by reason of being absent without leave (AWOL) from duty in December 1968 and January 1969.
+
+round 55, index 0: 
+The appellant had active air service from June 1968 to March 1969, with time lost by reason of being absent without leave (AWOL) from duty in December 1968 and January 1969.
+
+round 56, index 0: 
+The appellant had active air service from June 1968 to March 1969, with time lost by reason of being absent without leave (AWOL) from duty in December 1968 and January 1969.
+
+round 57, index 0: 
+The appellant had active air service from June 1968 to March 1969, with time lost by reason of being absent without leave (AWOL) from duty in December 1968 and January 1969.
+
+round 58, index 0: 
+The appellant had active air service from June 1968 to March 1969, with time lost by reason of being absent without leave (AWOL) from duty in December 1968 and January 1969.
+
+round 59, index 0: 
+The appellant had active air service from June 1968 to March 1969, with time lost by reason of being absent without leave (AWOL) from duty in December 1968 and January 1969.
+

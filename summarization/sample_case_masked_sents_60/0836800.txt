@@ -1,0 +1,180 @@
+round 0, index 91: 
+Service connection for PTSD is denied.
+
+round 1, index 90: 
+As the preponderance of the evidence is against the claim, the benefit of the doubt doctrine is not for application.
+
+round 2, index 9: 
+(2)
+
+round 3, index 10: 
+that VA will seek to provide; (3) that the claimant is expected to provide; and (4) must ask the claimant to provide any evidence in her or his possession that pertains to the claim in accordance with
+
+round 4, index 14: 
+The letter informed the appellant of what evidence was required to substantiate the claim and of the appellant's and VA's respective duties for obtaining evidence.
+
+round 5, index 88: 
+Although the Board does not doubt the veteran's belief that his PTSD was incurred or aggravated during service, he is not a medical professional competent to render an opinion on matters of a medical diagnosis or the etiology of a diagnosed disorder.
+
+round 6, index 89: 
+Overall, the Board finds that the evidence shows that the veteran did not incur or aggravate PTSD during active duty.
+
+round 7, index 8: 
+Proper notice from VA must inform the claimant of any information and evidence not of record (1) that is necessary to substantiate the claim;
+
+round 8, index 15: 
+In this case, although the notice provided did not address either the rating criteria or effective date provisions that are pertinent to the appellant's claim, such error was harmless given that service connection is being denied, and hence no rating or effective date will be assigned with respect to this claimed condition.
+
+round 9, index 13: 
+Here, the VCAA duty to notify was satisfied by way of a letter sent to the appellant in June 2003 that fully addressed all necessary notice elements and was sent prior to the initial AOJ decision in this matter.
+
+round 10, index 7: 
+Upon receipt of a complete or substantially complete application for benefits, VA is required to notify the claimant and his or her representative, if any, of any information, and any medical or lay evidence, that is necessary to substantiate the claim.
+
+round 11, index 12: 
+For claims pending before VA on or after May 30, 2008, 38 C.F.R. § 3.159 was amended to eliminate the requirement that VA request that a claimant submit any evidence in his or her possession that might substantiate the claim.
+
+round 12, index 11: 
+This notice must be provided prior to an initial unfavorable decision on a claim by the agency of original jurisdiction (AOJ).
+
+round 13, index 16: 
+VA has a duty to assist the veteran in the development of the claim.
+
+round 14, index 17: 
+This duty includes assisting the veteran in the procurement of service medical records and pertinent treatment records and providing an examination when necessary.
+
+round 15, index 18: 
+The Board finds that all necessary development has been accomplished, and therefore appellate review may proceed without prejudice to the appellant.
+
+round 16, index 92: 
+Veterans Law Judge, Board of Veterans' Appeals Department of Veterans Affairs
+
+round 17, index 39: 
+Service connection may be granted if the evidence demonstrates that a current disability resulted from an injury or disease incurred or aggravated in active military service.
+
+round 18, index 19: 
+The RO has obtained VA and private outpatient treatment reports.
+
+round 19, index 4: 
+Service connection for PTSD is not warranted.
+
+round 20, index 5: 
+Veterans Claims Assistance Act of 2000 (VCAA)
+
+round 21, index 6: 
+As provided for by the VCAA, VA has a duty to notify and assist claimants in substantiating a claim for VA benefits.
+
+round 22, index 3: 
+The competent medical evidence, overall, does not show that the veteran's active duty caused PTSD or aggravated preexisting PTSD.
+
+round 23, index 20: 
+The veteran was provided an opportunity to set forth his contentions during a hearing before the undersigned Veterans Law Judge in June 2008.
+
+round 24, index 21: 
+The appellant was afforded VA medical examinations in May 2004 and April 2006.
+
+round 25, index 22: 
+Significantly, neither the appellant nor his representative has identified, and the record does not otherwise indicate, any additional existing evidence that is necessary for a fair adjudication of the claim that has not been obtained.
+
+round 26, index 40: 
+Service connection generally requires evidence of a current disability with a relationship or connection to an injury or disease or some other manifestation of the disability during service.
+
+round 27, index 23: 
+The transcript of the Board hearing reflects that the record was held open for 60 days in order to enable the veteran to obtain relevant medical records, but no such information has been provided to VA for consideration.
+
+round 28, index 41: 
+A disorder may be service-connected if the evidence of record reveals that the veteran currently has a disorder that was chronic in service or, if not chronic, that was seen in service with continuity of symptomatology demonstrated thereafter.
+
+round 29, index 42: 
+Disorders diagnosed after discharge may still be service-connected if all the evidence, including pertinent service records, establishes that the disorder was incurred in service.
+
+round 30, index 72: 
+The report of his December 1987 separation medical examination notes that his psychiatric evaluation was normal.
+
+round 31, index 43: 
+Where the determinative issue involves medical causation or a medical diagnosis, there must be competent medical evidence to the effect that the claim is plausible; lay assertions of medical status do not constitute competent medical evidence.
+
+round 32, index 76: 
+Dr.
+
+round 33, index 0: 
+The veteran served on active duty from December 1984 to December 1987.
+
+round 34, index 1: 
+This case is before the Board of Veterans' Appeals (BVA or Board) on appeal from a May 2004 rating decision of the
+
+round 35, index 2: 
+Department of Veterans Affairs (VA) Regional Office in Atlanta, Georgia (RO), which denied the benefit sought on appeal.
+
+round 36, index 24: 
+At the time of the hearing the veteran submitted an August 2007 determination by the Social Security Administration (SSA) that found him disabled as of December 2005.
+
+round 37, index 73: 
+It identifies no pertinent defects or diagnoses.
+
+round 38, index 57: 
+Clear and unmistakable evidence is a more formidable evidentiary burden than the preponderance of the evidence standard.
+
+round 39, index 74: 
+The veteran denied all psychiatric complaints on his December 1987 separation report of medical history.
+
+round 40, index 44: 
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination, the benefit of the doubt is afforded the claimant.
+
+round 41, index 45: 
+Service connection for PTSD, in particular, requires: (1) medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a) (i.e., DSM-IV); (2) credible supporting evidence that the claimed in-service stressor(s) occurred; and (3) medical evidence establishing a link between the current diagnosis and the stressor(s) in service.
+
+round 42, index 58: 
+(noting that "clear and convincing" burden of proof, while a higher standard than a preponderance of the evidence, is a lower burden to satisfy than clear and unmistakable evidence).
+
+round 43, index 59: 
+It is an "onerous" evidentiary standard, requiring that the no-aggravation result be "undebatable".
+
+round 44, index 38: 
+The veteran's service medical records confirm the motor vehicle accident (MVA).
+
+round 45, index 71: 
+In so finding, the Board observes that the veteran's service medical records are negative for psychiatric complaints, symptoms, findings or diagnoses.
+
+round 46, index 36: 
+He had to do his usual duties although he was too injured.
+
+round 47, index 46: 
+As an initial matter, medical evidence of record raises a question of whether the veteran had preexisting PTSD at the time of his enlistment.
+
+round 48, index 83: 
+He denied efforts to avoid thoughts, feeling or conversations associated with the MVA as well as efforts to avoid activities, places or people that aroused recollection of the event.
+
+round 49, index 60: 
+Concerning clear and unmistakable evidence that the disease or injury was not aggravated by service, the second step necessary to rebut the presumption of soundness, a lack of aggravation may be shown by establishing that there was no increase in disability during service or that any increase in disability was due to the natural progress of the preexisting condition.
+
+round 50, index 26: 
+The veteran also submitted some corresponding medical records relied on by SSA.
+
+round 51, index 81: 
+The report of a May 2004 VA psychiatric examination reflects that the veteran denied recurrent recollection of the 1987 MVA.
+
+round 52, index 28: 
+The fact that the veteran has already submitted some of these medical records suggests that he has submitted all that he deems relevant to his claim.
+
+round 53, index 53: 
+The report identifies no pertinent defects or diagnoses.
+
+round 54, index 82: 
+He denied intense distress at exposure to a similar event as well as physiological or psychological distress at the exposure of any event that would resemble or remind him of the event.
+
+round 55, index 86: 
+Therefore, the examiner stated that the GAF score of 55 preexisted the inservice MVA and there was no lasting worsening of the problem.
+
+round 56, index 35: 
+Accordingly, when the veteran returned to ship he was not given any medical treatment for a week.
+
+round 57, index 37: 
+Fellow sailors accused him of being drunk and crippling the passenger.
+
+round 58, index 85: 
+The MVA was not sufficient to alter, but momentarily, the veteran's current Global Assessment of Functioning score of 55.
+
+round 59, index 31: 
+Hence, no further notice or assistance to the appellant is required to fulfill VA's duty to assist the appellant in the development of the claim.
+

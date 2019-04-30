@@ -1,0 +1,403 @@
+#Procedure#
+Citation Nr: 1204515
+
+#Procedure#
+Decision Date: 02/06/12    Archive Date: 02/16/12
+
+#Procedure#
+DOCKET NO.  07-09 145
+
+#Header#
+DATE
+
+#Procedure#
+On appeal from the
+Department of Veterans Affairs Regional Office in Cleveland, Ohio
+
+#Header#
+THE ISSUE
+
+#Procedure#
+Entitlement to service connection for post-traumatic stress disorder (PTSD).
+
+#Header#
+REPRESENTATION
+
+#Procedure#
+Veteran represented by:	The American Legion
+
+#Header#
+ATTORNEY FOR THE BOARD
+
+#Procedure#
+J.A. Flynn, Associate Counsel
+
+#Header#
+INTRODUCTION
+
+#Evidence#
+The Veteran served in the United States Army from October 1967 to October 1970.
+
+#Evidence#
+Among other decorations, the Veteran was awarded the Purple Heart for his combat experience in the Republic of Vietnam (Vietnam). 
+
+#Procedure#
+This case comes before the Board of Veterans' Appeals (Board) on appeal from a March 2006 rating decision rendered by the Department of Veterans Affairs (VA) Regional Office (RO) in Cleveland, Ohio.  
+
+#LegalRule#
+Although, as in the instant case, a veteran's stated claim may only seek service connection for a particular psychiatric disorder, the United States Court of Appeals for Veterans Claims (Court) has held that such a claim "cannot be a claim limited only to that diagnosis, but must rather be considered a claim for any mental disability that may be reasonably encompassed."
+
+#Citation#
+Clemons v. Shinseki, 23 Vet. App. 1, 5 (2009).
+
+#LegalPolicy#
+In essence, a veteran does not file a claim to receive benefits for a particular psychiatric diagnosis that is named on a claims form, but instead makes a general claim for compensation for the difficulties posed by the veteran's mental condition.
+
+#Evidence#
+In the instant case, review of the Veteran's claims file reflects that the Veteran has been diagnosed with various psychiatric disorders in addition to PTSD, to include depression, not otherwise specified and general anxiety disorder.
+
+#Evidence#
+The RO developed the Veteran's claim for PTSD separately prior to Clemons.
+
+#Evidence#
+Moreover, the RO developed and denied a separate claim for anxiety disorder in September 2007.
+
+#EvidenceBasedFinding#
+ The Veteran has not expressed dissatisfaction with that decision, and thus, that issue is not presently in appellate status.
+
+#Citation#
+See Archbold v. Brown, 9 Vet. App. 124, 130 (1996) (stating that pursuant to 38 U.S.C.A. § 7105(a), the filing of a notice of disagreement initiates appellate review in the VA administrative adjudication process, and the request for appellate review is completed by the claimant's filing of a substantive appeal after a statement of the case is issued by VA.)
+
+#Procedure#
+In light of above, notwithstanding Clemons, the Board will continue to address the Veteran's PTSD claim separately from his other claim for an acquired psychiatric disorder.
+
+#Procedure#
+This case was previously before the Board in November 2010, when it remanded the Veteran's claim in order to solicit additional information from the Veteran regarding a psychological evaluation completed in conjunction with a domestic dispute in May 1993.
+
+#Evidence#
+As discussed in further detail below, by a November 2010 letter, the Appeals Management Center (AMC) requested the Veteran's assistance to obtain such records, with no response from the Veteran.
+
+#EvidenceBasedFinding#
+The Board finds that its remand instructions have been substantially complied with, and the Board will proceed in adjudicating the Veteran's claim.
+
+#Citation#
+See Stegall v. West, 11 Vet. App. 268, 271 (1998) (noting that when the remand orders of the Board are not complied with, the Board errs as a matter of law when it fails to ensure compliance); see also D'Aries v. Peake, 22 Vet. App. 97, 105 (2008); Dyment v. West, 13 Vet. App. 141, 146-47 (1999).
+
+#Header#
+FINDING OF FACT
+
+#EvidenceBasedFinding#
+The evidence does not show that the Veteran currently has PTSD or that such disability existed at any time during the course of the appeal. 
+
+#Header#
+CONCLUSION OF LAW
+
+#ConclusionOfLaw#
+PTSD was not incurred in or aggravated by the Veteran's active military service.
+
+#Citation#
+38 U.S.C.A. §§ 1110, 1131, 5103, 5103A, 5107 (West 2002 & Supp. 2011); 38 C.F.R. §§ 3.159, 3.102, 3.303, 3.310 (2011).
+
+#Header#
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+#Header#
+The Veterans Claims Assistance Act of 2000 (VCAA)
+
+#LegalPolicy#
+The Board has given consideration to the VCAA, which includes an enhanced duty on the part of VA to notify a veteran of the information and evidence necessary to substantiate claims for VA benefits.
+
+#Citation#
+See 38 U.S.C.A. §§ 5103, 5103A (West 2002 & Supp. 2011); 38 C.F.R. § 3.159 (2011).
+
+#LegalPolicy#
+The VCAA also redefines the obligations of VA with respect to its statutory duty to assist veterans in the development of their claims.
+
+#Citation#
+See 38 U.S.C.A. §§ 5103, 5103A (West 2002 & Supp. 2011).
+
+#LegalRule#
+Upon receipt of a complete or substantially complete application for benefits, VA is required to notify the claimant and her representative, if any, of any information, and any medical or lay evidence, that is necessary to substantiate the claim.
+
+#Citation#
+See 38 U.S.C.A. § 5103(a) (West 2002); 38 C.F.R. § 3.159(b) (2011); Quartuccio v. Principi, 16 Vet. App. 183 (2002).
+
+#LegalRule#
+Proper notice from VA must inform the claimant of any information and evidence not of record (1) that is necessary to substantiate the claim; (2) that VA will seek to provide; and (3) that the claimant is expected to provide.
+
+#LegalRule#
+This notice must be provided prior to an initial unfavorable decision on a claim by the agency of original jurisdiction.
+
+#Citation#
+See Mayfield v. Nicholson, 444 F.3d 1328 (Fed. Cir. 2006); Pelegrini v. Principi, 18 Vet. App. 112 (2004).
+
+#LegalRule#
+In addition, the notice requirements of the VCAA apply to all five elements of a service-connection claim, including: (1) veteran status; (2) existence of a disability; (3) a connection between the veteran's service and the disability; (4) degree of disability; and (5) effective date of the disability.
+
+#Citation#
+See Dingess v. Nicholson, 19 Vet. App. 473 (2006).
+
+#LegalRule#
+Further, this notice must include information that a disability rating and an effective date for the award of benefits will be assigned if service connection is awarded.
+
+#Citation#
+See id. at 486.
+
+#LegalPolicy#
+Determinations concerning prejudicial error and harmless error should be made on a case-by-case basis.
+
+#Citation#
+See Shinseki v. Sanders, 129 S.Ct. 1696 (2009).
+
+#EvidenceBasedReasoning#
+In the instant case, correspondence dated August 2005 notified the Veteran of information and evidence necessary to substantiate the claim; information and evidence that VA would seek to provide; and information and evidence that the Veteran was expected to provide.
+
+#EvidenceBasedReasoning#
+The Veteran filed his claim prior to the Court's 2006 decision in Dingess, and as such, he was not provided with full Dingess notice at the time of the August 2005 VCAA letter.
+
+#EvidenceBasedReasoning#
+Instead, in March 2006, pursuant to the Court's holding in Dingess, the Veteran was provided with notice regarding the degree of disability and effective date.
+
+#EvidenceBasedFinding#
+Additionally, since the time of the March 2006 Dingess notice, the Veteran has been provided with several readjudications of his claim, and the Board finds that there has been no prejudice to the Veteran requiring additional notice.
+
+#EvidenceBasedFinding#
+The Board finds that the notice provisions of the VCAA have been fulfilled, and that no further notice is necessary.
+
+#EvidenceBasedReasoning#
+With respect to the duty to assist, VA has done everything reasonably possible to assist the Veteran with respect to his claim for benefits in accordance with 38 U.S.C.A. § 5103A (West 2002) and 38 C.F.R. § 3.159(c) (2011).
+
+#Evidence#
+Service treatment records have been associated with the claims file.
+
+#Evidence#
+All identified and available post-service treatment records have been secured, which include VA treatment records.
+
+#Evidence#
+The Veteran's representative provided court records from a domestic relations matter that suggested that the Veteran may have undergone a psychiatric evaluation around May 2003.
+
+#Evidence#
+Acknowledging the potential probative value of such records, the Board's November 2010 Remand instructed the AMC to contact the Veteran to provide additional information in order to obtain these records.
+
+#Evidence#
+Accordingly, in November 2010, the AMC sent a letter requested the Veteran's assistance to obtain these records.
+
+#Evidence#
+To date, the Veteran has not responded to this request for additional information.
+
+#Evidence#
+Additionally, the Veteran was provided with a VA examination in February 2006.
+
+#EvidenceBasedReasoning#
+The examination report indicates that the examiner reviewed the Veteran's claim file, past medical history, recorded his current complaints, conducted an appropriate evaluation, and rendered an appropriate diagnosis and opinion consistent with the remainder of the evidence of record.
+
+#EvidenceBasedFinding#
+The Board, therefore, concludes that this examination report is adequate for the purposes of rendering a decision in the instant appeal.
+
+#Citation#
+See 38 C.F.R. § 4.2 (2011); see also Barr v. Nicholson, 21 Vet. App. 303, 312 (2007).
+
+#EvidenceBasedReasoning#
+Neither the Veteran nor his representative has contended otherwise.
+
+#Evidence#
+The Veteran requested a hearing on his VA Form 9, substantive appeal.
+
+#Evidence#
+Accordingly, the Veteran was scheduled to appear for a hearing with a Veterans Law Judge in April 2008.
+
+#Evidence#
+The Veteran failed to report for this hearing.
+
+#Evidence#
+The Veteran provided no explanation for his failure to report, and he has not since requested a rescheduling of the hearing.
+
+#EvidenceBasedFinding#
+The Veteran's hearing request, therefore, is deemed withdrawn.
+
+#Citation#
+See 38 C.F.R. §§ 20.702(d); 20.704(d) (2011).
+
+#EvidenceBasedFinding#
+Thus, the duties to notify and assist have been met, and the Board will proceed to a decision.
+
+#Header#
+Service Connection
+
+#LegalRule#
+Service connection may be granted for disability or injury incurred in or aggravated by active military service.
+
+#Citation#
+38 U.S.C.A. §§ 1110, 1131 (West 2002); 38 C.F.R.        § 3.303(a) (2011).
+
+#LegalRule#
+In the absence of medical evidence or persuasive probative lay evidence showing the Veteran has the condition alleged, service connection is not warranted.
+
+#LegalPolicy#
+The case law is well-settled on this point.
+
+#LegalRule#
+In order for a claimant to be granted service connection for a claimed disability, there must be evidence of a current disability.
+
+#Citation#
+See Wamhoff v. Brown, 8 Vet. App. 517, 521 (1996); Brammer v. Derwinski, 3 Vet. App. 223, 225 (1992) (noting that service connection is limited to cases in which the service incident has resulted in a disability, and in the absence of proof of a present disability, there can be no valid claim); see also Rabideau v. Derwinski, 2 Vet. App. 141, 144 (1992) (stating that service connection claim must be accompanied by evidence establishing the claimant currently has the claimed disability).
+
+#LegalRule#
+Service connection may also be granted for any disease initially diagnosed after service, when the evidence establishes that the disease was incurred in service.
+
+#Citation#
+See 38 U.S.C.A. § 1113(b) (West 2002); 38 C.F.R. § 3.303(d) (2011); Cosman v. Principi, 3 Vet. App. 503, 505 (1992).
+
+#LegalRule#
+The disease entity for which service connection is sought must be chronic rather than acute and transitory in nature.
+
+#LegalRule#
+For the showing of chronic disease in service, a combination of manifestations must exist sufficient to identify the disease entity and sufficient observation to establish chronicity at the time, as distinguished from merely isolated findings or a diagnosis including the word "chronic."
+
+#LegalRule#
+Continuity of symptomatology is required when the condition noted during service is not shown to be chronic or where the diagnosis of chronicity may be legitimately questioned.
+
+#Citation#
+38 C.F.R. § 3.303(b) (2011).
+
+#LegalRule#
+Service connection for PTSD requires: (1) medical evidence diagnosing PTSD; (2) credible supporting evidence that the claimed in-service stressor actually occurred; and (3) medical evidence of a link between the Veteran's current symptomatology and the claimed in-service stressor.
+
+#Citation#
+See 38 C.F.R. § 3.304(f) (2011); see also Cohen v. Brown, 10 Vet. App. 128 (1997).
+
+#LegalPolicy#
+The regulations pertaining to PTSD were recently amended, and 38 C.F.R. §3.304(f)(3) no longer requires the verification of an in-service stressor if the Veteran was in a location involving "fear of hostile military or terrorist activity."
+
+#LegalPolicy#
+Such a location can be evidenced by awards such as the Iraq Campaign Medal or the Vietnam Service Medal.
+
+#LegalPolicy#
+Lay testimony alone can be used to establish the occurrence of an in-service stressor in these situations.
+
+#LegalRule#
+The new regulatory provision requires that: (1) A VA psychiatrist or psychologist, or contract equivalent, must confirm that the claimed stressor is adequate to support a diagnosis of PTSD; (2) the claimed stressor is consistent with the places, types, and circumstances of the Veteran's service; and (3) the Veteran's symptoms are related to the claimed stressor.
+
+#Citation#
+Id.
+
+#LegalRule#
+The liberalizing criteria contained in the new § 3.304(f)(3) will be applied to PTSD service connection claims that are pending as of the effective date of the regulation (July 13, 2010) and to claims filed on or after this effective date.
+
+#LegalRule#
+After the evidence has been assembled, it is the Board's responsibility to evaluate the entire record.
+
+#Citation#
+See 38 U.S.C.A. § 7104(a) (West 2002).
+
+#LegalRule#
+When there is an approximate balance of evidence regarding the merits of an issue material to the determination of the matter, the Board resolves the benefit of the doubt for each such issue in favor of the veteran.
+
+#Citation#
+See 38 U.S.C.A. § 5107 (West 2002); 38 C.F.R. §§ 3.102, 4.3 (2011).
+
+#LegalRule#
+The Court has stated that a veteran need only demonstrate that there is an "approximate balance of positive and negative evidence" in order to prevail on a claim for benefits.
+
+#Citation#
+Gilbert v. Derwinski, 1 Vet. App. 49, 53 (1990).
+
+#LegalRule#
+To deny a claim on its merits, the preponderance of the evidence must be against the claim.
+
+#Citation#
+See Alemany v. Brown, 9 Vet. App. 518, 519 (1996) (citing Gilbert, 1 Vet. App. at 54).
+
+#EvidenceBasedReasoning#
+In the instant case, as noted above, service connection for PTSD requires the presence of a currently-diagnosed disability.
+
+#EvidenceBasedReasoning#
+The Board notes that the record contains no diagnosis of PTSD at anytime during the course of the appeal.
+
+#EvidenceBasedReasoning#
+Rather, the report of the Veteran's February 2006 VA examination stated that Veteran did not meet the criteria for PTSD.
+
+#Evidence#
+The Veteran denied recurrent nightmares related to his experience in Vietnam; he further stated that he occasionally dreamed of Vietnam but stated that such dreams did not bother him.
+
+#Evidence#
+The Veteran initially denied recurrent and intrusive memories of Vietnam, but then acknowledged that he had "some bad memories sometime[s]."
+
+#Evidence#
+The Veteran denied efforts to avoid trauma-associated conversations.
+
+#Evidence#
+The Veteran denied feelings of detachment and markedly diminished interest and participation in significant activities.
+
+#Evidence#
+The Veteran denied hypervigilance, exaggerated startle response, irritability, anger, and depression.
+
+#Evidence#
+The examiner diagnosed the Veteran with early full remission from alcohol dependence.
+
+#Evidence#
+The examiner acknowledged that the Veteran had traumatic experiences in Vietnam and that he had some PTSD signs, but he found that the Veteran did not generally meet the criteria for PTSD.
+
+#EvidenceBasedReasoning#
+Similarly, the Board has reviewed all of the Veteran's VA treatment records, and it has found no indication that the Veteran has ever been diagnosed with PTSD.
+
+#EvidenceBasedFinding#
+As the record contains no competent diagnosis of PTSD in the Veteran, the Board's consideration of entitlement to service connection for PTSD fails on the this basis alone.
+
+#EvidenceBasedReasoning#
+The evidence of record is unclear even as to whether the Veteran himself believes that he has PTSD.
+
+#Evidence#
+The Veteran, in his June 2004 claim, stated "I do have PTSD."
+
+#EvidenceBasedReasoning#
+Affording the Veteran with every possible consideration and acknowledging that the Veteran is competent to testify as to symptomatology such as the feelings that he experiences, the Veteran was provided with a VA medical examination as a result of the assertion in his June 2004 claim.
+
+#Citation#
+See Barr v. Nicholson, 21 Vet. App. 303 (2007); see also Jandreau v. Nicholson, 492 F. 3d 1372 (Fed. Cir. 2007).
+
+#Evidence#
+At his February 2006 examination, however, the Veteran stated that he "never claimed for PTSD" and did "not know the meaning of PTSD."
+
+#EvidenceBasedReasoning#
+As noted above, the objective evidence fails to show that the Veteran has had PTSD at any time during the appeal.
+
+#EvidenceBasedReasoning#
+Moreover, the Veteran, as a lay person, is not competent to opine that any psychological symptomatology is attributable to a particular underlying disability.
+
+#LegalRule#
+In the absence of any probative evidence of the existence of PTSD, service connection may not be granted.
+
+#Citation#
+See 38 C.F.R. § 3.304(f) (2011); see also Cohen v. Brown, 10 Vet. App. 128 (1997); Rabideau v. Derwinski, 2 Vet. App. 141, 144 (1992) (noting that service connection cannot be granted if the claimed disability does not exist).
+
+#EvidenceBasedFinding#
+Accordingly, there is no evidence of a current disability, and the Veteran's claim for service connection for PTSD fails on this basis alone.
+
+#EvidenceBasedReasoning#
+In reaching this conclusion, the Board considered the doctrine of reasonable doubt.
+
+#Citation#
+See 38 U.S.C.A. § 5107(b) (West 2002).
+
+#EvidenceBasedFinding#
+However, as the preponderance of the evidence is against the claim, the doctrine is not for application.
+
+#Citation#
+See Ortiz v. Principi, 274 F. 3d 1361 (Fed. Cir. 2001); Gilbert v. Derwinski, 1 Vet. App. 49 (1990).
+
+#Header#
+ORDER
+
+#ConclusionOfLaw#
+Service connection for PTSD is denied.
+
+#Procedure#
+DAVID L. WIGHT
+
+#Procedure#
+Veterans Law Judge, Board of Veterans' Appeals
+
+#Procedure#
+Department of Veterans Affairs
+

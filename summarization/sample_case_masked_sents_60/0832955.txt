@@ -1,0 +1,180 @@
+round 0, index 73: 
+Service connection for PTSD is denied.
+
+round 1, index 4: 
+PTSD was not incurred in or aggravated by active service.
+
+round 2, index 3: 
+The evidence of record does not corroborate the veteran's claimed in-service stressors.
+
+round 3, index 2: 
+The veteran did not engage in combat with the enemy.
+
+round 4, index 72: 
+Hence, no further notice or assistance is required to fulfill VA's duty to assist in the development of the claim.
+
+round 5, index 71: 
+Significantly, neither the veteran nor his representative has identified, and the record does not otherwise indicate, any additional existing evidence that is necessary for a fair adjudication of the claim that has not been obtained.
+
+round 6, index 5: 
+Under the relevant laws and regulations, service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by active service.
+
+round 7, index 54: 
+The letter informed him of what evidence was required to substantiate the claim and of his and VA's respective duties for obtaining evidence.
+
+round 8, index 46: 
+(2)
+
+round 9, index 70: 
+Therefore, the available records have been obtained in order to make an adequate determination as to this claim.
+
+round 10, index 55: 
+There is no allegation from the veteran that he has any evidence in his possession that is needed for full and fair adjudication of this claim.
+
+round 11, index 53: 
+Here, the VCAA duty to notify was satisfied by way of a letter sent to the veteran in February 2006 that fully addressed all notice elements and was sent prior to the initial RO decision in this matter.
+
+round 12, index 57: 
+With respect to the Dingess requirements, in November 2006, the RO also provided the veteran with notice of what type of information and evidence was needed to establish a disability rating, as well as notice of the type of evidence necessary to establish an effective date.
+
+round 13, index 58: 
+With that letter, the RO effectively satisfied the remaining notice requirements with respect to the issue on appeal.
+
+round 14, index 59: 
+Therefore, adequate notice was provided to the veteran prior to the transfer and certification of his case to the Board and complied with the requirements of 38 U.S.C.A. § 5103(a) and 38 C.F.R. § 3.159(b).
+
+round 15, index 56: 
+Board finds that the notification requirements of the VCAA have been satisfied as to both timing and content.
+
+round 16, index 60: 
+Next, VA has a duty to assist the veteran in the development of the claim.
+
+round 17, index 61: 
+This duty includes assisting him in the procurement of service medical records and pertinent treatment records and providing an examination when necessary.
+
+round 18, index 62: 
+In determining whether the duty to assist requires that a VA medical examination be provided or medical opinion obtained with respect to a veteran's claim for benefits, there are four factors for consideration.
+
+round 19, index 63: 
+These four factors are:  (1) competent evidence of a current disability or persistent or recurrent symptoms of a disability; (2) evidence establishing an in-service event, injury, or disease, or manifestations of certain diseases during the presumptive period; (3) an indication that the disability or symptoms may be associated with service; and (4) whether there otherwise is sufficient competent medical evidence of record to make a decision on the claim.
+
+round 20, index 64: 
+With respect to the third factor above, the types of evidence that "indicate" that a current disability "may be associated" with service include, but are not limited to, medical evidence that suggests a nexus but is too equivocal or lacking in specificity to support a decision on the merits, or credible evidence of continuity of symptomatology such as pain or other symptoms capable of lay observation.
+
+round 21, index 65: 
+The Board finds that all necessary development has been accomplished, and therefore appellate review may proceed without prejudice to the veteran.
+
+round 22, index 45: 
+Proper notice from VA must inform the claimant of any information and medical or lay evidence not of record (1) that is necessary to substantiate the claim;
+
+round 23, index 74: 
+Veterans Law Judge, Board of Veterans' Appeals Department of Veterans Affairs
+
+round 24, index 6: 
+If a chronic disease is shown in service, subsequent manifestations of the same chronic disease at any later date, however remote, may be service connected, unless clearly attributable to intercurrent causes.
+
+round 25, index 7: 
+However, continuity of symptoms is required where a condition in service is noted but is not, in fact, chronic or where a diagnosis of chronicity may be legitimately questioned.
+
+round 26, index 8: 
+Further, service connection may also be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.
+
+round 27, index 9: 
+The Board must determine whether the evidence supports the claim or is in relative equipoise, with the appellant prevailing in either case, or whether the preponderance of the evidence is against the claim, in which case, service connection must be denied.
+
+round 28, index 69: 
+Moreover, the RO has obtained service personnel records and VA outpatient treatment records, and the veteran and his representative have submitted statements on his behalf.
+
+round 29, index 19: 
+Service connection may only be granted for a current disability; when a claimed condition is not shown, there may be no grant of service connection.
+
+round 30, index 44: 
+Act of 2000 (VCAA), VA has a duty to notify and assist claimants in substantiating a claim for VA benefits.
+
+round 31, index 52: 
+To overcome the burden of prejudicial error, VA must show (1) that any defect was cured by actual knowledge on the part of the claimant; (2) that a reasonable person could be expected to understand from the notice what was needed; or, (3) that a benefit could not have been awarded as a matter of law.
+
+round 32, index 51: 
+VCAA notice errors are presumed prejudicial unless VA shows that the error did not affect the essential fairness of the adjudication.
+
+round 33, index 0: 
+The veteran served on active duty from June 1943 to February 1946.
+
+round 34, index 1: 
+This matter comes before the Board of Veterans' Appeals (BVA) from a rating decision of the Department of Veterans Affairs (VA) Regional Office (RO) in  Nashville, Tennessee.1.
+
+round 35, index 27: 
+The preponderance of the evidence shows that the veteran did not engage in combat with the enemy.
+
+round 36, index 12: 
+Diagnostic and Statistical Manual, Fourth Edition (DSM-IV).
+
+round 37, index 21: 
+"In the absence of proof of a present disability there can be no valid claim."
+
+round 38, index 11: 
+The provisions of 38 C.F.R. § 4.125(a) require that a diagnosis of a mental disorder conform to the
+
+round 39, index 13: 
+As set forth under DSM-IV, a valid diagnosis of PTSD requires that a person has been exposed to a traumatic event in which both of the following were present:
+
+round 40, index 49: 
+(4) degree of disability; and (5) effective date of the disability.
+
+round 41, index 15: 
+the person experienced, witnessed, or was confronted with an event or events that involved actual or threatened death or serious injury, or a threat to the physical integrity of himself or others, and (2) the person's response involved intense fear, helplessness, or horror.
+
+round 42, index 48: 
+In addition, the notice requirements of the VCAA apply to all five elements of a service-connection claim, including: (1) veteran status; (2) existence of a disability; (3) a connection between the veteran's service and the disability;
+
+round 43, index 20: 
+connected disease or injury to cases where such incidents have resulted in a disability).
+
+round 44, index 14: 
+(1)
+
+round 45, index 50: 
+Further, this notice must include information that a disability rating and an effective date for the award of benefits will be assigned if service connection is awarded.
+
+round 46, index 47: 
+that VA will seek to provide; and (3) that the claimant is expected to provide.
+
+round 47, index 10: 
+In order to establish service connection for PTSD, the evidence of record must include a medical diagnosis of the condition in accordance with 38 C.F.R. § 4.125(a), a link, established by medical evidence, between current symptoms and an in-service stressor; and credible supporting evidence that the claimed in-service stressor occurred.
+
+round 48, index 26: 
+Despite the heightened duty and notwithstanding the appellant's assertions, the Board finds that his claim fails because his in-service stressors cannot be verified.
+
+round 49, index 29: 
+Moreover, his summary of military occupations shows that he worked cook, mainly operating in the tent kitchen but occasionally delivering food to fellow soldiers at their posts.
+
+round 50, index 28: 
+While he has asserted that he was subjected to enemy bomb attacks and air raids, he was not awarded any combat medals or decorations.
+
+round 51, index 35: 
+The lack of specificity renders it impossible to verify stressors.
+
+round 52, index 43: 
+Finally, as provided for by the Veterans Claims Assistance
+
+round 53, index 32: 
+Therefore, independent evidence is necessary to corroborate his statement as to the occurrence of the claimed stressor.
+
+round 54, index 25: 
+The Board recognizes that in such cases there is a heightened obligation to assist the appellant in the development of the case, a heightened obligation to explain findings and conclusions, and a heightened duty to consider carefully the benefit of the doubt rule in cases, such as in this situation, in which records are presumed to have been or were destroyed while the file was in the possession of the government.
+
+round 55, index 67: 
+By definition, the claim must be denied because an essential element cannot be confirmed.
+
+round 56, index 66: 
+In this case, the veteran's statements as to stressors lack specificity and cannot be verified.
+
+round 57, index 16: 
+The law provides that "[i]f the evidence establishes that the veteran engaged in combat with the enemy and the claimed stressor is related to that combat, in the absence of clear and convincing evidence to the contrary, and provided that the claimed stressor is consistent with the circumstances, conditions, or hardships of the veteran's service, the veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor."
+
+round 58, index 68: 
+Therefore, a remand for a VA examination in order to determine whether he has PTSD is not in order.
+
+round 59, index 33: 
+After a review of the claims file, the Board finds that the evidence of record does not corroborate the veteran's claimed in-service stressors.
+

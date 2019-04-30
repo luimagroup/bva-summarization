@@ -1,0 +1,448 @@
+Citation Nr: 0508592	
+Decision Date: 03/23/05    Archive Date: 04/01/05
+
+DOCKET NO.  01-08 221A	)	DATE
+	)
+	)
+
+On appeal from the
+Department of Veterans Affairs Regional Office in Pittsburgh, 
+Pennsylvania
+
+
+THE ISSUE
+
+Entitlement to service connection for post-traumatic stress 
+disorder (PTSD).
+
+
+REPRESENTATION
+
+Appellant represented by:	Military Order of the Purple 
+Heart of the U.S.A.
+
+
+WITNESS AT HEARING ON APPEAL
+
+Appellant
+
+
+ATTORNEY FOR THE BOARD
+
+J. Hager, Associate Counsel
+
+
+INTRODUCTION
+
+The veteran had active service from June 1969 to June 1971, 
+with subsequent service in the National Guard and Army 
+Reserves.
+
+This case comes before the Board of Veterans' Appeals (Board) 
+from a rating decision of the Department of Veterans Affairs 
+(VA) Regional Office (RO) in Pittsburgh, Pennsylvania, which 
+denied the veteran's claim for service connection for PTSD.
+
+The veteran testified at a January 2005 hearing before the 
+undersigned Veterans Law Judge (VLJ) of the Board.  A prior 
+hearing before an undersigned Veterans Law Judge was 
+conducted, but a transcript could not be made.  In view of 
+the two hearings, a Board of three decision is indicated.
+
+The Board notes that, in an October 2001 letter, the 
+veteran's representative requested that her claim for service 
+connection for PTSD "be amended to include all psychiatric 
+disabilities."  Although the veteran has been granted a non-
+service connected pension based in part on a major depressive 
+disorder and associated disabilities, the claims for service 
+connection for such psychiatric disorders have not been 
+adjudicated.  These claims are therefore referred to the RO 
+for appropriate consideration and/or development.
+
+
+FINDING OF FACT
+
+The preponderance of the competent, probative evidence of 
+record reflects that the veteran does not have PTSD.
+
+
+CONCLUSION OF LAW
+
+PTSD was not incurred in or aggravated by service.  38 
+U.S.C.A. §§ 1110, 5103, 5103A, 5107 (West 2002); 38 C.F.R. §§ 
+3.102, 3.303, 3.304(f), 3.159, 4.125 (2004).
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+VCAA
+
+The Veterans Claims Assistance Act of 2000 (VCAA), Pub. L. 
+No. 106-475, 114 Stat. 2096 (2000), as codified at 38 
+U.S.C.A. § 5100 et seq. (West 2002), became effective on 
+November 9, 2000.  This law redefines the obligations of VA 
+with respect to the duty to assist and includes an enhanced 
+duty to notify a claimant as to the information and evidence 
+necessary to substantiate a claim for VA benefits.  There 
+have also been final regulations promulgated to implement the 
+new law.
+
+In the present case, the VCAA took effect after the veteran 
+filed her February 2000 claim.  But the VCAA applies to 
+claims filed prior to its November 9, 2000 effective date if 
+VA had not finally decided the claim before that date.  See 
+VAOPGCPREC 7-2003 (Nov. 19, 2003) (citing 66 Fed. Reg. 
+45,620, 45,629 (Aug. 29, 2001)) (VA will apply VCAA 
+implementing regulations to any claim filed before November 
+9, 2000 but not decided by VA as of that date).  VA had not 
+finally "decided" the veteran's claim prior to November 9, 
+2000 because the RO in August 2001 readjudicated the claim 
+pursuant to section 7(b) of the VCAA (providing for 
+readjudication of claims, such as this one, that became final 
+between July 14, 1999 and November 9, 2000, the date of the 
+enactment of the VCAA, and were denied on the basis that they 
+were not well-grounded), and subsequently issued an August 
+2001 statement of the case (SOC) and June 2002 supplemental 
+SOC (SSOC).  See VAOPGCPREC 7-2003 (VA had authority to, and 
+did, provide that VCAA requirements apply to claims at all 
+stages of VA proceedings, up to and including those pending 
+before the Board).
+
+In Pelegrini v. Principi, 18 Vet. App. 112, 115, 119 (2004) 
+(Pelegrini), the United States Court of Appeals for Veterans 
+Claims (Court) revisited the notice requirements imposed upon 
+VA by the VCAA.  The Court addressed both the timing and 
+content of these notice requirements.  Id. at 119-121.  In 
+VAOPGCPREC 7-2004 (July 16, 2004), VA's Office of General 
+Counsel (GC) undertook to explain the holding of Pelegrini.  
+The Board is bound by the precedent opinions of VA's General 
+Counsel as the chief legal officer of the Department.  
+See 38 U.S.C.A. § 7104(c) (West 2002).
+
+Initially, GC noted that the Court had described the 
+statements in its opinion as to the timing and content of 
+VCAA notification as "holdings," but, according to GC, the 
+issues to which these "holdings" related were not necessary 
+to the disposition of the case.  VAOPGCPREC 7-2004, at 2.  
+Consequently, GC implied that these statements constituted 
+dicta rather than binding holdings.  Id. (citing dissenting 
+opinion in Pelegrini and other cases characterizing Court 
+statements as dicta).  
+
+In the case at hand, however, even if the Pelegrini Court's 
+statements as to the timing and content of VCAA notice were 
+binding holdings, the RO complied with them.
+
+The Pelegrini Court held that a VCAA notice must be provided 
+to a claimant before the initial unfavorable agency of 
+original jurisdiction (AOJ) decision on a claim for VA 
+benefits.  Pelegrini, 18 Vet. App. at 115, 120.  However, as 
+explained in VAOPGCPREC 7-2004, the Court did not hold that, 
+if this notice was not provided because VA had decided a 
+claim before November 9, 2000, the case must be returned to 
+the AOJ for the adjudication to start anew as though no 
+previous adjudication had occurred.  Id. at 2.  Rather, the 
+Pelegrini Court "'specifically recognizes that where, as 
+here, that notice was not mandated at the time of the initial 
+AOJ decision, the AOJ did not err in not providing such 
+notice specifically complying with section 
+5103(a)/§3.159(b)(1) because an initial AOJ adjudication had 
+already occurred.'"  Id. at 2 (quoting Pelegrini, 18 Vet. 
+App. at 120).  Therefore, according to GC, the Pelegrini 
+Court did not hold that VA must vitiate all AOJ decisions 
+rendered prior to November 9, 2000 denying service connection 
+claims that were still pending before VA on that date in 
+order to provide VCAA notice and adjudicate the claims anew.  
+VAOPGCPREC 7-2004 at 2-3.
+
+GC's interpretation of Pelegrini is directly relevant to the 
+present case.  Here, the RO's March 2000 rating decision 
+denying service connection for PTSD took place prior to 
+enactment of the VCAA, and, therefore, prior to any VCAA 
+notification.  But according to Pelegrini, as interpreted by 
+GC, the fact that the RO did not provide VCAA notification in 
+these circumstances (nor could it have, as the VCAA had not 
+yet been enacted) was not error.  Moreover, prior to 
+readjudicating the claim, the RO sent the veteran a June 2001 
+letter explaining its duty to assist her and, in its August 
+2001 readjudication of her claim, the RO noted its duty to 
+assist her under the VCAA.  The RO thus complied with the 
+VCAA notification timing requirements.
+
+The Court in Pelegrini also held that VCAA notice must:  
+(1) inform the claimant about the information and evidence 
+not of record that is necessary to substantiate the claim; 
+(2) inform the claimant about the information and evidence 
+that VA will seek to provide; (3) inform the claimant about 
+the information and evidence the claimant is expected to 
+provide; and (4) request or tell the claimant to provide any 
+evidence in his or her possession that pertains to the claim.  
+Pelegrini, 18 Vet. App. at 120-121.  This new "fourth 
+element" of the notice requirement comes from the language 
+of 38 C.F.R. § 3.159(b)(1) (2004).  Id. at 121.  According to 
+GC, Pelegrini did not require that VCAA notification contain 
+any specific "magic words," and that it can be satisfied by 
+a SOC or SSOC as long as the document meets the four content 
+requirements listed above.  VAOPGCPREC 7-2004, at 3.
+
+These requirements were met in this case.  The RO's June 2001 
+letter explained the application of the VCAA to the veteran's 
+claim for service connection for PTSD.  Specifically, the RO 
+explained the type of evidence needed to substantiate the 
+veteran's claim and the respective responsibilities of the 
+veteran and the RO in obtaining this evidence.  The RO also 
+wrote: "There may be other evidence you would like us to 
+consider.  In that case, please tell us about it and we will 
+make reasonable efforts to try to get it."  And, as 
+previously indicated, the RO noted its duty to assist under 
+the VCAA in its August 2001 readjudication of the veteran's 
+claim.  Cf. Valiao v. Principi, 17 Vet. App. 229, 232 (2003) 
+(noting Board's failure to discuss whether RO's decision and 
+SOC satisfied VCAA requirements in the absence of letter 
+explaining VCAA).  Thus, VA complied with the VCAA notice 
+content requirements.
+
+In addition, the RO complied with the VCAA's preliminary duty 
+to assist provisions and their implementing regulations.  The 
+RO obtained the veteran's service medical records (SMRs) and 
+all identified VA and private treatment records, as indicated 
+at the Board hearing (Hearing transcript, p. 5).  The RO also 
+obtained personnel records and documents relating to the 
+court martial of the soldier the veteran claimed assaulted 
+her.  In addition, prior to readjudication of her claim, the 
+veteran was afforded a July 2001 PTSD examination.  Moreover, 
+there is no indication that other private or Federal records 
+exist that should be requested, or that any pertinent 
+evidence was not received.
+
+Therefore, under these circumstances, no further development 
+is required to comply with the VCAA or the implementing 
+regulations, and the Board will proceed to adjudicate the 
+veteran's claim.
+
+
+Applicable Legal Principles, Factual Background, and Analysis
+
+Service connection may be granted for disability resulting 
+from a disease contracted or an injury sustained while on 
+active duty in the military, or for aggravation 
+during service.  See 38 U.S.C.A. § 1110 (West 2002); 38 
+C.F.R. § 3.303 (2004).  In addition to the requirements 
+generally applicable to service connection claims, service 
+connection for PTSD requires medical evidence establishing a 
+diagnosis in accordance with 38 C.F.R. § 4.125(a) (2004) (the 
+diagnosis must conform to DSM-IV and be supported by findings 
+on examination), credible supporting evidence that the 
+claimed in-service stressors actually occurred, and a link, 
+established by medical evidence, between the current 
+symptomatology and the claimed in-service stressors.  38 
+C.F.R. § 3.304(f) (2004); see also Cohen v. Brown, 10 Vet. 
+App. 128, 137-138 (1997).
+
+With PTSD as with other disabilities, evidence of current 
+disability is one of the fundamental requirements for a grant 
+of service connection.  See, e.g., Brammer v. Derwinski, 3 
+Vet. App. 223, 225 (1992) ("Congress specifically limits 
+entitlement for service-connected disease or injury to cases 
+where such incidents have resulted in a disability.  In the 
+absence of proof of present disability there can be no valid 
+claim."); see also Degmetich v. Brown, 104 F.3d 1328, 1333 
+(Fed. Cir. 1997) (upholding interpretation of 38 U.S.C.A. § 
+1131 as requiring the existence of a present disability for 
+VA compensation purposes); Wamhoff v. Brown, 8 Vet. App. 517, 
+521 (1996).
+
+In the present case, the preponderance of the competent, 
+probative evidence of record indicates that the veteran does 
+not have PTSD.
+
+There is no record of treatment for any psychiatric disorder 
+during service, and the May 1971 separation examination 
+reflects that the veteran's psychiatric condition was normal.  
+A March 1984 quadrennial examination from the veteran's Army 
+reserve service similarly indicates her psychiatric condition 
+as normal.  A July 1986 treatment note during the veteran's 
+Army reserves service noted a lot of emotional stress 
+relating to her children, and domestic and employment 
+difficulties, but did not diagnose the veteran with any 
+psychiatric disorder, including PTSD.
+
+In October 1991, the veteran was admitted to a VA hospital 
+with chest pains and diagnosed with anxiety disorder, while 
+possible depression was ruled out.  A December 1991 VA 
+outpatient treatment (VAOPT) record ruled out dysthymic 
+disorder and panic disorder, and did not diagnose the veteran 
+with any psychiatric disorder.  November 1995 private 
+treatment records diagnose the veteran with 
+anxiety/depression.  The veteran was again hospitalized in 
+February 1996, and diagnosed with adjustment disorder with 
+depressed mood, was said to have no personality disorder 
+(Axis II), and had severe psychosocial stressors of 
+unemployment and caring for a child.  February 1996 private 
+treatment records again diagnosed the veteran with depression 
+with an anxious component.  March 1996 private treatment 
+records indicate the veteran complained of memory problems 
+and disorientation from psychiatric medication.
+
+A July 1996 VA examination report indicated that the veteran 
+appeared to have recurrent major depressive disorder, severe, 
+mixed with generalized anxiety disorder, embedded in a very 
+virulent mixed personality disorder with borderline, 
+paranoid, and marked passive dependence/passive aggressive 
+features.  The examiner also wrote: "There is no evidence of 
+posttraumatic stress disorder and this examiner can find no 
+evidence to suggest that any of the patient's current 
+psychiatric difficulties were incurred in the service or 
+aggravated by such or appeared within one year of 
+discharge."  
+
+The veteran was again hospitalized from January to February 
+2000, at which time she was again diagnosed with major 
+depression with psychotic features and a history of 
+generalized anxiety disorder.  There was no diagnosis of 
+personality disorder (Axis II).
+
+A September 2000 VAOPT note entitled, "Individual Therapy," 
+stated that the veteran appeared somewhat bizarre in 
+appearance and different in presentation.  She commented 
+about "the devils and demons in the world" and her affect 
+changed and she became tearful when asked about this 
+statement.  The physician wrote: "It is not clear to me just 
+what is going on for her in this regard although she assures 
+me that she is not actively hallucinating and she did not 
+appear to be doing that, but I see her as somewhat vulnerable 
+and frail."  The diagnosis was, "Schizoaffective disorder, 
+probable post-traumatic stress disorder."  November 2000 and 
+February 2001 VAOPT notes diagnosed the veteran with 
+depressive disorder and anxiety and various physical 
+disorders.  
+
+At a July 2001 VA examination, the veteran's claims file and 
+available clinical records were reviewed, including the June 
+1996 VA examination, which was described as "highly 
+detailed."  After describing the mental status examination 
+and objective findings, the examiner stated that the 
+veteran's clinical picture remained highly consistent with a 
+diagnosis of major depression, recurrent with psychotic 
+features, and generalized anxiety disorder with somatization.  
+Also noted were a complicated history of victimization, 
+compounded by mixed personality disturbance.  The examiner 
+also noted the veteran's claimed stressor of being molested 
+by a female perpetrator in service, a stressor that the 
+examiner found to be highly consistent over time based on his 
+review of the record.  The examiner also found credible the 
+pattern of reactivation of this prior trauma, based on re-
+exposure to homosexual acts she witnessed on an impatient 
+unit.  Significantly, the examiner concluded: "However, 
+while the veteran does describe some symptoms that are 
+characteristic of traumatic victimization and of PTSD, such 
+as intrusive recollections and avoidance, she does not meet 
+the full spectrum of symptoms necessary to meet diagnostic 
+criteria for PTSD."
+
+A July 2001 VAOPT note diagnosed the veteran with depression 
+and various physical disorders.  An October 2001 VAOPT note 
+diagnosed the veteran with possible organic affective 
+disorder.
+
+In her May 1996 responses to a PTSD questionnaire and 
+statements of February 2000, April 2000, June 2001, and 
+October 2003, the veteran indicated that a large female 
+soldier assaulted and threatened her.  A close friend of the 
+veteran submitted an October 2003 lay statement that 
+supported the veteran's account of the incident and stated 
+that the veteran had reported the incident to her at the time 
+it occurred.
+
+Based on the above, the veteran's claim for service 
+connection for PTSD must be denied because the preponderance 
+of the competent, probative evidence of record reflects that 
+the veteran does not have and has never had PTSD.  With a 
+single exception, the in-service and extensive post-service 
+treatment records of the veteran do not contain any diagnosis 
+of PTSD, and this includes evaluations that diagnosed her 
+with other psychiatric disorders and declined to diagnose her 
+with PTSD.  Moreover, the two thorough and detailed VA 
+examinations, in July 1996 and recently in July 2001, 
+carefully examined the veteran consistent with the criteria 
+in DSM-IV and specifically found that the veteran did not 
+meet the criteria for a diagnosis of PTSD.  Significantly, 
+the most recent July 2001 VA examiner reached this conclusion 
+after crediting the veteran's claimed stressor and her 
+statements regarding its effect on her.  In contrast, the 
+single diagnosis of PTSD came at the end of a short VAOPT 
+note, which recounted only a brief therapy session with the 
+veteran, did not discuss the DSM-IV criteria, admitted the 
+veteran's mental status was "not clear" to the physician, 
+and did not explain why the physician concluded that the 
+veteran had schizoaffective disorder and "probable" PTSD.
+
+In rendering its findings regarding service-connection 
+claims, the Board has the responsibility of weighing the 
+evidence, including the medical evidence, for purposes of 
+determining where to give credit and where to withhold the 
+same. Evans v. West, 12 Vet. App. 22, 30 (1998) (citing Owens 
+v. Brown, 7 Vet. App. 429, 433 (1995)).  In so doing, the 
+Board may accept one medical opinion and reject others.  Id.  
+At the same time, Board cannot make its own independent 
+medical determinations, and there must be plausible reasons, 
+based upon medical evidence in the record, for favoring one 
+medical opinion over another.  Evans, 12 Vet. App. at 30; 
+Rucker v. Brown, 10 Vet. App. 67, 74 (1997) (citing Colvin v. 
+Derwinski, 1 Vet. App. 171, 175 (1991)).  This is 
+particularly true in the case of PTSD, which applicable 
+regulations require be diagnosed in accordance with DSM-IV 
+and be supported by findings on examination.  Because the 
+most recent, July 2001 VA examination contained a detailed 
+and accurate discussion of the veteran's psychiatric history, 
+explained why the examiner, although crediting the veteran's 
+statements regarding her claimed stressor, concluded that she 
+did meet the criteria for PTSD as required by the applicable 
+regulatory criteria, and is supported by the other evidence 
+of record, whereas the single diagnosis of "probable" PTSD 
+did not contain any such examination findings or explanation 
+of its conclusion, the Board gives greater weight to the 
+former and correspondingly discounts the latter.  As to lay 
+statements of the veteran and her friend, while they are 
+competent to testify as to what the veteran experienced and 
+her contemporaneous description of this experience, see 
+Falzone v. Brown, 8 Vet. App. 398, 403 (1995), they are not 
+competent to testify regarding whether the veteran has PTSD, 
+either as a result the claimed in-service stressor or 
+otherwise, as the latter requires medical expertise.  Cromley 
+v. Brown, 7 Vet. App. 376, 379 (1995).
+
+Consequently, as the preponderance of the competent, 
+probative evidence of record indicates that the veteran does 
+not have PTSD, the benefit-of-the-doubt doctrine is not for 
+application, and her claim for service connection for this 
+disorder must be denied.  See 38 U.S.C.A. § 5107(b) 
+(West 2002); 38 C.F.R. § 3.102 (2004); Alemany v. Brown, 9 
+Vet. App. 518, 519-20 (1996); Brammer v. Derwinski, 3 Vet. 
+App. at 225.
+
+
+
+ORDER
+
+The claim for service connection for PTSD is denied.
+
+
+_____________________________	
+	____________________________
+	RENÉE M. PELLETIER			     LAWRENCE M. SULLIVAN
+              Veterans Law Judge                                             
+Veterans Law Judge
+          Board of Veterans' Appeals                                  
+Board of Veterans' Appeals 
+
+
+	                        
+____________________________________________
+	MICHAEL D. LYON 
+	Veterans Law Judge, Board of Veterans' Appeals
+
+
+
+ Department of Veterans Affairs
+
+

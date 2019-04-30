@@ -1,0 +1,180 @@
+round 0, index 88: 
+Service connection for an acquired psychiatric disability, to include PTSD, is denied.
+
+round 1, index 87: 
+Because the evidence preponderates against the claim of service connection for an acquired psychiatric disability, to include PTSD, the benefit-of-the-doubt doctrine is inapplicable, and the claim must be denied.
+
+round 2, index 86: 
+The treatment records, including the January 2011 and July 2013 statements from treating providers, do not indicate that an acquired psychiatric disorder is due to any event, disease or injury from military service that was not willful misconduct.
+
+round 3, index 84: 
+Their statements on etiology are therefore not afforded probative value.
+
+round 4, index 83: 
+To the extent that the Veteran and his family, through their statements and hearing testimony, are claiming that he has an acquired psychiatric disability due to an incident related to service that was not willful misconduct, they are not competent to make such a determination.
+
+round 5, index 81: 
+His description of symptoms was not consistent with hallucinations and the Veteran did not have delusions or paranoia.
+
+round 6, index 85: 
+(though the Federal Circuit held that lay evidence may be competent to establish a diagnosis of a condition, it did not state that lay evidence may be used to determine medical etiology).
+
+round 7, index 9: 
+Such notice must advise that a disability rating and an effective date for the award of benefits will be assigned if there is a favorable disposition of the claim.
+
+round 8, index 80: 
+The Veteran did not appear psychotic, had not displayed behavior suggestive of psychosis, and his behavior was not consistent with psychosis.
+
+round 9, index 8: 
+I.  Duty to Notify and Assist Under the Veterans Claims Assistance Act (VCAA), when VA receives a complete or substantially complete application for benefits, it must notify the claimant of the information and evidence not of record that is necessary to substantiate a claim, which information and evidence VA will obtain, and which information and evidence the claimant is expected to provide.
+
+round 10, index 74: 
+The record also does not show that the Veteran had psychoses within a year of active service.
+
+round 11, index 76: 
+Although the Veteran is competent to report on his own symptomatology, to the extent that he is claiming he has had symptoms since service related to an acquired psychiatric disability, the Board does not find him to be credible.
+
+round 12, index 11: 
+Additional notice was provided in June 2011.
+
+round 13, index 10: 
+Prior to initial adjudication of the Veteran's claim, a letter dated in September 2010 fully satisfied the duty to notify provisions of VCAA.
+
+round 14, index 6: 
+A psychiatric disability other than PTSD, was not shown in service, or for years thereafter, and has not been linked to in-service disease or injury.
+
+round 15, index 82: 
+Testing was consistent with frequent exaggeration of symptoms, and the Veteran's stated goal at treatment was hospitalization to obtain help in appealing his compensation claim.
+
+round 16, index 89: 
+Veterans Law Judge, Board of Veterans' AppealsDepartment of Veterans Affairs
+
+round 17, index 12: 
+Next, VA has a duty to assist a Veteran in the development of the claim.
+
+round 18, index 13: 
+This duty includes assisting him in the procurement of service treatment records and other pertinent records, and providing an examination when necessary.
+
+round 19, index 15: 
+The claims file contains service treatment records (STRs), service personnel records, VA treatment records, and private treatment records.
+
+round 20, index 25: 
+By contrast, the hearing focused on the elements necessary to substantiate the claim.
+
+round 21, index 14: 
+The Board finds that all necessary development has been accomplished, and therefore appellate review may proceed without prejudice to the appellant.
+
+round 22, index 16: 
+The RO did not afford the Veteran a VA examination on the basis that there is already sufficient medical evidence to decide the claim, and the Board agrees.
+
+round 23, index 75: 
+He was not diagnosed with an acquired psychiatric disability until several years after service.
+
+round 24, index 77: 
+The STRs, including the Veteran's own December 1975 medical history report, which do not show symptomatology during service, are of more probative value than his current reports because they were contemporaneous to his active service.
+
+round 25, index 78: 
+The Board also notes that the VA treatment records do not show that the Veteran has always been truthful when describing his symptoms.
+
+round 26, index 17: 
+The three salient benchmarks are: competent evidence of a current disability or recurrent symptoms; establishment of an in-service event, injury, or disease;
+
+round 27, index 58: 
+Since then he had had nightmares and hallucinations.
+
+round 28, index 7: 
+The Veteran's acquired psychiatric disorder, to include PTSD, was not incurred in or aggravated by his military service.
+
+round 29, index 23: 
+Here, during the hearing, the Veteran, through his testimony, demonstrated that he had actual knowledge of the elements necessary to substantiate his claim and the VLJ sought to identify any pertinent evidence not currently associated with the claims folder that might have been overlooked or was outstanding that might substantiate the claim.
+
+round 30, index 22: 
+These duties consist of (1) the duty to fully explain the issues and (2) the duty to suggest the submission of evidence that may have been overlooked.
+
+round 31, index 24: 
+Neither the Veteran nor his representative has asserted that VA failed to comply with 38 C.F.R. § 3.103(c)(2) nor has identified any prejudice in the conduct of the Board hearing.
+
+round 32, index 26: 
+As such, the Board finds that the duties set forth in 38 C.F.R. § 3.103(c)(2) were satisfied and that the Board can adjudicate the claim based on the current record.
+
+round 33, index 0: 
+The Veteran had active service from November 1971 to December 1975.
+
+round 34, index 1: 
+This matter comes before the Board of Veterans' Appeals (Board) from a January 2011 rating decision of the above Department of Veterans Affairs (VA) Regional Office
+
+round 35, index 57: 
+Then, the Veteran, in a state of panic, cut the body open, put rocks inside it, and pushed it into a river.
+
+round 36, index 72: 
+On a December 1975 medical history report the Veteran indicated that he had never had depression or excessive worry, loss of memory or amnesia, or nervous trouble of any sort.
+
+round 37, index 27: 
+Service connection may be granted if the evidence demonstrates that a current disability resulted from an injury or disease incurred or aggravated in active military service.
+
+round 38, index 73: 
+At the December 1975 separation examination the examiner noted that the Veteran was normal from a psychiatric standpoint.
+
+round 39, index 28: 
+This means that the facts establish that a particular injury or disease resulting in disability was incurred coincident with service in the Armed Forces, or if preexisting such service, was aggravated therein.
+
+round 40, index 56: 
+The Veteran reported the person was bleeding heavily and while the Veteran was thinking about what to do, the person died.
+
+round 41, index 29: 
+Establishing service connection generally requires medical or, in certain circumstances, lay evidence of (1) a current disability; (2) an in-service incurrence or aggravation of a disease or injury; and (3) a nexus between the claimed in-service disease or injury and the present disability.
+
+round 42, index 20: 
+Therefore, the Board finds that the evidence of record does not trigger the necessity of an examination in order to decide the claim on the merits.
+
+round 43, index 21: 
+The Veteran has been afforded a hearing before a VLJ in which he presented oral argument in support of his claim.
+
+round 44, index 33: 
+(3)
+
+round 45, index 55: 
+In the ensuing struggle the other man was stabbed.
+
+round 46, index 35: 
+The diagnosis of a mental disorder must conform to the Diagnostic and Statistical Manual of Mental Disorders (5th ed. 2013) (DSM-V) and be supported by the findings of a medical examiner.
+
+round 47, index 18: 
+and indication that the current disability may be associated with an in-service event.
+
+round 48, index 54: 
+The Veteran wrote in an October 2010 statement that in December 1973 he was in Thailand when he was jumped by a man carrying a knife.
+
+round 49, index 34: 
+and credible supporting evidence that the claimed in-service stressor actually occurred.
+
+round 50, index 79: 
+In March 2011, a VA treating provider felt that the Veteran was likely malingering for financial gain.
+
+round 51, index 30: 
+Service connection will also be presumed for certain chronic diseases, including psychoses, if manifest to a compensable degree within one year after discharge from service.
+
+round 52, index 37: 
+If the evidence establishes that the Veteran engaged in combat with the enemy, and the claimed stressor is related to that combat, then, in the absence of clear and convincing evidence to the contrary, and provided that the claimed stressor is consistent with the circumstances, conditions, or hardships of the Veteran's service, the Veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor.
+
+round 53, index 31: 
+Generally, VA law and regulations preclude granting service connection for a disability that is due to the veteran's own willful misconduct.
+
+round 54, index 38: 
+Corroborating evidence is not needed if the claimed in-service stressor is related to the Veteran's "fear of hostile military or terrorist activity."
+
+round 55, index 39: 
+(1)
+
+round 56, index 19: 
+While the Veteran had been diagnosed with acquired psychiatric disabilities, there is no indication that they are associated with an in-service event that was not willful misconduct, as discussed below in detail.
+
+round 57, index 59: 
+The Veteran related that he coped over the next 37 years by self-medicating with illegal drugs.
+
+round 58, index 49: 
+At October 2009 VA treatment the Veteran reported he had nightmares and flashbacks from an event that occurred in Thailand.
+
+round 59, index 50: 
+He reported that when he was buying illegal drugs a person attempted to rob him at knife point.
+

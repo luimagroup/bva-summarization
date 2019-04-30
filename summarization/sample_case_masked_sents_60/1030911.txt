@@ -1,0 +1,180 @@
+round 0, index 45: 
+Entitlement to service connection for PTSD is granted.
+
+round 1, index 5: 
+PTSD was incurred in active service.
+
+round 2, index 43: 
+Resolving all doubt in the appellant's favor, the Board finds that the evidence of record is sufficient to support a finding of service connection for PTSD.
+
+round 3, index 44: 
+Accordingly, the appellant's claim for service connection for PTSD is granted.
+
+round 4, index 46: 
+Veterans Law Judge, Board of Veterans' Appeals Department of Veterans Affairs
+
+round 5, index 6: 
+The claim for entitlement to service connection for PTSD has been granted, as discussed below.
+
+round 6, index 4: 
+The evidence includes a diagnosis by a VA psychiatrist of PTSD based upon a stressor related to the appellant's fear of hostile military activity, and consistent with the places, types and circumstances of his service.
+
+round 7, index 41: 
+As the stressor is related to fear of hostile military activity and consistent with the conditions of the appellant's service, the occurrence of the stressor has been established.
+
+round 8, index 39: 
+As the appellant's stressor is consistent with his service as a light weapons infantryman in Vietnam, the Board finds that the occurrence of an in-service PTSD stressor has been established.
+
+round 9, index 42: 
+When all the evidence is assembled, VA is responsible for determining whether the evidence supports the claim or is in relative equipoise, with the appellant prevailing in either event, or whether a preponderance of the evidence is against a claim, in which case, the claim is denied.
+
+round 10, index 7: 
+As such, the Board finds that any error related to the VCAA on that claim is moot.
+
+round 11, index 8: 
+Service connection is warranted if it is shown that a Veteran has a disability resulting from an injury incurred or a disease contracted in active service or for aggravation of a pre-existing injury or disease in active military service.
+
+round 12, index 9: 
+Service connection may also be granted for any disease diagnosed after discharge when all of the evidence establishes that the disease was incurred in service.
+
+round 13, index 10: 
+Establishing service connection generally requires medical or, in certain circumstances, lay evidence of (1) a current disability; (2) an in-service incurrence or aggravation of a disease or injury; and (3) a nexus between the claimed in- service disease or injury and the present disability.
+
+round 14, index 11: 
+Service connection for PTSD requires medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a), credible supporting evidence that the claimed in-service stressor actually occurred, and a link, established by medical evidence, between current symptomatology and an in-service stressor.
+
+round 15, index 13: 
+Instead, the record must contain evidence that corroborates the Veteran's account as to the occurrence of the claimed stressor.
+
+round 16, index 12: 
+In general, the Veteran's lay testimony, by itself, will not be enough to establish the occurrence of the alleged stressor.
+
+round 17, index 14: 
+However, if the evidence establishes that the Veteran engaged in combat with the enemy and the claimed stressor is related to that combat, in the absence of clear and convincing evidence to the contrary, and provided that the claimed stressor is consistent with the circumstances, conditions or hardships of the Veteran's service, the Veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor.
+
+round 18, index 15: 
+Additionally, during the course of this appeal, 38 C.F.R. § 3.304(f) was amended to provide that if a stressor claimed by a Veteran is related to the Veteran's fear of hostile military or terrorist activity and a VA psychiatrist or psychologist or contract equivalent confirms that the claimed stressor is adequate to support a diagnosis of PTSD and that the Veteran's symptoms are related to the claimed stressor, in the absence of clear and convincing evidence to the contrary, and provided the claimed stressor is consistent with the places, types, and circumstances of the Veteran's service, the Veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor.
+
+round 19, index 17: 
+AnalysisThe appellant contends that he is entitled to service connection for PTSD.
+
+round 20, index 16: 
+As the appellant's claim was not decided by the Board prior to July 12, 2010, the amended version of 38 C.F.R. § 3.304(f) is applicable.
+
+round 21, index 18: 
+For the reasons that follow, the Board concludes that service connection is warranted.
+
+round 22, index 19: 
+The appellant was seen for a PTSD Screening Evaluation in December 2004.
+
+round 23, index 20: 
+The evaluation was conducted by a VA psychiatrist, who tentatively diagnosed the appellant with PTSD.
+
+round 24, index 21: 
+VA treatment records from July through October 2006 indicate the appellant had treatment for PTSD.
+
+round 25, index 22: 
+A May 2007 VA treatment record noted the appellant had a history of PTSD.
+
+round 26, index 30: 
+He stated that he experienced the fear that anyone would have, while fighting in a war zone.
+
+round 27, index 23: 
+Although a September 2007 VA treatment record reflected that a screen for PTSD was negative, the United States Court of Appeals for Veterans Claims (Court) has held that the presence of a chronic disability at any time during the claim process can justify a grant of service connection, even where the most recent diagnosis may be negative.
+
+round 28, index 40: 
+In sum, the appellant has been diagnosed as having PTSD, which was linked by a VA psychiatrist in December 2004 to a stressor of fear of death and injury during his service in Vietnam.
+
+round 29, index 38: 
+In December 2004, a VA psychiatrist found that the claimed stressor was adequate to support a diagnosis of PTSD.
+
+round 30, index 25: 
+The appellant claims that he has PTSD as a result of his experiences serving in Vietnam from May 1965 to May 1966.
+
+round 31, index 0: 
+The appellant had active service from July 1964 to July 1967.
+
+round 32, index 1: 
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a February 2004 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO) in Indianapolis, Indiana.
+
+round 33, index 24: 
+Thus, as the appellant was diagnosed with PTSD during the rating period on appeal, he has a current PTSD disability for purposes of his claim for entitlement to service connection.
+
+round 34, index 26: 
+In a PTSD questionnaire dated in September 2004, the appellant reported that he went on a patrol in a suspected Viet Cong village and nearly killed an old Vietnamese couple.
+
+round 35, index 37: 
+The appellant reported a stressor of fear of being killed or injured, indicating a fear of hostile military activity.
+
+round 36, index 31: 
+He reported that his fear was that at any moment, he could lose his life.
+
+round 37, index 2: 
+This case was previously before the Board in June 2008, when the case was remanded for further development of the appellant's claimed PTSD stressors.
+
+round 38, index 3: 
+As the development was completed, the Board finds that the RO substantially complied with the mandates of the June 2008 remand and will proceed to adjudicate the appeal.
+
+round 39, index 32: 
+In the December 2004 PTSD Evaluation report, the VA psychiatrist, found that the appellant met criterion A for exposure to a PTSD stressor under the DSM-IV criteria because he was exposed to trauma that involved times of fear, helplessness, and horror as he described the uncertainty of being mortared and other experiences.
+
+round 40, index 29: 
+In a January 2008 statement, the appellant stated that the first few months he was in Vietnam, he had to go on reconnaissance patrols outside of the compound in order to achieve combat pay.
+
+round 41, index 27: 
+He also reported that while working at an airfield, he had to remove dead bodies from helicopters into trucks to be transported back to the base.
+
+round 42, index 34: 
+The appellant's DD Form 214 indicates that his military occupational specialty (MOS) was light weapons infantryman.
+
+round 43, index 33: 
+He knew that at any time he could be killed or injured or the compound overrun.
+
+round 44, index 28: 
+In an April 2006 RO hearing, the appellant stated that he was a security guard and his primary job in Vietnam was guarding the compound.
+
+round 45, index 35: 
+The appellant's service personnel records reflect that the appellant's principal duty while he was assigned to Vietnam from May 1965 to May 1966 was security guard.
+
+round 46, index 36: 
+The appellant's MOS and assigned principal duty in Vietnam indicate that his claimed stressor of fear of being killed or injured while on patrol or due to mortar attacks was consistent with the places, types, and circumstances of the appellant's service, his lay testimony alone may establish the occurrence of the claimed in-service stressor.
+
+round 47, index 0: 
+The appellant had active service from July 1964 to July 1967.
+
+round 48, index 0: 
+The appellant had active service from July 1964 to July 1967.
+
+round 49, index 0: 
+The appellant had active service from July 1964 to July 1967.
+
+round 50, index 0: 
+The appellant had active service from July 1964 to July 1967.
+
+round 51, index 0: 
+The appellant had active service from July 1964 to July 1967.
+
+round 52, index 0: 
+The appellant had active service from July 1964 to July 1967.
+
+round 53, index 0: 
+The appellant had active service from July 1964 to July 1967.
+
+round 54, index 0: 
+The appellant had active service from July 1964 to July 1967.
+
+round 55, index 0: 
+The appellant had active service from July 1964 to July 1967.
+
+round 56, index 0: 
+The appellant had active service from July 1964 to July 1967.
+
+round 57, index 0: 
+The appellant had active service from July 1964 to July 1967.
+
+round 58, index 0: 
+The appellant had active service from July 1964 to July 1967.
+
+round 59, index 0: 
+The appellant had active service from July 1964 to July 1967.
+

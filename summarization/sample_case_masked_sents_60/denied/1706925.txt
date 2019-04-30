@@ -1,0 +1,180 @@
+round 0, index 95: 
+Service connection for an acquired psychiatric disorder, to include PTSD, is denied.
+
+round 1, index 6: 
+An acquired psychiatric disorder, to include PTSD, was not caused by service.
+
+round 2, index 5: 
+The Veteran does not have an acquired psychiatric disorder, to include PTSD, that was caused by his service.
+
+round 3, index 62: 
+They do not show an relevant psychiatric treatment, findings, or diagnoses.
+
+round 4, index 94: 
+Based on the foregoing, the Board finds that the Veteran has not been prejudiced by a failure of VA in its duty to assist, and that any violation of the duty to assist could be no more than harmless error.
+
+round 5, index 7: 
+REASONS AND BASES FOR FINDING AND CONCLUSIONThe Veteran contends that he has an acquired psychiatric disorder, to include PTSD, that was caused by his active duty service.
+
+round 6, index 82: 
+In addition, where the Veteran "sufficiently identifies" other VA medical records that he or she desires to be obtained, VA must also seek those records even if they do not appear potentially relevant based upon the available information.
+
+round 7, index 83: 
+In this case, the Veteran has not indicated that such records exist, and all pertinent records have been obtained.
+
+round 8, index 61: 
+The Veteran's service treatment records have been discussed.
+
+round 9, index 85: 
+Unfortunately, no additional evidence was received.
+
+round 10, index 45: 
+There is no objective evidence or data to support the diagnosis of PTSD at this time.
+
+round 11, index 8: 
+Service connection may be granted for disability resulting from disease or injury incurred in or aggravated by service.
+
+round 12, index 84: 
+Moreover, at the request of the Veteran's representative, the Board waited 90 days to adjudicate this claim in order for additional evidence to be presented.
+
+round 13, index 80: 
+Pursuant to the duty to assist, VA must obtain "records of relevant medical treatment or examination" at VA facilities.
+
+round 14, index 86: 
+The Veteran has been afforded an examination, and he has been determined to not have PTSD, or an acquired psychiatric disorder other than PTSD that is related to his service.
+
+round 15, index 9: 
+Service connection may also be granted on the basis of a post-service initial diagnosis of a disease, when "all of the evidence, including that pertinent to service, establishes that the disease was incurred during service."
+
+round 16, index 87: 
+In November 2015, the Board remanded this claim.
+
+round 17, index 10: 
+Applicable regulations provide that service connection for PTSD requires medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a), a link, established by medical evidence between current symptoms and an in-service stressor; and credible supporting evidence that the claimed in-service stressor occurred.
+
+round 18, index 79: 
+There is no indication in this record of a failure to notify.
+
+round 19, index 88: 
+The Board directed that a supplemental opinion be obtained, and that the examiner provide an etiological opinion as to whether it is at least as likely as not (a 50 percent probability or greater) that the Veteran's diagnosed depressive disorder, and/or any other identified mental health disability, is related to his period of active service.
+
+round 20, index 20: 
+The diagnoses were alcohol dependence (by history), depressive disorder (by history), and rule out alcohol-induced mood disorder, chronic.
+
+round 21, index 89: 
+In January 2016, the was done.
+
+round 22, index 16: 
+The Veteran's service treatment records do not show any relevant complaints, treatment, or diagnoses.
+
+round 23, index 96: 
+KELLI A. KORDICH Veterans Law Judge, Board of Veterans' AppealsDepartment of Veterans Affairs
+
+round 24, index 55: 
+(recognizing the Board's "authority to discount the weight and probity of evidence in light of its own inherent characteristics and its relationship to other items of evidence").
+
+round 25, index 59: 
+As such, while PTSD may be noted in the record, the Board believes that the weight of the evidence is against the finding that the Veteran has had PTSD at any point during the course of his appeal.
+
+round 26, index 58: 
+Conversely, as noted above, multiple VA examiners have explained why the Veteran did not meet the DSM criteria and have conducted testing which also failed to support a diagnosis.
+
+round 27, index 78: 
+As the preponderance of the evidence is against the claim, the benefit of the doubt doctrine is not for application.
+
+round 28, index 56: 
+Accordingly, the Board finds that the preponderance of the evidence is against the claim for PTSD, and that the claim must be denied.
+
+round 29, index 92: 
+As the January 2016 VA opinion states that the Veteran fails to meet the criteria for anxious arousal, intrusive experience, and defensive avoidance, he clearly fails to meet the criteria for PTSD under DSM-IV, notwithstanding his citation to DSM-5.
+
+round 30, index 93: 
+Under the circumstances, the Board finds that there has been substantial compliance with its remand.
+
+round 31, index 77: 
+Id.
+
+round 32, index 0: 
+The Veteran served on active duty from June 1963 to September 1966.
+
+round 33, index 11: 
+The regulations governing PTSD were amended, effective July 13, 2010.  75 Fed. Reg. 39843 -52 (July 13, 2010).
+
+round 34, index 1: 
+This matter is before the Board of Veterans' Appeals (the Board) on appeal from a May 2011 rating decision issued by the Department of Veterans Affairs (VA) Regional Office (RO) in St. Petersburg, Florida.
+
+round 35, index 2: 
+In July and November of 2015, the Board remanded the claim for additional development.
+
+round 36, index 63: 
+His psychiatric condition was clinically evaluated as normal upon separation from service in September 1966.
+
+round 37, index 64: 
+Given the foregoing, a chronic condition is not shown during service.
+
+round 38, index 69: 
+Although the Board has considered the opinion of Dr. P, his opinion is not shown to have been based on review of the Veteran's claims file, or any other detailed and reliable history.
+
+round 39, index 57: 
+Here, however, while one medical professional did suggest that the Veteran's most problematic diagnosis was PTSD, he did not explain how the Veteran met the DSM criteria for PTSD.
+
+round 40, index 71: 
+Accordingly, this evidence is insufficiently probative to warrant a grant of the claim, and the claim must be denied.
+
+round 41, index 91: 
+DSM-5 sets forth four distinct diagnostic clusters for PTSD, as opposed to the three set forth in DSM-IV (re-experiencing, avoidance, and arousal).
+
+round 42, index 75: 
+The Board has determined that service connection is not warranted for the claimed disability.
+
+round 43, index 49: 
+With regard to PTSD, the Board finds that the evidence is insufficient to show that the Veteran currently has PTSD.
+
+round 44, index 74: 
+However, the Board finds that the VA progress notes and opinions, discussed supra, are more probative of this issue.
+
+round 45, index 81: 
+All records pertaining to the condition at issue are presumptively relevant.
+
+round 46, index 15: 
+The Veteran's personnel records show that he served in the Republic of Vietnam with the Marine Corps, with duty as a field radio operator, and that he participated in multiple combat operations.
+
+round 47, index 60: 
+With regard to the claim for an acquired psychiatric disorder other than PTSD, the Board finds that the claim must be denied.
+
+round 48, index 76: 
+Given the foregoing, the Board finds that the medical evidence outweighs the appellant's contentions to the effect that he has the claimed condition due to his service.
+
+round 49, index 50: 
+In fact, there is highly significant medical evidence against such a finding, as noted above.
+
+round 50, index 43: 
+Dr.
+
+round 51, index 53: 
+These opinions are considered highly probative, as they are shown to have been based on a review of the Veteran's claims file, and they are accompanied by sufficient explanations and findings.
+
+round 52, index 70: 
+In addition, he does not cite to any inservice or post-service complaints or findings, other than to note a history of (undated) diagnoses of depression.
+
+round 53, index 21: 
+Dr.
+
+round 54, index 23: 
+Dr.
+
+round 55, index 41: 
+Dr.
+
+round 56, index 54: 
+In this regard, the January 2016 VA opinion indicates that it was based, in part, on objective test results.
+
+round 57, index 29: 
+Therefore, the issue cannot be determined to a reasonable degree of professional certainty.
+
+round 58, index 46: 
+There is a significant length of time between the Veteran's military service and his first complaint of mood symptoms.
+
+round 59, index 18: 
+As for the post-service medical evidence, VA progress notes, beginning in 2009, show findings of a depressive disorder NOS (not otherwise specified) or depressive disorder NEC (not elsewhere classified), a panic disorder (characterized as "in remission"), and alcohol abuse, with use of medications that included buproprion, and citalopram.
+

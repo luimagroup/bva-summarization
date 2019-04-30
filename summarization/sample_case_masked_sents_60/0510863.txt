@@ -1,0 +1,180 @@
+round 0, index 105: 
+Entitlement to service connection for post-traumatic stress disorder (PTSD) is denied.
+
+round 1, index 104: 
+Thus, the benefit-of-the-doubt doctrine is inapplicable, and the claim must be denied.
+
+round 2, index 103: 
+The preponderance of the evidence is against the claim for service connection for PTSD.
+
+round 3, index 102: 
+Consequently, the claim of service connection for PTSD must be denied.
+
+round 4, index 101: 
+A critical element needed to establish service connection for PTSD is therefore missing.
+
+round 5, index 35: 
+He has not identified any additional, relevant evidence that has not been requested or obtained.
+
+round 6, index 34: 
+The appellant has been informed of the information and evidence needed to substantiate his claim, and he has been made aware of how VA would assist him in obtaining evidence and information.
+
+round 7, index 36: 
+For the aforementioned reasons, there is no reasonable possibility that further assistance would aid in the substantiation of the claim.
+
+round 8, index 37: 
+In short, the requirements under the VCAA have been met.
+
+round 9, index 38: 
+Accordingly, there is no potential prejudice to the veteran for failure to develop the claim.
+
+round 10, index 39: 
+Therefore, the Board will proceed to consider the merits of the appeal.
+
+round 11, index 90: 
+Information concerning attacks against a location called Gong Hoi was not located.
+
+round 12, index 88: 
+They do not mention Dong Ha or Gong Hoi.
+
+round 13, index 99: 
+The veteran was given the opportunity, but has not provided sufficient credible evidence to support his claim.
+
+round 14, index 8: 
+On November 9, 2000, the VCAA was enacted.
+
+round 15, index 91: 
+The USASCRUR report also indicated that Morning Reports for the 525th QM Co. for either 1967 or 1968 were not maintained.
+
+round 16, index 106: 
+G.H. Shufelt	Veterans Law Judge, Board of Veterans' Appeals Department of Veterans Affairs
+
+round 17, index 100: 
+In summary, to establish service connection for PTSD there must be a competent diagnosis of PTSD and credible evidence confirming the occurrence of the claimed in-service stressors.
+
+round 18, index 40: 
+Service records indicate the veteran is a non-combat veteran who served in the Republic of Vietnam during the Vietnam War period.
+
+round 19, index 41: 
+His DD-214 lists his military occupational specialty as a petroleum storage specialist, and the veteran has indicated that he served primarily as a transport truck driver.
+
+round 20, index 7: 
+Compliance with the Veterans Claims Assistance Act of 2000 (VCAA)
+
+round 21, index 42: 
+His list of decorations and medals received include a M-14 sharp shooting recognition, but they do not indicate any commendations or citations for combat experience.
+
+round 22, index 43: 
+The veteran was assigned to the 525th Quartermaster Company (QM Co) in approximately September 1967, where he was until approximately June 1968.
+
+round 23, index 44: 
+A Historical Brief of 262nd Quartermaster Battalion (QM Bn) activities indicated that the 525th QM Co. was located in Cam Ranh Bay, as of January 1968.
+
+round 24, index 6: 
+PTSD was not incurred in or aggravated by active military service.
+
+round 25, index 97: 
+There must be credible supporting evidence that the claimed in-service stressors actually occurred.
+
+round 26, index 9: 
+Among other things, the VCAA amended 38 U.S.C.A. § 5103 to clarify VA's duty to notify claimants and their representatives of any information that is necessary to substantiate the claim for benefits.
+
+round 27, index 11: 
+The claimant must be given proper notice and an opportunity to respond.
+
+round 28, index 10: 
+The VCAA also created 38 U.S.C.A. § 5103A, which codifies VA's duty to assist, and essentially states that VA will make reasonable efforts to assist a claimant in obtaining evidence necessary to substantiate a claim.
+
+round 29, index 12: 
+Implementing regulations for the VCAA were subsequently enacted, which were also made effective November 9, 2000, for the most part.
+
+round 30, index 13: 
+The intended effect of the implementing regulations was to establish clear guidelines consistent with the intent of Congress regarding the timing and scope of assistance VA will provide to claimants who file a claim for benefits.
+
+round 31, index 14: 
+Both the VCAA and the implementing regulations are applicable in the present case, and will be collectively referred to as "the VCAA."
+
+round 32, index 33: 
+In view of the development that has been undertaken in this claim, further development is not needed to comply with VCAA.
+
+round 33, index 95: 
+As is true with any piece of evidence, the credibility and weight to be attached to medical opinions are within the province of the Board as adjudicators.
+
+round 34, index 98: 
+This has not been provided or demonstrated as the evidence shows the veteran's claimed in-service stressors are inconsistent with the activities attributed to the company the veteran was assigned to.
+
+round 35, index 96: 
+Because the service records and evidence do not establish that the veteran engaged in combat with the enemy, the veteran may not rely on his lay testimony alone to establish the occurrence of the claimed in-service stressors.
+
+round 36, index 75: 
+Even if the condition at issue is initially diagnosed after the veteran's discharge from service, service connection may still be granted for any disability first noted after discharge, when all of the evidence establishes that the disease was incurred in service.
+
+round 37, index 5: 
+There is no credible supporting evidence to verify or corroborate the veteran's claimed in-service stressors of being exposed to enemy mortar and rocket attacks, and being a witness to a rocket attack that killed a friend of his, while operating in "Dong Ha" and "Gong Hoi," Vietnam, during approximately December 1967 to March 1968.
+
+round 38, index 74: 
+In order to establish service connection for the disability, the evidence must show it resulted from disease or injury incurred in or aggravated by active service.
+
+round 39, index 76: 
+Service connection for PTSD requires medical evidence establishing a diagnosis of the condition in accordance with 38 C.F.R. § 4.125(a) (2004); a link, established by medical evidence, between current symptomatology and an in-service stressor;
+
+round 40, index 77: 
+and credible supporting evidence that the claimed in-service stressor actually occurred.
+
+round 41, index 92: 
+A search for remarks containing an incident where a rocket hit a bunker killing a person named "John" found no reference to an explosion or those killed in action.
+
+round 42, index 93: 
+The evidence shows that the veteran was diagnosed by a VA physician for PTSD.
+
+round 43, index 94: 
+However the evidence also shows that the diagnosis was made without a review of the case folder or a review of the recent evidence regarding the veteran's company assignment and company activities, and thus the diagnosis was based primarily on the veteran's own reported history of combat exposure.
+
+round 44, index 78: 
+If the evidence establishes that the veteran engaged in combat with the enemy and the claimed stressor is related to that combat, in the absence of clear and convincing evidence to the contrary, and provided that the claimed stressor is consistent with the circumstances, conditions, or hardships of the veteran's service, the veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor.
+
+round 45, index 89: 
+In addition, they list attacks against units and locations of the 262nd QM Bn, however, the attacks against the 262nd QM Bn had no relation to Dong Ha or Gong Hoi, although research showed that attacks did occur at Dong Ha combat base in December 1967, in January 1968, and others as well.
+
+round 46, index 4: 
+From approximately September 1967 to June 1968, he served with the 262nd Quartermaster Battalion, 525th Quartermaster Company.
+
+round 47, index 87: 
+According to a document submitted by the U.S. Armed Services Center for Research of Unit Records (USASCRUR), Operational Reports-Lessons Learned submitted by the 262nd QM Bn, the higher headquarters of the 525th QM Co. for the time period November 1, 1967 to April 30, 1968, state that the 525th QM Co. had elements of its unit at Cam Ranh Bay, Phan Rang, Vung Ro, Tuy Hoa, and Qui Nhon during the period.
+
+round 48, index 79: 
+If the evidence establishes that the veteran was a prisoner of war under the provisions of 38 C.F.R. § 3.1(y) (2004), and the claimed stressor is related to that prisoner-of-war experience, in the absence of clear and convincing evidence to the contrary, and provided that the claimed stressor is consistent with the circumstances, conditions, or hardships of the veteran's service, the veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor.
+
+round 49, index 15: 
+To comply with the aforementioned VCAA requirements under 38 U.S.C. § 5103(a) and 38 C.F.R. § 3.159(b), the RO must satisfy the following four duty to notify and assist requirements.
+
+round 50, index 17: 
+In February 2001 and December 2003, the RO informed the veteran of its duty to assist the veteran in developing his case.
+
+round 51, index 86: 
+At his August 1997 hearing, he referred to his friend's name as "John," a name he has since referred to and maintained.
+
+round 52, index 54: 
+He claimed that despite having air cover, he was always frightened, felt vulnerable on these missions to enemy attacks and indicated that he was exposed to death and injury on many occasions throughout his Vietnam tour.
+
+round 53, index 58: 
+Under the assessment for stressors, the examiner noted "extreme: prolonged combat exposure."
+
+round 54, index 16: 
+First, the veteran must be informed of the information and evidence that is necessary to substantiate his claim.
+
+round 55, index 45: 
+Elements of the 262nd QM Bn were deployed in support of combat operations during the first quarter of 1968, but the Historical Brief indicated that certain elements of the 525th QM Co. were dispatched to Bon Dan.
+
+round 56, index 57: 
+Based on the veteran's reported history, the examiner diagnosed the veteran with PTSD and found the veteran to be socially isolated, suffering from flashbacks, and suffering from survivor guilt, with interrupted sleep.
+
+round 57, index 56: 
+He described the whole Vietnam experience as terrifying and described many other similar occurrences of men being severely injured or killed.
+
+round 58, index 55: 
+He also described an incident in Gong Hoi when his friend "Walt" was hit by an enemy aircraft rocket attack.
+
+round 59, index 67: 
+When he came back out, he saw that his friend's bunker had been hit and that his friend was the only apparent fatality.
+

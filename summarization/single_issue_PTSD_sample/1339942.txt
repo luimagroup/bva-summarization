@@ -1,0 +1,114 @@
+Citation Nr: 1339942	
+Decision Date: 12/04/13    Archive Date: 12/18/13
+
+DOCKET NO.  12-25 958	)	DATE
+	)
+	)
+
+On appeal from the
+Department of Veterans Affairs Regional Office in 
+Nashville, Tennessee
+
+
+THE ISSUE
+
+Entitlement to service connection for an acquired psychiatric disorder, to include posttraumatic stress disorder (PTSD).
+
+
+REPRESENTATION
+
+Appellant represented by:	Tennessee Department of Veterans' Affairs
+
+
+ATTORNEY FOR THE BOARD
+
+A. Martinez, Associate Counsel
+
+
+
+
+
+INTRODUCTION
+
+The Veteran served on active duty from February 1967 to September 1969.
+
+This matter comes before the Board of Veterans' Appeals (BVA or Board) from an August 2011 rating decision of the Department of Veterans Affairs (VA), Regional Office (RO) in Nashville, Tennessee.
+
+The Veteran's claim on appeal was previously characterized as a claim of service connection for PTSD.  The Board notes that the United States Court of Appeals for Veterans Claims (Court) held that when a claimant identifies PTSD without more, it may not be considered a claim limited only to that diagnosis, but rather must be considered a claim for any mental disability that may reasonably be encompassed by several factors including the claimant's description of the claim, the symptoms the claimant describes, and the information the claimant submits or that VA obtains in support of the claim.  See Clemons v. Shinseki, 23 Vet. App. 1 (2009) (finding that the claimant did not file a claim to receive benefits only for a particular diagnosis, but for the affliction or symptoms that his mental condition, whatever it is, causes him).  In an August 2011 VA examination, the Veteran reported having had panic attacks and intrusive thoughts, and the examiner noted signs of impulsivity, concentration problems, and hypervigilance.  Accordingly, the Veteran's claim is not limited solely to PTSD; rather, the claim is properly characterized broadly as a claim of service connection for an acquired psychiatric disorder, to include PTSD.
+
+
+FINDING OF FACT
+
+There is no competent evidence that the Veteran has a current diagnosis of a psychiatric disorder, to include PTSD, at any time during the appeals process.
+
+
+
+
+CONCLUSION OF LAW
+
+An acquired psychiatric disorder, to include PTSD, was not incurred or aggravated in service.  38 U.S.C.A. §§ 1101, 1110, 1111, 1112, 1113, 5107 (West 2002); 38 C.F.R. §§ 3.102, 3.303, 3.304, 3.307, 3.309 (2013).
+
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+I.  Duties to Notify and Assist
+
+VA has a duty to notify and a duty to assist claimants in substantiating a claim for VA benefits.  38 U.S.C.A. §§ 5103, 5103A (West 2002); 38 C.F.R. §§ 3.159, 3.326(a) (2013).
+
+Proper notice from VA must inform the claimant and his representative, if any, prior to the initial unfavorable decision on a claim by the AOJ of any information and any medical or lay evidence not of record (1) that is necessary to substantiate the claim; (2) that VA will seek to provide; and (3) that the claimant is expected to provide.  38 U.S.C.A. § 5103(a); 38 C.F.R. § 3.159(b); Mayfield v. Nicholson, 444 F.3d 1328 (Fed. Cir. 2006); Pelegrini v. Principi, 18 Vet. App. 112 (2004); Quartuccio v. Principi, 16 Vet. App. 183 (2002).  These notice requirements apply to all five elements of a service-connection claim (veteran status, existence of a disability, a connection between the Veteran's service and the disability, degree of disability, and effective date of the disability).  Dingess v. Nicholson, 19 Vet. App. 473 (2006).  Information that a disability rating and an effective date for the award of benefits will be assigned if service connection is awarded must be included.  Id.
+
+Here, neither the Veteran nor his representative has alleged prejudice with respect to notice, as is required.  See Shinseki v. Sanders, 129 S. Ct. 1696 (2009); Hartman v. Nicholson, 483 F.3d 1311 (Fed. Cir. 2007); Goodwin v. Peake, 22 Vet. App. 128 (2008); Dunlap v. Nicholson, 21 Vet. App. 112 (2007).  None is found by the Board.  In June 2011, the Veteran was notified via letter of the criteria for establishing service connection, the evidence required in this regard, and his and VA's respective duties for obtaining evidence.  He was additionally notified of how VA determines disability ratings and effective dates if service connection is awarded.
+
+Therefore, adequate notice was provided to the Veteran prior to the transfer and recertification of his case to the Board and it complied with the requirements of 38 U.S.C.A. § 5103(a) and 38 C.F.R. § 3.159(b).
+
+The Board also finds that the duty to assist requirement has been fulfilled.  All relevant, identified, and available evidence has been obtained; specifically, the Veteran's service treatment records and VA examination report are in the file.  The Veteran has not referred to any additional existing evidence that is necessary for a fair adjudication of the claim which has not been obtained.
+
+The record reflects that the Veteran underwent a VA examination to evaluate his claimed PTSD in August 2011.  The report from that examination and the medical opinion have been included in the claims file for review.  This examination and opinion involved a review of the claims file, a thorough examination of the Veteran, and an opinion supported by rationale.  The Board finds that this examination is adequate.  See Barr v. Nicholson, 21 Vet. App. 303, 311 (2007); Stefl v. Nicholson, 21 Vet. App. 120, 124 (2007); see also Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 301 (2008).  
+
+The Board concludes that VA has satisfied the duty to assist provisions of law.  No further notice or assistance to the Veteran is required to fulfill VA's duty to assist him in development.  Quartuccio v. Principi, 16 Vet. App. 183 (2002); Dela Cruz v. Principi, 15 Vet. App. 143 (2001); Smith v. Gober, 14 Vet. App. 227 (2000).
+
+II.  Service Connection
+
+The Veteran contends that he suffers from PTSD, and attributes it to exposure to traumatic events in Vietnam.  He recounts his building being hit my mortar fire, crawling to a bunker for safety, placing his hand on a large wound in a soldier's injured leg, and participating in the Tet Offensive.  He claims service connection is warranted.
+
+Service connection may be granted for a disability resulting from injury or disease incurred in or aggravated by active service.  To establish service connection for the claimed disorder, there must be medical evidence of a current disability; medical or, in certain circumstances, lay evidence of in-service incurrence or aggravation of a disease or injury; and medical evidence of a nexus between the claimed in-service disease or injury and the current disability.  Service connection may also be granted for chronic disorders, such as psychoses, when manifested to a compensable degree within one year of separation from service.  38 U.S.C.A. §§ 1110, 1111, 1112, 1113 (West 2002); 38 C.F.R. §§ 3.303, 3.304, 3.307, 3.309 (2013).  To make this decision, the Board must consider all the evidence of record and make appropriate determinations of competence, credibility, and weight.  See Washington v. Nicholson, 19 Vet. App. 362, 368 (2005).
+
+To the extent that the Veteran seeks service connection specifically for PTSD, entitlement to service connection for PTSD in particular requires medical evidence diagnosing PTSD in accordance with the American Psychiatric Association  Diagnostic and Statistical Manual for Mental Disorders, 4th ed. (1994) (DSM-IV); a link-established by medical evidence- between current symptoms and an in-service stressor; and credible supporting evidence that the claimed in-service stressor occurred.  38 C.F.R. §§ 3.304(f) ; 4.125(a).
+
+When VA determines that a veteran did not engage in combat with the enemy, or that a veteran did engage in combat with the enemy but the claimed stressor is not related to such combat, such veteran's lay testimony, by itself, will not be enough to establish the occurrence of the alleged stressor.  Instead, the record must contain evidence that corroborates a veteran's account as to the occurrence of the claimed stressor.   See 38 U.S.C.A. § 1154(b); 38 C.F.R. § 3.304(d), (f) (2013); Cohen v. Brown, 10 Vet. App. 128 (1997).  Evidence denoting participation in combat includes award of decorations such as the Combat Action Ribbon, Combat Infantryman Badge (CIB), Purple Heart Medal, and decorations such as the Bronze Star Medal that have been awarded with a Combat "V" device.
+
+Regarding the corroboration of stressors, the Board notes the recent amendment to 38 C.F.R. § 3.304 concerning stressors based on a veteran's "fear of hostile military or terrorist activity."  Specifically, the amendment provides that, if a stressor claimed by a veteran is related to the veteran's "fear of hostile military or terrorist activity" and if a VA or a VA-contracted psychiatrist or psychologist confirms that the claimed stressor is adequate to support a diagnosis of PTSD, the veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor, so long as there is not clear and convincing evidence to the contrary, and provided that the claimed stressor is consistent with the circumstances, conditions, or hardships of the veteran's service.  Stressor Determinations for Posttraumatic Stress Disorder, 75 Fed. Reg. 39,843, 39,852 (July 13, 2010) (to be codified at 38 C.F.R. § 3.304(f)(3); 75 Fed. Reg. 41 ,092 (July 14, 2010) (correcting the effective date of the rule published on July 13, 2010).  For purposes of this section, "fear of hostile military or terrorist activity" means that "a veteran experienced, witnessed, or was confronted with an event or circumstance that involved actual or threatened death or serious injury, or a threat to the physical integrity of the veteran or others . . . and the veteran's response to the event or circumstance involved a psychological or psycho-physiological state of fear, helplessness, or horror."  75 Fed. Reg. at 39,852.
+
+The threshold requirement for the granting of service connection for an acquired psychiatric disorder, including PTSD under either the former or amended regulations, is evidence of a current disability.  In other words, in the absence of evidence of a current disability, in this matter a diagnosis of a psychiatric disorder, to include PTSD according to the DSM-IV, there can be no valid claim.  Brammer  v. Derwinski, 3 Vet. App. 223, 225 (1992). The Court has held that the requirement in a claim of service connection of current disability "is satisfied when a claimant has a disability at the time a claim for VA disability compensation is filed or during the pendency of that claim and that a claimant may be granted service connection even though the disability resolves prior to the Secretary's adjudication of the claim."  See McClain v. Nicholson, 21 Vet. App. 319 (2007).
+
+First, the Board notes that the Veteran underwent an August 2011 VA psychiatric examination in which the examiner found in-service stressors of a fear of hostile military or terrorist activity, during the Veteran's service in Vietnam.  The Veteran's DD 214 shows that his military occupational specialty (MOS) was that of a postal clerk.  The Veteran's records do not confirm the receipt of any decorations or medals denoting participation in combat.
+
+Nonetheless, even if the Veteran's stressors were to be conceded, upon thorough review of the claim file, the Board finds that the record does not support a finding that the Veteran suffers a psychiatric disorder, to include PTSD, at any time during the appeals period.
+
+There is no evidence that a chronic psychiatric disorder was treated or diagnosed during service or after service.  The Veteran's November 1966 enlistment examination and September 1969 separation examination both revealed a clinically normal psychiatric examination.  In addition, there is no indication in any of his service treatment records that he was treated for symptoms consistent with, or diagnosed with, a psychiatric disorder, to include PTSD.  Indeed, in the August 2011 VA examination, the Veteran reported that he did not seek or receive psychiatric treatment before, during, or after service.  Furthermore, in an August 2008 VA PTSD screening, the Veteran denied feeling numb or detached from others, or being constantly on guard, watchful, or easily startled; the PTSD screening was negative.
+
+In the August 2011 VA examination, the examiner reviewed the claims file and considered the Veteran's description of stressful events in service as well as his reports of panic attacks, impulsivity, and intrusive thoughts.  Nonetheless, following a thorough examination of the Veteran, the examiner found that the Veteran demonstrated stable and adequate psychosocial functioning, and reported good relationships with family and friends.  The examiner concluded that although the Veteran described symptoms of PTSD, he did not meet the DSM-IV criteria for a diagnosis of PTSD, or for any psychiatric disorder.
+
+In light of the clinical findings of the August 2011 VA examination and the absence of favorable competent medical evidence of record showing a diagnosis of a psychiatric disorder, to include PTSD, the Board finds that the Veteran does not have a current diagnosis of a psychiatric disorder, to include PTSD. 
+
+In reaching the above conclusion, the Board has considered the Veteran's lay statements that he has PTSD.  The Veteran is competent to testify as to his observations.  See Jandreau v. Nicholson, 492 F.3d 1372, 1376-77 (Fed. Cir. 2007); Buchanan v. Nicholson, 451 F.3d 1331, 1336 (Fed. Cir. 2006).  But, the Veteran has not demonstrated that he is an expert when it comes to diagnosis or etiology of psychiatric disorders; he is therefore a layperson in this regard.  Lay witnesses may, in some circumstances, opine on questions of diagnosis and etiology.  See Davidson v. Shinseki, 581 F.3d 1313, 1316 (Fed. Cir. 2009).  However, unlike disorders that may be observable as to both their incurrence and their cause, such as a dislocated shoulder, the diagnosis and cause of a psychiatric disorder, including PTSD, is not readily apparent to lay observation, and the Court has held that psychiatric diagnoses are generally the province of medical professionals.  See Clemons v. Shinseki, 23 Vet. App. 1, 6 (2009) ("It is generally the province of medical professionals to diagnose or label a mental condition, not the claimant"); see also Woehlaert v. Nicholson, 21 Vet. App. 456, 462 (2007) (unlike varicose veins or a dislocated shoulder, rheumatic fever is not a condition capable of lay diagnosis).  Moreover, even if credible and competent as to his observations, the Veteran's general lay assertions are outweighed by the specific and reasoned conclusions of the health care professional who found no diagnosis of a psychiatric disorder, including PTSD.  See Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 304 (2008) (most of the probative value of a medical opinion comes from its reasoning; threshold considerations include the qualifications of the person opining).  Thus, the Board finds that the Veteran's lay opinion is not entitled to significant weight as compared to the August 2011 VA opinion.
+
+Therefore, the most probative evidence of record reflects that the Veteran lacks a diagnosis of a psychiatric disorder, including PTSD under the DSM-IV, during the appeals period.  See Hayes v. Brown, 5 Vet. App. 60, 69-70 (1993).  Absent the required diagnosis of a psychiatric disorder, including a DSM-IV diagnosis of PTSD, at any time during the appeals period, there is no current disability to attribute to the Veteran's military service, irrespective of the occurrence of a stressor in service.  See Maggitt v. West, 202 F.3d 1370, 1375 (Fed. Cir. 2000); D'Amico  v. West, 209 F.3d 132, 1326 (Fed. Cir. 2000); Collaro v. West, 136 F.3d 1304, 1308 (Fed. Cir. 1998); Hibbard v. West, 13 Vet. App. 546, 548 (2000).  The law limits entitlement for service-related diseases and injuries to cases where the underlying in-service incident has resulted in a disability.  See Degmetich v. Brown, 104 F. 3d 1328 (1997); see also Brammer  v. Derwinski, 3 Vet. App. 223, 225 (1992).
+
+For the foregoing reasons, the Board finds that the preponderance of the evidence is against the Veteran's claim for service connection for an acquired psychiatric disorder, to include PTSD, and the claim must be denied.  The Board has considered the benefit of the doubt doctrine, but finds it inapplicable because the preponderance of the evidence is against the claim.  See 38 U.S.C.A. § 5107; 38 C.F.R. § 3.102; Gilbert v. Derwinski, 1 Vet. App. 49, 55 (1990).
+
+ORDER
+
+Service connection for an acquired psychiatric disorder, to include PTSD, is denied.
+
+
+
+____________________________________________
+MICHAEL MARTIN
+Veterans Law Judge, Board of Veterans' Appeals
+
+
+
+Department of Veterans Affairs
+
+

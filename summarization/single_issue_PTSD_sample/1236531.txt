@@ -1,0 +1,142 @@
+Citation Nr: 1236531	
+Decision Date: 10/22/12    Archive Date: 11/05/12
+
+DOCKET NO.  08-01 703	)	DATE
+	)
+	)
+
+On appeal from the
+Department of Veterans Affairs Regional Office in Montgomery, Alabama
+
+
+THE ISSUE
+
+Entitlement to service connection for an acquired psychological disorder, to include posttraumatic stress disorder (PTSD), anxiety disorder, major depressive disorder, and panic disorder.  
+
+
+REPRESENTATION
+
+Appellant represented by:	Disabled American Veterans
+
+
+WITNESSES AT HEARING ON APPEAL
+
+Appellant, D.W.
+
+
+ATTORNEY FOR THE BOARD
+
+C. C. Dale, Counsel
+
+
+INTRODUCTION
+
+The Veteran had active duty service from October 1978 to May 1979 and January 1983 to June 1983.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from an October 2006 and November 2007 rating decisions by the Regional Office (RO) of the Department of Veterans Affairs (VA) in Denver, Colorado, that denied service connection for PTSD and for generalized anxiety disorder, major depression, and a panic disorder, respectively.  Jurisdiction has been transferred to the RO in Montgomery, Alabama.
+
+The Board remanded the appeal for a hearing in May 2012.  The Veteran was afforded a July 2012 videoconference hearing before the undersigned.  A transcript of the hearing is associated with claims folder.  
+
+During the pendency of the appeal, the United States Court of Appeals for Veterans Claims (Court) has ruled that a claim for a psychiatric disorder encompasses all psychiatric diagnoses raised by the record.  Clemons v. Shinseki, 23 Vet. App. 1 (2009).  Hence, the issue has been recharacterized as a single issue for service connection that encompasses all the psychiatric diagnoses raised by the record.  
+
+A review of the Virtual VA paperless claims processing system does not show any pertinent records that are not already associated with the physical claims folder.  
+
+
+FINDINGS OF FACT
+
+1.  The Veteran has provided consistent reports of two episodes of in-service sexual trauma; she necessitated emergency room treatment for hyperventilation shortly after the episodes of assault.  
+
+2.  The Veteran has current psychiatric disabilities, namely PTSD, major depressive disorder, anxiety disorder, and panic disorder as the result of the in-service sexual assault stressors.
+
+
+CONCLUSION OF LAW
+
+A current psychiatric disability was incurred in active service.  38 U.S.C.A. §§ 1131, 5107(b) (West 2002); 38 C.F.R. §§ 3.303, 3.304(f) (2011). 
+
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSION
+
+Duty to Notify and Assist
+	
+The Veterans Claims Assistance Act of 2000 as amended (VCAA) and implementing regulations impose obligations on VA to provide claimants with notice and assistance.  38 U.S.C.A. §§ 5102, 5103, 5103A, 5107, 5126 (West 2002 & Supp. 2011); 38 C.F.R §§ 3.102, 3.156(a), 3.159, 3.326(a) (2011).
+
+As the Board is granting the claim for service connection, the claim is substantiated, and there are no further VCAA duties.  Wensch v. Principi, 15 Vet App 362, 367-68 (2001); see also 38 U.S.C.A. § 5103A(a)(2) (Secretary not required to provide assistance "if no reasonable possibility exists that such assistance would aid in substantiating the claim"); VAOPGCPREC 5-2004; 69 Fed. Reg. 59989 (2004) (the notice and duty to assist provisions of the VCAA do not apply to claims that could not be substantiated through such notice and assistance).
+
+Laws and regulations
+
+Service connection will be granted for a disability resulting from disease or injury incurred in or aggravated by active service.  38 U.S.C.A. § 1131; 38 C.F.R. § 3.303.
+
+Establishing service connection generally requires competent evidence of (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a nexus between the claimed in-service disease or injury and the present disability. Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004); see Caluza v. Brown, 7 Vet. App. 498, 506 (1995), aff'd per curiam, 78 F.3d 604 (Fed. Cir. 1996) (table); see also Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004); Hickson v. West, 12 Vet. App. 247, 253 (1999); 38 C.F.R. § 3.303.
+
+Under 38 C.F.R. § 3.303(b), an alternative method of establishing the second and third Shedden/Caluza element is through a demonstration of continuity of symptomatology.  Barr v. Nicholson, 21 Vet. App. 303 (2007); see Savage v. Gober, 10 Vet. App. 488, 495-97 (1997); see also Clyburn v. West, 12 Vet. App. 296, 302 (1999). 
+
+Continuity of symptomatology may be established if a claimant can demonstrate (1) that a condition was "noted" during service; (2) evidence of post- service continuity of the same symptomatology; and (3) medical or, in certain circumstances, lay evidence of a nexus between the present disability and the post-service symptomatology.  Savage, 10 Vet. App. at 495-96; see Hickson, 12 Vet. App. at 253 (lay evidence of in-service incurrence sufficient in some circumstances for purposes of establishing service connection); 38 C.F.R. § 3.303(b).
+
+In relevant part, 38 U.S.C.A. § 1154(a) (West 2002) requires that VA give "due consideration" to "all pertinent medical and lay evidence" in evaluating a claim for disability or death benefits.  Davidson v. Shinseki, 581 F.3d 1313 (Fed. Cir. 2009).
+
+The Federal Circuit has held that "[l]ay evidence can be competent and sufficient to establish a diagnosis of a condition when (1) a layperson is competent to identify the medical condition, (2) the layperson is reporting a contemporaneous medical diagnosis, or (3) lay testimony describing symptoms at the time supports a later diagnosis by a medical professional."  Jandreau v. Nicholson, 492 F.3d 1372, 1377 (Fed. Cir. 2007); see also Buchanan v. Nicholson, 451 F.3d 1331, 1337 (Fed. Cir. 2006) ("[T]he Board cannot determine that lay evidence lacks credibility merely because it is unaccompanied by contemporaneous medical evidence").
+
+"Symptoms, not treatment, are the essence of any evidence of continuity of symptomatology."  Savage v. Gober, 10 Vet. App. at 496 (citing Wilson v. Derwinski, 2 Vet. App. 16, 19 (1991)).  Once evidence is determined to be competent, the Board must determine whether such evidence is also credible.  See Layno, 6 Vet. App. at 469 (distinguishing between competency ("a legal concept determining whether testimony may be heard and considered") and credibility ("a factual determination going to the probative value of the evidence to be made after the evidence has been admitted")).
+
+Service connection may also be granted for a disease first diagnosed after discharge when all of the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38 C.F.R. § 3.303(d).
+
+Service connection for PTSD requires medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a); a link, established by medical evidence, between current symptoms and an in-service stressor; and credible supporting evidence that the claimed in-service stressor occurred.  38 C.F.R. § 3.304(f).
+
+If a PTSD claim is based on in-service personal assault, evidence from sources other than the veteran's service records may corroborate her account of the stressor incident.  Examples of such evidence include, but are not limited to: records from law enforcement authorities, rape crisis centers, mental health counseling centers, hospitals, or physicians; pregnancy tests or tests for sexually transmitted diseases; and statements from family members, roommates, fellow service members, or clergy.  38 C.F.R. § 3.304(f)(5) (2011).
+
+Evidence of behavior changes following the claimed assault is one type of relevant evidence that may be found in these sources.  Examples of behavior changes that may constitute credible evidence of the stressor include, but are not limited to: a request for a transfer to another military duty assignment; deterioration in work performance, substance abuse, episodes of depression, panic attacks, or anxiety without an identifiable cause; or unexplained economic or social behavior changes. Id.
+
+Analysis
+
+Service department records do not contain any information or evidence demonstrating any in-service sexual assaults.  However, Fort Hood Army Hospital records, dated in May 1979, show that the Veteran sought emergency room (ER) treatment for complaints of synoscope, shortness of breath, and numbness in her right hand.  She reported having several similar episodes over the past few weeks.  The examiner assessed anxiety attack with hyperventilation.  She was prescribed valium for treatment and discharged home.  She had ER treatment the very next day when she arrived unconscious.  Unfortunately, these ER medical records are hand-written, and the Board is unable to decipher many of the words.  However, it is clear the second ER visit was again related to the syncopal episodes.  Such records also indicate an abrupt change in the Veteran's diet- as she had begun eating only candy and other sweet foods, raising some questions relating to hypoglycemia.  
+
+Post-service, VA primary care records from January 2005 show that the Veteran presented crying and reported significant emotional distress relating to recent occupational and health problems.  The primary care physician referred her to the VA mental health clinic (MHC).  On that same day, she met with a Social Worker for individual psychotherapy.  She was highly emotional and discussed a history of unreported sexual assault in the military.  She also expressed anger over her divorce five years earlier.  She was working 70 hours per week in a job that involved physical activity and she experienced neck pain.    
+
+In February 2005, the Veteran quit her job.  She cited stressors of the in-service sexual assault and an abusive relationship with her ex-husband.  
+
+Beginning in February 2005, the Veteran began regular participation in individual and group therapy for sexual assault victims.  In March 2005, she detailed the circumstances of her in-service assault.  She reported that she was raped twice in service by the same man.  He had become a casual acquaintance after she met him at the base cafeteria.  One of the rapes took place when he offered her a ride home in his car, and the other occurred when he attacked her upon entering her residence.  Both episodes involved physical violence and death threats if she informed anyone about the assaults.  She did not report the assaults at the time.  
+
+The Veteran filed her current claim in May 2005.  In support of her claim, she provided a detailed statement about the two in-service assaults.  She reported that she was stationed at Fort Hood in 1979 when they occurred within a short period of time.  She recalled the assailant was also in the military and that she met him at the base cafeteria.  While walking home at night, he saw her and offered her a ride.  Since he was a casual acquaintance, she accepted.  He took her to another location and sexually assaulted her and threatened her life if she informed anyone.  After the first incident, she was in a state of shock and did not socialize with anyone.  A few days later, she was again attacked by the assailant upon entering her residence.  He sexually assaulted her in her residence and threatened her.  Two weeks after the last incident, she was with socializing with friends.  A male companion put his arm around her and she had a panic attack and sought ER treatment as shown in the May 1979 Fort Hood ER records.  She had a psychiatric consultation, but did not feel safe enough to report the sexual assaults.  Currently, the flashbacks and feelings of helplessness impaired her ability to socialize.  She also had insomnia, depression, and mood disturbances.       
+
+Also of note, in her May 2005 statement, the Veteran indicated that after the in-service assaults occurred, she was surviving mainly on sugar, as she was avoiding going to the cafeteria for fear of seeing her assailant.  As noted previously, the in-service records confirm a sudden change of diet and that the Veteran was primarily subsisting on candy.
+
+In her November 2005 stressor statement, she reported the same narrative of two sexual assaults in service.  The details were overall consistent with the narrative given in her May 2005 claim.  
+
+VA treatment records from 2006 and 2007 reflect continued psychological treatment under diagnosis of PTSD and major depressive disorder.  
+
+The Veteran was afforded a VA psychiatric examination in June 2006.  She reported a generally good childhood, with the exception of an isolated episode of molestation and attempted rape.  She detailed two episodes of in-service sexual assault in 1979.  The details were generally consistent with her prior narratives.  She stated that she never told anyone about the two assaults until last year.  She reported recent stressors of her difficult divorce and leaving her prior job.  She currently had regular individual psychotherapy and attended a support group.  She was on medication.  She believed the treatment had helped her overall, but she remained very emotionally labile.  The examiner reviewed her reports of two in-service sexual assaults and her current symptoms of nightmares, flashbacks, memory impairment, ruminative thoughts, avoidant behaviors, irritability, and hyperarousal.  She had a significant history of motor vehicle accidents, which she attributed to her symptoms.  
+
+Upon mental status examination, the Veteran presented as appropriately groomed and exhibited a cooperative attitude.  She had mild psychomotor retardation and an anxious, tearful, and dysphoric affect.  She described a fair mood.  She denied suicidal ideation, but affirmed passive homicidal ideation.  She did not exhibit any overt psychosis, or other significant memory and concentration problems.  
+
+The examiner diagnosed PTSD secondary to the reported in-service sexual assaults.  She concluded that the PTSD symptoms were severely affecting the Veteran's current life.  She noted that the Veteran was actively seeking treatment, but the severity of her current symptoms would preclude her from gainful employment.     
+
+The Veteran's treating psychiatrist submitted a May 2007 letter.  He reported treating the Veteran for the past two years.  He detailed many of her current psychological symptoms.  He indicated that she had PTSD due military sexual trauma.  
+
+At the July 2012 hearing, the Veteran reported that she believes her current psychological problems were related to distress over the in-service sexual assaults.  She again presented a narrative of two in-service sexual assaults that were largely consistent with her prior reports.  She recalled being treated for hyperventilation in May 1979 and declining to report the assaults during a psychiatric evaluation.  She did not seek psychiatric treatment until February 2005.  At that time, she had left her stressful job and had a flare up of PTSD symptoms such as flashbacks and nightmares, among others.  She disclosed the two sexual assaults to her treating clinician.  She stated that prior to February 2005 she self coped.  She cited behavior as often carrying a firearm.  She attributed her involvement in an abusive relationship to her psychological problems.  Currently, she exhibited severely socially isolated behavior.  Her husband provided testimony corroborating her reports of current symptoms.  
+
+Turning to review of the record, the Board considers the Veteran to be credible in her reports of two episodes of sexual assault taking place in April 1979.  The record includes several narratives given by her detailing the assaults.  They are generally consistent, and the events recounted by her are not inherently implausible.  See Caluza, 7 Vet. App. at 506 (Board may weigh evidence based upon plausibility and consistency with the record).  Hence, they carry probative weight.  
+
+The Veteran's reports of in-service sexual assault are also corroborated by the May 1979 Fort Hood ER records.  The Board considers the reports given to Fort Hood ER records to be an alternative evidentiary source within the meaning of 38 C.F.R. § 3.304(f) (5).  These records document an anxiety attack and suggest a significant behavior change in light of the now reported assaults.  Overall, the Board finds the evidence probative to show that two in-service sexual assaults occurred.  
+
+Although the Veteran is competent to report the assaults and her symptoms, she has not been shown to have formal psychiatric training and is not competent to provide a self-diagnosis.  See Kahana v. Shinseki, 24 Vet. App. 428, 438 (2011); Layno, 6 Vet. App. at 470 (1994).  However, the June 2006 VA psychiatric examination and May 2007 treating psychiatrist's letter are competent medical evidence that the Veteran currently has PTSD due to the in-service sexual assaults.  They are uncontroverted by the additional medical evidence of record.   
+
+In summary, the record contains credible evidence of in-service sexual assaults and competent medical evidence showing that the Veteran's current symptoms meet the PTSD diagnostic criteria and are related to the reported in-service sexual assault stressors.  Service connection for PTSD based upon in-service sexual assault is granted.  38 C.F.R. §§ 3.303, 3.304(f)(5).  
+
+The Board notes that additional psychiatric diagnoses of anxiety disorder, major depression, and panic disorder are raised by the record.  Clemons v. Shinseki, 23 Vet. App. 1; see VA treatment records from February 2005 to June 2007.  The treating clinicians have not delineating a separate etiology for these symptoms.  Where an examiner is unable to distinguish the symptoms of a service-connected disability from non-service connected manifestations, all the manifestations will be considered part of the service-connected disability.  Mittleider v. West, 11 Vet. App. 181, 182 (1998) (citing Mitchem v. Brown, 9 Vet. App. 136, 140 (1996)).  Accordingly, the Board must consider additional psychiatric disorder of anxiety disorder, major depression, and panic disorder as service related.  Id.
+
+
+ORDER
+
+Service connection for an acquired psychological disorder, to include posttraumatic stress disorder (PTSD), anxiety disorder, major depressive disorder, and panic disorder is granted. 
+
+
+
+____________________________________________
+ERIC S. LEBOFF
+Veterans Law Judge, Board of Veterans' Appeals
+
+
+
+Department of Veterans Affairs
+
+

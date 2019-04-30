@@ -1,0 +1,180 @@
+round 0, index 73: 
+This claim must be afforded expeditious treatment.
+
+round 1, index 72: 
+The appellant has the right to submit additional evidence and argument on the matter or matters the Board has remanded.
+
+round 2, index 71: 
+After they have had an adequate opportunity to respond, the case should be returned to the Board for further appellate review.
+
+round 3, index 74: 
+The law requires that all claims that are remanded by the Board of Veterans' Appeals or by the United States Court of Appeals for Veterans Claims for additional development or other appropriate action must be handled in an expeditious manner.
+
+round 4, index 75: 
+Veterans Law Judge, Board of Veterans' AppealsUnder 38 U.S.C.A. § 7252 (West 2014), only a decision of the Board of Veterans' Appeals is appealable to the United States Court of Appeals for Veterans Claims.
+
+round 5, index 76: 
+This remand is in the nature of a preliminary order and does not constitute a decision of the Board on the merits of your appeal.
+
+round 6, index 70: 
+If the claim remains denied, a supplemental statement of the case should be provided to the Veteran and her representative.
+
+round 7, index 58: 
+Accordingly, the case is REMANDED for the following action:
+
+round 8, index 69: 
+In so doing, the examiner shall explain whether any inability to provide a more definitive opinion is the result of a need for additional information, or that he or she has exhausted the limits of current medical knowledge in providing an answer to that particular question.
+
+round 9, index 61: 
+All appropriate tests and studies should be performed and all clinical findings reported in detail.
+
+round 10, index 68: 
+If the examiner cannot provide an opinion without resorting to speculation, he or she shall provide complete explanations stating why this is so.
+
+round 11, index 65: 
+Specifically, is it at least as likely as not that the Veteran has PTSD as a result of military sexual assault trauma?
+
+round 12, index 62: 
+The claims file should be provided to the appropriate examiner for review, and the examiner should note that it has been reviewed.
+
+round 13, index 60: 
+Schedule the Veteran for an appropriate VA psychiatric examination for the purpose of ascertaining the nature and etiology of the claimed psychiatric disorder.
+
+round 14, index 63: 
+For any and all diagnosed psychiatric disorder(s), the examiner shall offer an  opinion as to the following questions:
+
+round 15, index 7: 
+The appeal is REMANDED to the Agency of Original Jurisdiction (AOJ).  VA will notify the appellant if further action is required.
+
+round 16, index 66: 
+The examiner is reminded that the term "as likely as not" does not mean "within the realm of medical possibility," but rather that the evidence of record is so evenly divided that, in the examiner's expert opinion, it is as medically sound to find in favor of the proposition as it is to find against it.
+
+round 17, index 59: 
+Obtain and associate with the claims file any additional  evidence relevant to mental health that may have come into existence since the claims folder was last before the AOJ.
+
+round 18, index 67: 
+A rationale for all medical opinions shall be provided.
+
+round 19, index 5: 
+Id.
+
+round 20, index 64: 
+Is it at least as likely as not (at least a 50 percent probability) that any diagnosed psychiatric disabilities began during or was caused by her active duty service?
+
+round 21, index 12: 
+Evidence of behavioral changes following the claimed assault is one type of relevant evidence that may be found in these alternate sources.
+
+round 22, index 15: 
+Additionally, under 38 C.F.R. § 3.304(f), VA can submit any evidence, including alternate source evidence, to a medical or mental health professional for interpretation.
+
+round 23, index 11: 
+Examples of such evidence include, but are not limited to: records from law enforcement authorities, rape crises centers, mental health counseling centers, hospitals, or physicians; tests for sexually transmitted diseases; and statements from family members, roommates, fellow service members, or clergy.
+
+round 24, index 33: 
+She further states she experienced job instability and a poor and distance relationship with her daughter.
+
+round 25, index 14: 
+or unexplained economic or social behavioral changes.
+
+round 26, index 57: 
+In light of the Veteran's complaints of an in-service sexual assault, her mental health treatment containing diagnoses of an acquired psychiatric disorder since service, service personnel records showing disciplinary actions, criminal record since service, and statements from G.E.H., the Board finds that the Veteran should be afforded a VA examination to determine the nature and etiology of any acquired psychiatric disorder.
+
+round 27, index 13: 
+Examples of behavioral changes that may constitute credible evidence of a stressor include, but are not limited to: request for transfer to another military duty assignment; deterioration in work performance; substance abuse; episodes of depression, panic attacks, or anxiety without an identifiable cause;
+
+round 28, index 3: 
+The Veteran initially filed a claim of entitlement to service connection for PTSD.
+
+round 29, index 4: 
+As emphasized in Clemons, the veteran's claim "cannot be limited only to that diagnosis, but must rather be considered a claim for any mental disability that may be reasonably encompassed."
+
+round 30, index 56: 
+While the Veteran has been seen by a VA licensed clinical social worker who has diagnosed the Veteran with PTSD related to the claimed in-service sexual assault trauma, the Veteran has yet to undergo an psychiatric examination by a VA psychiatrist or psychologist.
+
+round 31, index 48: 
+He elaborated that other people saw the events, but did not get involved.
+
+round 32, index 0: 
+The Veteran served on active duty from September 1980 to September 1983.
+
+round 33, index 1: 
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from an April 2011 rating decisions of the Department of the Veteran Affairs (VA) Regional Office (RO).
+
+round 34, index 2: 
+In September 2015, the Veteran testified regarding this matter at a hearing before the undersigned Veterans Law Judge.  A transcript of the hearing has been associated with the claims file.
+
+round 35, index 34: 
+The Veteran reported the alleged assailant requested to be reassigned and was sent to Fort Riley.
+
+round 36, index 9: 
+Service connection for PTSD requires medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a); a link, established by medical evidence, between current symptoms and an in-service stressor; and credible supporting evidence that the claimed in-service stressor occurred.
+
+round 37, index 10: 
+The law provides that if a PTSD claim is based on an in-service personal assault, evidence from sources other than the veteran's service records may corroborate the veteran's account of the stressor incident.
+
+round 38, index 38: 
+They were located at this location from 1981-1983.
+
+round 39, index 55: 
+When nothing was done he reported it to his section sergeant, who set up an appointment with his company commander Captain B.H.  G.E.H. explains he waited a few weeks then requested to see the ballation commander and waited several months, but the matter was never looked into.
+
+round 40, index 35: 
+The Veteran also requested to be reassigned, but completed her 18 month assignment at the duty station.
+
+round 41, index 8: 
+The Veteran contends she has PTSD, attributable to a military sexual assault that occurred during service.
+
+round 42, index 32: 
+During the forced relationship, she started using drugs and alcohol and used for 16 years.
+
+round 43, index 22: 
+The woman who was assaulting her was later transferred from Baumholder, West Germany, to Stugart, West Germany.
+
+round 44, index 31: 
+They were roommates for about two months then the alleged assailant made her first sexual overture to her.
+
+round 45, index 30: 
+The alleged assailant had befriended her and several months later arranged to be her roommate.
+
+round 46, index 16: 
+Most significantly, for claims involving an in-service personal assault, after-the-fact medical evidence can be used to establish a stressor.
+
+round 47, index 20: 
+These incidents occurred for one and a half years.
+
+round 48, index 18: 
+Both her September 1983 separation examination and report of medical history note no psychiatric problems.
+
+round 49, index 19: 
+The Veteran asserts in her July 2010 claim that during active duty from 1980 to 1983, she was sexually assaulted by another woman.
+
+round 50, index 21: 
+She reported the situation to her company commander on numerous occasions.
+
+round 51, index 47: 
+During her September 2015 Board hearing, G.E.H. testified by phone, stating he saw the Veteran being attacked by the alleged assailant numerous times.
+
+round 52, index 39: 
+He was friends with the Veteran.
+
+round 53, index 46: 
+Additionally, she submitted her civilian criminal record report, which indicates numerous offenses since 1986.
+
+round 54, index 43: 
+In September 2015 the Veteran submitted an April 1983 service personnel record that states the Veteran's rank had been reduced to PV2/E2.
+
+round 55, index 17: 
+Service treatment records do not reflect that she was treated for a psychiatric disability during active service, or that she complained of any injuries that may be attributable to a physical or sexual assault.
+
+round 56, index 29: 
+The Veteran reported the alleged assailant was in her company and they lived in the same barracks.
+
+round 57, index 6: 
+Upon review of the evidence, which shows diagnoses of PTSD related to military sexual trauma, and identity problems, the Board has re-characterized the issue as shown on the title page.
+
+round 58, index 50: 
+He believed there was a connection between the B.H. and the alleged assailant.
+
+round 59, index 49: 
+He reported these events to his superiors, specifically first sergeant W.D.W. and company commander B.H.
+

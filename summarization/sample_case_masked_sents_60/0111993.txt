@@ -1,0 +1,180 @@
+round 0, index 94: 
+Entitlement to service connection for PTSD is denied.
+
+round 1, index 93: 
+As such. there is not an approximate balance of positive and negative evidence regarding the merits of the veteran's claim that would give rise to a reasonable doubt in favor of the veteran, the benefit-of-the-doubt rule is not applicable, and the appeal is denied.
+
+round 2, index 92: 
+The preponderance of the evidence is against the veteran's claim.
+
+round 3, index 91: 
+There is no medical opinion suggesting that any currently diagnosed disorder is related to or due to some other incident of the veteran's active military service apart from the unverified stressors.
+
+round 4, index 90: 
+On discharge, no mental disorders were identified and the veteran was reported as clinically normal.
+
+round 5, index 95: 
+BRUCE KANNEE	Member, Board of Veterans' Appeals
+
+round 6, index 19: 
+The RO has made satisfactory efforts to ensure that all relevant evidence including post service medical records has been associated with the claims file, and numerous attempts have been made to verify his claimed stressors.
+
+round 7, index 10: 
+The medical evidence does not show a link between a diagnosis of PTSD and a verified stressor.
+
+round 8, index 20: 
+The veteran has been offered an opportunity to submit additional evidence in support of his claim.
+
+round 9, index 18: 
+The Board finds that the veteran was provided adequate notice as to the evidence needed to substantiate his claim.
+
+round 10, index 16: 
+This law sets forth requirements for assisting a claimant in developing the facts pertinent to his or her claim.
+
+round 11, index 21: 
+In short, the Board concludes that the duty to assist has been satisfied, as well as the duty to notify the veteran of the evidence needed to substantiate his claim, and the Board will proceed with appellate disposition on the merits.
+
+round 12, index 17: 
+The Board finds that even though this law was enacted during the pendency of this appeal, and thus, has not been considered by the RO, there is no prejudice to the veteran in proceeding with this appeal.
+
+round 13, index 86: 
+In November 1967, a psychiatric evaluation was afforded due to history of rule infractions and depression.
+
+round 14, index 9: 
+The record does not demonstrate that the veteran engaged in combat with the enemy.
+
+round 15, index 22: 
+According to the law, service connection will be granted if it is shown that a veteran has a disability resulting from an injury or disease contracted in the line of duty, or for aggravation of a preexisting injury suffered or disease in active military service.
+
+round 16, index 23: 
+"Generally, to prove service connection, a claimant must submit (1) medical evidence of a current disability, (2) medical evidence, or in certain circumstances lay testimony, of in-service incurrence or aggravation of an injury or disease, and (3) medical evidence of a nexus between the current disability and the in-service disease or injury."
+
+round 17, index 11: 
+PTSD was not incurred in or aggravated by active military service.
+
+round 18, index 24: 
+Where the determinative issue involves a medical diagnosis, competent medical evidence is required.
+
+round 19, index 6: 
+The evidence submitted in this case does not supply a PTSD stressor capable of verification.
+
+round 20, index 8: 
+All relevant evidence necessary for an equitable disposition of this appeal has been obtained by the RO.
+
+round 21, index 57: 
+Neither is VA required to accept statements or testimony which is inherently incredible.
+
+round 22, index 25: 
+This burden typically cannot be met by lay testimony because lay persons are not competent to offer medical opinions.
+
+round 23, index 7: 
+Since the issue before the Board is concerned with such a stressor, such evidence is, thus, not pertinent and does not preclude a decision by the Board at this time.
+
+round 24, index 89: 
+An impression of passive aggressive disorder was given.
+
+round 25, index 88: 
+No severe psychiatric pathology was found.
+
+round 26, index 72: 
+The credibility of a witness can be impeached by a showing of interest, bias, or inconsistent statements.
+
+round 27, index 26: 
+The mere fact of an in-service injury is not enough;
+
+round 28, index 87: 
+The mental evaluation noted marital problems only.
+
+round 29, index 71: 
+Lay testimony is not competent to prove a matter requiring medical expertise, such as a diagnosis or an opinion as to medical causation.
+
+round 30, index 27: 
+must be chronic disability resulting from that injury.
+
+round 31, index 0: 
+The veteran served on active duty from August 1963 to December 1968.
+
+round 32, index 1: 
+This appeal comes before the Board of Veterans' Appeals (Board) on appeal from a May 1999 rating decision by the Department of Veterans Affairs (VA) Regional Office (RO) in Chicago, Illinois, which denied the benefit sought.
+
+round 33, index 2: 
+In December 2000, the veteran withdrew his request for a hearing before a travel section of the Board.
+
+round 34, index 3: 
+Additional medical consultation and treatment records were received in November 2000 after the case had been certified to the Board by the agency of original jurisdiction (AOJ);
+
+round 35, index 40: 
+"[E]ngaged in combat with the enemy" requires that the veteran have personally taken part in a fight or encounter with a military foe or hostile unit of instrumentality.
+
+round 36, index 73: 
+The veteran's stake in the outcome of this claim affects the credibility of his assertions or opinion.
+
+round 37, index 28: 
+If there is no evidence of a chronic condition during service, or an applicable presumption period, then a showing of continuity of symptomatology after service is required to support the claim.
+
+round 38, index 4: 
+such evidence has not first been considered by the AOJ.
+
+round 39, index 29: 
+Evidence of a chronic condition must be medical, unless it relates to a condition to which lay observation is competent.
+
+round 40, index 42: 
+The issue must be resolved on a case-by-case basis, assessing the credibility, probative value, and relative weight of each relevant item of evidence.
+
+round 41, index 5: 
+Pursuant to 38 C.F.R. § 20.1304 (2000), pertinent evidence received by the Board under this section necessitates a return of the case to the AOJ for review, consideration and preparation of a supplemental statement of the case prior to a Board decision unless there has been a waiver of such referral.
+
+round 42, index 49: 
+He also claimed being subjected to daily rocket attacks.
+
+round 43, index 80: 
+Nevertheless, the incident, at least based on the record, probably occurred about 20 miles from the veteran, too far for him to have seen it.
+
+round 44, index 78: 
+That individual was killed at a location some 20 miles away from where the veteran was stationed.
+
+round 45, index 81: 
+Accordingly, the claimed stressors are not verified in this instance.
+
+round 46, index 31: 
+Id.
+
+round 47, index 30: 
+If service connection is established by continuity of symptomatology, there must be medical evidence that relates a current condition to that symptomatology.
+
+round 48, index 82: 
+In this case, the source evidence of the stressors derives from the veteran alone and has not been verified.
+
+round 49, index 69: 
+The RO sought to obtain verifiable evidence of the alleged incidents.
+
+round 50, index 75: 
+Had the claimed event in that regard really happened, the Board is of the opinion that the veteran would have advanced the claim when he filled out the PTSD stressor development questionnaire.
+
+round 51, index 47: 
+During guard duty, he claims he would view the surrounding country with a telescope or field glasses.
+
+round 52, index 48: 
+He claimed that at one time he witnessed a friend named L.P. driving a vehicle, being blown up by a mine and killed while enroute to his station.
+
+round 53, index 41: 
+The phrase would not apply to veterans who served in a general "combat area" or "combat zone" but did not themselves engage in combat with the enemy.
+
+round 54, index 70: 
+Based on the lay statements of record and the responses from official agencies, it is concluded that no incident reports capable of verification of the claimed stressors were filed.
+
+round 55, index 51: 
+The United States Center for Research of Unit Records was unable to verify that anyone identified by the veteran as L.P. was injured or killed while the veteran was in Vietnam or that his claimed stressors could otherwise be verified.
+
+round 56, index 79: 
+However, even assuming the veteran was using a telescope or field glasses at the time, the incident occurred far from where the veteran was at the time for him to be aware at the time of death or serious injury to anyone.
+
+round 57, index 83: 
+Accordingly, it is concluded that, even if the veteran carried diagnoses that unequivocally include PTSD, such diagnosis would be based on a stressor, which has been defined by the Court as inadequate as a matter of law to constitute "credible supporting evidence."
+
+round 58, index 43: 
+The veteran provided a detailed accounting of his claimed stressors while in Vietnam.
+
+round 59, index 74: 
+The Board considers the account that he was the sole live passenger placed on a plane with hundreds of dead bodies inherently incredible.
+

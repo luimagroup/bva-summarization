@@ -1,0 +1,180 @@
+round 0, index 91: 
+Service connection for CAD, secondary to PTSD, is denied.
+
+round 1, index 90: 
+As the preponderance of the evidence is against the claim, the benefit-of-the-doubt doctrine does not apply, and secondary service connection must be denied.
+
+round 2, index 92: 
+L. W. TOBIN 	Member, Board of Veterans' Appeals
+
+round 3, index 89: 
+CAD is not proximately due to or the result of a service-connected disability, and the criteria for secondary service connection are not met.
+
+round 4, index 64: 
+There is no evidence that PTSD either caused or permanently worsened the heart disease.
+
+round 5, index 86: 
+The lay statements by the veteran, asserting there is a connection between PTSD and CAD, are of no probative value, as a layman has no competence to offer a medical opinion on diagnosis or etiology of a condition.
+
+round 6, index 13: 
+The veteran's CAD is not proximately due to or the result of service-connected PTSD.
+
+round 7, index 15: 
+Service medical records are negative for cardiovascular disorders.
+
+round 8, index 16: 
+A February 1977 separation examination report reflects that the veteran's cardiovascular system was within normal limits, and his blood pressure was 120/82
+
+round 9, index 17: 
+At a May 1977 VA examination, the veteran's cardiovascular system was listed as normal, and his blood pressure was 110/72.
+
+round 10, index 67: 
+Service connection may be granted for disability resulting from disease or injury incurred in or aggravated by service.
+
+round 11, index 18: 
+A February 1989 VA hospital discharge summary reflects that the veteran presented in January 1989 with complaints of chest pain and was diagnosed with an acute myocardial infarction.
+
+round 12, index 14: 
+REASONS AND BASES FOR FINDING AND CONCLUSIONI.  Factual BackgroundThe veteran served on active duty from September 1967 to April 1969, and from May 1969 to March 1977.
+
+round 13, index 88: 
+The weight of the evidence establishes that the veteran's service-connected PTSD did not cause or aggravate his CAD.
+
+round 14, index 12: 
+The veteran's service-connected PTSD did not cause or permanently worsen his CAD.
+
+round 15, index 65: 
+II.
+
+round 16, index 11: 
+[The 1997 Board decision also denied other claims, but an appeal as to these issues was dismissed by the 1998 joint motion and Court order.]
+
+round 17, index 66: 
+The Board finds that the claim for service connection for CAD secondary to PTSD is well grounded, meaning plausible; the relevant facts have been properly developed, and there is no further duty to assist the veteran with his claim.
+
+round 18, index 19: 
+A March 1989 VA hospital discharge summary indicates that the veteran was diagnosed with unstable angina after he presented with complaints of chest pain.
+
+round 19, index 77: 
+In fact the first mention of PTSD (or any psychiatric disorder) was in 1995.
+
+round 20, index 87: 
+The Board finds the March 1999 VA medical expert opinion (finding that the veteran's service-connected PTSD did not cause or worsen his CAD) to be more persuasive than the earlier medical opinion submitted by the veteran, as the March 1999 opinion contains more detailed rationale and was based on a thorough review of historical records.
+
+round 21, index 68: 
+Service incurrence for hypertension or organic heart disease will be presumed if manifest to a compensable level within one year after service.
+
+round 22, index 3: 
+The veteran then appealed to the United
+
+round 23, index 4: 
+States Court of Veterans Appeals (which has recently been renamed the United States Court of Appeals for Veterans Claims) (Court).
+
+round 24, index 69: 
+It is neither claimed nor shown that service connection for CAD is warranted on a direct or presumptive basis;
+
+round 25, index 85: 
+The rating decision which has been submitted, concerning a different veteran's case, does not establish secondary service connection in the case of the present appellant.
+
+round 26, index 2: 
+The Board denied the claim in an August 1997 decision.
+
+round 27, index 20: 
+A March 1989 stress and redistribution thallium test revealed a small area of inferoapical ischemia and a small to moderate area of high septal ischemia.
+
+round 28, index 72: 
+Secondary service connection will be granted when a disability is proximately due to or the result of a service connected disease or injury.
+
+round 29, index 81: 
+The Board finds that this medical opinion is outweighed by the treatment records and by a more persuasive March 1999 opinion by a VA cardiologist who is the Chief of Cardiology of a VAMC.
+
+round 30, index 76: 
+The veteran had several recurrent cardiac episodes from 1989 on, with no mention of PTSD as a contributing factor until May 1995, when the veteran himself asserted a connection.
+
+round 31, index 0: 
+The veteran served on active duty from September 1967 to April 1969, and from May 1969 to March 1977.
+
+round 32, index 1: 
+This matter came before the Board of Veterans' Appeals (Board) from a September 1995 RO decision which, in pertinent part, denied the veteran's claim for service connection for CAD secondary to service-connected PTSD.
+
+round 33, index 75: 
+In March 1989, a VA examiner noted that the veteran's social history (tobacco abuse) and family history (both father and sister died of myocardial infarction) were strongly positive for coronary disease.
+
+round 34, index 23: 
+The examiner noted a 20 pack per year history of tobacco abuse and a family history which was strongly positive for CAD, with the veteran's father dying at age 56 and his sister dying at age 47, both of myocardial infarction.
+
+round 35, index 73: 
+Secondary service connection may be established for a disorder which is aggravated by a service-connected disability; compensation may be provided for the degree of disability (but only that degree) over and above the degree of disability existing prior to the aggravation.
+
+round 36, index 5: 
+In an August 1998 joint motion to the Court, the parties (the veteran and the VA Secretary) requested that the August  1997 Board decision be vacated and remanded as to the issue of secondary service connection for CAD.
+
+round 37, index 10: 
+In that same month, the veteran representative was provided a copy of the medical opinion and was given an opportunity to submit additional evidence and argument; and the representative thereafter submitted additional written argument.
+
+round 38, index 9: 
+That opinion was obtained in March 1999.
+
+round 39, index 71: 
+Rather, the veteran asserts that service connection for CAD is warranted as being secondary to his service-connected PTSD.
+
+round 40, index 84: 
+He stated that the cause of the veteran's CAD was atherosclerosis secondary to hyperlipidemia and smokingThe Board finds that the medical evidence does not show that the veteran's service-connected PTSD (diagnosed in 1995) caused or permanently increased the severity of his CAD (diagnosed in 1989).
+
+round 41, index 6: 
+In an August 1998 order, the Court granted the joint motion.
+
+round 42, index 74: 
+The record reveals that the veteran had a myocardial infarction in January 1989 and was diagnosed with unstable angina.
+
+round 43, index 57: 
+The veteran has multiple risk factors for coronary artery disease including very strong family history (both parents and a sister with history of myocardial infarction, hypercholesterolemia and smoking.
+
+round 44, index 24: 
+The primary diagnosis was CAD, and the secondary diagnosis was hypercholesterolemia.
+
+round 45, index 63: 
+Thus the cause of the veteran's coronary artery disease is atherosclerosis secondary to hyperlipidemia and smoking.
+
+round 46, index 70: 
+the veteran's CAD first appeared many years after his last separation from service in 1977.
+
+round 47, index 7: 
+The case was returned to the Board.
+
+round 48, index 8: 
+In February 1999, the Board requested a medical expert opinion.
+
+round 49, index 61: 
+The likelihood of disease progression is increased by smoking.
+
+round 50, index 56: 
+The VA cardiologist stated that he reviewed the veteran's claims file, and said (referring to the now-vacated Board decision), "I concur with the conclusion reached by the Board of Veterans Appeals that this veteran's coronary artery disease is not related to PTSD."
+
+round 51, index 31: 
+A small amount of posterolateral ischemia was seen.
+
+round 52, index 62: 
+This is in fact the course of this veteran's disease which is entirely explained by the known risk factors and is not likely to have been significantly altered by the development of PTSD in 1995.
+
+round 53, index 41: 
+The examiner indicated a diagnostic impression of stable CAD and questionable lung disease.
+
+round 54, index 37: 
+Later in May 1995, the veteran complained of a high temperature, sweating, and aching all over.
+
+round 55, index 60: 
+The natural history of such diffuse coronary artery disease is progression of lesion severity leading to subsequent myocardial infarction and deterioration of ventricular function.
+
+round 56, index 36: 
+The examiner's impression was increased angina associated with increased stress.
+
+round 57, index 58: 
+The veteran had an inferior wall myocardial infarction at age 45 in 1989, 6 years before there was any mention of PTSD in the medical record.
+
+round 58, index 59: 
+Complete cardiac evaluation in 1989 which included cardiac catheterization revealed diffuse coronary artery disease.
+
+round 59, index 35: 
+He also noted the same chest pain when walking.
+

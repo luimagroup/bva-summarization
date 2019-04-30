@@ -1,0 +1,180 @@
+round 0, index 151: 
+Service connection for PTSD is granted.
+
+round 1, index 6: 
+PTSD with depression is due to disease or injury incurred in service.
+
+round 2, index 149: 
+Therefore, the evidence shows that the veteran has a clear diagnosis of PTSD with depression, that the veteran was exposed to a stressor during service, and that the medical evidence shows that the veteran's PTSD with depression was due to his exposure to that stressor during service.
+
+round 3, index 150: 
+Accordingly, entitlement to service connection for PTSD with depression is warranted.
+
+round 4, index 147: 
+In sum, the weight of the medical evidence attributes the development of PTSD with depression to the confirmed stressor.
+
+round 5, index 148: 
+The Board finds that there is a clear diagnosis of PTSD with depression as well as a link, established by medical evidence between current symptomatology and the inservice stressor.
+
+round 6, index 4: 
+The veteran experienced a non-combat related stressor during service which has been corroborated.
+
+round 7, index 5: 
+The veteran has been clearly diagnosed as having PTSD with depression which developed due to the confirmed inservice stressor.
+
+round 8, index 146: 
+Although there are conflicting diagnoses, the weight of the medical evidence is in the veteran's favor.
+
+round 9, index 145: 
+As previously noted, the veteran has been diagnosed as having PTSD with depression which resulted due to his stressor involving the depth charges.
+
+round 10, index 8: 
+Evaluation revealed the veteran was inadequate, immature, unstable, impulsive, egocentric and anxious.
+
+round 11, index 9: 
+The final diagnosis was emotional instability reaction.
+
+round 12, index 7: 
+Factual BackgroundService medical records show the veteran was initially hospitalized in 1951 with a diagnosis of epilepsy.
+
+round 13, index 10: 
+He was discharged from service on the recommendation of a Medical Review Board and the condition was noted to have existed prior to enlistment and was not aggravated by service.
+
+round 14, index 11: 
+The veteran's discharge papers show that he was in the United States Navy and was a Seaman Apprentice.
+
+round 15, index 108: 
+The Board notes that the Court has held that where the law or regulation changes after a claim has been filed or reopened but before the administrative or judicial appeal process has been concluded, the version most favorable to the veteran will apply unless
+
+round 16, index 12: 
+In a January 1952 Social Survey report, the veteran's mother stated the veteran was nervous and constantly complained of headaches.
+
+round 17, index 13: 
+She indicated his primary problem was his alcohol use.
+
+round 18, index 107: 
+The effective date of the changes in the regulation was March 7, 1997.
+
+round 19, index 14: 
+She stated that his drinking began in service and that the veteran blamed it on his headaches.
+
+round 20, index 144: 
+Rather, the Board must determine if he currently has PTSD due to the confirmed stressor.
+
+round 21, index 15: 
+A January 1952 hospital summary shows the veteran was treated for chronic alcoholism resulting in a convulsive disorder.
+
+round 22, index 16: 
+A February 1952 VA neuropsychiatric examination report shows the veteran reported he felt pretty good, except for occasional headaches.
+
+round 23, index 129: 
+The Board finds that the verification of the veteran's service aboard ship combined with his documented emotional problems at that time lend credibility to the veteran's alleged stressors, particularly the one involving the depth charges.
+
+round 24, index 17: 
+On examination his speech was low, relevant, coherent and logical and orientation was clear.
+
+round 25, index 18: 
+His mental trends were introverted and self-accusatory.
+
+round 26, index 19: 
+He had no definite phobias, delusions, hallucinations or paranoid trends.
+
+round 27, index 20: 
+His insight and integration were good and judgment and motivation were fair.
+
+round 28, index 110: 
+As such, the veteran's claim must be considered under the regulation in effect prior to March 7, 1997 as well as the regulation in effect as of March 7, 1997.
+
+round 29, index 111: 
+In adjudicating a claim for PTSD, the applicable VA regulation states that service connection for PTSD requires medical evidence establishing a clear diagnosis of the condition, credible supporting evidence that the claimed inservice stressor actually occurred, and a link, established by medical evidence between current symptomatology and the claimed inservice stressor.
+
+round 30, index 130: 
+Accordingly, the Board finds that there is supporting evidence with regard to the veteran's stressor involving the depth charges.
+
+round 31, index 0: 
+The veteran had active military service from December 1947 to October 1951.
+
+round 32, index 1: 
+This matter originally came to the Board of Veterans' Appeals (Board) on appeal from an April 1993 rating decision by the RO.
+
+round 33, index 21: 
+The veteran was noted to be well adjusted socially and industrially when not drinking.
+
+round 34, index 109: 
+Congress provided otherwise or permitted the Secretary to provide otherwise and the Secretary did so.
+
+round 35, index 106: 
+However, other psychiatric examiners have diagnosed the veteran on numerous occasions as having PTSD with depression, both related to service.
+
+round 36, index 128: 
+This evidence is consistent with the veteran's report that he encountered personal difficulties after being ridiculed during service for his mistake with regard to the depth charges.
+
+round 37, index 22: 
+The symptoms were diagnosed as emotional instability, manifested by excessive alcoholic indulgence, excitability and ineffectiveness when confronted with minor stress, which constituted a congenital personality disorder.
+
+round 38, index 127: 
+However, the Board notes that the veteran did serve aboard the U.S.S. P.C.S. 1423 and also was treated for symptoms associated with emotional instability during his period of service.
+
+round 39, index 112: 
+In the case of Cohen, the Court issued directives to be followed in cases where the issue is service connection for PTSD.
+
+round 40, index 143: 
+The veteran may well have more than one psychiatric diagnosis.
+
+round 41, index 73: 
+in a derogatory manner and stenciled "brain" on his clothing and locker.
+
+round 42, index 126: 
+Likewise, there is no lay evidence regarding the veteran's specific inservice stressors other than the veteran's own contentions.
+
+round 43, index 3: 
+The RO was also instructed to further develop the PTSD claim.
+
+round 44, index 79: 
+The veteran provided the names of several shipmates who served with him including that of the captain, Frank McMullin.
+
+round 45, index 80: 
+In a subsequent response in January 1997 the National
+
+round 46, index 37: 
+Psychological testing was conducted which indicated the veteran had a strong tendency to exaggerate the report of psychological symptoms.
+
+round 47, index 113: 
+The Board will briefly review these directives.
+
+round 48, index 78: 
+The veteran was overwhelmed with fear that the man would board the ship and he would be expected to shoot him.
+
+round 49, index 81: 
+Archives indicated that a ship's deck log is a brief record of the internal administrative and mechanical working of the ship.
+
+round 50, index 82: 
+Furthermore, a deck log contained little information regarding the mission in which the ship is involved and is not a detailed journal describing all the events transpiring in and around the ship.
+
+round 51, index 139: 
+However, the Court further noted that under DSM -IV a subjective test had been adopted.
+
+round 52, index 42: 
+There was no indication that the anxiety disorder was related to service.
+
+round 53, index 29: 
+He reported that he began drinking heavily after the incident.
+
+round 54, index 132: 
+Thus, the occurrence of a stressor has been corroborated.
+
+round 55, index 75: 
+In the process the veteran was almost struck in the head by a stray bullet.
+
+round 56, index 74: 
+The veteran stated that on another occasion he was ordered to disarm a shipmate who was unable to control his weapon from firing wildly.
+
+round 57, index 72: 
+He stated that the crew constantly harassed him about the incident and called him "the brain"
+
+round 58, index 76: 
+On another occasion he was reprimanded harshly by the captain for following orders to tie several grenades together to create a larger explosion.
+
+round 59, index 131: 
+As such, the Board finds that the evidence is sufficient to provide supporting evidence of the actual occurrence of the veteran's aforementioned alleged stressor.
+

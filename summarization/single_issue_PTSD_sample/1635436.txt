@@ -1,0 +1,111 @@
+Citation Nr: 1635436	
+Decision Date: 09/09/16    Archive Date: 09/20/16
+
+DOCKET NO.  08-16 663	)	DATE
+	)
+	)
+
+On appeal from the
+Department of Veterans Affairs Regional Office in Cleveland, Ohio
+
+
+THE ISSUE
+
+Entitlement to service connection for hypertension, to include as due to herbicide exposure and secondary to service-connected posttraumatic stress disorder (PTSD), and/or diabetes mellitus type II.
+
+
+REPRESENTATION
+
+Veteran represented by:	Disabled American Veterans
+
+
+ATTORNEY FOR THE BOARD
+
+K. Kardian, Associate Counsel
+
+
+
+
+
+INTRODUCTION
+
+The Veteran served on active duty in the Army from August 1966 to April 1969, with service in Vietnam.
+
+This matter comes before the Board of Veterans' Appeals (Board) from an October 2006 rating decision, of the Department of Veterans Affairs (VA) Regional Office (RO) in Cleveland, Ohio.
+
+The Board remanded the issues on appeal for additional development in May 2015. The directives having been substantially complied with, VA treatment records associated with the claims file, and the Veteran provided an adequate VA opinion, the matter again is before the Board. See Stegall v. West, 11 Vet. App. 268, 271 (1998).
+
+The Board has reviewed the electronic records maintained in Virtual VA and Veterans Benefits Management System (VBMS) to ensure consideration of the totality of the evidence.
+
+
+FINDINGS OF FACT
+
+1. The Veteran had active service in the Republic of Vietnam from September 1967 to March 1969, and is presumed to have been exposed to herbicides.
+
+2. The Veteran's hypertension has been shown to be etiologically related to his active service to include as due to herbicide exposure. 
+
+
+CONCLUSION OF LAW
+
+The criteria for service connection for hypertension, to include as due to herbicide exposure, have been met. 38 U.S.C.A. §§ 1101, 1110, 1113, 1131, 1137, 5107 (West 2014); 38 C.F.R. §§ 3.102, 3.307, 3.309 (2015).
+REASONS AND BASES FOR FINDINGS AND CONCLUSION
+
+I. Duties to Notify and Assist
+
+VA has met all statutory and regulatory notice and duty to assist provisions with respect to the Veteran's claims. 38 U.S.C.A. §§ 5100, 5102, 5103, 5103A, 5107 (West 2014); 38 C.F.R. §§ 3.102, 3.156(a), 3.159, 3.326(a) (2015).  In light of the fully favorable decision herein, no further discussion of compliance with VA's duty to notify and assist is necessary. Mlechick v. Mansfield, 503 F.3d 1340 (Fed. Cir. 2007). 
+II. Service Connection
+
+Service connection may be granted for a disability resulting from a disease or injury incurred in or aggravated by service. 38 U.S.C.A. §§ 1110, 1131; 38 C.F.R. § 3.303(a). To establish a right to compensation for a present disability, a Veteran must show: "(1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service" - the so-called "nexus" requirement. Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).  
+
+For secondary service connection, any disability that is proximately due to or the result of a service-connected disease or injury shall be service connected. 38 C.F.R. § 3.310. Establishing service connection on a secondary basis requires evidence sufficient to show (1) that a current disability exists and (2) that the current disability was either (a) caused by or (b) aggravated by a service-connected disability. 38 C.F.R. § 3.310 (a); Allen v. Brown, 7 Vet. App. 439 (1995).
+
+In addition to these provisions, the law provides that diseases associated with exposure to certain herbicide agents used in support of military operations in the Republic of Vietnam (Vietnam) during the Vietnam era will be considered to have been incurred in-service. 38 U.S.C.A. § 1116(a)(1); 38 C.F.R. § 3.307(a)(6).  A Veteran who, during active military, naval, or air service, served in the Republic of Vietnam during the Vietnam era, and has a disease listed at 38 C.F.R. § 3.309(e), shall be presumed to have been exposed during such service to an herbicide agent containing dioxin, such as Agent Orange, unless there is affirmative evidence to establish that the Veteran was not exposed to any such agent during that service. 38 C.F.R. § 3.307(a)(6)(iii). Furthermore, even if a veteran does not have a disease listed at 38 C.F.R. § 3.309(e), he or she is presumed to have been exposed to herbicides if he or she served in Vietnam between January 9, 1962, and May 7, 1975, unless there is affirmative evidence to establish that the Veteran was not exposed to any such agent during that service. 38 U.S.C.A. § 1116(f).
+
+If a Veteran was exposed to an herbicide agent during active service, the following diseases shall be service-connected if the requirements of 38 C.F.R. § 3.307(a)(6) are met, even though there is no record of such disease during service, provided further that the rebuttable presumption provisions of 38 C.F.R. § 3.307(d) are also satisfied: Chloracne or other acneform disease consistent with chloracne; Type 2 diabetes (also known as Type II diabetes mellitus or adult-onset diabetes); Hodgkin's disease; chronic lymphocytic leukemia; B cell leukemia, Parkinson's disease, multiple myeloma; non-Hodgkin's lymphoma; early onset peripheral neuropathy; porphyria cutanea tarda; prostate cancer; respiratory cancers (cancer of the lung, bronchus, larynx or trachea); soft-tissue sarcoma (other than osteosarcoma, chondrosarcoma, Kaposi's sarcoma, or mesothelioma); and ischemic heart disease, (including, but not limited to, acute, subacute, and old myocardial infarction; atherosclerotic cardiovascular disease including coronary artery disease (including coronary spasm) and coronary bypass surgery; and stable, unstable and Prinzmetal's angina).
+
+In the present case, the Veteran has a diagnosis of hypertension, and the service personnel records show that the Veteran served in Vietnam and is presumed to have been exposed to herbicides during this time. See 38 C.F.R. § 3.307(a)(6)(iii).  Further, the Board notes that the National Academy of Sciences (NAS) Institute of Medicine's Veterans and Agent Orange: Update 2010 (2010 Update) concluded that there is "limited or suggestive" evidence of an association between exposure to Agent Orange and hypertension.  See Nat'l Acad. of Sci., Inst. of Med., Veterans & Agent Orange: Update 2010 (2011) at 694.  The Secretary discussed the 2006, 2008, and 2010 Updates, which contain the same analysis with respect to hypertension, in the Federal Register. See e.g. 77 Fed. Reg. 47,924 -01 (Aug. 10, 2012) (noting "[i]n Veterans and Agent Orange: Update 2006 . . . and Update 2008, NAS elevated hypertension to the 'Limited or Suggestive Evidence' category"); 75 Fed. Reg. 32,540, 32,549 (June 8, 2010) ("In Update 2006, NAS concluded that there was 'limited or suggestive evidence of an association between exposure to the compounds of interest and hypertension.'"); 75 Fed. Reg. 81,332, 81,333 (NAS, in 2008, categorized certain health outcomes, including hypertension, to have "'limited or suggestive evidence of an association.' This category is defined to mean that evidence suggests an association between exposure to herbicides and the outcome, but a firm conclusion is limited because chance, bias, and confounding could not be ruled out with confidence."). 
+
+The United States Court of Appeals for the Federal Circuit has held that when a claimed disorder is not included as a presumptive disorder, direct service connection may nevertheless be established by demonstrating that the disease was in fact "incurred" during service by proof of direct causation.  See Combee v. Brown, 34 F.3d 1039, 1042 (Fed Cir. 1994).
+
+Under applicable criteria, VA shall consider all lay and medical evidence of record in a case with respect to benefits under laws administered by VA. In determining whether service connection is warranted for a disability, VA is responsible for determining whether the evidence supports the claim or is in relative equipoise, with the Veteran prevailing in either event, or whether a preponderance of the evidence is against the claim, in which case the claim is denied. Gilbert v. Derwinski, 1 Vet. App. 49 (1990).  
+
+III. Analysis
+
+The Veteran contends he is entitled to service connection for hypertension, as a result of herbicide exposure, and to include as secondary to service-connected PTSD, and diabetes mellitus type II. The Board finds the evidence of record supports that there is a causal connection between the Veteran's active service to include his presumed herbicide exposure and current hypertension. As a result the Board finds that service connection is warranted on a direct basis. 
+
+First, service connection requires evidence of a current disability. The evidence of record shows the Veteran has a diagnosis of hypertension. See September 2013 VA examination. Further, VA treatment records note ongoing treatment for the Veterans' hypertension. Therefore, the first element of service connection, a current disability, has been met.
+
+Next, turning to the second element of service connection there must be evidence of an in-service incurrence or aggravation of a disease or injury. The Veteran's DD 214 and personnel records indicate he had one year and seven months of foreign service, and that he was stationed in Vietnam from September 1967 to April 1969. Based on this evidence, the Board finds the Veteran served in the Republic of Vietnam, during an applicable presumptive period, and is therefore presumed to have been exposed to herbicides. 38 C.F.R. § 3.307(a)(6)(iii).  Therefore, an in-service event, injury or disease has been shown. 
+
+Turning to the third element of service connection, the evidence of record shows a causal connection between the Veteran's hypertension and his active service, to include herbicide exposure. The Veteran has consistently reported that while on active service in Vietnam working as an auto repairman he was exposed to herbicides and his hypertension is a result of such exposure. In addition, the Veteran  has reported that his hypertension is caused by his service-connected PTSD and/or diabetes mellitus type II. The Board finds the Veteran's report of exposure to herbicides in-service is credible and consistent with the terms of his service.  
+
+Next turning to the medical evidence, the Veteran underwent a VA examination in September 2013 and VA obtained supplemental opinions in June 2015 and September 2015.  In the September 2013 VA examination the examiner diagnosed the Veteran with hypertension and opined that his hypertension was not secondary to his diabetes mellitus type II, PTSD or medications prescribed for PTSD. See September 2013 VA examination. This opinion was inadequate, because, the examiner failed to consider whether the Veteran's hypertension was aggravated by his diabetes mellitus type II and/or PTSD, or if his hypertension was otherwise due to his active service, to include herbicide exposure. As a result, this examination was inadequate. 
+
+As a result of the May 2015 Board remand, the Veteran was afforded supplemental VA opinions. June 2015 and September 2015 VA opinions found the Veteran's hypertension was not a result of his active service to include herbicide exposure, and had not been caused or aggravated by his service-connected diabetes mellitus type II and/or PTSD. See June 2015 and September 2015 VA opinions. As to herbicide exposure, the VA examiner noted that the Veteran's remote history of herbicide exposure during service was less likely to be a cause of his hypertension, attributing the Veteran's hypertension to obesity, sleep apnea and a long history of smoking. See June 2015 VA opinion. As to PTSD, the examiner noted an opinion could not be given without resorting to speculation, potentially attributing the Veteran's PTSD to obesity, sleep apnea, a long history of smoking, lifestyle and genetic factors. See September 2015 VA opinion.  However, both the June 2015 and September 2015 opinions were inadequate. The September 2015 opinion was inadequate as it failed to address the Veteran's claims that his obesity is a result of his sleep impairment, which is a symptom of his PTSD, and failed to address medical literature provided by the Veteran's representative suggesting a connection between hypertension and PTSD and diabetes mellitus type II. Finally, the June 2015 opinion was inadequate as it failed to address medical literature provided by the Veteran's representative, suggesting a connection between herbicide exposure and hypertension. 
+
+Based on the inadequacies of the medical record, the Board sought a VA specialist opinion in March 2016. The specialist noted a review of medical literature including medical literature provided by the Veteran's representative and the Veteran's claims file. The specialist found that it is at least as likely as not that the Veteran's currently diagnosed hypertension is related to his exposure to herbicides. See May 17, 2016 opinion. The specialist opined that based on a review of the medical literature particularly studies from the National Academy of Sciences (NAS) Institute of Medicine which performed adjustments for many potential confounding variables known to cause hypertension, found an association between herbicides and hypertension. The specialist noted that while the Veteran has risk factors associated with the development of hypertension, including obesity, chronic tobacco use and diabetes mellitus type II this significant medical literature suggests it is at least as likely as not that the Veteran's hypertension is related to his herbicide exposure. 
+
+Further, the opinion from the VA specialist noted that it is less likely than not that the Veteran's hypertension was caused by his service-connected diabetes mellitus type II. The specialist cited two pieces of medical literature which found that those with insulin sensitivity may be predisposed to hypertension, however insulin sensitivity was not associated with blood pressure progression or hypertension in obese participants, and thus association cannot be extrapolated to the Veteran. A further literature review failed to find a clear link between diabetes mellitus type II and hypertension. 
+
+Finally, regarding the Veteran's PTSD, the VA specialist found that it is less likely than not that the Veteran's hypertension was caused by his service-connected PTSD. The examiner noted that a review of the medical literature did not show that individuals with PTSD have been reported to be more likely to be diagnosed with hypertension and cardiovascular disease. However, the specialist noted that this literature is not abundant, and more research is needed in this field to show a stronger potential relationship between PTSD and hypertension. The specialist noted that as to whether or not the Veteran's hypertension has been aggravated (permanently worsened beyond its natural progression) by his diabetes mellitus type II and/or PTSD, research has suggested that insulin adversely affects blood pressure, however this research was not conclusive and additional research is needed to support aggravation between hypertension and diabetes mellitus type II. As to PTSD, the VA specialist noted PTSD causes neuro hormonal changes due to hypervigilance and aggressive behaviors which could potentially worsen the negative effect of hypertension on the heart, but such is speculative.  
+
+The VA examination in September 2013 and VA opinions from June 2015 and September 2015 are inadequate, and as such are not entitled to probative weight. As a result the Board finds that the VA specialist opinion from May 2016 is most probative.
+
+In conclusion, the Board has competent and credible testimony from the Veteran regarding his exposure to herbicides in-service and a positive probative opinion from a specialist providing a causal connection between the Veteran's hypertension and his active service. Therefore, the Board finds that service connection for hypertension is warranted. 38 C.F.R. § 3.303.
+
+
+ORDER
+
+Entitlement to service connection for hypertension, as due to herbicide exposure is granted. 
+
+
+
+____________________________________________
+BETHANY L. BUCK
+Veterans Law Judge, Board of Veterans' Appeals
+
+
+
+Department of Veterans Affairs
+
+

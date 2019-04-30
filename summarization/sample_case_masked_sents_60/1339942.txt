@@ -1,0 +1,180 @@
+round 0, index 78: 
+Service connection for an acquired psychiatric disorder, to include PTSD, is denied.
+
+round 1, index 77: 
+The Board has considered the benefit of the doubt doctrine, but finds it inapplicable because the preponderance of the evidence is against the claim.
+
+round 2, index 76: 
+For the foregoing reasons, the Board finds that the preponderance of the evidence is against the Veteran's claim for service connection for an acquired psychiatric disorder, to include PTSD, and the claim must be denied.
+
+round 3, index 74: 
+Absent the required diagnosis of a psychiatric disorder, including a DSM-IV diagnosis of PTSD, at any time during the appeals period, there is no current disability to attribute to the Veteran's military service, irrespective of the occurrence of a stressor in service.
+
+round 4, index 73: 
+Therefore, the most probative evidence of record reflects that the Veteran lacks a diagnosis of a psychiatric disorder, including PTSD under the DSM-IV, during the appeals period.
+
+round 5, index 8: 
+An acquired psychiatric disorder, to include PTSD, was not incurred or aggravated in service.
+
+round 6, index 7: 
+There is no competent evidence that the Veteran has a current diagnosis of a psychiatric disorder, to include PTSD, at any time during the appeals process.
+
+round 7, index 6: 
+Accordingly, the Veteran's claim is not limited solely to PTSD; rather, the claim is properly characterized broadly as a claim of service connection for an acquired psychiatric disorder, to include PTSD.
+
+round 8, index 53: 
+There is no evidence that a chronic psychiatric disorder was treated or diagnosed during service or after service.
+
+round 9, index 64: 
+But, the Veteran has not demonstrated that he is an expert when it comes to diagnosis or etiology of psychiatric disorders;
+
+round 10, index 52: 
+Nonetheless, even if the Veteran's stressors were to be conceded, upon thorough review of the claim file, the Board finds that the record does not support a finding that the Veteran suffers a psychiatric disorder, to include PTSD, at any time during the appeals period.
+
+round 11, index 51: 
+The Veteran's records do not confirm the receipt of any decorations or medals denoting participation in combat.
+
+round 12, index 36: 
+Service connection may also be granted for chronic disorders, such as psychoses, when manifested to a compensable degree within one year of separation from service.
+
+round 13, index 10: 
+Proper notice from VA must inform the claimant and his representative, if any, prior to the initial unfavorable decision on a claim by the AOJ of any information and any medical or lay evidence not of record (1) that is necessary to substantiate the claim;
+
+round 14, index 54: 
+The Veteran's November 1966 enlistment examination and September 1969 separation examination both revealed a clinically normal psychiatric examination.
+
+round 15, index 13: 
+These notice requirements apply to all five elements of a service-connection claim (veteran status, existence of a disability, a connection between the Veteran's service and the disability, degree of disability, and effective date of the disability).
+
+round 16, index 79: 
+Veterans Law Judge, Board of Veterans' AppealsDepartment of Veterans Affairs
+
+round 17, index 15: 
+Id.
+
+round 18, index 9: 
+REASONS AND BASES FOR FINDING AND CONCLUSIONI.  Duties to Notify and AssistVA has a duty to notify and a duty to assist claimants in substantiating a claim for VA benefits.
+
+round 19, index 12: 
+that VA will seek to provide; and (3) that the claimant is expected to provide.
+
+round 20, index 62: 
+In reaching the above conclusion, the Board has considered the Veteran's lay statements that he has PTSD.
+
+round 21, index 11: 
+(2)
+
+round 22, index 55: 
+In addition, there is no indication in any of his service treatment records that he was treated for symptoms consistent with, or diagnosed with, a psychiatric disorder, to include PTSD.
+
+round 23, index 14: 
+Information that a disability rating and an effective date for the award of benefits will be assigned if service connection is awarded must be included.
+
+round 24, index 32: 
+He recounts his building being hit my mortar fire, crawling to a bunker for safety, placing his hand on a large wound in a soldier's injured leg, and participating in the Tet Offensive.
+
+round 25, index 16: 
+Here, neither the Veteran nor his representative has alleged prejudice with respect to notice, as is required.
+
+round 26, index 72: 
+Thus, the Board finds that the Veteran's lay opinion is not entitled to significant weight as compared to the August 2011 VA opinion.
+
+round 27, index 71: 
+(most of the probative value of a medical opinion comes from its reasoning; threshold considerations include the qualifications of the person opining).
+
+round 28, index 75: 
+The law limits entitlement for service-related diseases and injuries to cases where the underlying in-service incident has resulted in a disability.
+
+round 29, index 34: 
+Service connection may be granted for a disability resulting from injury or disease incurred in or aggravated by active service.
+
+round 30, index 37: 
+To make this decision, the Board must consider all the evidence of record and make appropriate determinations of competence, credibility, and weight.
+
+round 31, index 70: 
+Moreover, even if credible and competent as to his observations, the Veteran's general lay assertions are outweighed by the specific and reasoned conclusions of the health care professional who found no diagnosis of a psychiatric disorder, including PTSD.
+
+round 32, index 69: 
+(unlike varicose veins or a dislocated shoulder, rheumatic fever is not a condition capable of lay diagnosis).
+
+round 33, index 0: 
+The Veteran served on active duty from February 1967 to September 1969.
+
+round 34, index 1: 
+This matter comes before the Board of Veterans' Appeals (BVA or Board) from an August 2011 rating decision of the Department of Veterans Affairs (VA), Regional Office (RO) in Nashville, Tennessee.
+
+round 35, index 65: 
+he is therefore a layperson in this regard.
+
+round 36, index 30: 
+II.
+
+round 37, index 28: 
+The Board concludes that VA has satisfied the duty to assist provisions of law.
+
+round 38, index 27: 
+The Board finds that this examination is adequate.
+
+round 39, index 26: 
+This examination and opinion involved a review of the claims file, a thorough examination of the Veteran, and an opinion supported by rationale.
+
+round 40, index 31: 
+Service ConnectionThe Veteran contends that he suffers from PTSD, and attributes it to exposure to traumatic events in Vietnam.
+
+round 41, index 35: 
+To establish service connection for the claimed disorder, there must be medical evidence of a current disability; medical or, in certain circumstances, lay evidence of in-service incurrence or aggravation of a disease or injury; and medical evidence of a nexus between the claimed in-service disease or injury and the current disability.
+
+round 42, index 17: 
+None is found by the Board.
+
+round 43, index 63: 
+The Veteran is competent to testify as to his observations.
+
+round 44, index 33: 
+He claims service connection is warranted.
+
+round 45, index 66: 
+Lay witnesses may, in some circumstances, opine on questions of diagnosis and etiology.
+
+round 46, index 21: 
+The Board also finds that the duty to assist requirement has been fulfilled.
+
+round 47, index 20: 
+Therefore, adequate notice was provided to the Veteran prior to the transfer and recertification of his case to the Board and it complied with the requirements of 38 U.S.C.A. § 5103(a) and
+
+round 48, index 25: 
+The report from that examination and the medical opinion have been included in the claims file for review.
+
+round 49, index 68: 
+It is generally the province of medical professionals to diagnose or label a mental condition, not the claimant");
+
+round 50, index 18: 
+In June 2011, the Veteran was notified via letter of the criteria for establishing service connection, the evidence required in this regard, and his and VA's respective duties for obtaining evidence.
+
+round 51, index 19: 
+He was additionally notified of how VA determines disability ratings and effective dates if service connection is awarded.
+
+round 52, index 67: 
+However, unlike disorders that may be observable as to both their incurrence and their cause, such as a dislocated shoulder, the diagnosis and cause of a psychiatric disorder, including PTSD, is not readily apparent to lay observation, and the Court has held that psychiatric diagnoses are generally the province of medical professionals.
+
+round 53, index 23: 
+The Veteran has not referred to any additional existing evidence that is necessary for a fair adjudication of the claim which has not been obtained.
+
+round 54, index 22: 
+All relevant, identified, and available evidence has been obtained; specifically, the Veteran's service treatment records and VA examination report are in the file.
+
+round 55, index 38: 
+To the extent that the Veteran seeks service connection specifically for PTSD, entitlement to service connection for PTSD in particular requires medical evidence diagnosing PTSD in accordance with the American Psychiatric Association  Diagnostic and Statistical Manual for Mental Disorders, 4th ed. (1994) (DSM-IV); a link-established by medical evidence- between current symptoms and an in-service stressor; and credible supporting evidence that the claimed in-service stressor occurred.
+
+round 56, index 39: 
+When VA determines that a veteran did not engage in combat with the enemy, or that a veteran did engage in combat with the enemy but the claimed stressor is not related to such combat, such veteran's lay testimony, by itself, will not be enough to establish the occurrence of the alleged stressor.
+
+round 57, index 61: 
+In light of the clinical findings of the August 2011 VA examination and the absence of favorable competent medical evidence of record showing a diagnosis of a psychiatric disorder, to include PTSD, the Board finds that the Veteran does not have a current diagnosis of a psychiatric disorder, to include PTSD.
+
+round 58, index 24: 
+The record reflects that the Veteran underwent a VA examination to evaluate his claimed PTSD in August 2011.
+
+round 59, index 50: 
+The Veteran's DD 214 shows that his military occupational specialty (MOS) was that of a postal clerk.
+

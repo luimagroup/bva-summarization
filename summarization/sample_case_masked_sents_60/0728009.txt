@@ -1,0 +1,180 @@
+round 0, index 121: 
+Service connection for a psychiatric disability, including PTSD and depression, is denied.
+
+round 1, index 120: 
+Since he preponderance of the evidence is against the claim, the "benefit-of-the-doubt" rule does not apply, and he Board must deny the claim.
+
+round 2, index 3: 
+The veteran's diagnoses of PTSD and major depressive disorder are not based on corroborated non-combat in-service stressors.
+
+round 3, index 118: 
+And as noted above, a claimant's testimony or the medical opinion based upon post-service examination alone cannot establish the occurrence of a non-combat stressor.
+
+round 4, index 117: 
+Board must conclude that the VA psychiatric treatment records diagnosing PTSD and depression and ascribing those conditions to the veteran's in-service stressors are predicated on unsubstantiated facts.
+
+round 5, index 4: 
+A psychiatric disability, including PTSD and depression, was not incurred in or aggravated by active service.
+
+round 6, index 119: 
+In sum, the weight of the evidence indicates that the veteran's PTSD and depression are not related to any corroborated in-service stressors.
+
+round 7, index 5: 
+On receipt of a complete or substantially complete application, VA must notify the claimant and any representative of any information, medical evidence, or lay evidence not previously provided to VA that is necessary to substantiate the claim.
+
+round 8, index 7: 
+The notice must: (1) inform the claimant about the information and evidence not of record that is necessary to substantiate the claim;
+
+round 9, index 6: 
+This notice requires VA to indicate which portion of that information and evidence is to be provided by the claimant and which portion VA will attempt to obtain on the claimant's behalf.
+
+round 10, index 8: 
+(2)
+
+round 11, index 2: 
+VA notified the veteran of the evidence needed to substantiate the claim, explained who was responsible for submitting such evidence, and obtained and fully developed all other evidence necessary for an equitable disposition of the claim.
+
+round 12, index 37: 
+Except as otherwise provided by law, a claimant has the responsibility to present and support a claim for benefits under laws administered by the Secretary.
+
+round 13, index 9: 
+inform the claimant about the information and evidence that VA will seek to provide;
+
+round 14, index 12: 
+The RO sent correspondence in May 2002; a rating decision in April 2003; a statement of the case in March 2005; and a supplemental statement of the case in November 2006.
+
+round 15, index 10: 
+(3)
+
+round 16, index 13: 
+The May 2002 letter preceded the initial RO adjudication (April 2003), and it essentially complied with VA's notification duties regarding service connection claims.
+
+round 17, index 14: 
+The above documents discussed specific types of evidence, the applicable legal requirements, the evidence considered, the pertinent laws and regulations, and the reasons for the decisions.
+
+round 18, index 15: 
+VA made all efforts to notify and to assist the appellant with regard to the evidence obtained, the evidence needed, the responsibilities of the parties in obtaining the evidence, and the general notice of the need for any evidence in the appellant's possession.
+
+round 19, index 122: 
+Veterans Law Judge, Board of Veterans' Appeals Department of Veterans Affairs
+
+round 20, index 39: 
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary shall give the benefit of the doubt to the claimant.
+
+round 21, index 16: 
+The Board finds that even if there is any defect with regard to the timing or content of any notice sent prior to the RO's initial adjudication, that defect is harmless because of the thorough and informative notices provided throughout the adjudication and because the appellant has had a meaningful opportunity to participate effectively in the processing of the claims with an adjudication by the RO subsequent to receipt of the required notice.
+
+round 22, index 20: 
+The appellant has been apprised of the need for any evidence in his possession, and he has not identified any additional evidence that might be useful with respect to his claim.
+
+round 23, index 11: 
+inform the claimant about the information and evidence the claimant is expected to provide; and (4) request or tell the claimant to provide any evidence in the claimant's possession that pertains to the claim, or something to the effect that the claimant should "give us everything you've got pertaining to your claim(s)."
+
+round 24, index 17: 
+VA effectively complied with all of the required elements under VA's duty to notify claimants prior to the last adjudication here (the November 2006 supplemental statement of the case).
+
+round 25, index 18: 
+In March 2006, the RO also advised the veteran of the bases for assigning disability ratings and effective dates.
+
+round 26, index 38: 
+The Secretary shall consider all information and lay and medical evidence of record in a case before the Secretary with respect to benefits under laws administered by the Secretary.
+
+round 27, index 19: 
+Indeed, there has been no prejudice to the appellant in the essential fairness of the adjudication.
+
+round 28, index 40: 
+This case involves PTSD, which involves additional considerations.
+
+round 29, index 21: 
+Moreover, any error in VA's notice to the appellant (which is initially presumed to be prejudicial) is in fact harmless.
+
+round 30, index 23: 
+Any defective notice has not prejudiced the appellant in the essential fairness of the adjudication.
+
+round 31, index 22: 
+(burden is on VA to show that error in notice was not prejudicial).
+
+round 32, index 36: 
+This determination is based on analysis of all the evidence of record and evaluation of its credibility and probative value.
+
+round 33, index 0: 
+The veteran served on active duty from September 1970 to January 1972.
+
+round 34, index 1: 
+This appeal comes before the Board of Veterans' Appeals (Board) from an April 2003 RO decision that denied service connection for PTSD and for depression.
+
+round 35, index 24: 
+VA has informed the veteran of the evidentiary requirements on many instances, and the veteran has expressed an understanding of the evidentiary responsibilities by notifying VA of the identify of his medical providers and the dates of his treatment.
+
+round 36, index 25: 
+Indeed, alternate sources of evidence were specifically explored at an August 2005 RO hearing.
+
+round 37, index 111: 
+However, the absence of any evidence or complaint of any psychiatric trauma in the April 1971 clinical record undermines the veteran's account.
+
+round 38, index 110: 
+The Board is very mindful of the inherent difficulties faced by individuals subjected to sexual assault.
+
+round 39, index 112: 
+Indeed, the only mention of any emotional difficulties was on the veteran's September 1970 entrance examination, where she noted having had nightmares, dizzy spells, and headaches, as well as insomnia from worry.
+
+round 40, index 106: 
+However, as to this point, the record is contrary.
+
+round 41, index 35: 
+Service connection for a claimed disorder requires (1) medical evidence of current disability; (2) medical or, in certain circumstances, lay evidence of in-service incurrence or aggravation of a disease or injury; and (3) medical evidence of a nexus between the claimed in-service disease or injury and the current disability.
+
+round 42, index 73: 
+The probative value of medical opinion evidence is based on the medical expert's personal examination of the patient, the physician's knowledge and skill in analyzing the data, and the medical conclusion that the physician reaches.
+
+round 43, index 32: 
+The Board now turns to the merits of the claim.
+
+round 44, index 33: 
+Service connection may be granted for disability resulting from injury or disease incurred in or aggravated by active military service.
+
+round 45, index 34: 
+Service connection may be granted for disability shown after service, when all of the evidence, including that pertinent to service, shows that it was incurred in service.
+
+round 46, index 31: 
+Thus, VA satisfied both the notice and duty to assist provisions of the law.
+
+round 47, index 74: 
+As is true with any piece of evidence, the credibility and weight to be attached to these opinions [are] within the province of the adjudicators;
+
+round 48, index 72: 
+In evaluating the probative value of competent medical evidence, the Court has stated, in pertinent part:
+
+round 49, index 71: 
+The existence of an event alleged as a "stressor" that results in PTSD, though not the adequacy of the alleged event to cause PTSD, is an adjudicative, not a medical determination.
+
+round 50, index 58: 
+Examples of such evidence include, but are not limited to, records from law enforcement authorities, rape crisis centers, mental health counseling centers, hospitals, or physicians; pregnancy tests or tests for sexually transmitted diseases;
+
+round 51, index 41: 
+Service connection for PTSD requires medical evidence establishing a diagnosis of the condition in accordance with 38 C.F.R. § 4.125(a) (i.e., the diagnosis must comply with the Fourth Edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV)); credible supporting evidence that the claimed in-service stressor actually occurred; and a link, established by medical evidence, between current symptomatology and the claimed in-service stressor.
+
+round 52, index 42: 
+The evidence to establish the occurrence of a recognizable stressor during service in support of a PTSD diagnosis will vary depending upon whether the veteran engaged in "combat with the enemy," as established by recognized military combat citations or other official records.
+
+round 53, index 27: 
+Thus, VA satisfied its duty to notify the appellant.
+
+round 54, index 26: 
+Also, the veteran has expressed an awareness of the need for evidentiary corroboration, especially in her statements that she has never documented the stressors at issue here or that she has not told others of those stressors.
+
+round 55, index 28: 
+Also, VA has obtained all relevant, identified, relevant, and available evidence needed for adjudication of the claims and has notified the appellant of any evidence that could not be obtained.
+
+round 56, index 43: 
+If the evidence establishes that the veteran engaged in combat with the enemy, and the claimed stressor is related to that combat, the veteran's lay statements alone may establish occurrence of the claimed in-service stressor, in the absence of clear and convincing evidence to the contrary, provided that the claimed stressor is consistent with the circumstances, conditions, or hardships of the veteran's service.
+
+round 57, index 60: 
+Evidence of behavior changes after a claimed assault is one type of relevant evidence that may be found in these sources.
+
+round 58, index 59: 
+and statements from family members, roommates, fellow service members, or clergy.
+
+round 59, index 67: 
+After all the relevant evidence has been obtained, it is the Board's principal responsibility to assess the credibility, and therefore the probative value of proffered evidence of record in its whole.
+

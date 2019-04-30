@@ -1,0 +1,180 @@
+round 0, index 33: 
+This claim must be afforded expeditious treatment.
+
+round 1, index 34: 
+The law requires that all claims that are remanded by the Board of Veterans' Appeals or by the United States Court of Appeals for Veterans Claims for additional development or other appropriate action must be handled in an expeditious manner.
+
+round 2, index 32: 
+The appellant has the right to submit additional evidence and argument on the matter the Board has remanded.
+
+round 3, index 31: 
+If the claim remains denied, issue a supplemental statement of the case (SSOC) containing notice of all relevant actions taken on the claim, to include a summary of the evidence and applicable law and regulations considered pertinent to the issue currently on appeal, and allow an appropriate period of time for response.
+
+round 4, index 35: 
+Veterans Law Judge, Board of Veterans' AppealsUnder 38 U.S.C.A. § 7252 (West 2002), only a decision of the Board of Veterans' Appeals is appealable to the United States Court of Appeals for Veterans Claims.
+
+round 5, index 36: 
+This remand is in the nature of a preliminary order and does not constitute a decision of the Board on the merits of your appeal.
+
+round 6, index 21: 
+Schedule the Veteran for a VA examination to determine the nature and etiology of any current acquired psychiatric disabilities.
+
+round 7, index 30: 
+The claim should then be readjudicated.
+
+round 8, index 29: 
+Thereafter, if necessary, any additional development deemed appropriate should be accomplished.
+
+round 9, index 22: 
+All necessary testing should be conducted and the examiner is to elicit a history of the Veteran's claimed sexual harassment and assault during service.
+
+round 10, index 28: 
+If the examiner feels that the requested opinion cannot be rendered without resorting to speculation, the examiner should state whether the need to speculate is caused by a deficiency in the state of general medical knowledge (i.e. no one could respond given medical science and the known facts) or by a deficiency in the record or the examiner (i.e. additional facts are required, or the examiner does not have the needed knowledge or training).
+
+round 11, index 27: 
+A detailed rationale for all medical opinions must be provided.
+
+round 12, index 20: 
+Take all necessary steps to obtain and associate with the claim file a legible copy of the Veteran's personnel records.
+
+round 13, index 19: 
+Accordingly, the case is REMANDED for the following action:
+
+round 14, index 6: 
+She contends that while she worked in a recruiting office under the delayed entry program her supervisor kept her late after everyone else went home with the express purpose of having sexual relations with her.
+
+round 15, index 4: 
+The appeal is REMANDED to the RO via the Appeals Management Center (AMC), in Washington, DC.  VA will notify the appellant if further action is required.
+
+round 16, index 26: 
+The claim folder must be made available to the examiner for review in conjunction with the examination.
+
+round 17, index 18: 
+The Veteran is hereby notified that it is her responsibility to report for the examination and to cooperate in the development of the case, and that the consequences of failure to report for a VA examination without good cause may include denial of the claim.
+
+round 18, index 16: 
+VA's duty to assist a claimant includes providing a medical examination or obtaining a medical opinion when necessary to decide the claim.
+
+round 19, index 25: 
+(4th ed.) of the American Psychiatric Association (DSM-IV).
+
+round 20, index 17: 
+Given that the Veteran currently has an acquired psychiatric disability and claims she was sexually harassed and assaulted during service, a VA examination should be conducted to determine whether the Veteran has an acquired psychiatric disorder, to include bipolar disorder, depression, or PTSD that is related to service, including sexual harassment or sexual assault during service.
+
+round 21, index 13: 
+However, the paper document version of her personnel records are largely illegible due to their being printed too lightly on paper.
+
+round 22, index 14: 
+To ensure VA has not met its duty to assist the appellant in developing the evidence in support of her claim pursuant to 38 U.S.C.A. § 5103A, this case must be remanded so that a legible version of her personnel records can be obtained and reviewed by the Board prior to the adjudication of her claim.
+
+round 23, index 24: 
+Any diagnosis of PTSD must be in accordance with the Diagnostic and Statistical Manual of Mental Disorders
+
+round 24, index 8: 
+Her supervising petty officer, J.P., would grope her and make lewd sexual advances.
+
+round 25, index 7: 
+She also contends that while she deployed in the Philippines she worked in the men's barracks and assigned rooms.
+
+round 26, index 5: 
+The Veteran seeks service connection for an acquired psychiatric disability, to include bipolar disorder, depression, and PTSD.
+
+round 27, index 23: 
+As to any current psychiatric disability indentified, the examiner is to provide an opinion as to whether it is as likely as not related to service, including a sexual assault or harassment during service.
+
+round 28, index 2: 
+A July 2010 rating decision denied service connection for bipolar disorder, and the Veteran has claimed that her bipolar disorder, along with all of her mental disorders are related to claimed in-service sexual harassment and assault.
+
+round 29, index 3: 
+Thus, given Clemons, supra., and the Veteran's contentions, the Board finds that it is appropriate to characterize the Veteran's current claim as one of entitlement to service connection for an acquired psychiatric disability, to include bipolar disorder, depression, and PTSD.
+
+round 30, index 12: 
+The Veteran's personnel records are of record, including a microfiche of them.
+
+round 31, index 1: 
+This matter comes to the Board of Veterans' Appeals (Board) from a December 2008 rating decision by the Department of Veterans Affairs (VA) Regional Office (RO) in Reno, Nevada, which, in pertinent part, denied entitlement to service connection for PTSD.
+
+round 32, index 0: 
+The Veteran had active military service from June 1982 to May 1986.
+
+round 33, index 9: 
+This continued until she threatened him at which point he wrote her up for insubordination.
+
+round 34, index 11: 
+The amendments to 38 C.F.R. § 3.304(f)(4) noted above reflect a recognition that service records may not contain evidence of personal assault, and that alternative sources may provide credible evidence of an in-service stressor premised on personal assault including, but are not limited to: records from law enforcement authorities, rape crisis centers, mental health counseling centers, hospitals, or physicians; pregnancy tests or tests for sexually transmitted diseases, and statements from family members, roommates, fellow service members, or clergy.
+
+round 35, index 15: 
+Additionally, the competent evidence of record indicates that the Veteran has been diagnosed with bipolar disorder and depression and that post service VA treatment records indicate that she has reported that during service she was verbally harassed in a sexual manner and cornered against the wall and then written up when she confronted her sexual harasser.
+
+round 36, index 0: 
+The Veteran had active military service from June 1982 to May 1986.
+
+round 37, index 10: 
+The Board recognizes that the present case falls within the category of situations, to include allegations of personal assault, in which it is not unusual for there to be an absence of service records documenting the events of which the Veteran alleges.
+
+round 38, index 0: 
+The Veteran had active military service from June 1982 to May 1986.
+
+round 39, index 0: 
+The Veteran had active military service from June 1982 to May 1986.
+
+round 40, index 0: 
+The Veteran had active military service from June 1982 to May 1986.
+
+round 41, index 0: 
+The Veteran had active military service from June 1982 to May 1986.
+
+round 42, index 0: 
+The Veteran had active military service from June 1982 to May 1986.
+
+round 43, index 0: 
+The Veteran had active military service from June 1982 to May 1986.
+
+round 44, index 0: 
+The Veteran had active military service from June 1982 to May 1986.
+
+round 45, index 0: 
+The Veteran had active military service from June 1982 to May 1986.
+
+round 46, index 0: 
+The Veteran had active military service from June 1982 to May 1986.
+
+round 47, index 0: 
+The Veteran had active military service from June 1982 to May 1986.
+
+round 48, index 0: 
+The Veteran had active military service from June 1982 to May 1986.
+
+round 49, index 0: 
+The Veteran had active military service from June 1982 to May 1986.
+
+round 50, index 0: 
+The Veteran had active military service from June 1982 to May 1986.
+
+round 51, index 0: 
+The Veteran had active military service from June 1982 to May 1986.
+
+round 52, index 0: 
+The Veteran had active military service from June 1982 to May 1986.
+
+round 53, index 0: 
+The Veteran had active military service from June 1982 to May 1986.
+
+round 54, index 0: 
+The Veteran had active military service from June 1982 to May 1986.
+
+round 55, index 0: 
+The Veteran had active military service from June 1982 to May 1986.
+
+round 56, index 0: 
+The Veteran had active military service from June 1982 to May 1986.
+
+round 57, index 0: 
+The Veteran had active military service from June 1982 to May 1986.
+
+round 58, index 0: 
+The Veteran had active military service from June 1982 to May 1986.
+
+round 59, index 0: 
+The Veteran had active military service from June 1982 to May 1986.
+

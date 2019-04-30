@@ -1,0 +1,78 @@
+Citation Nr: 1315342	
+Decision Date: 05/09/13    Archive Date: 05/15/13
+
+DOCKET NO.  05-18 339	)	DATE
+	)
+	)
+
+On appeal from the
+Department of Veterans Affairs Regional Office in Los Angeles, California
+
+
+
+THE ISSUE
+
+Entitlement to service connection for posttraumatic stress disorder (PTSD) and major depressive disorder (MDD).
+
+
+
+REPRESENTATION
+
+Appellant represented by:	Disabled American Veterans
+
+
+
+ATTORNEY FOR THE BOARD
+
+A. Barone, Counsel
+
+
+
+INTRODUCTION
+
+The appellant is a Veteran who served on active duty from February 1981 to March 1983.  This matter is before the Board of Veterans' Appeals (Board) on remand from the United States Court of Appeals for Veterans Claims (Court).  The case was originally before the Board on appeal from an April 2003 rating decision of the Los Angeles, California Department of Veterans Affairs (VA) Regional Office (RO).  The Veteran requested a Travel Board hearing in her June 2005 VA Form 9, substantive appeal, but withdrew this request in a statement received in July 2005.  In April 2008, the case was remanded for additional development and to satisfy notice requirements.  In October 2010, the Board issued a decision denying service connection for PTSD and MDD.  The appellant appealed that decision to the Court.  In July 2012, the Court issued a memorandum decision vacating the October 2010 Board decision and remanding the matters on appeal for readjudication consistent with the instructions outlined in memorandum decision.
+
+The Board notes that it has reviewed both the Veteran's physical claims file and "Virtual VA" (VA's electronic data storage system) to ensure that the complete record is considered.  At present there are no additional documents pertinent to this appeal in Virtual VA.
+
+The appeal is REMANDED to the RO via the Appeals Management Center (AMC), in Washington, DC.  VA will notify the appellant if further action on her part is required.
+
+
+REMAND
+
+The Court's July 2012 memorandum decision found that remand was necessary, concluding that "the Board clearly erred in finding that the 2009 VA compensation and pension PTSD examination, including the 2010 addendum, was adequate."  Specifically, the Court noted: "The examination did not address whether the appellant's MDD was incurred or aggravated by active duty military service."  The Court noted that such an evaluation was "undoubtedly pertinent to the appellant's claim" and found that the Board erred in "relying, in large part, on the examination that failed to address the etiology and history of the appellant's MDD."
+
+The Court's decision otherwise goes on to note that "to the extent that the appellant now contends that her psychiatric problem(s) began prior to service, her PTSD diagnosis is inextricably intertwined with any such review, and will be remanded to the Board to preserve judicial economy."  The Court furthermore noted that the Veteran also advances a theory that her first psychiatric symptoms had onset during service after no psychiatric symptoms or defects were noted upon entry (arguing that 38 U.S.C.A. § 1111 is applicable to her claim); in this regard, the Court explains that as "VA must still provide the appellant with an adequate medical examination, her additional arguments are best addressed after any further development by VA on remand." Finally, the Court rejected the Veteran's argument that the Board erred by failing to apply 38 C.F.R. § 3.304(f)(3) to her allegations of in-service sexual assaults resulting in PTSD.
+
+Under the circumstances, the Board finds it necessary to remand this case to the RO/AMC for a new VA psychiatric examination with a more adequate examination report; this appears to be the course of action mandated by the Court's findings.
+
+Accordingly, the case is REMANDED for the following action:
+
+1.  The RO should arrange for the Veteran to be examined by a psychiatrist to determine whether she has PTSD or MDD that has been caused or permanently aggravated by her active duty military service (to include as based upon her alleged personal assaults in service).  The examiner must review the entire record (to include this remand) in conjunction with the examination, and the examination and the report thereof should be in accordance with DSM-IV.
+
+Upon review of the claims file and examination of the Veteran, the examiner should offer opinions that respond to the following:
+
+(a) Please identify (by psychiatric diagnosis) any and each chronic psychiatric disability entity currently found or diagnosed during the pendency of this claim (since the year 2002).
+
+(b) As to each psychiatric disability entity diagnosed, is it at least as likely as not (a 50% or greater probability) that any symptoms shown during active duty military service were manifestations of the chronic psychiatric disability (i.e., is any chronic psychiatric diagnosis shown to have manifested during the Veteran's active duty military service)?  The response to this question must specifically address the claimed psychiatric diagnoses of PTSD and MDD.  The response to this question should address the Veteran's lay statements concerning symptom history, as well as all other available pertinent information.
+
+(c) As to any and each psychiatric disability entity diagnosed, is it at least as likely as not (a 50% or greater probability) that such disability was caused by (or otherwise a consequence of) her military service or any event therein, to include the alleged incidents of hazing, harassment, and assault in 1981?  The response to this question must specifically address the Veteran's claimed psychiatric diagnoses of PTSD and MDD.  The response to this question should address the Veteran's lay statements concerning psychiatric stressor events and symptom history.
+
+(d) As to any and each psychiatric disability diagnosed, is it at least as likely as not (a 50% or greater probability) that such disability pre-existed service and was permanently aggravated by (increased in severity during/due to) her military service or any event therein, to include the alleged incidents of hazing, harassment, and assault in 1981?  The response to this question must specifically address both of the claimed psychiatric diagnoses ( PTSD and MDD).  The response should address the Veteran's lay statements concerning psychiatric stressor events and symptom history.  If the opinion is to the effect that military service did not cause, but aggravated, the psychiatric disability/disabilities, the examiner should also identify, so far as possible, the degree of psychiatric disability resulting from such aggravation.  The examiner must explain the rationale for all opinions, to include comment on any credibility issues raised by the record (i.e., by conflicting reports).
+
+(e) Does the record reflect that during service the Veteran exhibited behavioral changes suggesting she was a victim of personal/sexual assault?  Are her explanations why behavioral changes are not documented to a greater degree even though she was deeply affected by personal assaults consistent with what an individual might experience under these circumstances?
+
+(f) Are the Veteran's behavioral changes/disciplinary problems, noted in the latter part of her service and postservice, corroborating evidence that her alleged stressor events in service actually occurred?
+
+(g) Does the Veteran have PTSD or MDD resulting from the alleged stressor events (hazing and harassment in May 1981 and two incidents of sexual assault in July and December 1981) in service?  The examiner must explain the rationale for all opinions;  the explanation should include discussion of such factors as the Veteran's history of childhood sexual trauma, and whether there are any indications (i.e., from the nature of behavior changes or disciplinary problems) that her behavior changes or disciplinary problems in-service were in response to a stressor event (versus merely misconduct)?  The examiner should discuss any credibility issues raised by the record.
+
+2.  The RO should then review the record and readjudicate the claim.  If it remains denied, the RO should issue an appropriate SSOC and afford the Veteran and her representative the opportunity to respond.  The case should then be returned to the Board, if in order, for further review.
+
+The appellant has the right to submit additional evidence and argument on the matter the Board has remanded.  Kutscherousky v. West, 12 Vet. App. 369 (1999).  This claim must be afforded expeditious treatment.  The law requires that all claims that are remanded by the Board of Veterans' Appeals or by the United States Court of Appeals for Veterans Claims for additional development or other appropriate action must be handled in an expeditious manner.  See 38 U.S.C.A. §§ 5109B, 7112 (West Supp. 2012).
+
+
+_________________________________________________
+George R. Senyk
+Veterans Law Judge, Board of Veterans' Appeals
+
+Under 38 U.S.C.A. § 7252 (West 2002), only a decision of the Board of Veterans' Appeals is appealable to the United States Court of Appeals for Veterans Claims.  This remand is in the nature of a preliminary order and does not constitute a decision of the Board on the merits of your appeal.  38 C.F.R. § 20.1100(b) (2012).
+

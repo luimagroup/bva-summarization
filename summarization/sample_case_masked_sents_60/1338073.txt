@@ -1,0 +1,180 @@
+round 0, index 31: 
+This claim must be afforded expeditious treatment.
+
+round 1, index 32: 
+The law requires that all claims that are remanded by the Board or by the United States Court of Appeals for Veterans Claims for additional development or other appropriate action must be handled in an expeditious manner.
+
+round 2, index 30: 
+The Veteran has the right to submit additional evidence and argument concerning this claim the Board is remanding.
+
+round 3, index 33: 
+Acting Veterans Law Judge, Board of Veterans' AppealsUnder 38 U.S.C.A. § 7252 (West 2002), only a decision of the Board of Veterans' Appeals is appealable to the United States Court of Appeals for Veterans Claims.
+
+round 4, index 34: 
+This remand is in the nature of a preliminary order and does not constitute a decision of the Board on the merits of your appeal.
+
+round 5, index 29: 
+If the claim remains denied, send the Veteran and his representative a Supplemental Statement of the Case (SSOC) and give them opportunity to respond to it before returning the file to the Board for further appellate consideration of this claim.
+
+round 6, index 27: 
+If the requested medical opinion cannot be given, the examiner should state the reason(s) why.
+
+round 7, index 19: 
+Accordingly, this claim is REMANDED to the RO/AMC for the following additional development and consideration:
+
+round 8, index 21: 
+Next, schedule a VA mental disorders examination for a diagnosis of all extant acquired psychiatric disorders.
+
+round 9, index 28: 
+Readjudicate the issue on appeal in light of this and all other additional evidence.
+
+round 10, index 26: 
+All opinions are to be accompanied by a rationale consistent with the evidence of record.
+
+round 11, index 24: 
+As used above, the term "at least as likely as not" does not mean merely within the realm of medical possibility, but rather that the weight of medical evidence both for and against a conclusion is so evenly divided that it is as medically sound to find in favor of causation as it is to find against it.
+
+round 12, index 18: 
+As such, the RO must seek all clinical records from the Kansas City VAMC from January 9, 1965 to November 17, 2009 and from October 6, 2010 to the present.
+
+round 13, index 25: 
+The examination report must indicate whether the requested claims file review was accomplished.
+
+round 14, index 17: 
+The Veteran has indicated that he received treatment at that facility shortly after discharge to include in a May 2005 written statement.
+
+round 15, index 22: 
+Regarding each such disorder diagnosed, the examiner must opine regarding whether it is at least as likely as not (50 percent or greater likelihood) related to service.
+
+round 16, index 16: 
+The claims file contains records from the Kansas City VA Medical Center (MC) dated April 21, 2006 and November 18, 2009 to October 5, 2010.
+
+round 17, index 20: 
+Associate with the claims file all Kansas City VAMC clinical records dated from January 9, 1965 to November 17, 2009 and from October 6, 2010 to the present.
+
+round 18, index 15: 
+The examination instructions are contained in the second paragraph below.
+
+round 19, index 13: 
+At that time, she noticed a change in personality as well as nervousness in the Veteran.
+
+round 20, index 23: 
+The examiner is directed to consider all pertinent documents in the claims file and the Veteran's reported history as well as other lay evidence of record to include a March 2007 written statement from his sister.
+
+round 21, index 7: 
+A remand is required in this case to ensure there is a complete record upon which to decide this claim.
+
+round 22, index 6: 
+The claim requires further development before being decided on appeal, so the Board is remanding the claim to the RO via the Appeals Management Center (AMC) in Washington, DC.REMAND
+
+round 23, index 8: 
+VA has a duty to make reasonable efforts to assist a claimant in obtaining evidence necessary to substantiate a claim for the benefit sought, unless no reasonable possibility exists that such assistance would aid in substantiating the claim.
+
+round 24, index 14: 
+Because there is evidence of a current psychiatric disorder and some evidence of its presence immediately following service separation, a VA mental disorders examination is necessary for a diagnosis of all extant acquired psychiatric disorders as well as an opinion regarding the likely etiology of each such disability diagnosed.
+
+round 25, index 5: 
+(the scope of a mental health disability claim includes any mental disability that may reasonably be encompassed by the claimant's description of the claim, reported symptoms, and the other information of record).
+
+round 26, index 4: 
+As such, the Board has recharacterized the claim as expressed above to include any acquired psychiatric disorder from which the Veteran presently suffers.
+
+round 27, index 3: 
+A review of the claims file, however, reveals diagnoses of an anxiety disorder.
+
+round 28, index 12: 
+A March 2007 written statement from the Veteran's sister submitted in connection with an unrelated claim indicates that the Veteran appeared different upon discharge.
+
+round 29, index 9: 
+The Veteran alleges that he has an acquired psychiatric disorder that is related to service.
+
+round 30, index 11: 
+Rather, the Veteran has been diagnosed with an anxiety disorder.
+
+round 31, index 1: 
+This matter comes to the Board of Veterans Appeals (Board) on appeal from a March 2012 decision by which the RO denied entitlement to service connection for PTSD.
+
+round 32, index 0: 
+The Veteran served on active duty from 1962 to 1965.
+
+round 33, index 10: 
+He asserts that he suffers from PTSD, although the evidence available to the Board at this time does not reflect a diagnosis of PTSD.
+
+round 34, index 2: 
+The Board notes that while the Veteran claims service connection for PTSD; he has received a diagnosis of that psychiatric disorder.
+
+round 35, index 0: 
+The Veteran served on active duty from 1962 to 1965.
+
+round 36, index 0: 
+The Veteran served on active duty from 1962 to 1965.
+
+round 37, index 0: 
+The Veteran served on active duty from 1962 to 1965.
+
+round 38, index 0: 
+The Veteran served on active duty from 1962 to 1965.
+
+round 39, index 0: 
+The Veteran served on active duty from 1962 to 1965.
+
+round 40, index 0: 
+The Veteran served on active duty from 1962 to 1965.
+
+round 41, index 0: 
+The Veteran served on active duty from 1962 to 1965.
+
+round 42, index 0: 
+The Veteran served on active duty from 1962 to 1965.
+
+round 43, index 0: 
+The Veteran served on active duty from 1962 to 1965.
+
+round 44, index 0: 
+The Veteran served on active duty from 1962 to 1965.
+
+round 45, index 0: 
+The Veteran served on active duty from 1962 to 1965.
+
+round 46, index 0: 
+The Veteran served on active duty from 1962 to 1965.
+
+round 47, index 0: 
+The Veteran served on active duty from 1962 to 1965.
+
+round 48, index 0: 
+The Veteran served on active duty from 1962 to 1965.
+
+round 49, index 0: 
+The Veteran served on active duty from 1962 to 1965.
+
+round 50, index 0: 
+The Veteran served on active duty from 1962 to 1965.
+
+round 51, index 0: 
+The Veteran served on active duty from 1962 to 1965.
+
+round 52, index 0: 
+The Veteran served on active duty from 1962 to 1965.
+
+round 53, index 0: 
+The Veteran served on active duty from 1962 to 1965.
+
+round 54, index 0: 
+The Veteran served on active duty from 1962 to 1965.
+
+round 55, index 0: 
+The Veteran served on active duty from 1962 to 1965.
+
+round 56, index 0: 
+The Veteran served on active duty from 1962 to 1965.
+
+round 57, index 0: 
+The Veteran served on active duty from 1962 to 1965.
+
+round 58, index 0: 
+The Veteran served on active duty from 1962 to 1965.
+
+round 59, index 0: 
+The Veteran served on active duty from 1962 to 1965.
+

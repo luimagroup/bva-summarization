@@ -1,0 +1,110 @@
+Citation Nr: 1432042	
+Decision Date: 07/17/14    Archive Date: 07/22/14
+
+DOCKET NO.  09-37 846	)	DATE
+	)
+	)
+
+On appeal from the
+Department of Veterans Affairs Regional Office in Houston, Texas
+
+
+THE ISSUE
+
+Entitlement to service connection for a psychiatric disorder, to include posttraumatic stress disorder (PTSD).
+
+
+REPRESENTATION
+
+Appellant represented by:	Texas Veterans Commission
+
+
+ATTORNEY FOR THE BOARD
+
+S.M. Kreitlow
+
+
+
+INTRODUCTION
+
+The Veteran had active military service from June 1965 to August 1972, including two tours of duty in the Republic of Vietnam.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from an October 2007 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO) in Houston, Texas, which denied service connection for PTSD and entitlement to nonservice-connected pension.  Subsequently, in an August 2010 rating decision, entitlement to nonservice-connected pension was granted.  As that was a full grant of the benefit sought on appeal, that claim is no longer on appeal to the Board.  Thus the only remaining issue on appeal is that listed on the title page of this decision.
+
+The Veteran has claimed service connection for PTSD.  Construing the claim liberally, however, the Board finds that it should be characterized as one for service connection for a psychiatric disorder, to include PTSD.  See Clemons v. Shinseki, 23 Vet. App. 1 (2009) (per curiam order) (it is the responsibility of the Board to consider alternate current conditions within the scope of the claim).  The issue is thus restated on the title page of this decision.
+
+
+FINDINGS OF FACT
+
+1.  The medical and lay evidence of record fails to demonstrate the Veteran has a current diagnosis of PTSD.
+
+2.  The Veteran's depressive and anxiety symptoms are more likely than not related to his polysubstance abuse and/or dependence.
+
+CONCLUSION OF LAW
+
+A psychiatric disorder was not incurred in or aggravated by service.  38 U.S.C.A. §§ 1110, 1112, 5102, 5103, 5103A, 5107 (West 2002 & Supp. 2013); 38 C.F.R. §§ 3.102, 3.159, 3.303, 3.304 (2013).
+
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSION
+
+I.  Notice and Assistance Requirements
+
+VA's duties to notify and assist claimants in substantiating a claim for VA benefits are described in 38 U.S.C.A. §§ 5100, 5102, 5103, 5103A, 5107 and 5126; 38 C.F.R. §§ 3.102, 3.156(a), 3.159 and 3.326(a).  Appropriate notice was provided in July 2007, prior to the initial AOJ decision on his claim.  
+
+All efforts have been made to obtain relevant, identified and available evidence, and VA has notified the Veteran of any evidence that could not be obtained.  VA, therefore, has made every reasonable effort to obtain all records relevant to the Veteran's claim.  The Veteran was afforded VA examination on his claim in May 2012.  The Board acknowledges that, at an Informal Conference held before a Decision Review Officer (DRO) at the RO in February 2014, the Veteran and his representative argued that the May 2012 VA examination was inadequate.  The Veteran's main contention was that he did not know what to say during the examination.  The DRO told the Veteran and his representative that he did not find the VA examination to be inadequate for rating purposes on its face and it is consistent with other evidence of record.  The Board agrees.  The report of this examination reflects that the examiner reviewed the Veteran's past medical history, recorded his current complaints, conducted appropriate examination, and rendered appropriate diagnoses and opinions consistent with the remainder of the evidence of record.  The Board, therefore, concludes that this examination report is adequate for purposes of rendering a decision in the instant appeal.  See 38 C.F.R. § 4.2; see also Barr v. Nicholson, 21 Vet. App. 303, 312 (2007).  
+
+Thus, the Board finds that VA has satisfied its duties to inform and assist the Veteran at every stage of this case.  Additional efforts to assist or notify him would serve no useful purpose.  Therefore, he will not be prejudiced as a result of the Board proceeding to the merits of his claim. 
+
+II.  Analysis
+
+Service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by service.  38 U.S.C.A. § 1110; 38 C.F.R. § 3.303(a).  Service connection generally requires credible and competent evidence showing: (1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service.  See Davidson v. Shinseki, 581 F.3d 1313, 1316 (Fed. Cir. 2009); Hickson v. West, 12 Vet. App. 247, 253 (1999); Caluza v. Brown, 7 Vet. App. 498 (1995).
+
+Service connection for PTSD requires medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a); a link, established by medical evidence, between current symptoms and an in-service stressor; and credible supporting evidence that the claimed in-service stressor occurred.  38 C.F.R. § 3.304(f).  38 C.F.R. § 4.125(a) requires that diagnoses of mental disorders conform to the Diagnostic and Statistical Manual for Mental Disorders (DSM-IV).
+
+In making all determinations, the Board must fully consider the lay assertions of record.  A layperson is competent to report on the onset and continuity of his current symptomatology.  See Layno v. Brown, 6 Vet. App. 465, 470 (1994) (a veteran is competent to report on that of which he or she has personal knowledge).  Lay evidence can also be competent and sufficient evidence of a diagnosis or to establish etiology if (1) the layperson is competent to identify the medical condition, (2) the layperson is reporting a contemporaneous medical diagnosis, or (3) lay testimony describing symptoms at the time supports a later diagnosis by a medical professional.  Davidson v. Shinseki, 581 F.3d 1313, 1316 (Fed. Cir. 2009); Jandreau v. Nicholson, 492 F.3d 1372, 1376-77 (Fed. Cir. 2007).  When considering whether lay evidence is competent the Board must determine, on a case by case basis, whether the veteran's particular disability is the type of disability for which lay evidence may be competent.  See Davidson v. Shinseki, 581 F.3d 1313 (Fed.Cir.2009); Kahana v. Shinseki, 24 Vet. App. 428 (2011).
+
+The Board is charged with the duty to assess the credibility and weight given to evidence.  Madden v. Gober, 125 F.3d 1477, 1481 (Fed. Cir. 1997), cert. denied, 523 U.S. 1046 (1998); Wensch v. Principi, 15 Vet. App. 362, 367 (2001).  
+
+As a finder of fact, when considering whether lay evidence is satisfactory, the Board may also properly consider internal inconsistency of the statements, facial plausibility, consistency with other evidence submitted on behalf of the veteran, and the veteran's demeanor when testifying at a hearing.  See Dalton v. Nicholson, 21 Vet. App. 23, 38 (2007); Caluza v. Brown, 7 Vet. App. 498, 511 (1995), aff'd per curiam, 78 F.3d 604 (Fed. Cir. 1996). 
+
+The Veteran contends that he currently has PTSD that is due to his service in the Republic of Vietnam.  
+
+Although he claimed he has PTSD, the evidence of record fails to demonstrate that the Veteran has been given such a diagnosis.  VA treatment records show that the Veteran had a positive PTSD screen in February 2007.  On Mental Health consultation in March 2008, however, he was not diagnosed to have PTSD.  On assessment, the examining physician stated that the Veteran had some PTSD symptoms from Vietnam and a gunshot wound in 1989 but did not meet the full criteria for PTSD.  With regard to his service in Vietnam, the Veteran stated:  " I don't know too much about Vietnam.  I don't think I have a lot of problems with that.  I don't think about it too much.  It's just things that happened in the past."  Also, when asked how his military service affected him, he answered:  "It was a job.  I think I did a good job."  The physician also stated in assessing the Veteran that he had evidence of depressive symptoms, notably anhedonia, as well as a long history of alcohol dependence and a history of cocaine dependence.  The diagnoses given were alcohol dependence; rule out substance induced mood disorder versus anxiety disorder, not otherwise specified; and rule out dysthymic disorder.  
+
+On follow up in May 2008, the Veteran reported that he did not feel depressed and denied anhedonia.  He also stated that his nerves bothered him in the morning but did not feel like he was too anxious most of the day.  He reported decreasing his alcohol intake from 6 16-oz beers a day to 1 to 2 16-oz beers.  The physician assessed the Veteran to have alcohol dependence with possible mild cognitive impairment.  The physician stated that it is likely his "nerves" in the morning were related to mild alcohol withdrawal.  The physician also considered it "likely" that the Veteran's sleep and anxiety problems were related to his alcohol use.
+
+On follow up in July 2008, the Veteran reported doing "fairly well."  The physician noted that the Veteran had mild anxiety and depressive symptoms.  However, no continued medication or mental health treatment were necessary, and the Veteran was discharged from the Mental Health Clinic.
+
+Subsequently, there was no additional mental health treatment until May 2012.  Depression and anxiety screens were negative.  The only mention of anxiety was related to a medical procedure the Veteran underwent in August 2010.  In May 2012, the Veteran was referred to Mental Health from the emergency room where he reported complaints of "feeling depressed" for about a day or so and requested help.  The Veteran did not report any symptoms of PTSD although he did report recent use of alcohol, cocaine and cannabis (within 24 hours prior).  When asked how his military service affected him, he did not answer.  It appears the Veteran was mostly concerned about his housing situation in that there was easy access to substances and he wanted to leave but he would be homeless if he did so.  The Veteran was diagnosed to have a substance induced mood disorder with depressive features and cocaine dependence.  
+
+In May 2012, the Veteran was provided with an initial VA PTSD examination.  At that time, although the Veteran reported stressors of exposure to sniper fire, mortars and RPGs, the examiner stated that the reported stressors were not adequate to support the diagnosis of PTSD because the Veteran did not endorse significant distress associated with said experiences at the time.  He described the "worst thing" that happened to him as "just being there;" how he felt emotionally as "some good days, some bad days;" and elaborated that the bad days were when "something didn't go right, ... something got misplaced."  He directly denied seeing any direct hit or witnessing death (either the event or aftermath, in contrast to his November 2007 stressor statement) nor any serious injury.  Consequently, the examiner found that there was no exposure to a traumatic event.  Furthermore, the examiner remarked that the traumatic event is not persistently re-experienced and there was no persistent avoidance of stimuli associated with the trauma or numbing of general responsiveness.  The Veteran did, however, report he avoids large crowds, cafes and clubs and endorsed persistent symptoms of increased arousal such as difficulty with concentration (noted to be endorsed on self-report instrument but denied verbally when asked and showed no evidence of on mental status examination) and difficulty falling or staying asleep.
+
+Rather than PTSD symptoms, the examiner stated the Veteran reported having the following symptoms:  (1) depressed mood - not consistently, but when he has conflict with his daughter; recognizes he is not "living up to his potential"; and said his life has been going "downhill" since his wife died;  (2) anxiety - in that he experiences restlessness like he needs to be somewhere different and he smokes a cigarette, drinks and tries not to think about it and it mostly goes away; (3) panic attacks that occur weekly or less often (described as feeling like choking); (4) chronic sleep impairment - has bad dreams, wakes in a panic, trying to get away from something - present for last 10 to 20 years, also regularly wakes during middle of the night, awake for an hour or more, wakes again around 4:30 to 5:30 am, but also naps during the afternoon - last 10 plus years; (5) mild memory loss such as forgetting names, directions or recent events (said forgets day wife died, day got shot, wife's birthday) but no evidence of memory difficulty on examination; (6) impaired abstract thinking (gave concrete interpretation of proverb); (7) difficulty in establishing and maintaining effective work and social relationships (unstable living situation - living with cousin last month and was with unspecified other people for the previous year or so, work is irregular); (8) difficulty in adapting to stressful circumstances including work or a work like setting; and (9) inability to establish and maintain effective relationships. The Veteran reported other symptoms to include fatigue, low energy and poor appetite.  
+
+As a result of this examination, the examiner stated that the Veteran does not have a diagnosis of PTSD that conforms to DSM-IV criteria.  Rather she diagnosed the Veteran to have polysubstance dependence (alcohol, cocaine and cannabis).  In rendering this diagnosis, the examiner stated that it was made primarily by review of medical records, including medical consequences of substances as the Veteran reported minimal to no significant negative consequences of drug/alcohol use and only acknowledged alcohol and crack cocaine use.  
+
+Based on the above evidence, the Board finds that the evidence fails to demonstrate that the Veteran has a current diagnosis of PTSD.  The Veteran's initial statement with his claim filed in March 2007 acknowledged that PTSD had not been diagnosed.  Significantly, his claim was made after the Veteran had a positive PTSD screen in February 2007 but prior to his initial Mental Health consultation in March 2008, which failed to result in a diagnosis of PTSD.  Likewise, no diagnosis of PTSD was rendered as a result of the May 2012 VA examination.  The Board acknowledges that the Veteran stated at the February 2014 DRO informal conference that he did not know what to say at the examination but finds this not a reason to find the examination to be inadequate as it is clearly consistent with the Veteran's prior assessment for PTSD conducted in March 2008 and May 2007.  Furthermore, it is clear from the March 2008 Mental Health consultation note that the Veteran was asked specific questions relating to PTSD; however, he did not relate sufficient stressors and symptoms to warrant a diagnosis of PTSD.  Likewise, at the May 2012 VA examination, the examiner would have asked specific questions intended to illicit evidence of PTSD stressors and symptoms; however, the Veteran again failed to reply sufficiently to establish the presence of PTSD.  The Veteran's statement to the DRO that he did not know what to say at the VA examination only makes his report thereat more credible and persuasive because his responses to the examiner's questions would have been without any inherent bias that would have been there had he known what to say.  
+
+As for the evidence indicating the Veteran has depressive and anxiety symptoms, the evidence demonstrates that these symptoms are more likely than not related to his long history of alcohol dependence and polysubstance abuse rather than his military service.  The Veteran has failed to relate his depressive and anxiety symptoms to his military service.  Rather he reported having depression relating to conflict with his daughter (see May 2012 VA examination report); when he fails to accomplish certain things (see March 2008 Mental Health consultation note); and due to his housing situation (see May 2012 Mental Health Triage note).  As for anxiety, he has stated he feels a little anxious when things are not going well (see March 2008 Mental Health consultation note) or in the mornings when he wakes up (see March 2008 Mental Health consultation note, May 2008 Mental Health note, and May 2012 VA examination report).  More importantly, in the May 2008 Mental Health note, the treating provider stated that the Veteran's anxiety and sleep problems are likely related to his alcohol dependence (notably the Veteran denied depression at that time so the opinion did not address that).  In July 2008, the Veteran only had mild depressive and anxiety symptoms and was discharged from Mental Health without medication as his symptoms were not severe enough to warrant additional mental health treatment.  In addition, VA treatment records subsequent to July 2008 (the last Mental Health follow up note for treatment starting in March 2008) fail to demonstrate that the Veteran continued to have depression and/or anxiety as multiple screens were negative and he failed to report any depression or anxiety symptoms when interviewed for homeless veteran housing in February 2013.  Furthermore, the May 2012 Mental Health Triage note shows a diagnosis of substance induced mood disorder with depressive features and the Veteran reported his main problem at that time was his housing situation and the potential for being homeless.  
+
+Consequently, the only evidence of record that indicates the Veteran has PTSD is his own statements to that effect.  A diagnosis of PTSD or any other psychiatric disorder requires that specific criteria set forth in the DSM-IV are met.  Thus, such a determination requires medical expertise and knowledge of the DSM-IV.  A lay person is, therefore, not competent to render a diagnosis of a psychiatric disorder because such requires specific medical expertise and knowledge.  As such, the Veteran's lay statements not competent for the purposes of rendering a diagnosis of a particular psychiatric disorder.  His statements to the effect that he has PTSD, therefore, lack probative value.  
+
+Furthermore, insofar as the Veteran has stated he has certain symptoms in statements made in support of his claim, the May 2012 VA examiner clearly considered those statements as demonstrated by his comments of the differences between what the Veteran reported at the examination and his statements made in support of his claim.  Clearly the examiner found that the Veteran's report at the VA examination carried more weight in his determination of whether the DSM-IV criteria for a diagnosis of PTSD were met.
+
+Based on the foregoing, the Board finds that the preponderance of the evidence is against finding that the Veteran has PTSD or that any depressive or anxiety symptoms he does have are related to his military service.  The Board has considered the doctrine of reasonable doubt, but finds that the record does not provide an approximate balance of negative and positive evidence on the merits.  Service connection is, therefore, denied.  Gilbert v. Derwinski, 1 Vet. App. 49, 57-58 (1990); 38 U.S.C.A. § 5107(b); 38 C.F.R. § 3.102.
+
+
+ORDER
+
+Entitlement to service connection for a psychiatric disorder, to include PTSD, is denied.
+
+
+
+
+____________________________________________
+M. E. LARKIN
+Veterans Law Judge, Board of Veterans' Appeals
+
+Department of Veterans Affairs
+
+

@@ -1,0 +1,180 @@
+round 0, index 35: 
+This claim must be afforded expeditious treatment.
+
+round 1, index 34: 
+The Veteran has the right to submit additional evidence and argument on the matter the Board has remanded.
+
+round 2, index 33: 
+After the Veteran and his representative have had an adequate opportunity to respond, return the appeal to the Board.
+
+round 3, index 36: 
+The law requires that all claims that are remanded by the Board of Veterans' Appeals or by the United States Court of Appeals for Veterans Claims for additional development or other appropriate action must be handled in an expeditious manner.
+
+round 4, index 37: 
+Veterans Law Judge, Board of Veterans' AppealsUnder 38 U.S.C.A. § 7252 (West 2002), only a decision of the Board of Veterans' Appeals is appealable to the United States Court of Appeals for Veterans Claims.
+
+round 5, index 38: 
+This remand is in the nature of a preliminary order and does not constitute a decision of the Board on the merits of your appeal.
+
+round 6, index 22: 
+Thereafter, schedule the Veteran for an appropriate VA examination to assess the nature and etiology of his bipolar disorder.
+
+round 7, index 23: 
+The claims file, including a copy of this remand, should be reviewed by the examiner.
+
+round 8, index 21: 
+All attempts to obtain these records should be documented in the claims file.
+
+round 9, index 20: 
+Request and obtain all VA treatment records for the Veteran from July 2009 to the present.
+
+round 10, index 28: 
+A complete rationale for all opinions must be provided.
+
+round 11, index 19: 
+Accordingly, the case is REMANDED for the following action:
+
+round 12, index 25: 
+The examiner should provide accurate and fully descriptive assessments of all symptoms and make any indicated diagnoses.
+
+round 13, index 29: 
+Notify the Veteran that he must report for any scheduled examination and cooperate in the development of the claim.
+
+round 14, index 24: 
+Any medically indicated tests should be conducted.
+
+round 15, index 26: 
+After examination and review of all of the evidence, the examiner is asked to opine as to the following:
+
+round 16, index 32: 
+If any benefit sought on appeal remains denied, issue a Supplemental Statement of the Case to the Veteran and his representative.
+
+round 17, index 18: 
+As such, remand is necessary to obtain an opinion as to the etiology of the Veteran's bipolar disorder.
+
+round 18, index 31: 
+When the above development has been completed, readjudicate the issue on appeal.
+
+round 19, index 4: 
+The appeal is REMANDED to the Agency of Original Jurisdiction (AOJ).  VA will notify the appellant if further action is required.
+
+round 20, index 30: 
+Failure to report for a VA examination without good cause may result in denial of the claim.
+
+round 21, index 0: 
+The Veteran served on active duty from July 1970 to March 1972.
+
+round 22, index 1: 
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from an August 2009 rating decision by the Department of Veterans Affairs (VA) Regional Office (RO) in Louisville, Kentucky.
+
+round 23, index 14: 
+The Board finds that the proximity of the Veteran's treatment for bipolar disorder, coupled with the July 2013 examiner's notation that the Veteran continued to experience symptoms as recently as 2011, is evidence of a current psychological disorder.
+
+round 24, index 5: 
+After review of the claims file, the Board finds that additional development is necessary prior to adjudication of the Veteran's claim.
+
+round 25, index 3: 
+Because the scope of a mental health disability claim includes any mental disability that may reasonably be encompassed by the claimant's description of the claim and reported symptoms and all other information of record, the Board has re-characterized this claim more broadly to encompass all psychiatric disorders.
+
+round 26, index 6: 
+In July 2013 the VA was afforded a VA examination to ascertain the nature and etiology of his claimed acquired psychiatric disorder.
+
+round 27, index 27: 
+Whether it is at least as likely as not (50 percent probability or greater) that any diagnosed psychiatric disorder, to include the Veteran's historically diagnosed bipolar disorder, began in service, was caused by service, or is otherwise related to his military service.
+
+round 28, index 13: 
+Additionally, a January 2009 report assessment and plan section indicates that the Veteran was to be treated for bipolar disorder and referred him to mental health services.
+
+round 29, index 2: 
+The RO certified the issue on appeal as entitlement to service connection for PTSD, to include depression, sleep disorder, and anxiety.
+
+round 30, index 11: 
+The evidence also reflects that the Veteran has been diagnosed with bi-polar disorder in the past.
+
+round 31, index 15: 
+In light of the Veteran's confirmed in-service stressor and current disorder, a medical opinion regarding the nexus of the Veteran's bipolar disorder is required.
+
+round 32, index 10: 
+Further, the examiner stated that there was no discernible nexus between the Veteran's mood disturbances and his in-service stressor.
+
+round 33, index 17: 
+The opinion is also inadequate because it does not address whether the Veteran's bipolar disorder is related to any other aspect of his military service besides the specific stressors asserted in his PTSD claim.
+
+round 34, index 12: 
+Specifically, VA treatment records from February and April 2009 contain an Axis I diagnosis of bipolar disorder by history.
+
+round 35, index 0: 
+The Veteran served on active duty from July 1970 to March 1972.
+
+round 36, index 8: 
+Specifically, the Veteran did not report any symptoms of avoidance, re-experiencing, or hyperarousal.
+
+round 37, index 9: 
+The examiner noted that he had a history of mood disturbances but that these had been in remission for approximately two years.
+
+round 38, index 7: 
+The examiner found that while the Veteran's reported stressor met the requirements for a DSM-IV PTSD stressor, he did not meet the criteria for a PTSD diagnosis.
+
+round 39, index 0: 
+The Veteran served on active duty from July 1970 to March 1972.
+
+round 40, index 16: 
+While the 2013 examiner did opine that there was no discernible nexus between the Veteran's mood disturbances and his in-service stressor, this opinion is not supported by any rationale and is thus inadequate for VA purposes.
+
+round 41, index 0: 
+The Veteran served on active duty from July 1970 to March 1972.
+
+round 42, index 0: 
+The Veteran served on active duty from July 1970 to March 1972.
+
+round 43, index 0: 
+The Veteran served on active duty from July 1970 to March 1972.
+
+round 44, index 0: 
+The Veteran served on active duty from July 1970 to March 1972.
+
+round 45, index 0: 
+The Veteran served on active duty from July 1970 to March 1972.
+
+round 46, index 0: 
+The Veteran served on active duty from July 1970 to March 1972.
+
+round 47, index 0: 
+The Veteran served on active duty from July 1970 to March 1972.
+
+round 48, index 0: 
+The Veteran served on active duty from July 1970 to March 1972.
+
+round 49, index 0: 
+The Veteran served on active duty from July 1970 to March 1972.
+
+round 50, index 0: 
+The Veteran served on active duty from July 1970 to March 1972.
+
+round 51, index 0: 
+The Veteran served on active duty from July 1970 to March 1972.
+
+round 52, index 0: 
+The Veteran served on active duty from July 1970 to March 1972.
+
+round 53, index 0: 
+The Veteran served on active duty from July 1970 to March 1972.
+
+round 54, index 0: 
+The Veteran served on active duty from July 1970 to March 1972.
+
+round 55, index 0: 
+The Veteran served on active duty from July 1970 to March 1972.
+
+round 56, index 0: 
+The Veteran served on active duty from July 1970 to March 1972.
+
+round 57, index 0: 
+The Veteran served on active duty from July 1970 to March 1972.
+
+round 58, index 0: 
+The Veteran served on active duty from July 1970 to March 1972.
+
+round 59, index 0: 
+The Veteran served on active duty from July 1970 to March 1972.
+

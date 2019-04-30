@@ -1,0 +1,180 @@
+round 0, index 37: 
+This claim must be afforded expeditious treatment.
+
+round 1, index 38: 
+The law requires that all claims that are remanded by the Board or by the United States Court of Appeals for Veterans Claims for additional development or other appropriate action must be handled in an expeditious manner.
+
+round 2, index 36: 
+The Veteran has the right to submit additional evidence and argument on the matter the Board has remanded.
+
+round 3, index 35: 
+An appropriate period of time should be allowed for response.
+
+round 4, index 39: 
+Veterans Law Judge, Board of Veterans' AppealsUnder 38 U.S.C.A. § 7252 (West 2014), only a decision of the Board of Veterans' Appeals is appealable to the United States Court of Appeals for Veterans Claims.
+
+round 5, index 40: 
+This remand is in the nature of a preliminary order and does not constitute a decision of the Board on the merits of your appeal.
+
+round 6, index 34: 
+If the claim remains denied, the Veteran and his representative should be issued a supplemental statement of the case.
+
+round 7, index 32: 
+A complete rationale should be provided for any opinions expressed.
+
+round 8, index 30: 
+After review of the record, please offer an addendum opinion addressing whether it at least as likely as not (i.e., a 50 percent probability or greater) that the Veteran's sleep apnea is caused OR aggravated by his PTSD.
+
+round 9, index 31: 
+In addressing such inquiry, the examiner should specifically comment upon whether the Veteran's inability to use the CPAP machine because he associates it with a gas mask has caused or aggravated his sleep apnea.
+
+round 10, index 29: 
+The need for an additional examination of the Veteran is left to the discretion of the clinician selected to write the addendum opinion.
+
+round 11, index 28: 
+If the June 2016 examiner is unavailable, the record should be provided to an appropriate medical professional to render the requested opinion.
+
+round 12, index 26: 
+The record and a copy of this Remand must be made available to the examiner.
+
+round 13, index 27: 
+The examiner shall note in the examination report that the record and the Remand have been reviewed.
+
+round 14, index 33: 
+After completing the above action, to include any other development as may be indicated by any response received as a consequence of the actions taken in the preceding paragraphs, the Veteran's claim should be readjudicated based on the entirety of the evidence.
+
+round 15, index 5: 
+The appeal is REMANDED to the Agency of Original Jurisdiction (AOJ).  VA will notify the Veteran if further action is required.
+
+round 16, index 24: 
+Accordingly, the case is REMANDED for the following action:
+
+round 17, index 4: 
+This appeal was processed using the Veterans Benefits Management System (VBMS) and Virtual VA paperless claims processing systems.
+
+round 18, index 25: 
+Return the record to the VA examiner who offered the opinion in June 2016.
+
+round 19, index 23: 
+Therefore, another remand is necessary in order to obtain an addendum opinion addressing such inquiries.
+
+round 20, index 6: 
+Although the Board regrets the additional delay, another remand is necessary to ensure that due process is followed and that there is a complete record upon which to decide the Veteran's claims so that he is afforded every possible consideration.
+
+round 21, index 0: 
+The Veteran served on active duty from June 1977 to July 1997.
+
+round 22, index 1: 
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a January 2008 rating decision issued by the Department of Veterans Affairs (VA) Regional Office (RO) in Houston, Texas.
+
+round 23, index 20: 
+Subsequently, in June 2016, another VA opinion was obtained in which the examiner opined that it was less likely than not that the Veteran's sleep apnea was incurred in or caused by his military service, or is proximately due to or the result of his service-connected PTSD.
+
+round 24, index 2: 
+The matter was remanded by the Board in February 2015, December 2015, and May 2016.
+
+round 25, index 3: 
+It now returns for further appellate review.
+
+round 26, index 21: 
+With regard to the aspect of the Veteran's claim pertaining to direct service connection, the examiner offered sufficient rationale, which included specific consideration of his report that he was recommended to undergo a sleep study during his retirement physical but refused as he thought it would be a waste of time, and his report of trouble sleeping and that he would sleep at two or three hour intervals on his February 1997 Report of Medical History prepared for discharge from service.
+
+round 27, index 18: 
+For this reason, the Board found a remand was appropriate to ascertain whether the February 2016 VA examination report relates to the Veteran in the present appeal and, if so, to obtain an addendum opinion addressing his specific contentions and, if not, to obtain the necessary opinions.
+
+round 28, index 7: 
+In addition, where the remand orders of the Board are not complied with, the Board errs as a matter of law when it fails to ensure compliance.
+
+round 29, index 17: 
+However, as highlighted in a March 2016 Written Brief Presentation submitted by the Veteran's representative, the February 2016 VA examination report lists a different patient name at the top of the report.
+
+round 30, index 22: 
+However, such opinion does not specifically address the aggravation prong of secondary service connection and, while the examiner noted the Veteran's report that he is unable to use the CPAP machine because he associates it with a gas mask, she did not comment upon whether such results in the causation or aggravation of his sleep apnea.
+
+round 31, index 8: 
+The Veteran contends that his sleep apnea was incurred in service, or in the alternative, that it is secondary to his service-connected PTSD.
+
+round 32, index 16: 
+In this regard, the examiner offered opinions as to whether the Veteran's sleep apnea was related to his service, and/or was caused or aggravated by his PTSD.
+
+round 33, index 15: 
+Thereafter, in February 2016, pursuant to the Board's December 2015 remand directives, the AOJ obtained a VA opinion addressing the etiology of the Veteran's sleep apnea.
+
+round 34, index 19: 
+In this regard, in the remand directives, the Board noted that the Veteran's specific contentions included his report that he was recommended to undergo a sleep study during his retirement physical but refused as he thought it would be a waste of time, his report of trouble sleeping and that he would sleep at two or three hour intervals on his February 1997 Report of Medical History prepared for discharge from service, and his inability to use the CPAP machine because he associates it with a gas mask.
+
+round 35, index 14: 
+Furthermore, the Board noted that there was no opinion of record that addressed direct service connection.
+
+round 36, index 9: 
+In May 2015, pursuant to the Board's February 2015 remand directives, the AOJ afforded the Veteran a VA examination as to his sleep apnea and, in August 2015, obtained that addressed whether such disorder was caused or aggravated by his service-connected PTSD.
+
+round 37, index 10: 
+During the May 2015 VA examination, the Veteran asserted that he was given a CPAP machine to assist him with his sleep apnea, but he was not using the mask because it made him feel like he was using a gas mask in-service and caused him to wake up "fighting for air."
+
+round 38, index 11: 
+Thereafter, in the August 2015 opinion, the examiner found that it was less likely than not that the Veteran's sleep apnea was proximately due to or the result of his PTSD.
+
+round 39, index 13: 
+However, in the December 2015 remand, the Board found that the examiner did not specifically comment on the Veteran's report of his inability to use the CPAP machine because he associates it with a gas mask, which was problematic as such raised the question of whether any of the Veteran's PTSD symptomatology aggravates his sleep apnea.
+
+round 40, index 12: 
+She further stated that she was not aware of any evidence based medical literature that substantiates a claim that PTSD permanently worsened or aggravated sleep apnea.
+
+round 41, index 0: 
+The Veteran served on active duty from June 1977 to July 1997.
+
+round 42, index 0: 
+The Veteran served on active duty from June 1977 to July 1997.
+
+round 43, index 0: 
+The Veteran served on active duty from June 1977 to July 1997.
+
+round 44, index 0: 
+The Veteran served on active duty from June 1977 to July 1997.
+
+round 45, index 0: 
+The Veteran served on active duty from June 1977 to July 1997.
+
+round 46, index 0: 
+The Veteran served on active duty from June 1977 to July 1997.
+
+round 47, index 0: 
+The Veteran served on active duty from June 1977 to July 1997.
+
+round 48, index 0: 
+The Veteran served on active duty from June 1977 to July 1997.
+
+round 49, index 0: 
+The Veteran served on active duty from June 1977 to July 1997.
+
+round 50, index 0: 
+The Veteran served on active duty from June 1977 to July 1997.
+
+round 51, index 0: 
+The Veteran served on active duty from June 1977 to July 1997.
+
+round 52, index 0: 
+The Veteran served on active duty from June 1977 to July 1997.
+
+round 53, index 0: 
+The Veteran served on active duty from June 1977 to July 1997.
+
+round 54, index 0: 
+The Veteran served on active duty from June 1977 to July 1997.
+
+round 55, index 0: 
+The Veteran served on active duty from June 1977 to July 1997.
+
+round 56, index 0: 
+The Veteran served on active duty from June 1977 to July 1997.
+
+round 57, index 0: 
+The Veteran served on active duty from June 1977 to July 1997.
+
+round 58, index 0: 
+The Veteran served on active duty from June 1977 to July 1997.
+
+round 59, index 0: 
+The Veteran served on active duty from June 1977 to July 1997.
+

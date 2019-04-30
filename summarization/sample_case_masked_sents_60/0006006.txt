@@ -1,0 +1,180 @@
+round 0, index 80: 
+Service connection for PTSD is denied.
+
+round 1, index 79: 
+Thus the benefit-of-the-doubt rule does not apply, and the claim must be denied.
+
+round 2, index 78: 
+The preponderance of the evidence is against the claim for service connection for PTSD.
+
+round 3, index 5: 
+Claimed PTSD was not incurred in or aggravated by service.
+
+round 4, index 4: 
+During service, the veteran did not engage in combat, and there is no credible supporting evidence that a stressor, which might lead to PTSD, occurred during service.
+
+round 5, index 6: 
+REASONS AND BASES FOR FINDING AND CONCLUSIONI. Factual BackgroundThe veteran served on active duty in the Marine Corps from January 1965 to January 1969.
+
+round 6, index 7: 
+His service personnel records show he served in Vietnam from November 1965 to December 1966; his primary duty was that of a field radio operator.
+
+round 7, index 8: 
+The service records disclose no combat decorations or other evidence of combat.
+
+round 8, index 9: 
+His service medical records do not reflect any pertinent abnormalities, and his December 1968 separation examination notes a normal psychiatric system.
+
+round 9, index 10: 
+Outpatient treatment records from Health Services Associates show treatment beginning in 1986 for medical conditions, especially hypertension, chest pain, upper respiratory infections.
+
+round 10, index 11: 
+He was seen in April 1991 for complaints of emotional stress.
+
+round 11, index 53: 
+Service connection may be granted for disability resulting from disease or injury incurred in or aggravated by service.
+
+round 12, index 54: 
+Service connection for PTSD requires medical evidence establishing a clear diagnosis of the condition, credible supporting evidence that the claimed in-service stressors actually occurred, and a link, established by medical evidence, between current symptomatology and the claimed stressors.
+
+round 13, index 51: 
+II.
+
+round 14, index 64: 
+The veteran's claimed stressors include humiliating beatings inflicted on him by marine instructors in boot camp.
+
+round 15, index 52: 
+The veteran's claim for service connection for PTSD is well grounded, meaning plausible; the evidence has been properly developed to the extent possible, and there is no further VA duty to assist the veteran with his claim.
+
+round 16, index 81: 
+L. W. TOBIN	Member, Board of Veterans' Appeals
+
+round 17, index 56: 
+The above regulation was revised on June 18, 1999, effective March 7, 1997, to reflect the Court's holding in Cohen v. Brown, 10 Vet. App. 128 (1997).
+
+round 18, index 76: 
+For the above reasons, the Board finds that the veteran has not proffered credible supporting evidence that his claimed service stressors, which might lead to PTSD, actually occurred.
+
+round 19, index 75: 
+Allegations of such criminal conduct demand more substantial proof than the contradictory reports by the veteran and his fellow soldier.
+
+round 20, index 62: 
+The Board concludes that the veteran did not engage in combat.
+
+round 21, index 55: 
+If a claimed stressor is related to combat, service department evidence that the veteran engaged in combat or that the veteran was awarded the Purple Heart, Combat Infantryman Badge, or similar combat citation will be accepted, in the absence of evidence to the contrary, as conclusive evidence of a claimed service stressor.
+
+round 22, index 72: 
+The veteran, himself, has given the Board reason to question his veracity.
+
+round 23, index 63: 
+Therefore his assertions of service stressors are not sufficient to establish that they occurred; rather, his stressors must be established by service records or other credible supporting evidence.
+
+round 24, index 12: 
+He admitted to previous psychiatric care, including a hospital admission 2 years earlier.
+
+round 25, index 58: 
+If the evidence establishes that the veteran engaged in combat with the enemy and the claimed stressor is related to that combat, in the absence of clear and convincing evidence to the contrary, and provided that the claimed stressor is consistent with the circumstances, conditions, or hardships of the veteran's service, the veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor.
+
+round 26, index 57: 
+The current version of the regulation provides that service connection for PTSD requires medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a) [i.e., under the criteria of DSM-IV]; a link, established by medical evidence, between current symptoms and an in-service stressor; and credible supporting evidence that the claimed in-service stressor occurred.
+
+round 27, index 71: 
+The discrepancies in the veteran's and the corroborating story are not the only basis to question the occurrence of the claimed stressor.
+
+round 28, index 59: 
+During the veteran's active duty he had service in Vietnam, but service records do not show he engaged in combat.
+
+round 29, index 60: 
+In some early 1990 treatment records, he reported significant combat experience, but in later correspondence, testimony, and treatment records he denies combat.
+
+round 30, index 77: 
+Without such stressor evidence, service connection for PTSD may not be granted.
+
+round 31, index 61: 
+Also his current diagnosis of PTSD is predicated on a claimed stressor unrelated to combat.
+
+round 32, index 3: 
+The case was returned to the Board in January 2000.
+
+round 33, index 0: 
+The veteran served on active duty from January 1965 to January 1969.
+
+round 34, index 1: 
+This matter initially to the Board of Veterans' Appeals (Board) on appeal from a February 1994 RO decision which denied the veteran's claim for service connection for PTSD.
+
+round 35, index 2: 
+In December 1997 the Board remanded the issue of service connection for PTSD and denied a claim for service connection for a dental condition.
+
+round 36, index 13: 
+He was referred to another doctor where he was seen the next day, when it was noted that his 4 year old niece was killed in a motor vehicle accident 10 years ago, his father died shortly thereafter, then a neighbor had a nervous breakdown and hung himself, and shortly after that his best friend drowned in an automobile accident.
+
+round 37, index 65: 
+The veteran's own service records do not mention the stressors, and the service department recently could not verify the claimed stressors.
+
+round 38, index 15: 
+Later in April 1991 he reported that he had been in Vietnam, seen much combat, and had been jumpy ever since.
+
+round 39, index 70: 
+The veteran also did not mention any brutal attack of the genital area and testified that he was only one of a number of other marines who were beaten.
+
+round 40, index 21: 
+In October 1991 the diagnosis was major depression.
+
+round 41, index 17: 
+He said he went to 10 group therapy sessions 3 years earlier.
+
+round 42, index 18: 
+The diagnosis was adjustment disorder with mixed emotional features.
+
+round 43, index 14: 
+He reported that he was admitted to a hospital 2 years ago for suicidal ideation, but that he left after he found out he was on a mental ward.
+
+round 44, index 16: 
+He said he went on patrols, into a few tunnels and saw a lot of friends die.
+
+round 45, index 19: 
+In June 1991 he complained of nightmares of
+
+round 46, index 25: 
+It was reported that his issues were subclinical in nature, and that he was not a combat veteran, but seemed to have been traumatized by some of what he saw in Vietnam, specifically "grunts" who were receiving medical attention.
+
+round 47, index 20: 
+Vietnam, and the diagnosis was PTSD.
+
+round 48, index 28: 
+It was reported that that he had no direct combat.
+
+round 49, index 48: 
+Rather these incidents must be reported and documented.
+
+round 50, index 26: 
+It was reported that that bereavement seemed to be the crux of the issue for the veteran, and this referred to the death of his niece, his father, and a friend in a car accident.
+
+round 51, index 29: 
+Following psychological testing in May 1992, the diagnostic impression was mixed character style with passive-aggressive avoidant features.
+
+round 52, index 73: 
+He has given widely varying accounts of his exposure or non-exposure to combat, while in Vietnam, and has mentioned other unverified beatings, by his CO and by other drill instructors who he claims beat him "within an inch of his life."
+
+round 53, index 34: 
+He proffered the names of those that he accused.
+
+round 54, index 74: 
+The alleged beatings themselves would constitute criminal acts by a number of commissioned and non-commissioned officers in a very disciplined training atmosphere.
+
+round 55, index 42: 
+He said he was similarly beaten the next day.
+
+round 56, index 43: 
+Tinelli, reported that he was trained in the Navy and that the veteran presented similar symptoms as persons he had treated who had been victims of sexual abuse.
+
+round 57, index 27: 
+The veteran was admitted to a VA Medical Center (VAMC) in April 1992.
+
+round 58, index 30: 
+The diagnoses on his May 1992 discharge were major depression and PTSD.
+
+round 59, index 66: 
+The veteran has proffered statement from a fellow Marine to verify his stressor.
+

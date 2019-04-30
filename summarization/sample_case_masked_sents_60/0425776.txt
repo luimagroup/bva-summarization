@@ -1,0 +1,180 @@
+round 0, index 32: 
+This claim must be afforded expeditious treatment.
+
+round 1, index 31: 
+The appellant has the right to submit additional evidence and argument on the matter or matters the Board has remanded.
+
+round 2, index 30: 
+Thereafter, the case should be returned to the Board, if in order.
+
+round 3, index 33: 
+The law requires that all claims that are remanded by the Board of Veterans' Appeals or by the United States Court of Appeals for Veterans Claims for additional development or other appropriate action must be handled in an expeditious manner.
+
+round 4, index 34: 
+Mark D. Hindin	Veterans Law Judge, Board of Veterans' AppealsUnder 38 U.S.C.A. § 7252 (West 2002), only a decision of the Board of Veterans' Appeals is appealable to the United States Court of Appeals for Veterans Claims.
+
+round 5, index 35: 
+This remand is in the nature of a preliminary order and does not constitute a decision of the Board on the merits of your appeal.
+
+round 6, index 29: 
+The AMC or RO should then re-adjudicate the veteran's claim, and if it remains denied, issue a supplemental statement of the case.
+
+round 7, index 28: 
+The AMC or RO should take the necessary steps to obtain records of the veteran's treatment from Dr Northwall and Dr. Meiler. 3.
+
+round 8, index 27: 
+If the veteran provides sufficient information, the AMC or RO should attempt to obtain credible supporting information from CURR. 2.
+
+round 9, index 26: 
+The AMC or RO should ask the veteran to provide the specific information needed to obtain credible supporting evidence from the U.S. Armed Services Center for Unit Records Research (CURR) in accordance with
+
+round 10, index 4: 
+The appeal is REMANDED to the RO via the Appeals Management Center (AMC), in Washington, DC.  VA will notify you if further action is required on your part.
+
+round 11, index 25: 
+Accordingly, this case is REMANDED for the following development:1.
+
+round 12, index 24: 
+VA has a duty to obtain records of treatment reported by private physicians.
+
+round 13, index 3: 
+A transcript of that hearing is of record.
+
+round 14, index 21: 
+Also, a November 2000 letter from M. Meiler, M.D., indicates that he veteran received treatment from him for the past two years for increasing difficulty sleeping and Dr. Meiler opined that it was perhaps part of PTSD.
+
+round 15, index 22: 
+Dr.
+
+round 16, index 23: 
+Meiler's treatment records are not associated with the claims folder.
+
+round 17, index 2: 
+The veteran testified before the undersigned Veterans Law Judge at a video hearing in May 2004.
+
+round 18, index 19: 
+Secretary shall notify the claimant that the Secretary is unable to obtain records with respect to the claim.
+
+round 19, index 15: 
+This action does not appear to have been undertaken.
+
+round 20, index 20: 
+At his May 2004 hearing, the veteran testified that he was receiving psychiatric treatment from Dr. Northwall.  Although Dr. Northwall has submitted a letter to the VA and a single treatment record from August 2001, the veteran's complete psychiatric treatment records are not part of the claims folder.
+
+round 21, index 12: 
+Request specific details of the in-service stressful incident(s): date(s), place(s), unit of assignment at the time of the event(s), description of the event(s), medal(s) or citation(s) received as a result of the event(s), and, if appropriate, name(s) and other identifying information concerning any other individuals involved in the event(s).
+
+round 22, index 14: 
+Inform the veteran that this information is necessary to obtain supportive evidence of the stressful event(s) and that failure to respond or an incomplete response may result in denial of the claim.
+
+round 23, index 18: 
+Moreover, the Veterans Claims Assistance Act of 2000 (VCAA), codified at 38 U.S.C.A. §§ 5100, 5102, 5103, 5103A, 5106, 5107, 5126, and Pub. L. No. 108-183, §§ 701(a),(b); 117 Stat. 2651 (Dec. 16, 2003) (to be codified at 38 U.S.C.A. § 5102, 5103(b)), specifically provides that the duty to assist includes obtaining relevant records (including private records) that the claimant adequately identifies to the Secretary and authorizes the Secretary to obtain, and that whenever the Secretary, after making such reasonable efforts, is unable to obtain all of the relevant records sought, the
+
+round 24, index 13: 
+As a minimum, the claim must indicate the location and approximate time (a 2-month specific date range) of the stressful event(s) in question, and the unit of assignment at the time the stressful event occurred.
+
+round 25, index 11: 
+Where a veteran reports a stressor, and credible evidence of the stressor is needed, VA will:
+
+round 26, index 10: 
+The veteran also offered testimony as to these stressors at his May 2004 hearing.
+
+round 27, index 1: 
+This matter is before the Board of Veterans' Appeals (Board) on appeal from a June 2001 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO) in Columbia, South Carolina, which denied service connection for PTSD.
+
+round 28, index 0: 
+The veteran served on active duty from August 1970 to February 1972, and from October 1976 to November 1978.
+
+round 29, index 6: 
+The veteran has produced medical evidence in the form of a letter from K. Northwall, M.D., which shows that he received a diagnosis of PTSD.
+
+round 30, index 7: 
+The April 2002 letter documented the veteran's alleged stressors which involve sights he witnessed as an undercover narcotics military police officer.
+
+round 31, index 0: 
+The veteran served on active duty from August 1970 to February 1972, and from October 1976 to November 1978.
+
+round 32, index 16: 
+The lack of such action may be due to the fact that on the VA examination in March 2002, the examiner did not diagnose PTSD.
+
+round 33, index 17: 
+However, VA has since confirmed a diagnosis of PTSD.
+
+round 34, index 9: 
+The VA examiner documented the alleged in-service stressors in May 2002.
+
+round 35, index 0: 
+The veteran served on active duty from August 1970 to February 1972, and from October 1976 to November 1978.
+
+round 36, index 8: 
+A May 2002 VA psychiatric examination confirmed the diagnosis of PTSD.
+
+round 37, index 0: 
+The veteran served on active duty from August 1970 to February 1972, and from October 1976 to November 1978.
+
+round 38, index 5: 
+Under the regulations, service connection for PTSD requires medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a) (2003); a link, established by medical evidence, between current symptoms and an in-service stressor; and credible supporting evidence that the claimed in-service stressor occurred.
+
+round 39, index 0: 
+The veteran served on active duty from August 1970 to February 1972, and from October 1976 to November 1978.
+
+round 40, index 0: 
+The veteran served on active duty from August 1970 to February 1972, and from October 1976 to November 1978.
+
+round 41, index 0: 
+The veteran served on active duty from August 1970 to February 1972, and from October 1976 to November 1978.
+
+round 42, index 0: 
+The veteran served on active duty from August 1970 to February 1972, and from October 1976 to November 1978.
+
+round 43, index 0: 
+The veteran served on active duty from August 1970 to February 1972, and from October 1976 to November 1978.
+
+round 44, index 0: 
+The veteran served on active duty from August 1970 to February 1972, and from October 1976 to November 1978.
+
+round 45, index 0: 
+The veteran served on active duty from August 1970 to February 1972, and from October 1976 to November 1978.
+
+round 46, index 0: 
+The veteran served on active duty from August 1970 to February 1972, and from October 1976 to November 1978.
+
+round 47, index 0: 
+The veteran served on active duty from August 1970 to February 1972, and from October 1976 to November 1978.
+
+round 48, index 0: 
+The veteran served on active duty from August 1970 to February 1972, and from October 1976 to November 1978.
+
+round 49, index 0: 
+The veteran served on active duty from August 1970 to February 1972, and from October 1976 to November 1978.
+
+round 50, index 0: 
+The veteran served on active duty from August 1970 to February 1972, and from October 1976 to November 1978.
+
+round 51, index 0: 
+The veteran served on active duty from August 1970 to February 1972, and from October 1976 to November 1978.
+
+round 52, index 0: 
+The veteran served on active duty from August 1970 to February 1972, and from October 1976 to November 1978.
+
+round 53, index 0: 
+The veteran served on active duty from August 1970 to February 1972, and from October 1976 to November 1978.
+
+round 54, index 0: 
+The veteran served on active duty from August 1970 to February 1972, and from October 1976 to November 1978.
+
+round 55, index 0: 
+The veteran served on active duty from August 1970 to February 1972, and from October 1976 to November 1978.
+
+round 56, index 0: 
+The veteran served on active duty from August 1970 to February 1972, and from October 1976 to November 1978.
+
+round 57, index 0: 
+The veteran served on active duty from August 1970 to February 1972, and from October 1976 to November 1978.
+
+round 58, index 0: 
+The veteran served on active duty from August 1970 to February 1972, and from October 1976 to November 1978.
+
+round 59, index 0: 
+The veteran served on active duty from August 1970 to February 1972, and from October 1976 to November 1978.
+

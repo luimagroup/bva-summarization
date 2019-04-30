@@ -1,0 +1,180 @@
+round 0, index 69: 
+Entitlement to service connection for PTSD is granted.
+
+round 1, index 4: 
+PTSD was incurred in active service.
+
+round 2, index 67: 
+Resolving all doubt in the veteran's favor, the Board finds that each of the elements for service connection has been satisfied.
+
+round 3, index 68: 
+Service connection for PTSD is warranted.
+
+round 4, index 66: 
+As such, the Board finds that the veteran has a current diagnosis of PTSD that is associated with a reported stressor which has been verified to have occurred during his period of active military service.
+
+round 5, index 65: 
+The Albany VAMC psychologist noted that the veteran had PTSD that was associated with military service and referenced PTSD-related avoidance and amnesia.
+
+round 6, index 64: 
+In addition, the medical evidence shows that the plane crash stressor has been linked to the veteran's currently diagnosed PTSD.
+
+round 7, index 51: 
+That diagnosis has been attributed to an in-service non-combat stressor.
+
+round 8, index 53: 
+The remaining question is whether there is credible supporting evidence of the claimed stressor, or whether the evidence shows that the veteran engaged in combat and thus needs no supporting evidence for his stressors.
+
+round 9, index 52: 
+Two of the three elements for service connection are thus satisfied.
+
+round 10, index 43: 
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary shall give the benefit of the doubt to the claimant.
+
+round 11, index 42: 
+Service connection may be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.
+
+round 12, index 41: 
+Once evidence is determined to be competent, the Board must determine whether such evidence is also credible.
+
+round 13, index 44: 
+In order for a claim for service connection for PTSD to be successful, there must be: (1) medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a); (2) a link, established by medical evidence, between the current symptoms and an in-service stressor; and (3) credible supporting evidence that the claimed in-service stressor occurred.
+
+round 14, index 54: 
+The veteran's service records show that he served in Korea during the Korean War. However, there are no references to combat in the veteran's service personnel records.
+
+round 15, index 7: 
+The VCAA is not applicable where further assistance would not aid the appellant in substantiating her claim.
+
+round 16, index 45: 
+The evidence necessary to establish the occurrence of a recognizable stressor during service to support a diagnosis of PTSD will vary depending upon whether the veteran "engaged in combat with the enemy."
+
+round 17, index 55: 
+He did not earn any decorations, medals, badges, ribbons, or awards indicative of participation in combat.
+
+round 18, index 3: 
+The veteran has a current diagnosis of PTSD that is associated with a stressor during his period of active military service, for which there is credible supporting evidence.
+
+round 19, index 46: 
+Participation in combat, a determination that is to be made on a case-by-case basis, requires that the veteran have personally participated in events constituting an actual fight or encounter with a military foe or hostile unit or instrumentality.
+
+round 20, index 47: 
+If VA determines that the veteran engaged in combat with the enemy and his alleged stressor is combat-related, then his lay testimony or statement is accepted as conclusive evidence of the stressor's occurrence and no further development or corroborative evidence is required, provided that such testimony is found to be consistent with circumstances, conditions, or hardships of service.
+
+round 21, index 5: 
+Veterans Claims Assistance Act of 2000
+
+round 22, index 2: 
+The rating decision denied entitlement to service connection for PTSD.
+
+round 23, index 24: 
+The VA psychologist explained PTSD-related avoidance and amnesia for important aspects of traumatic events.
+
+round 24, index 48: 
+If the veteran did not engage in combat with the enemy, or the claimed stressor is not related to combat, the veteran's lay testimony alone will not be enough to establish the occurrence of the alleged stressor.
+
+round 25, index 56: 
+For these reasons, the Board concludes that the veteran's service personnel records do not indicate that he engaged in combat with the enemy.
+
+round 26, index 37: 
+AnalysisApplicable laws and regulations in service connection claimsService connection will be granted for disability resulting from disease or injury incurred in or aggravated by active service.
+
+round 27, index 6: 
+The Veterans Claims Assistance Act of 2000 (VCAA) and implementing regulations impose obligations on VA to provide claimants with notice and assistance.
+
+round 28, index 9: 
+(holding that the notice and duty to assist provisions of the VCAA do not apply to claims that could not be substantiated through such notice and assistance).
+
+round 29, index 38: 
+Establishing service connection generally requires (1) medical evidence of a current disability; (2) medical or, in certain circumstances, lay evidence of in-service incurrence or aggravation of a disease or injury; and (3) medical evidence of a nexus between the claimed in-service disease or injury and the present disability.
+
+round 30, index 70: 
+Veterans Law Judge, Board of Veterans' Appeals Department of Veterans Affairs
+
+round 31, index 0: 
+The veteran served from August 1952 to November 1955.
+
+round 32, index 1: 
+This matter comes before the Board of Veterans' Appeals (Board) on appeal of a January 2005 rating decision of the New York, New York regional office (RO) of the Department of
+
+round 33, index 8: 
+Wensch v. Principi, 15 Vet App 362 (2001); see 38 U.S.C.A. § 5103A(a)(2) (Secretary not required to provide assistance "if no reasonable possibility exists that such assistance would aid in substantiating the claim");
+
+round 34, index 10: 
+In view of the Board's favorable decision in this appeal, further assistance is unnecessary to aid the appellant in substantiating his claims.
+
+round 35, index 40: 
+Lay persons are not competent to opine as to medical etiology or render medical opinions.
+
+round 36, index 39: 
+Continuity of symptomatology may be established if a claimant can demonstrate (1) that a condition was "noted" during service; (2) evidence of post-service continuity of the same symptomatology; and (3) medical or, in certain circumstances, lay evidence of a nexus between the present disability and the post-service symptomatology.  Savage, 10 Vet. App. at 495-96; see Hickson, 12 Vet. App. at 253 (lay evidence of in-service incurrence sufficient in some circumstances for purposes of establishing service connection);
+
+round 37, index 50: 
+In this case, the medical evidence demonstrates a diagnosis of PTSD.
+
+round 38, index 36: 
+The plane's three crewmen were subsequently rescued.
+
+round 39, index 49: 
+In such cases, the record must contain service records or other corroborative evidence that substantiates or verifies the veteran's statements as to the occurrence of the claimed stressor.
+
+round 40, index 25: 
+The veteran completed a PTSD questionnaire in December 2004 in which he indicated that the stressor event occurred between summer 1953 and December 1954 aboard the largest
+
+round 41, index 26: 
+Essex class carrier assigned to the seventh fleet, identified as the U.S.S. Yorktown.
+
+round 42, index 11: 
+Factual BackgroundThe veteran served from September 1952 to November 1955.
+
+round 43, index 23: 
+In an October 2004 follow-up appointment for possible PTSD associated with military experiences, the veteran stated that there were aspects of the in-service incident that he could not remember.
+
+round 44, index 58: 
+Although JSRRC could not verify the specific event described by the veteran, it noted an August 6, 1954 crash of a plane attempting to land aboard the U.S.S. Yorktown.
+
+round 45, index 12: 
+Three years, two months, and sixteen days of service were foreign.
+
+round 46, index 57: 
+Accordingly, the veteran's service records or other corroborative evidence must substantiate or verify the veteran's claimed stressors.
+
+round 47, index 27: 
+He stated that he would help inspect the tailhook and landing gear of planes prior to take-off.
+
+round 48, index 13: 
+The veteran's records show that he was an aircraft mechanic assigned to composite squadron VC-6.
+
+round 49, index 19: 
+He was referred for evaluation of anxiety symptoms.
+
+round 50, index 61: 
+The records need only imply the veteran's participation (e.g., to not controvert the veteran's assertion that he was present when the events the records establish that his unit experienced occurred).
+
+round 51, index 29: 
+He reported that the pilot and co-pilot were rescued, but the radioman, named Black, was killed.
+
+round 52, index 59: 
+The event described by JSRRC differs from the event described by the veteran in that none of the plane's three crewmen died as a result of the accident and the plane crashed during landing rather than take-off.
+
+round 53, index 62: 
+In this case, the evidence of record shows that there was a plane crash off the side of the aircraft carrier U.S.S. Yorktown in 1954.
+
+round 54, index 60: 
+Credible supporting evidence need not corroborate every detail of a claimed stressor.
+
+round 55, index 15: 
+The veteran has reported that after his discharge from the military, he suffered nightmares, agitation, and anxiety.
+
+round 56, index 14: 
+His DD-214 does not reflect any award that indicates the veteran was in combat, but the veteran did earn the Korean Service Medal, United Nations Service Medal, and National Defense Service Medal.
+
+round 57, index 31: 
+In May 2005, the veteran was admitted to the VAMC in Albany for evaluation and treatment of parasomnias.
+
+round 58, index 32: 
+In July 2005, he was recommended for PTSD screening.
+
+round 59, index 30: 
+He stated that the thought of possible responsibility for the crash has troubled him since the incident.
+

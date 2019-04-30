@@ -1,0 +1,180 @@
+round 0, index 46: 
+Service connection for PTSD is denied.
+
+round 1, index 10: 
+PTSD was not incurred in or aggravated by service.
+
+round 2, index 34: 
+"The duty to assist is not always a one-way street.
+
+round 3, index 32: 
+A review of the evidence of record does not verify the stressors reported by the veteran.
+
+round 4, index 33: 
+In a December 1998 supplemental statement of the case (SSOC) the veteran was informed of the problems encountered by the MMSB, but he did not provide any additional information which could have been used to assist in verification of the claimed stressors.
+
+round 5, index 12: 
+By this finding, the Board means that the veteran has presented a claim which is not implausible when the contentions and the evidence of record are viewed in the light most favorable to the claim.
+
+round 6, index 35: 
+If a veteran wishes help, he cannot passively wait for it in those circumstances where he may or should have information that is essential in obtaining the putative evidence."
+
+round 7, index 13: 
+The Board is also satisfied that all relevant facts have been properly and sufficiently developed.
+
+round 8, index 9: 
+An underlying stressor in service, which could have led to PTSD, has not been verified.
+
+round 9, index 14: 
+In the June 1997 remand, the Board requested that that the veteran provide specific information with regard to the claimed stressors, that the RO determine which stressors had been verified, that the RO secure all reports of outpatient treatment, and that the RO schedule the veteran for a compensation examination.
+
+round 10, index 25: 
+However, he did not recall the name of either individual.
+
+round 11, index 8: 
+The veteran did not provide sufficient information to verify the stressors, and, while he was given ample notice that additional information was required, he failed to provide this information.
+
+round 12, index 11: 
+Initially, the Board finds that the veteran's claim is well grounded within the meaning of 38 U.S.C.A. § 5107(a).
+
+round 13, index 19: 
+The evidence does not suggest, nor is it contended, that the veteran was in combat.
+
+round 14, index 30: 
+In a letter later in June, the MMSB replied that the information provided by the veteran was insufficient to conduct any meaningful research.
+
+round 15, index 36: 
+Thus, the Board must conclude that the veteran has not met the initial requirement for service connection for PTSD, the presence of a verified stressor.
+
+round 16, index 47: 
+V. L. Jordan	Member, Board of Veterans' Appeals
+
+round 17, index 31: 
+In particular, the veteran did not provide the specific unit to which he was assigned, along with additional information to verify the claimed stressors.
+
+round 18, index 15: 
+From its review of the claims folder, the Board concludes that all requested actions have been completed, and that the veteran's claim is ready for review.
+
+round 19, index 16: 
+Service connection for post-traumatic stress disorder requires medical evidence diagnosing the condition in accordance with Sec. 4.125(a) of this chapter; a link, established by medical evidence, between current symptoms and an in-service stressor;
+
+round 20, index 18: 
+If the evidence establishes that the veteran engaged in combat with the enemy and the claimed stressor is related to that combat, in the absence of clear and convincing evidence to the contrary, and provided that the claimed stressor is consistent with the circumstances, conditions, or hardships of the veteran's service, the veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor.
+
+round 21, index 5: 
+These claims were denied in a December 1998 rating action.
+
+round 22, index 37: 
+The Board has considered that the veteran has been treated at VA medical facilities for a disorder diagnosed as PTSD.
+
+round 23, index 17: 
+and credible supporting evidence that the claimed in-service stressor occurred.
+
+round 24, index 20: 
+Thus, as an initial matter, the veteran must provide credible supporting evidence that the claimed in service stressor actually occurred.
+
+round 25, index 27: 
+Given that the accident took place after service, it cannot be considered a stressor for the purpose of PTSD.
+
+round 26, index 3: 
+That issue is once more properly before the Board for action.
+
+round 27, index 21: 
+Here, the veteran has contended that he was involved in the disposition of unusable equipment and explosives, by exploding them.
+
+round 28, index 28: 
+Moreover, this accident was considered to be the result of willful misconduct, and, hence, on this basis alone cannot be considered the basis for a grant of service connection for PTSD.
+
+round 29, index 44: 
+SSOC, the veteran was informed that the basis of the denial was that the stressor had not been established.
+
+round 30, index 38: 
+However, as noted, the veteran must meet all three criteria for a grant of service connection for PTSD.
+
+round 31, index 45: 
+Board finds that the current denial of service connection for PTSD was not on a differing basis from the RO, and that the veteran's due process rights are therefore not prejudiced.
+
+round 32, index 24: 
+In his personal hearing in May 1996, he also indicated that a member of his platoon was killed when some explosives ignited.
+
+round 33, index 0: 
+The veteran served on active duty from December 1973 to December 1976.
+
+round 34, index 1: 
+In a June 1997 decision, the Board of Veterans' Appeals (Board) denied service connection for a skin disorder, to include consideration of service connection based on Agent Orange exposure.
+
+round 35, index 43: 
+Moreover, on at least the August 1999
+
+round 36, index 22: 
+As a result of these explosions, civilians near the base stormed the front gate, threatening harm to the Marine guards.
+
+round 37, index 39: 
+In the absence of a verified stressor, one of these requirements, the veteran's claim must fail.
+
+round 38, index 4: 
+The veteran has further contended that he should be awarded a permanent and total disability rating for pension purposes, along with a special monthly pension.
+
+round 39, index 29: 
+The veteran's statements, along with extracts from his service records, were referred in June 1998 to the Marine Corps Personnel Management Support Branch (MMSB).
+
+round 40, index 6: 
+However, as these claims have not been developed for appellate review, no action by the Board at this time is appropriate.
+
+round 41, index 23: 
+He also contended that one of his friends was killed by falling off a bridge in March 1974.
+
+round 42, index 40: 
+A review of the determinations made by the RO indicates that service connection for PTSD was denied on a number of bases, including that the examining physicians concluded that the stressors the veteran reported were not of sufficient severity to have led to PTSD.
+
+round 43, index 42: 
+However, as the Board in this decision denies service connection for PTSD on the basis that a stressor had not been verified, the issue of whether this unverified stressor would have been sufficient to support a diagnosis of PTSD is not for Board review.
+
+round 44, index 7: 
+The veteran's claim was remanded to the RO for, among other requests, to verify the veteran's claimed stressors.
+
+round 45, index 2: 
+The issue of service connection for PTSD was remanded to the Department of Veterans Affairs (VA) Regional Office (RO) for further development.
+
+round 46, index 26: 
+The Board further notes that after service, the veteran was involved in an automobile accident which resulted in him becoming a quadriplegic.
+
+round 47, index 41: 
+The veteran's representative argued that this was not a requirement under DSM-IV.
+
+round 48, index 0: 
+The veteran served on active duty from December 1973 to December 1976.
+
+round 49, index 0: 
+The veteran served on active duty from December 1973 to December 1976.
+
+round 50, index 0: 
+The veteran served on active duty from December 1973 to December 1976.
+
+round 51, index 0: 
+The veteran served on active duty from December 1973 to December 1976.
+
+round 52, index 0: 
+The veteran served on active duty from December 1973 to December 1976.
+
+round 53, index 0: 
+The veteran served on active duty from December 1973 to December 1976.
+
+round 54, index 0: 
+The veteran served on active duty from December 1973 to December 1976.
+
+round 55, index 0: 
+The veteran served on active duty from December 1973 to December 1976.
+
+round 56, index 0: 
+The veteran served on active duty from December 1973 to December 1976.
+
+round 57, index 0: 
+The veteran served on active duty from December 1973 to December 1976.
+
+round 58, index 0: 
+The veteran served on active duty from December 1973 to December 1976.
+
+round 59, index 0: 
+The veteran served on active duty from December 1973 to December 1976.
+

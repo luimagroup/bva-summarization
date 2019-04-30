@@ -1,0 +1,180 @@
+round 0, index 138: 
+Entitlement to service connection for PTSD is denied.
+
+round 1, index 137: 
+Thus, the grant of entitlement to service connection for PTSD is not warranted under any of the applicable criteria.
+
+round 2, index 136: 
+The findings reported above fail to show a medical nexus.
+
+round 3, index 131: 
+The testimony, in 1996, does not provide a basis for relating PTSD to service, some 35 years earlier, nor is she competent to make that medical connection.
+
+round 4, index 116: 
+Moreover, there is no signature on the letter as it appears that the bottom of the letter was torn and recopied.
+
+round 5, index 139: 
+MICHAEL D. LYON 	Member, Board of Veterans' Appeal
+
+round 6, index 117: 
+Finally, if this happened while the veteran was in service, notice would most likely have come to her family from the service department, not the VA.
+
+round 7, index 118: 
+Therefore, the Board doubts the validity of the letter and has serious concerns regarding the over-all credibility of the veteran to submit this letter in support of her claim.
+
+round 8, index 119: 
+Because the evidence indicates that the letter was not, in fact, as represented by the veteran, the Board will place minimal weight on the evidence contained therein.
+
+round 9, index 121: 
+These appear to be separate incidents from the alleged rape by her husband, although she did report an incident with her husband of forced fellatio.
+
+round 10, index 14: 
+PTSD was not shown to be incurred in or aggravated by the veteran's active duty service based on the evidence of record.
+
+round 11, index 19: 
+Service connection may be granted for disability resulting from disease or injury incurred in or aggravated by active service.
+
+round 12, index 20: 
+If a chronic disease is shown in service, subsequent manifestations of the same chronic disease at any later date, however remote, may be service connected, unless clearly attributable to intercurrent causes.
+
+round 13, index 17: 
+Her evidentiary assertions are presumed credible for the purposes of this determination.
+
+round 14, index 12: 
+PTSD was diagnosed in 1993 but it was not related to any event or occurrence in service;
+
+round 15, index 21: 
+However, continuity of symptoms is required where the condition in service is not, in fact, chronic or where diagnosis of chronicity may be legitimately questioned.
+
+round 16, index 22: 
+In addition, service connection may also be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.
+
+round 17, index 24: 
+While this appeal was pending, the applicable rating criteria for service connection for PTSD, 38 C.F.R. § 3.304(f), was amended on June 18, 1999, and made effective to March 7, 1997.
+
+round 18, index 23: 
+The Board must determine whether the evidence supports the claim or is in relative equipoise, with the veteran prevailing in either case, or whether the preponderance of the evidence is against the claim, in which case, service connection must be denied.
+
+round 19, index 123: 
+Accordingly, there was no mention of the veteran's active duty service in connection with the diagnosis of PTSD at the time it was made.
+
+round 20, index 129: 
+The Board has examined all the evidence of record with a view toward determining whether the veteran notified VA of the possible existence of relevant information; however, the Board finds no such information present.
+
+round 21, index 66: 
+She was thereafter hospitalized for 45 days and was diagnosed with stress and trauma.
+
+round 22, index 115: 
+Further, although it appears that the letter was meant to be sent by a treating physician, the phraseology and cadence are lacking, including grammatical and sentence structure errors.
+
+round 23, index 15: 
+Initially, the Board finds that the veteran's claim is "well grounded" within the meaning of 38 U.S.C.A. § 5107(a) (West 1991 & Supp. 1999).
+
+round 24, index 135: 
+As noted, there appears to be no substantive difference in the application of the old and new regulations as they apply to this case.
+
+round 25, index 16: 
+That is, she has presented a claim which is plausible.
+
+round 26, index 11: 
+The veteran's service medical records do not contain any complaints, findings, or diagnosis of a neuropsychiatric disability of any kind.
+
+round 27, index 26: 
+In this case, the Board finds that the change to the regulation as it pertains to this case is not so significant that the Board is unable to proceed.
+
+round 28, index 25: 
+Although the new regulation purports to essentially restate the three essential elements previously in effect, the timing of this change in the regulations requires the Board to first consider whether the amended regulation is more favorable to the veteran than the prior regulation, and, if so, the Board must apply the more favorable regulation.
+
+round 29, index 27: 
+As there is no essential substantive change affecting this case, neither the old nor the new provisions are more liberal as affects this claim.
+
+round 30, index 44: 
+In 1988, the veteran was treated for situation depression and was noted to be in a stormy and unhappy marriage.
+
+round 31, index 18: 
+All relevant facts have been properly developed and no further assistance to the veteran is required to comply with the duty to assist mandated by 38 U.S.C.A. § 5107(a).
+
+round 32, index 81: 
+He also identified a number of hysterical features and noted that she was quite emotional during the interview.
+
+round 33, index 0: 
+The veteran served on active duty from August 1960 to August 1961.
+
+round 34, index 1: 
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a rating decision of the Department of Veterans Affairs (VA) Regional Office (RO) in Jackson,
+
+round 35, index 2: 
+Mississippi, which denied entitlement to service connection for PTSD.
+
+round 36, index 65: 
+Apparently in 1984, she witnessed her son killed by a drunk driver and saw his badly mangled body in the accident.
+
+round 37, index 76: 
+She described feeling dejected, sad, and had infrequent crying spells.
+
+round 38, index 43: 
+Post service medical records are negative for treatment for or a diagnosis of a psychiatric disability until many years after separation from service.
+
+round 39, index 10: 
+The RO has developed all evidence necessary for an equitable disposition of the veteran's claim.
+
+round 40, index 134: 
+Finally, the above reported findings support the conclusion that the veteran failed to establish a medical nexus between a current diagnosis of PTSD and military service under the "old" regulation as well.
+
+round 41, index 45: 
+She had three children, one who had been killed in an accident, one who was an alcoholic, and the third who had "problems."
+
+round 42, index 82: 
+He also remarked that she was mildly depressed.
+
+round 43, index 125: 
+The Board finds that all alternative sources of information in an attempt to develop the veteran's claims have been exhausted.
+
+round 44, index 9: 
+Thus, the requested developments have been accomplished to the extent possible and the case is now ready for appellate review.
+
+round 45, index 63: 
+After service, she raised her daughter (now grown) and thereafter worked at various jobs.
+
+round 46, index 7: 
+The Board agreed with this analysis and, in November 1998, remanded the issue to the RO to schedule a hearing before the Board.
+
+round 47, index 83: 
+He concluded, that the major psychiatric picture was that of anxiety and the symptoms of depression and hysterical features were associated with the anxiety disorder.
+
+round 48, index 77: 
+She stated that she got along well with others but did not have friends, only saw people at school and work.
+
+round 49, index 75: 
+She observed that she had this flashback once every month or two and it made her upset and angry.
+
+round 50, index 64: 
+In 1976, she was in a serious automobile accident and had a long convalescence during which she had to learn to walk again.
+
+round 51, index 8: 
+The RO scheduled a hearing and notified the veteran but she failed to appear.
+
+round 52, index 71: 
+She reported that she did not trust people because she had been actually raped twice and her employer had attempted to rape her on more than one occasion.
+
+round 53, index 70: 
+She complained of severe headaches and muscle spasms, so severe that at times she was unable to walk.
+
+round 54, index 122: 
+Significantly, her psychiatric symptomatology appeared to be centered on the incidents with her husband and her son's death, and at no time did she suggest, nor did the examiner consider in making a diagnosis, that the alleged rapes had taken place in service.
+
+round 55, index 79: 
+The examiner noted that the veteran presented with a rather mixed psychiatric picture.
+
+round 56, index 128: 
+Further, there is no suggestion in the service medical records of a change of behavior which may have evidenced the occurrence of an in-service stressor.
+
+round 57, index 127: 
+Moreover, to the extent that the veteran submitted secondary evidence in the form of a letter purportedly from VA to her father dated in 1961, the Board has also noted that that evidence will be afforded less weight for the reasons described above.
+
+round 58, index 80: 
+He noted there were many symptoms of PTSD, especially with regard to the rape attempts, her husband's assault, and seeing the body of her dead son.
+
+round 59, index 74: 
+She related another experience when her husband attempted to force her to perform fellatio and forced his penis into her mouth.
+

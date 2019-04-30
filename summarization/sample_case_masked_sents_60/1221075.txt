@@ -1,0 +1,180 @@
+round 0, index 81: 
+Entitlement to service connection for obstructive sleep apnea is granted.
+
+round 1, index 82: 
+Veterans Law Judge, Board of Veterans' AppealsDepartment of Veterans Affairs
+
+round 2, index 77: 
+In short, the Board finds that the evidence is in equipoise as to whether the Veteran's PTSD aggravated the sleep apnea.
+
+round 3, index 78: 
+Accordingly, service connection on a secondary basis for sleep apnea is granted.
+
+round 4, index 75: 
+The December 2011 examiner concluded that there was no aggravation of the sleep apnea by PTSD, but his rationale appears to rely on the notion that a physical disorder cannot be aggravated by a mental disorder.
+
+round 5, index 76: 
+That notion is, as a categorical statement, rather questionable.
+
+round 6, index 74: 
+It is unclear, however, how this necessarily establishes that the underlying sleep apnea has worsened.
+
+round 7, index 72: 
+Neither rationale is clearly more persuasive.
+
+round 8, index 73: 
+Dr. H.J. based his conclusion on the notion that PTSD causes increased REM sleep, which is the type of sleep during which apneas tend to occur.
+
+round 9, index 71: 
+Both examiners are medical professionals, and both have offered rationales in support of their conclusions.
+
+round 10, index 20: 
+Once evidence is determined to be competent, the Board must determine whether such evidence is also credible.
+
+round 11, index 21: 
+(distinguishing between competency ("a legal concept determining whether testimony may be heard and considered") and credibility ("a factual determination going to the probative value of the evidence to be made after the evidence has been admitted").
+
+round 12, index 22: 
+Service connection may be granted for any disease diagnosed after discharge when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.
+
+round 13, index 23: 
+Presumptive periods are not intended to limit service connection to diseases so diagnosed when the evidence warrants direct service connection.
+
+round 14, index 11: 
+Service connection will be granted if the evidence demonstrates that a current disability resulted from an injury or disease incurred in or aggravated by active military service.
+
+round 15, index 24: 
+The presumptive provisions of the statute and VA regulations implementing them are intended as liberalizations applicable when the evidence would not warrant service connection without their aid.
+
+round 16, index 25: 
+Service connection may also be granted for a disorder found to be proximately due to, or the result of, a service connected disability, including on the basis of aggravation.
+
+round 17, index 3: 
+The Veteran's currently demonstrated sleep apnea was caused by his service-connected PTSD.
+
+round 18, index 79: 
+The Board notes in passing that although 38 C.F.R. §3.310(b) indicates that VA will not concede aggravation unless the baseline severity of the nonservice-connected disease or injury is established, the next sentence indicates that the rating activity will determine the baseline and current levels of severity and determine the extent of aggravation.
+
+round 19, index 26: 
+The Board notes that the revisions to 38 C.F.R. § 3.310 were effective in October 10, 2006, prior to the filing of the Veteran's claim.
+
+round 20, index 27: 
+Under the current version of 38 C.F.R. § 3.310, VA will not concede such aggravation unless the baseline level of severity of the non-service connected disease or injury is established by medical evidence created before the onset of aggravation and by the earliest medical evidence created at any time between the onset of aggravation and the receipt of medical evidence establishing the current level of severity of the non-service connected disease or injury.
+
+round 21, index 13: 
+Under 38 C.F.R. § 3.303(b), an alternative method of establishing the second and third Shedden/Caluza element is through a demonstration of continuity of symptomatology.
+
+round 22, index 28: 
+The RO will determine the baseline and current levels of severity under the Schedule for Rating Disabilities (rating schedule) and determine the extent of aggravation by deducting the baseline level of severity as well as any increase in severity due to the natural progress of the disease, from the current level.
+
+round 23, index 80: 
+Given that the Board is not bound by the RO's determination that aggravation is not present, and as the Board does not assign ratings in the first instance, the Board reads 38 C.F.R. §3.310(b) as permitting the Board to determine whether service connection on an aggravation basis is warranted, with the RO having the responsibility for determining the degree of aggravation in assigning the rating.
+
+round 24, index 30: 
+The Veteran contends that his service-connected PTSD has caused or aggravated his obstructive sleep apnea.
+
+round 25, index 29: 
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, VA shall give the benefit of the doubt to the claimant.
+
+round 26, index 1: 
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a rating decision dated in July 2009 by the Department of Veterans Affairs (VA) Regional Office (RO) in Winston-Salem North Carolina.
+
+round 27, index 0: 
+The Veteran served on active duty from November 1964 to November 1992.
+
+round 28, index 67: 
+The credibility and weight to be attached to such opinions are within the province of the Board as adjudicators.
+
+round 29, index 19: 
+"Symptoms, not treatment, are the essence of any evidence of continuity of symptomatology."
+
+round 30, index 68: 
+Greater weight may be placed on one physician's opinion over another depending on factors such as reasoning employed by the physicians and whether or not and the extent to which they reviewed prior clinical records and other evidence.
+
+round 31, index 62: 
+The June 2009 VA examiner did not address whether the PTSD may have aggravated the sleep apnea;
+
+round 32, index 63: 
+he limited his opinion to the matter of direct causation.
+
+round 33, index 12: 
+Establishing service connection generally requires (1) medical evidence of a current disability; (2) medical or, in certain circumstances, lay evidence of in-service incurrence or aggravation of a disease or injury; and (3) medical evidence of a nexus between the claimed in-service disease or injury and the present disability.
+
+round 34, index 15: 
+Savage, 10 Vet. App. at 495-96; see Hickson, 12 Vet. App. at 253 (lay evidence of in-service incurrence sufficient in some circumstances for purposes of establishing service connection);
+
+round 35, index 66: 
+An evaluation of the probative value of medical opinion evidence is based on the medical expert's personal examination of the patient, the examiner's knowledge and skill in analyzing the data, and the medical conclusion reached.
+
+round 36, index 2: 
+A review of the Virtual VA paperless claims processing system does not reveal any additional documents pertinent to the present appeal.
+
+round 37, index 65: 
+He concluded that the PTSD did not worsen the sleep apnea, apparently with the sole rationale that sleep apnea is a physical illness, whereas PTSD is a mental illness.
+
+round 38, index 14: 
+Continuity of symptomatology may be established if a claimant can demonstrate (1) that a condition was "noted" during service; (2) evidence of post-service continuity of the same symptomatology; and (3) medical or, in certain circumstances, lay evidence of a nexus between the present disability and the post-service symptomatology.
+
+round 39, index 61: 
+Dr. H.J. did, however, conclude that the Veteran's PTSD worsened the sleep apnea, and provided a rationale in support of his conclusion.
+
+round 40, index 64: 
+The December 2011 VA examiner did address the matter of aggravation.
+
+round 41, index 16: 
+In relevant part, 38 U.S.C.A. § 1154(a) requires that VA give "due consideration" to "all pertinent medical and lay evidence" in evaluating a claim for disability or death benefits.
+
+round 42, index 17: 
+The ordinary meaning of the phrase "engaged in combat with the enemy," as used in 38 U.S.C. § 1154(b), requires that a veteran have participated in events constituting an actual fight or encounter with a military foe or hostile unit or instrumentality.
+
+round 43, index 18: 
+The issue of whether any particular set of circumstances constitutes engagement in combat with the enemy for purposes of section 1154(b) must be resolved on a case-by-case basis.
+
+round 44, index 69: 
+The probative value of a medical opinion is generally based on the scope of the examination or review, as well as the relative merits of the expert's qualifications and analytical findings, and the probative weight of a medical opinion may be reduced if the examiner fails to explain the basis for an opinion.
+
+round 45, index 4: 
+The criteria for entitlement to service connection for obstructive sleep apnea have been met.
+
+round 46, index 9: 
+Therefore, no further notice or development is needed with respect to this matter.
+
+round 47, index 10: 
+The Board notes that the Veteran was advised in a January 2009 letter of the information and evidence necessary to substantiate the initial rating and effective date in the event his claim was successful.
+
+round 48, index 32: 
+Throughout service, the Veteran reported that he was not currently experiencing and did not have a history of sleep disturbances.
+
+round 49, index 8: 
+As discussed in detail below, sufficient evidence is of record to grant the matter on appeal.
+
+round 50, index 51: 
+She stated he gets up all night and the least little sound he will jump up and if she does not hear what he hears he gets very frustrated with her.
+
+round 51, index 5: 
+REASONS AND BASES FOR FINDING AND CONCLUSIONDuty to Notify and AssistThe Veterans Claims Assistance Act of 2000 (VCAA), Pub. L. No. 106-475, 114 Stat. 2096 (2000), defines the obligations of VA with respect to the duty to assist and includes an enhanced duty to notify a claimant as to the information and evidence necessary to substantiate a claim for VA benefits.
+
+round 52, index 6: 
+First, VA has a duty to notify the Veteran of any information and evidence needed to substantiate and complete a claim.
+
+round 53, index 34: 
+Service connection is currently in effect for PTSD, which is evaluated as 70 percent disabling with an effective date of January 30, 2007.
+
+round 54, index 70: 
+In this case, and on the matter of aggravation of the sleep apnea, the Board is unable to assign greater probative weight to either Dr. H.J.'s opinion, or to the opinion of the December 2011 VA examiner.
+
+round 55, index 45: 
+The examiner explained that he was a psychologist, and as such could not speak to whether sleep apnea was caused or aggravated by PTSD.
+
+round 56, index 33: 
+The Veteran reported a history of sinusitis throughout service and was treated intermittently for respiratory infections with no lingering effects or sleep apnea noted.
+
+round 57, index 47: 
+The Veteran stated that he did not sleep well after Vietnam, and that after several years, he was given a continuous positive airway pressure (CPAP) device in 1999, which improved his sleep and made him feel calmer when he used it.
+
+round 58, index 60: 
+Dr. H.J. suggested that there was no direct causal relationship between the two disorders, and the June 2009 and December 2011 VA examiners agreed.
+
+round 59, index 46: 
+The examiner explained that he therefore consulted a medical doctor, who added remarks to the report.
+

@@ -1,0 +1,180 @@
+round 0, index 150: 
+Service connection for PTSD is denied.
+
+round 1, index 6: 
+PTSD was not incurred in or aggravated during service.
+
+round 2, index 4: 
+The veteran was not engaged in combat in service, and his allegations of exposure to combat and non-combat stressors are not credible.
+
+round 3, index 149: 
+The claim for service connection for PTSD, therefore, must be denied.
+
+round 4, index 5: 
+The veteran's PTSD is not shown to have its origins in his military service.
+
+round 5, index 144: 
+Certainly, there is no credible supporting evidence of these alleged stressors.
+
+round 6, index 7: 
+Initially, the Board notes that there has been a significant change in the law during the pendency of this appeal.
+
+round 7, index 49: 
+We saw MIG's fly out at us, but did not engage us.
+
+round 8, index 48: 
+'We made steam for 14 hours back to Yankee Station.
+
+round 9, index 8: 
+On November 9, 2000, the President signed into law the Veterans Claims Assistance Act (VCAA) of 2000.
+
+round 10, index 3: 
+The case has now been returned to the Board for completion of appellate consideration.
+
+round 11, index 146: 
+The Board, therefore, finds that the veteran's PTSD is not shown to have its origins in his military service.
+
+round 12, index 145: 
+Based upon the above, the Board finds that the preponderance of the evidence establishes that the veteran was not engaged in combat, and that his allegations of exposure to combat and non-combat stressors are not credible.
+
+round 13, index 147: 
+As the veteran was not engaged in combat, the evidentiary presumptions contained in 38 U.S.C.A. § 1154(b) and 38 C.F.R. § 3.304(f) are not applicable in this case.
+
+round 14, index 50: 
+In addition, they sent torpedo boats towards us.
+
+round 15, index 148: 
+Furthermore, there is no doubt of material fact to be resolved in the veteran's favor.
+
+round 16, index 151: 
+C.W. Symanski	Member, Board of Veterans' AppealsIMPORTANT NOTICE:
+
+round 17, index 153: 
+We are in the process of updating the form to reflect changes in the law effective on December 27, 2001.
+
+round 18, index 9: 
+In pertinent part, this law redefined VA's notice and duty to assist requirements.
+
+round 19, index 160: 
+?
+
+round 20, index 2: 
+In November 1999, the Board remanded the claim to the RO for additional development.
+
+round 21, index 154: 
+In the meanwhile, please note these important corrections to the advice in the form:
+
+round 22, index 157: 
+A "Notice of Disagreement filed on or after November 18, 1988" is no longer required to appeal to the Court.
+
+round 23, index 10: 
+The RO has enacted regulations to implement the provisions of the VCAA.
+
+round 24, index 72: 
+The airplane parts were not salvageable, and they blew the plane up with a grenade.
+
+round 25, index 152: 
+We have attached a VA Form 4597 that tells you what steps you can take if you disagree with our decision.
+
+round 26, index 143: 
+Overall, the veteran's report of stressors while serving on the USS CORAL SEA lack any indicia of reliability or credibility.
+
+round 27, index 159: 
+You are no longer required to file a copy of your Notice of Appeal with VA's General Counsel.
+
+round 28, index 155: 
+These changes apply to the section entitled "Appeal to the United States Court of Appeals for Veterans Claims."
+
+round 29, index 156: 
+(1)
+
+round 30, index 11: 
+These changes in law are potentially applicable to the claim on appeal.
+
+round 31, index 158: 
+(2)
+
+round 32, index 161: 
+In the section entitled "Representation before VA," filing a "Notice of Disagreement with respect to the claim on or after November 18, 1988" is no longer a condition for an attorney-at-law or a VA accredited agent to charge you a fee for representing you.
+
+round 33, index 0: 
+The veteran had active service from December 1964 to December 1968.
+
+round 34, index 1: 
+This case comes before the Board of Veterans' Appeals (Board) on appeal from a May 1996 rating decision by the Huntington, West Virginia Regional Office (RO) of the Department of Veterans Affairs (VA) which denied service connection for PTSD.
+
+round 35, index 12: 
+Upon review of the record, the Board finds that VA has met the duty to assist and notice requirements under the VCAA.
+
+round 36, index 14: 
+Supplemental Statements of the Case (SSOC), the veteran has been advised of the Reasons and Bases in denying his claim.
+
+round 37, index 51: 
+This was an extremely nerve-wracking experience."
+
+round 38, index 53: 
+On these occasions, he had to 'dig out for the parts.'
+
+round 39, index 29: 
+The claimant bears the burden to present and support a claim of benefits.
+
+round 40, index 28: 
+Service connection may be established for disability resulting from personal injury suffered or disease contracted in the line of duty during a period of active wartime and peacetime service.
+
+round 41, index 27: 
+Thus, the Board finds that no prejudice accrues to the veteran in proceeding to the merits of his claim at this time.
+
+round 42, index 15: 
+As addressed below, the dispositive issue in this case concerns whether the veteran was exposed to combat and non-combat stressors during his period of service in the Republic of Vietnam.
+
+round 43, index 30: 
+In evaluating service connection claims, the Board shall consider all information and lay and medical evidence of record.
+
+round 44, index 13: 
+By virtue of a Statement of the Case (SOC) and multiple
+
+round 45, index 24: 
+As addressed below, the Board finds that the unavailability of the 1965 deck logs is largely irrelevant as the version of this non-combat stressor relied upon by the VA examiners in arriving at the veteran's PTSD diagnosis clearly did not happen.
+
+round 46, index 113: 
+According to CORAL SEA's command history, she began a period of Vietnam service on 13 September 1966 and ended it in January 1967.
+
+round 47, index 54: 
+By this, the client indicated that he meant he had to salvage through the plane to find instrumentation.
+
+round 48, index 90: 
+"Credible supporting evidence" of a non-combat stressor may be obtained from service records or other sources, to include lay testimony.
+
+round 49, index 31: 
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Board shall give the benefit of the doubt to the claimant.
+
+round 50, index 26: 
+In this respect, the RO has accomplished all development necessary to substantiate the claim, and the veteran has been provided proper notice and opportunity to submit the evidence needed to substantiate his claim.
+
+round 51, index 25: 
+Based upon the above, the Board finds that no reasonable possibility exists that any further assistance would aid the veteran in substantiating his claim.
+
+round 52, index 71: 
+From there, they walked to the crash site.
+
+round 53, index 73: 
+Subsequently, they were ambushed by the enemy at which time
+
+round 54, index 23: 
+The RO advised the veteran of the unavailability of records in a March 2002 SSOC.
+
+round 55, index 32: 
+Applicable regulatory criteria provide that service connection for PTSD requires medical evidence of a PTSD diagnosis which conforms to the Diagnostic and Statistical Manual of Mental Disorders, 4th ed., 1994 (DSM-IV), see 38 C.F.R. § 4.125(a) (2001), a medical link between current symptoms and in-service stressor(s) and credible supporting evidence that the claimed in-service stressor(s) occurred.
+
+round 56, index 91: 
+For instance, independent evidence such as radio logs and morning reports which establish the occurrence of a stressful event and implies a claimant's personal exposure is sufficient to constitute credible supporting evidence.
+
+round 57, index 122: 
+In January 2002, NARA provided the RO with the deck logs of the USS CORAL SEA for the entire period during January to July 1966.
+
+round 58, index 112: 
+In support of this conclusion, the Head of the Ships History Branch stated as follows:
+
+round 59, index 70: 
+They were flown by cargo plane to the mainland where they were joined by a protective detail of 10 Marines.
+

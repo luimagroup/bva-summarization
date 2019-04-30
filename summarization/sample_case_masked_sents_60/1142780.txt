@@ -1,0 +1,180 @@
+round 0, index 46: 
+Service connection for PTSD is granted.
+
+round 1, index 47: 
+Veterans Law Judge, Board of Veterans' AppealsDepartment of Veterans Affairs
+
+round 2, index 44: 
+The evidence supports the claim, and there is no evidence to the contrary.
+
+round 3, index 45: 
+Service connection for PTSD is warranted.
+
+round 4, index 43: 
+Such stressors are related to his duties as a medical corpsman (an occupation confirmed by his DD 214) as well as an in-service altercation (with an eye injury documented in a February 1978 service treatment record).
+
+round 5, index 42: 
+The evidence of record establishes that the Veteran has been diagnosed with PTSD related to in-service stressors that have been corroborated by credible supporting evidence.
+
+round 6, index 41: 
+The examiner opined that the Veteran met the DSM-IV criteria for moderately severe PTSD which was "more probably than not" secondary to traumas experienced by the Veteran while serving on active duty.
+
+round 7, index 40: 
+At a November 2010 VA PTSD examination, the examining VA psychologist reviewed the claims file and performed an extensive interview with the Veteran.
+
+round 8, index 12: 
+REASONS AND BASES FOR FINDING AND CONCLUSIONVA's Duties to Notify and AssistVA has a duty to notify and assist claimants in substantiating a claim for VA benefits.
+
+round 9, index 22: 
+Lay evidence is competent if it is provided by a person who has knowledge of facts or circumstances and conveys matters that can be observed and described by a lay person.
+
+round 10, index 16: 
+Disorders diagnosed after discharge will still be service connected if all the evidence, including that pertinent to service, establishes that the disease was incurred in service.
+
+round 11, index 15: 
+Service connection will be granted if it is shown that the Veteran suffers from a disability resulting from personal injury suffered or disease contracted in the line of duty, or for aggravation of a preexisting injury suffered or disease contracted in the line of duty, during active military service.
+
+round 12, index 17: 
+To establish service connection, there must be competent evidence of a current disability; medical or, in certain cases, lay evidence of in-service occurrence or aggravation of a disease or injury; and competent evidence of a nexus between an in-service injury or disease and the current disability.
+
+round 13, index 18: 
+Competent medical evidence is evidence provided by a person who is qualified through education, training, or experience to offer medical diagnoses, statements, or opinions.
+
+round 14, index 21: 
+Competent lay evidence is any evidence not requiring that the proponent have specialized education, training, or experience.
+
+round 15, index 11: 
+The criteria for service connection for PTSD have been met.
+
+round 16, index 13: 
+The Board is granting in full the benefit sought on appeal.
+
+round 17, index 19: 
+Competent medical evidence may include statements conveying sound medical principles found in medical treatises.
+
+round 18, index 23: 
+This may include some medical matters, such as describing symptoms or relating a contemporaneous medical diagnosis.
+
+round 19, index 24: 
+In determining whether service connection is warranted for a disability, VA is responsible for determining whether the evidence supports the claim or is in relative equipoise, with the Veteran prevailing in either event, or whether a preponderance of the evidence is against the claim, in which case the claim is denied.
+
+round 20, index 10: 
+The Veteran has been diagnosed with PTSD related to in-service stressors that have been corroborated by credible supporting evidence.
+
+round 21, index 14: 
+Any error committed with respect to either the duty to notify or the duty to assist was harmless and will not be further discussed.
+
+round 22, index 20: 
+Competent medical evidence may include statements contained in authoritative writings, such as medical and scientific articles and research reports or analyses.
+
+round 23, index 25: 
+Service connection for PTSD requires medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a) (conforming with the American Psychiatric Association's Diagnostic and Statistical Manual of Mental Disorders, 4th edition (DSM-IV)); a link, established by medical evidence, between current symptoms and an in-service stressor; and credible supporting evidence that the claimed in-service stressor occurred.
+
+round 24, index 6: 
+The requested development was completed, and the remand orders were substantially complied with.
+
+round 25, index 26: 
+The Veteran contends that he suffers from PTSD as a result of multiple military stressors, including: assisting with post-mortem following a plane crash and having to sort through burnt and charred remains; attending to dying patients as a medic; witnessing the deaths of numerous patients while performing hospice work; getting into a fight with a fellow corpsman trainee (and suffering a swollen eye), then getting severely beaten up by guards at the brig after being arrested; assisting with post-mortem for a friend who died; and assisting in post-mortem body handling in the morgue.
+
+round 26, index 39: 
+F.K. expressed his belief that the Veteran suffers from severe and complex PTSD that is chronic and originated in the service.
+
+round 27, index 27: 
+The Veteran's DD 214 lists his military occupational specialty as an assistant medical laboratory technician, with education at the Naval Hospital Corps School.
+
+round 28, index 28: 
+He was not awarded any medals indicative of combat in service.
+
+round 29, index 37: 
+The Veteran's social worker (F.K.) testified that he thought the Veteran's experiences in the military had a direct correlation to his PTSD.
+
+round 30, index 38: 
+On the same date as the February 2009 hearing, F.K. submitted a written statement expressing that, after a thorough review of the Veteran's records and spending time clinically with the Veteran, he was of the opinion that the Veteran suffers from PTSD as a result of his service in the U.S. Navy.  F.K. opined that the Veteran's in-service traumas are legitimate stressor events that fueled his PTSD.
+
+round 31, index 0: 
+The Veteran served on active duty with the United States Navy from September 1977 to September 1981.
+
+round 32, index 1: 
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a
+
+round 33, index 2: 
+May 2005 rating decision by the Seattle, Washington, Regional Office (RO) of the United States Department of Veterans Affairs (VA).
+
+round 34, index 3: 
+In February 2009, the Veteran and his social worker (F.K.) testified at a Travel Board hearing before the undersigned Veterans Law Judge.  A transcript of this hearing is associated with the claims file.
+
+round 35, index 29: 
+The Veteran's service treatment records reveal no complaints, diagnosis, or treatment of PTSD.
+
+round 36, index 30: 
+In February 1978, he was treated for a right periorbital hematoma from trauma and was assessed as "fit for confinement."
+
+round 37, index 8: 
+As that decision represents a full grant of benefits sought with regard to that issue, it is no longer a part of the current appeal.
+
+round 38, index 9: 
+This appeal has been advanced on the Board's docket pursuant to 38 C.F.R. § 20.900(c) (2011).
+
+round 39, index 4: 
+At the hearing, the Veteran withdrew his claim of entitlement to an initial disability rating in excess of 0 percent for residuals of fifth metatarsal post surgical osteotomy of the left foot.
+
+round 40, index 7: 
+In an August 2011 rating decision, the Washington, DC Appeals Management Center (AMC) granted service connection for human immunodeficiency virus (HIV).
+
+round 41, index 36: 
+At his February 2009 hearing, the Veteran testified with regard to his military stressors.
+
+round 42, index 34: 
+A May 2007 VA mental health treatment record noted that the Veteran was first diagnosed with PTSD in 1999.
+
+round 43, index 35: 
+The VA staff psychiatrist who interviewed the Veteran at this May 2007 treatment session noted that the Veteran met the DSM-IV criteria for a diagnosis of PTSD, with the origin being military non-combat trauma as described by the Veteran.
+
+round 44, index 5: 
+In March 2009, the Board remanded this case for further evidentiary development.
+
+round 45, index 31: 
+The Veteran's service personnel records show that he was cited in February 1978 for unlawfully striking a classmate several times.
+
+round 46, index 33: 
+Post-service treatment records document the Veteran's treatment for PTSD, with symptoms such as nightmares of his in-service beating by the guards, nightmares of morgue/autopsy experiences, and intrusive memories and physical reactivity to trauma cues (such as burnt smells, forensic television shows involving autopsies, and assaults on television that reminded him of his beating in the brig).
+
+round 47, index 0: 
+The Veteran served on active duty with the United States Navy from September 1977 to September 1981.
+
+round 48, index 32: 
+He was again cited in March 1980 for participating in a breach of the peace by wrongfully engaging in a battery with a petty officer.
+
+round 49, index 0: 
+The Veteran served on active duty with the United States Navy from September 1977 to September 1981.
+
+round 50, index 0: 
+The Veteran served on active duty with the United States Navy from September 1977 to September 1981.
+
+round 51, index 0: 
+The Veteran served on active duty with the United States Navy from September 1977 to September 1981.
+
+round 52, index 0: 
+The Veteran served on active duty with the United States Navy from September 1977 to September 1981.
+
+round 53, index 0: 
+The Veteran served on active duty with the United States Navy from September 1977 to September 1981.
+
+round 54, index 0: 
+The Veteran served on active duty with the United States Navy from September 1977 to September 1981.
+
+round 55, index 0: 
+The Veteran served on active duty with the United States Navy from September 1977 to September 1981.
+
+round 56, index 0: 
+The Veteran served on active duty with the United States Navy from September 1977 to September 1981.
+
+round 57, index 0: 
+The Veteran served on active duty with the United States Navy from September 1977 to September 1981.
+
+round 58, index 0: 
+The Veteran served on active duty with the United States Navy from September 1977 to September 1981.
+
+round 59, index 0: 
+The Veteran served on active duty with the United States Navy from September 1977 to September 1981.
+

@@ -1,0 +1,180 @@
+round 0, index 119: 
+Service connection for PTSD is granted.
+
+round 1, index 114: 
+Under these circumstances, it is found that the veteran's PTSD had its onset as a result of service.
+
+round 2, index 117: 
+However, this decision represents a complete grant of the benefit sought.
+
+round 3, index 118: 
+The Board is satisfied that the veteran has not been prejudiced by this decision.
+
+round 4, index 116: 
+The RO has not reviewed this claim in conjunction with the new legislation.
+
+round 5, index 113: 
+The report demonstrates that the diagnosis of PTSD was based in part on the rocket attacks.
+
+round 6, index 112: 
+The February 1996 VA psychiatric examination revealed a diagnosis of PTSD.
+
+round 7, index 111: 
+The Board is satisfied that the veteran did come under enemy rocket attacks while a member of the 459th Signal Battalion.
+
+round 8, index 59: 
+He described stressors of a rocket attack near the Cambodian boarder, when "everybody was running around," finding weapons and firing, without knowing who they were firing at.
+
+round 9, index 60: 
+The next morning he stated that he remembered the smell of charred human flesh that he remembered vividly to this day.
+
+round 10, index 56: 
+He was depressed a lot, but this came and went.
+
+round 11, index 101: 
+If a condition noted during service is not shown to be chronic, then generally, a showing of continuity of symptoms after service is required for service connection.
+
+round 12, index 100: 
+In order to establish service connection for a claimed disability, the facts, as shown by the evidence, must demonstrate that a particular disease or injury resulting in current disability was incurred during active service or, if preexisting active service, was aggravated therein.
+
+round 13, index 62: 
+When asked about other stressors, he stated that there was just stress "of everyday."
+
+round 14, index 51: 
+probable mild to moderate symptoms of a PTSD complex, characterized primarily by decreased ability to handle or control anger and decreased frustration tolerance, particularly when under stress.
+
+round 15, index 61: 
+He began crying at this point.
+
+round 16, index 58: 
+He also stated that he went out to locate the enemy.
+
+round 17, index 115: 
+On November 9, 2000, the President signed into law the Veterans Claims Assistance Act of 2000, Pub. L. No. 106-475, 114 Stat. 2096 (2000).
+
+round 18, index 57: 
+Regarding his military duty, he stated that he was a radio courier attendant, but that he mostly did guard duty around the perimeter where he was serving.
+
+round 19, index 1: 
+This case comes to the Board of Veterans' Appeals (Board) on appeal of a March 1996 rating decision of the New Orleans, Louisiana, Regional Office (RO) of the Department of Veterans Affairs (VA).
+
+round 20, index 120: 
+ROBERT P. REGAN	Veterans Law Judge	Board of Veterans' Appeals
+
+round 21, index 70: 
+Loud noises, the sound of helicopters, smelling Vietnamese food triggered flashbacks.
+
+round 22, index 63: 
+He said that he began using drugs at this time to cope with the stress.
+
+round 23, index 64: 
+He stated that he stopped using drugs around 1970.
+
+round 24, index 72: 
+Judgment was considered poor at times, particularly when under stress.
+
+round 25, index 65: 
+On mental status evaluation, it was noted that the veteran was dressed in a military fashion, with back boots, and wore a Vietnam veteran's cap.
+
+round 26, index 71: 
+His recent and remote memory was good.
+
+round 27, index 0: 
+The veteran served on active duty from April 1969 to November 1970.
+
+round 28, index 66: 
+He cried rather profusely when talking about cursing God when he was in Vietnam.
+
+round 29, index 99: 
+In correspondence received from the veteran in July 2000, he related that he was, while assigned to the 459th Signal Battalion, involved in the rocket attack on the Ban Me Thuot bungalow in January 1970.
+
+round 30, index 69: 
+He occasionally saw things like something coming out of the bushes.
+
+round 31, index 44: 
+Affect was subdued, but showed a normal range of expression.
+
+round 32, index 45: 
+He was quite appropriate interpersonally and demonstrated good social skills.
+
+round 33, index 73: 
+He showed no evidence of a psychotic process.
+
+round 34, index 46: 
+Thought processes were logical and coherent, with no signs of looseness of association or delusional content.
+
+round 35, index 8: 
+He was assigned to HHC, BMT, 459th Sig Bn from December 2, 1969 to the end of February 1970 and to Co C, 459th Sig Bn from March November 1970.
+
+round 36, index 50: 
+The diagnoses were probable major depressive disorder, in remission (by history); probable previous alcohol abuse, in partial remission; probable ongoing adjustment disorder with dysthymic features;
+
+round 37, index 110: 
+The Board is also aware that the events in issue occurred more than 30 years ago.
+
+round 38, index 21: 
+This made him feel even more vulnerable.
+
+round 39, index 52: 
+A second psychiatric evaluation was conducted by VA in February 1996.
+
+round 40, index 43: 
+On mental status evaluation, he was alert, well-oriented and showed good insight into his present condition.
+
+round 41, index 68: 
+He admitted to being paranoid and he was asked about auditory or visual hallucinations and said that most of them were associated with Vietnam.
+
+round 42, index 103: 
+and credible supporting evidence that the claimed in-service stressor occurred.
+
+round 43, index 67: 
+He denied suicidal ideation, but admitted to homicidal ideation.
+
+round 44, index 54: 
+He felt that people at work and his friends were "after him."
+
+round 45, index 98: 
+It was also reported that the Ban Me Thuot Battalion Signal Site was destroyed by fire on December 19, 1969.
+
+round 46, index 77: 
+On that day, he had just arrived at Long
+
+round 47, index 55: 
+He stated that there had recently been some Oriental people hired who caused him to have flash backs of Vietnam when seeing them.
+
+round 48, index 42: 
+He did believe that he had been significantly changed by his Vietnam experiences in terms of his anger, aggression and decreased tolerance.
+
+round 49, index 47: 
+He denied auditory or visual hallucinations, either presently or in the past.
+
+round 50, index 49: 
+But it was noted that testing for combat exposure was generally consistent with a report of light to moderate exposure to combat.
+
+round 51, index 97: 
+The third was a rocket attack on the Ban Me Thuot bungalow on January 29, 1970.
+
+round 52, index 41: 
+He had no difficulty associating with Vietnamese nationals and denied any particular adverse psychological or physiological reaction when exposed to sights, sounds or other stimuli.
+
+round 53, index 7: 
+His military occupational specialty while he was stationed in Vietnam was as a radio operator with the 459th Signal Battalion.
+
+round 54, index 48: 
+Psychological testing was not found to be consistent with the veteran's clinical presentation.
+
+round 55, index 22: 
+He recalled that he was so scared that he lost bladder control and continued to "shake" for the next sixteen hours.
+
+round 56, index 102: 
+Service connection for post-traumatic stress disorder requires medical evidence diagnosing the condition in accordance with Sec. 4.125(a) of this chapter; a link, established by medical evidence, between current symptoms and an in-service stressor;
+
+round 57, index 19: 
+He stated that upon first arriving by aircraft at Long Bin on November 27, 1969, the airfield was under a rocket attack.
+
+round 58, index 104: 
+If the evidence establishes that the veteran engaged in combat with the enemy and the claimed stressor is related to that combat, in the absence of clear and convincing evidence to the contrary, and provided that the claimed stressor is consistent with the circumstances, conditions, or hardships of the veteran's service, the veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor.
+
+round 59, index 74: 
+alcohol abuse; polysubstance dependence, in remission; nicotine dependence, in remission; and major depression, recurrent, in partial remission.
+

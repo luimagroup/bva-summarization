@@ -1,0 +1,180 @@
+round 0, index 92: 
+Service connection for PTSD is denied.
+
+round 1, index 91: 
+however, as the preponderance of the evidence is against the Veteran's claim, the doctrine is not for application.
+
+round 2, index 90: 
+In reaching this decision, the Board considered the doctrine of reasonable doubt;
+
+round 3, index 64: 
+Thus, combat service is not established nor asserted with regard to the claimed stressors.
+
+round 4, index 93: 
+Veterans Law Judge, Board of Veterans' Appeals Department of Veterans Affairs
+
+round 5, index 12: 
+(2)
+
+round 6, index 13: 
+informed the claimant about the information and evidence that VA will seek to provide; and (3) informed the claimant about the information and evidence that the claimant is expected to provide.
+
+round 7, index 11: 
+In particular, the VCAA notification: (1) informed the claimant about the information and evidence not of record that is necessary to substantiate the claim;
+
+round 8, index 63: 
+Moreover, the Veteran does not contend that either stressor occurred during combat operations with the enemy.
+
+round 9, index 10: 
+The VCAA letter told the claimant to provide any relevant evidence in the claimant's possession.
+
+round 10, index 14: 
+In any event, the Board finds that any deficiency in the notice to the claimant or the timing of these notices is harmless error.
+
+round 11, index 15: 
+(finding that the Board erred by relying on various post-decisional documents to conclude that adequate 38 U.S.C.A. § 5103(a) notice had been provided to the claimant, the United States Court of Appeals for Veterans Claims (Court) found that the evidence established that the claimant was afforded a meaningful opportunity to participate in the adjudication of the claim, and found that the error was harmless, as the Board has done in this case.)
+
+round 12, index 18: 
+VA also fulfilled its duty to obtain all relevant evidence with respect to the issue on appeal.
+
+round 13, index 9: 
+The claimant was aware that it was ultimately the claimant's responsibility to give VA any evidence pertaining to the claim.
+
+round 14, index 8: 
+Thereafter, additional notification letters pertaining to this claim and to the verification of the claimed stressors were also sent to the claimant.
+
+round 15, index 62: 
+They do not show that he received any commendations or awards typically awarded primarily or exclusively for circumstances related to combat, such as the Combat Infantryman Badge, Purple Heart, or any other similar citation.
+
+round 16, index 16: 
+If any notice deficiency is present in this case, the Board finds that any prejudice due to such error has been overcome in this case by the following: (1) based on the communications sent to the claimant over the course of this appeal, the claimant clearly has actual knowledge of the evidence the claimant is required to submit in this case; and (2) based on the claimant's contentions as well as the communications provided to the claimant by VA, it is reasonable to expect that the claimant understands what was needed to prevail.
+
+round 17, index 17: 
+In order for the Court to be persuaded that no prejudice resulted from a notice error, "the record must demonstrate that, despite the error, the adjudication was nevertheless essentially fair."
+
+round 18, index 19: 
+The claimant's service treatment records, VA medical treatment records, and identified private medical records have been obtained, to the extent available, and satisfy 38 C.F.R. § 3.326.
+
+round 19, index 20: 
+The claimant's personnel records were also obtained.
+
+round 20, index 60: 
+Id.
+
+round 21, index 89: 
+Accordingly, service connection for PTSD must be denied.
+
+round 22, index 65: 
+Since the Veteran did not engage in combat with the enemy, his stressors cannot be related to combat.
+
+round 23, index 6: 
+With respect to the claimant's claim, VA has met all statutory and regulatory notice and duty to assist provisions.
+
+round 24, index 66: 
+Rather, the record must contain service records or other corroborative evidence that substantiates or verifies the Veteran's statements as to the occurrence of the claimed stressors.
+
+round 25, index 67: 
+As noted, in Doran, the Court stated that "the absence of corroboration in the service records, when there is nothing in the available records that is inconsistent with other evidence, does not relieve the Board of its obligations to assess the credibility and probative value of the other evidence."
+
+round 26, index 7: 
+Prior to the initial adjudication of the claimant's claim, a VCAA letter was sent to the claimant which fully satisfied the duty to notify provisions.
+
+round 27, index 68: 
+In the three previously noted cases, the Court cited a provision of the VA ADJUDICATION PROCEDURE MANUAL M21-1 (MANUAL 21-1), which has now been revised as to "Evidence of Stressors in Service" to read, in part, ...
+
+round 28, index 5: 
+Veterans Claims Assistance Act of 2000 (VCAA)
+
+round 29, index 69: 
+"[C]orroborating evidence of a stressor is not restricted to service records, but may be obtained from other sources."
+
+round 30, index 70: 
+Since the MANUAL 21-1 October 1995 revision, the Court has held that the requirement in 38 C.F.R. § 3.304(f) for "credible supporting evidence " means that the "appellant's testimony, by itself, cannot establish the occurrence of a noncombat stressor."
+
+round 31, index 0: 
+The Veteran had active military service from November 1965 to November 1967.
+
+round 32, index 1: 
+This case comes before the Board of Veterans' Appeals (Board) on appeal of a September 2006 rating action of the Department of Veterans' Affairs (VA) Regional Office (RO) in Waco, Texas.
+
+round 33, index 46: 
+It was reported that the helicopter crashed and seven soldiers were killed.
+
+round 34, index 61: 
+In this case, the Veteran's DD 214 and personnel records do not establish combat service.
+
+round 35, index 2: 
+In July 2007, the Board remanded this issue.
+
+round 36, index 4: 
+PTSD was not incurred in or aggravated by the veteran's active service.
+
+round 37, index 3: 
+The Veteran's PTSD diagnoses have not been attributed to a verified in-service stressor.
+
+round 38, index 81: 
+However, he stated that he has no further information.
+
+round 39, index 80: 
+The Veteran was notified that using the information he has provided, JSRRC searched pertinent data to verify the claimed stressors, but the results were negative and he could submit additional specific information, such as the names of the claimed casualties.
+
+round 40, index 45: 
+Specifically, the Veteran maintained that while on a training exercise, he witnessed two soldiers jumping from a smoking helicopter in mid air.
+
+round 41, index 82: 
+Without additional details, another search would be futile.
+
+round 42, index 29: 
+A final regulation will be published after consideration of all comments received on this proposed regulation.
+
+round 43, index 34: 
+Under McLendon, VA must provide a medical examination in a service connection claim when there is (1) competent evidence of a current disability or persistent or recurrent symptoms of a disability, and (2) evidence establishing that an event, injury, or disease occurred in service or establishing certain diseases manifesting during an applicable presumptive period for which the claimant qualifies, and (3) an indication that the disability or persistent or recurrent symptoms of a disability may be associated with the veteran's service or with another service-connected disability, but (4) insufficient competent medical evidence on file for the VA to make a decision on the claim.
+
+round 44, index 39: 
+Accordingly, the Board finds that no further action is necessary to meet the requirements of the VCAA or the Court.
+
+round 45, index 33: 
+In this case, the two claimed stressors do not relate to fear of hostile military or terrorist activity so the proposed regulation, if implemented, would not apply.
+
+round 46, index 41: 
+Service Connection for PTSDThe Veteran seeks service connection for PTSD.
+
+round 47, index 42: 
+Service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by service.
+
+round 48, index 32: 
+This new rule would simplify the development that is required for these cases.
+
+round 49, index 40: 
+Since the Board has concluded that the preponderance of the evidence is against the claim of service connection, any questions as to the appropriate disability rating or effective date to be assigned are rendered moot, and no further notice is needed.
+
+round 50, index 44: 
+The Veteran contends that he developed PTSD as a result of two stressors experienced during active service.
+
+round 51, index 43: 
+The regulation governing PTSD claims, 38 C.F.R. § 3.304(f), requires medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a); a link, established by medical evidence, between current symptoms and an in-service stressor; and credible supporting evidence that the claimed in-service stressor occurred.
+
+round 52, index 37: 
+however, as noted, the missing element to establish service connection is a stressor related to service.
+
+round 53, index 24: 
+There is no indication in the record that any additional evidence, relevant to the issue decided herein, is available and not part of the claims file.
+
+round 54, index 38: 
+In light of these findings, McLendon criteria have not been met.
+
+round 55, index 72: 
+The Board remanded this case to obtain additional more specific information from the Veteran.
+
+round 56, index 23: 
+The claimant has indicated that he has no additional information regarding the stressors.
+
+round 57, index 21: 
+The U.S. Army and Joint Services Records Research Center (JSRRC) (formerly U.S. Armed Services Center for Unit
+
+round 58, index 22: 
+Records Research (CURR)) was also contacted in an effort to verify the claimed stressors.
+
+round 59, index 73: 
+This information has been repeatedly requested.
+

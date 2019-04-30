@@ -1,0 +1,407 @@
+Citation Nr: 0938677	
+Decision Date: 10/09/09    Archive Date: 10/22/09
+
+DOCKET NO.  04-06 392	)	DATE
+	)
+	)
+
+On appeal from the
+Department of Veterans Affairs Regional Office in Waco, Texas
+
+
+
+THE ISSUE
+
+Entitlement to service connection for post-traumatic stress 
+disorder (PTSD).  
+
+
+
+REPRESENTATION
+
+Appellant represented by:	Disabled American Veterans
+
+
+
+ATTORNEY FOR THE BOARD
+
+J. Connolly, Counsel
+
+
+
+
+INTRODUCTION
+
+The Veteran had active military service from November 1965 to 
+November 1967.
+
+This case comes before the Board of Veterans' Appeals (Board) 
+on appeal of a September 2006 rating action of the Department 
+of Veterans' Affairs (VA) Regional Office (RO) in Waco, 
+Texas.  In July 2007, the Board remanded this issue.  
+
+
+FINDING OF FACT
+
+The Veteran's PTSD diagnoses have not been attributed to a 
+verified in-service stressor.
+
+
+CONCLUSION OF LAW
+
+PTSD was not incurred in or aggravated by the veteran's 
+active service.  38 U.S.C.A. § 1110 (West 2002 & Supp. 2009); 
+38 C.F.R. § 3.304(f)) (2008).
+
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+Veterans Claims Assistance Act of 2000 (VCAA)
+
+With respect to the claimant's claim, VA has met all 
+statutory and regulatory notice and duty to assist 
+provisions.  See 38 U.S.C.A. §§ 5100, 5102, 5103, 5103A, 
+5106, 5107, 5126; 38 C.F.R. §§ 3.102, 3.156(a), 3.159, 3.326. 
+
+Prior to the initial adjudication of the claimant's claim, a 
+VCAA letter was sent to the claimant which fully satisfied 
+the duty to notify provisions.  38 U.S.C.A. § 5103(a); 
+38 C.F.R. § 3.159(b)(1); Quartuccio v. Principi, 16 Vet. App. 
+183, 187 (2002).  Thereafter, additional notification letters 
+pertaining to this claim and to the verification of the 
+claimed stressors were also sent to the claimant.  The 
+claimant was aware that it was ultimately the claimant's 
+responsibility to give VA any evidence pertaining to the 
+claim.  The VCAA letter told the claimant to provide any 
+relevant evidence in the claimant's possession.  See 
+Pelegrini v. Principi, 18 Vet. App. 112, 120-21 (2004) 
+(Pelegrini II).  ).  In particular, the VCAA notification: 
+(1) informed the claimant about the information and evidence 
+not of record that is necessary to substantiate the claim; 
+(2) informed the claimant about the information and evidence 
+that VA will seek to provide; and (3) informed the claimant 
+about the information and evidence that the claimant is 
+expected to provide.  
+
+In any event, the Board finds that any deficiency in the 
+notice to the claimant or the timing of these notices is 
+harmless error.  See Overton v. Nicholson, 20 Vet. App. 427, 
+435 (2006) (finding that the Board erred by relying on 
+various post-decisional documents to conclude that adequate 
+38 U.S.C.A. § 5103(a) notice had been provided to the 
+claimant, the United States Court of Appeals for Veterans 
+Claims (Court) found that the evidence established that the 
+claimant was afforded a meaningful opportunity to participate 
+in the adjudication of the claim, and found that the error 
+was harmless, as the Board has done in this case.)  
+
+If any notice deficiency is present in this case, the Board 
+finds that any prejudice due to such error has been overcome 
+in this case by the following: (1) based on the 
+communications sent to the claimant over the course of this 
+appeal, the claimant clearly has actual knowledge of the 
+evidence the claimant is required to submit in this case; and 
+(2) based on the claimant's contentions as well as the 
+communications provided to the claimant by VA, it is 
+reasonable to expect that the claimant understands what was 
+needed to prevail.  See Shinseki v. Sanders/Simmons, 129 
+S.Ct. 1696 (2009); Fenstermacher v. Phila. Nat'l Bank, 493 
+F.2d 333, 337 (3d Cir. 1974) ("[N]o error can be predicated 
+on insufficiency of notice since its purpose had been 
+served.").  In order for the Court to be persuaded that no 
+prejudice resulted from a notice error, "the record must 
+demonstrate that, despite the error, the adjudication was 
+nevertheless essentially fair."  Dunlap v. Nicholson, 21 Vet. 
+App. 112, 118 (2007).
+
+VA also fulfilled its duty to obtain all relevant evidence 
+with respect to the issue on appeal.  38 U.S.C.A. § 5103A; 
+38 C.F.R. § 3.159.  The claimant's service treatment records, 
+VA medical treatment records, and identified private medical 
+records have been obtained, to the extent available, and 
+satisfy 38 C.F.R. § 3.326.  38 U.S.C.A. § 5103A; 38 C.F.R. 
+§ 3.159.  The claimant's personnel records were also 
+obtained.  The U.S. Army and Joint Services Records Research 
+Center (JSRRC) (formerly U.S. Armed Services Center for Unit 
+Records Research (CURR)) was also contacted in an effort to 
+verify the claimed stressors.  The claimant has indicated 
+that he has no additional information regarding the 
+stressors.  There is no indication in the record that any 
+additional evidence, relevant to the issue decided herein, is 
+available and not part of the claims file.  The claimant was 
+not afforded a VA examination, but VA outpatient medical 
+records reflect a diagnosis of PTSD based on claimed 
+stressors.  At issue in this case, rather, it whether there 
+is a verified inservice stressor upon which the diagnosis may 
+be based.  This information cannot be gleaned from a VA 
+examination. 
+ 
+The Board recognizes that VA has recently taken steps to 
+assist Veterans seeking compensation for Post-Traumatic 
+Stress Disorder (PTSD).  VA has published a proposed 
+regulation in the Federal Register to make it easier for a 
+Veteran to claim service connection for PTSD by reducing the 
+evidence needed if the stressor claimed by a Veteran is 
+related to fear of hostile military or terrorist activity.  A 
+final regulation will be published after consideration of all 
+comments received on this proposed regulation.  Under the new 
+rule, VA would not require corroboration of a stressor 
+related to fear of hostile military or terrorist activity if 
+a VA psychiatrist or psychologist confirms that the stressful 
+experience recalled by a Veteran adequately supports a 
+diagnosis of PTSD and the Veteran's symptoms are related to 
+the claimed stressor.  Currently, as noted below, a PTSD 
+claim requires corroboration that a non-combat Veteran 
+actually experienced a stressor related to hostile military 
+activity.  This new rule would simplify the development that 
+is required for these cases.  In this case, the two claimed 
+stressors do not relate to fear of hostile military or 
+terrorist activity so the proposed regulation, if 
+implemented, would not apply.  
+
+Thus, the Board also finds that a VA examination is not 
+necessary to determine whether his PTSD is related to his 
+period of honorable service, as the standards of the recent 
+decision of the Court in McLendon v. Nicholson, 20 Vet. App. 
+79 (2006), have not been met.  Under McLendon, VA must 
+provide a medical examination in a service connection claim 
+when there is (1) competent evidence of a current disability 
+or persistent or recurrent symptoms of a disability, and (2) 
+evidence establishing that an event, injury, or disease 
+occurred in service or establishing certain diseases 
+manifesting during an applicable presumptive period for which 
+the claimant qualifies, and (3) an indication that the 
+disability or persistent or recurrent symptoms of a 
+disability may be associated with the veteran's service or 
+with another service-connected disability, but (4) 
+insufficient competent medical evidence on file for the VA to 
+make a decision on the claim.  Id at 81. 
+
+In this case, PTSD was not treated or diagnosed during 
+service.  Service connection is sought on the basis of PTSD 
+having a delayed onset; however, as noted, the missing 
+element to establish service connection is a stressor related 
+to service.  In light of these findings, McLendon criteria 
+have not been met.  Accordingly, the Board finds that no 
+further action is necessary to meet the requirements of the 
+VCAA or the Court.
+
+Since the Board has concluded that the preponderance of the 
+evidence is against the claim of service connection, any 
+questions as to the appropriate disability rating or 
+effective date to be assigned are rendered moot, and no 
+further notice is needed.  See Dingess/Hartman v. Nicholson, 
+19 Vet. App. 473 (2006).
+
+In summary, the Board finds that "it is difficult to discern 
+what additional guidance VA could have provided to the 
+veteran regarding what further evidence he should submit to 
+substantiate his claim."  Conway v. Principi, 353 F.3d 1369 
+(Fed. Cir. 2004); see also Livesay v. Principi, 15 Vet. App. 
+165, 178 (2001) (en banc) (observing that "the VCAA is a 
+reason to remand many, many claims, but it is not an excuse 
+to remand all claims."); Reyes v. Brown, 7 Vet. App. 113, 
+116 (1994); Soyini v. Derwinski, 1 Vet. App. 540, 546 (1991) 
+(both observing circumstances as to when a remand would not 
+result in any significant benefit to the claimant).
+
+
+Service Connection for PTSD
+
+The Veteran seeks service connection for PTSD.  Service 
+connection may be granted for a disability resulting from 
+disease or injury incurred in or aggravated by service.  38 
+U.S.C.A. §§ 1110.  The regulation governing PTSD claims, 38 
+C.F.R. § 3.304(f), requires medical evidence diagnosing the 
+condition in accordance with 38 C.F.R. § 4.125(a); a link, 
+established by medical evidence, between current symptoms and 
+an in-service stressor; and credible supporting evidence that 
+the claimed in-service stressor occurred.  
+
+The Veteran contends that he developed PTSD as a result of 
+two stressors experienced during active service.  
+Specifically, the Veteran maintained that while on a training 
+exercise, he witnessed two soldiers jumping from a smoking 
+helicopter in mid air.  It was reported that the helicopter 
+crashed and seven soldiers were killed.  In addition, he 
+contends that a soldier was killed on the firing range.  
+
+VA medical evidence dated after the Veteran was discharged 
+from service satisfies the first and second elements of a 
+PTSD claim under the criteria of 38 C.F.R. § 3.304(f), 
+because it shows that the Veteran has been diagnosed on 
+multiple occasions from December 2004 onward as having PTSD 
+as a result of a stressful incident he reportedly experienced 
+during service (the helicopter incident).  Having submitted a 
+diagnosis of PTSD and medical evidence linking PTSD to 
+claimed in-service stressors, the Board must now determine 
+whether the record contains credible supporting evidence that 
+any of the claimed in-service stressors occurred.
+
+The evidence necessary to establish the occurrence of a 
+recognizable stressor during service to support a diagnosis 
+of PTSD will vary depending upon whether the veteran engaged 
+in "combat with the enemy."  See 38 U.S.C.A. § 1154(b); 38 
+C.F.R. § 3.304(f); Zarycki v. Brown, 6 Vet. App. 91, 98 
+(1993).  Participation in combat, a determination that is to 
+be made on a case by case basis, requires that the veteran 
+have personally participated in events constituting an actual 
+fight or encounter with a military foe or hostile unit or 
+instrumentality.  See VAOPGCPREC 12-99 (October 18, 1999).  
+In determining whether the veteran participated in combat, 
+the veteran's oral and written testimony will be weighed 
+together with the other evidence of record.  Cohen v. Brown, 
+10 Vet. App. 128, 146 (1997).
+
+If VA determines a veteran engaged in combat with the enemy 
+and his alleged stressor is combat-related, then his lay 
+testimony or statement is accepted as conclusive evidence of 
+the stressor's occurrence and no further development or 
+corroborative evidence is required - provided that such 
+testimony is found to be "satisfactory," i.e., credible and 
+"consistent with circumstances, conditions or hardships of 
+service."  See 38 U.S.C.A. § 1154(b); 38 C.F.R. § 3.304(f); 
+Zarycki, 6 Vet. App. at 98.  If, however, VA determines 
+either that a veteran did not engage in combat with the enemy 
+or that he did engage in combat, but that the alleged 
+stressor is not combat related, then his lay testimony, in 
+and of itself, is not sufficient to establish the occurrence 
+of the alleged stressor.  Instead, the record must contain 
+evidence that corroborate his testimony or statements.  See 
+Zarycki, 6 Vet. App. at 98.
+
+Where a determination is made that a veteran did not "engage 
+in combat with the enemy," or that the claimed stressor is 
+not related to combat, the veteran's lay testimony alone will 
+not be enough to establish the occurrence of the alleged 
+stressor.  In such cases, the record must contain service 
+records or other corroborative evidence which substantiates 
+or verifies a veteran's testimony or statements as to the 
+occurrence of the claimed stressor.  See West (Carlton) v. 
+Brown, 7 Vet. App. 70, 76 (1994); Zarycki, 6 Vet. App. at 98 
+(1993).  In Doran v. Brown, 6 Vet. App. 283, 290-91 (1994), 
+the Court stated that "the absence of corroboration in the 
+service records, when there is nothing in the available 
+records that is inconsistent with other evidence, does not 
+relieve the Board of its obligations to assess the 
+credibility and probative value of the other evidence."
+
+As noted, in a precedent opinion, VA's General Counsel held 
+that the ordinary meaning of the phrase "engaged in combat 
+with the enemy," as used in 38 U.S.C.A. § 1154(b), requires 
+that a veteran "have participated in events constituting an 
+actual fight or encounter with a military foe or hostile unit 
+or instrumentality."  VAOPGCPREC 12-99.  The General Counsel 
+also indicated that the determination of whether a veteran 
+engaged in combat with the enemy necessarily must be made on 
+a case-by-case basis, and that absence from a veteran's 
+service records of any ordinary indicators of combat service 
+may, in appropriate cases, support a reasonable inference 
+that the veteran did not engage in combat; such absence may 
+properly be considered "negative evidence" even though it 
+does not affirmatively show that the veteran did not engage 
+in combat.  Id.
+
+In this case, the Veteran's DD 214 and personnel records do 
+not establish combat service.  They do not show that he 
+received any commendations or awards typically awarded 
+primarily or exclusively for circumstances related to combat, 
+such as the Combat Infantryman Badge, Purple Heart, or any 
+other similar citation.  See id.  Moreover, the Veteran does 
+not contend that either stressor occurred during combat 
+operations with the enemy.  Thus, combat service is not 
+established nor asserted with regard to the claimed 
+stressors.  
+
+Since the Veteran did not engage in combat with the enemy, 
+his stressors cannot be related to combat.  Rather, the 
+record must contain service records or other corroborative 
+evidence that substantiates or verifies the Veteran's 
+statements as to the occurrence of the claimed stressors.
+
+As noted, in Doran, the Court stated that "the absence of 
+corroboration in the service records, when there is nothing 
+in the available records that is inconsistent with other 
+evidence, does not relieve the Board of its obligations to 
+assess the credibility and probative value of the other 
+evidence."  In the three previously noted cases, the Court 
+cited a provision of the VA ADJUDICATION PROCEDURE MANUAL 
+M21-1 (MANUAL 21-1), which has now been revised as to 
+"Evidence of Stressors in Service" to read, in part, ... 
+"[C]orroborating evidence of a stressor is not restricted to 
+service records, but may be obtained from other sources."  
+Since the MANUAL 21-1 October 1995 revision, the Court has 
+held that the requirement in 38 C.F.R. § 3.304(f) for 
+"credible supporting evidence " means that the "appellant's 
+testimony, by itself, cannot establish the occurrence of a 
+noncombat stressor."  See Moreau v. Brown, 9 Vet. App. 389, 
+395 (1996); Dizoglio v. Brown, 9 Vet. App. 163, 166 (1996).
+
+In August 2006, the RO made a formal findings that there was 
+a lack of information to verify the Veteran's stressors.  The 
+Board remanded this case to obtain additional more specific 
+information from the Veteran.  This information has been 
+repeatedly requested.  The Veteran furnished information 
+regarding the time frame of the claimed stressors; however, 
+he did not provide the names of any inservice casualties, as 
+requested, and he has stated that he does not know any of the 
+names.  The stressor information was sent to JSRRC which 
+furnished a response.  With regard to the helicopter 
+incident, JSRRC searched the United States Army and Air Force 
+aircraft accident/incident reports for February 1966 (claimed 
+date of occurrence), but the search was negative.  In 
+addition, JSRRC searched the United States Military Casualty 
+Reports, but there was no documentation of the claimed 
+incident.  With regard to the firing range incident, JSRRC 
+searched the United States Military Casualty Reports, but 
+there was no documentation of any incident where a soldier 
+was shot on the firing range at For Hood, Texas, in December 
+1965, as claimed by the Veteran.  
+
+In this case, there is no verified stressor to serve as a 
+basis for granting the Veteran's PTSD claim.  The Veteran was 
+notified that using the information he has provided, JSRRC 
+searched pertinent data to verify the claimed stressors, but 
+the results were negative and he could submit additional 
+specific information, such as the names of the claimed 
+casualties.  However, he stated that he has no further 
+information.  Without additional details, another search 
+would be futile.  See Wood v. Derwinski, 1 Vet. App. 190, 193 
+(1991) (holding that it is not an impossible or onerous task 
+for appellants who claim entitlement to service connection 
+for PTSD to supply the names, dates and places of events 
+claimed to support a PTSD stressor).
+
+The Veteran has not submitted evidence showing that he 
+engaged in combat and he claims that the stressors were not 
+related to enemy activity.  JSRRC determined that the events 
+as presented by him were not corroborated.  Thus, his PTSD 
+diagnoses have not been attributed to a verified in-service 
+stressor.  As such, the Board finds that the preponderance of 
+the evidence is against the Veteran's claim for entitlement 
+to service connection for PTSD.  The Veteran's statements 
+regarding the two claimed stressful events and a statement 
+from his wife that he has PTSD are insufficient to establish 
+the occurrence of the claimed stressors in this case.  
+
+Accordingly, service connection for PTSD must be denied.  In 
+reaching this decision, the Board considered the doctrine of 
+reasonable doubt; however, as the preponderance of the 
+evidence is against the Veteran's claim, the doctrine is not 
+for application.
+
+
+ORDER
+
+Service connection for PTSD is denied.
+
+
+
+____________________________________________
+P.M. DILORENZO
+Veterans Law Judge, Board of Veterans' Appeals
+
+
+ Department of Veterans Affairs
+
+

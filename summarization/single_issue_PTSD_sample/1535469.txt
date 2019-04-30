@@ -1,0 +1,121 @@
+Citation Nr: 1535469	
+Decision Date: 08/19/15    Archive Date: 08/31/15
+
+DOCKET NO.  13-21 173	)	DATE
+	)
+	)
+
+On appeal from the
+Department of Veterans Affairs Regional Office in Columbia, South Carolina
+
+
+THE ISSUE
+
+Entitlement to service connection for an acquired psychiatric disability, to include posttraumatic stress disorder (PTSD), depression, and anxiety. 
+
+
+REPRESENTATION
+
+Appellant represented by:	Veterans of Foreign Wars of the United States
+
+
+WITNESSES AT HEARING ON APPEAL
+
+The Veteran and his wife
+
+
+ATTORNEY FOR THE BOARD
+
+R.N. Poulson, Counsel
+
+INTRODUCTION
+
+The Veteran served on active duty from August 1980 to August 1983.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a September 2011 decision by the Department of Veterans Affairs (VA) Regional Office (RO) in Columbia, South Carolina.  The issue has been recharacterized given the nature of the Veteran's claim and the medical evidence of record.  See Clemons v. Shinseki, 23 Vet. App. 1 (2009).
+ 
+In October 2014, the Veteran and his wife testified at a video conference hearing before the undersigned Acting Veterans Law Judge.  A transcript of the hearing is associated with the claims file, which reflects that the Board would keep the record open for a period of 30 days for the submission of additional evidence.  See Hearing Transcript at 13.  No additional evidence has been received.
+
+The AOJ issued a Statement of the Case (SOC) in May 2013.  Records from the Social Security Administration (SSA) were subsequently added to the claims file. There is no waiver for these records; however, this evidence is not relevant to the issue on appeal, as the Veteran sought SSA disability benefits for disabilities other than a psychiatric disability.  Thus, a remand for the issuance of a Supplemental Statement of the Case (SSOC) is not necessary. 
+
+
+FINDINGS OF FACT
+
+1. The evidence of record reflects that the Veteran does not have a current PTSD diagnosis.
+
+2.  An acquired psychiatric disability, to include depression and anxiety, did not have its clinical onset in service and is not otherwise related to active duty; a psychosis was not exhibited within the first post service year.
+
+
+
+CONCLUSION OF LAW
+
+A psychiatric disability, to include PTSD, depression, and anxiety, was not incurred in or aggravated by the Veteran's active service, and a psychosis may not be presumed to have been incurred therein.  38 U.S.C.A. §§ 1110, 5103, 5013A, 5107 (West 2014); 38 C.F.R. §§ 3.102, 3.159, 3.303, 3.304, 3.307, 3.309 (2014).
+
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSION
+
+I.  The Veterans Claims Assistance Act of 2000 (VCAA)
+
+VA has a duty to provide notice to the Veteran with respect to establishing entitlement to benefits, and a duty to assist with development of evidence under 38 U.S.C.A. §§ 5103, 5103A (West 2014); 38 C.F.R. § 3.159(b) (2014).  
+
+By way of a July 2011 pre-adjudication letter, VA notified the Veteran of the information and evidence need to substantiate his service connection claim.  This letter requested specific information about the reported stressor.  This letter also notified the Veteran of the criteria for assigning a disability rating and an effective date.  See Dingess/Hartman v. Nicholson, 19 Vet. App. 473 (2006).  Accordingly, the Board finds that VA satisfied its duty to notify.  
+
+Moreover, the Board finds that VA has complied with its duty to assist the Veteran in the development of his claim.  The evidence of record includes service treatment records (STRs), service personnel records, VA treatment records, private treatment records, Social Security Administration (SSA) records, lay statements, and testimony.  Additionally, the RO contacted the U.S. Army and Joint Service Records Research Center (JSRRC) and the U.S. Army Crime Records Center in an attempt to corroborate the alleged in-service stressor.  Negative replies were received from both agencies.  The RO subsequently made a formal finding of lack of information to corroborate the alleged stressor.  The Veteran has been notified of these negative responses.  See May 2013 SOC.
+
+No examination was conducted in connection with the Veteran's claim.  However, as explained herein, there is no competent evidence of PTSD and no evidence of psychological complaints during service.  Nor is there an indication that any currently diagnosed psychiatric disability is etiologically related to service.  Hence, a remand for an opinion is not necessary to decide this claim.  See 38 U.S.C.A. 
+§ 5103A(d)(2); 38 C.F.R. § 3.159(c)(4); see also Waters v. Shinseki, 601 F.3d 1274 (Fed. Cir. 2010).
+
+Finally, neither the Veteran nor his representative assert that VA failed to comply with 38 C.F.R. § 3.103(c)(2) or identified any prejudice in the conduct of the October 2014 hearing.  The Board thus finds that he is not prejudiced and the Board can adjudicate the claim.  See Bryant v. Shinseki, 23 Vet. App. 488 (2010).
+ 
+II.  Analysis
+
+Service connection means that the facts, shown by evidence, establish that a particular injury or disease resulting in disability was incurred in the line of duty in the active military service or, if pre-existing such service, was aggravated during service.  38 U.S.C.A. § 1110 (West 2014); 38 C.F.R. §§ 3.303, 3.304 (2014).
+
+In order to prevail on the issue of service connection for any particular disability, there must be evidence of a current disability; evidence of in-service occurrence or aggravation of a disease or injury; and medical evidence, or in certain circumstances, lay evidence, of a nexus between an in-service injury or disease and the current disability.  See Hickson v. West, 12 Vet. App. 247, 253 (1999); see also Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004); Davidson v. Shinseki, 581 F.3d 1313, 1316 (Fed. Cir. 2009); Jandreau v. Nicholson, 492 F.3d 1372, 1377 (Fed. Cir. 2007) (holding that "[w]hether lay evidence is competent and sufficient in a particular case is a factual issue to be addressed by the Board").
+
+Service connection for certain chronic diseases, such as psychosis, may also be established based upon a legal "presumption" by showing that it manifested itself to a degree of 10 percent or more within one year from the date of separation from service.  38 U.S.C.A. § 1112 (West 2014); 38 C.F.R. §§ 3.307, 3.309 (2014).  The option of establishing service connection through a demonstration of continuity of symptomatology rather than through a finding of nexus is specifically limited to the chronic disabilities listed in 38 C.F.R. § 3.309(a).  See Walker v. Shinseki, 708 F.3d 1331 (Fed. Cir. 2013) (rejecting the argument that continuity of symptomatology in § 3.303(b) has any role other than to afford an alternative route to service connection for specific chronic diseases).  In addition, service connection may be granted for any disease diagnosed after service when all the evidence establishes that the disease was incurred in service.  38 C.F.R. § 3.303(d) (2014).
+
+Service connection for PTSD requires medical evidence establishing a diagnosis of the disorder, credible supporting evidence that the claimed in-service stressor(s) actually occurred, and a link, established by medical evidence, between current symptomatology and the claimed in-service stressor.  38 C.F.R. § 3.304(f).
+
+The Veteran, in written statements and testimony before the Board, attributes his current mental health problems to witnessing the aftermath of a motor vehicle accident during service.  Specifically, he claims that he saw the decapitated body of his friend.  The Veteran maintains that he developed permanent psychiatric trauma as a result of that in-service stressor.  
+
+A review of the Veteran's STRs fails to show any treatment for, or diagnosis of, any psychiatric complaints.  An April 1980 enlistment examination contains a normal psychiatric evaluation.  The Veteran reported that he had no history of depression, excessive worry, or nervous trouble of any sort.  He elected not to have a separation examination.  See August 1983 STR.
+
+Post-service private and VA medical records show that the Veteran suffered a stroke in July 2010.  Shortly thereafter, he began seeking ongoing outpatient treatment for mental health problems.  His symptoms have been alternately diagnosed as depression and anxiety.  
+
+After a careful review of the pertinent evidence of record, the Board finds that service connection is not warranted for PTSD or any other acquired psychiatric disability.
+With regard to the Veteran's claim that he has PTSD, at no time during the appeal period has PTSD been diagnosed.  The Board acknowledges a positive PTSD screen in November 2011.  However, the fact that the Veteran had a positive PTSD screen does not constitute evidence of a competent diagnosis of PTSD.  Notably, a July 2012 VA mental health record indicates that the Veteran asked for a PTSD test, explaining that "he was told by a lawyer he would need a diagnosis of PTSD on his chart in order to receive [service connection] compensation."  Service connection cannot be granted in the absence of a current disability.  Brammer v. Derwinski, 3 Vet. App. 223, 225 (1992). 
+
+The Board also finds that the competent evidence does not show a relationship between the Veteran's service and his currently diagnosed depression and anxiety.  As an initial matter, the Board finds that the Veteran's statements with respect to the alleged stressor are not credible.  See Madden v. Gober, 123 F.3d 1477, 1481 (Fed. Cir. 1997) (the Board is entitled to discount the weight, credibility, and probity of evidence in light of its own inherent characteristics and its relationship to other items of evidence); see also Cartright v. Derwinski, 2 Vet. App. 24, 25 (1991) (VA cannot ignore a veteran's testimony simply because the veteran is an interested party; personal interest may, however, affect the credibility of the evidence).  He has provided inconsistent accounts regarding whether he actually witnessed the aftermath of the accident.  A September 2011 VA mental health record shows that the Veteran reported that a friend of his was killed (decapitated) in a motor vehicle accident.  The clinician wrote: "He did not see this, but heard about it from friends."  Similarly, a July 2012 VA mental health note indicates that the Veteran reported the decapitation of his friend due to an accident during service.  The clinician wrote: "In the past he has admitted he was not present when this happened, but heard about it from friends."  
+
+However, in a September 2012 stressor statement, the Veteran wrote: "[I]t was raining and we told him not to go off post but he decided to go and lost control of the vehicle and had an accident. When we got to the scene, I saw him still in the seatbelt, blood still gushing from his neck, and his head was in the back window."  During the October 2014 hearing, the Veteran provided a similar description of the alleged stressor:
+
+[W]e had guard duty and it was raining.  And I told him, we had [sic] another friend told him, wait till -- wait till the next day before you go, because he was going downtown because he had a girl friend, and he never made it.  He hit a tree.  Cut his head off.  When we finally went to the scene of the accident, the whole head was severed from his neck.  His head was in the back windshield and he was still in the driver's seat.  I could see a lot of blood shooting out his neck.
+
+Hearing Transcript at 6.  
+
+The Board acknowledges the Veteran's contention that "everything started coming back again" after his stroke in 2010.  See Hearing Transcript at 8.  The inconsistencies of the Veteran's statements are understandable given the memory impairment that resulted from his stroke, but they undermine his credibility nonetheless.  Therefore, the Board assigns no probative value to the Veteran's claim that he witnessed the decapitated body of his friend.
+
+The evidence also does not show that the onset of any current psychiatric disorder occurred during service.  There is no indication of psychiatric treatment or intervention during the Veteran's active service or for the years immediately following service.  Indeed, the earliest showing of psychiatric complaints is in 2010, which is more than 25 years following service discharge.  The Court has indicated that normal medical findings at the time of separation from service, as well as the absence of any medical records of a diagnosis or treatment for many years after service is probative evidence against the claim.  See Maxson v. West, 12 Vet. App. 453, 459 (1999), aff'd sub nom. Maxson v. Gober, 230 F.3d 1330, 1333 (Fed. Cir. 2000).  Thus, the lack of any evidence of psychiatric complaints, symptoms, or findings until nearly three decades after service is itself evidence which tends to show that no psychiatric disorder had its onset during service.  Moreover, mental health professionals have attributed the currently diagnosed depression and anxiety to the Veteran's declining physical health.  See November 2010 VA Treatment Record (finding that some of the Veteran's psychiatric complaints were due to his stroke) and August 2011 Treatment Record (diagnosing depression and anxiety and finding that the Veteran was having difficulty coping with his physical problems).
+
+Finally, the competent evidence of record does not show that psychosis was diagnosed within one year of separation.  Thus, presumptive service connection for an acquired psychiatric disorder is not warranted.  See 38 C.F.R. §§ 3.307, 3.309.
+
+The Board is mindful that the Veteran asserts that he has experienced chronic psychiatric problems as a result of his service.  The Veteran and his wife are competent to testify as to the presence of post-service mental health symptoms, which are capable of lay observation.  See Barr v. Nicholson, 21 Vet. App. 303 (Fed. Cir. 2007).  However, as a lay person, they have not been shown to have the clinical expertise to opine as to medical etiology or to render a medical opinion.  Accordingly, their assertions as to medical causation and etiology, absent corroboration by objective medical evidence and opinions, lack sufficient probative value to establish a nexus between his current psychiatric problems and his time in service.  See Washington v. Nicholson, 19 Vet. App. 362, 368 (2005); see also Davidson v. Shinseki, 581 F.3d 1313 (Fed. Cir. 2009); Jandreau v. Nicholson, 492 F.3d 1372 (Fed. Cir. 2007).
+
+The preponderance of the evidence is against the claim for service connection for an acquired psychiatric disability, to include PTSD, depression, and anxiety, and the claim is denied.  See 38 U.S.C.A. § 5107(b) (West 2014); Gilbert v. Derwinski, 1 Vet. App. 49 (1990).
+
+
+
+ORDER
+
+Entitlement to service connection for an acquired psychiatric disability, to include PTSD, depression, and anxiety, is denied. 
+
+
+
+____________________________________________
+Alexandra P. Simpson
+Acting Veterans Law Judge, Board of Veterans' Appeals
+
+Department of Veterans Affairs
+
+

@@ -1,0 +1,280 @@
+#Procedure#
+Citation Nr: 1524687
+
+#Procedure#
+Decision Date: 06/09/15    Archive Date: 06/19/15
+
+#Procedure#
+DOCKET NO.  05-35 699A
+
+#Header#
+DATE
+
+#Procedure#
+On appeal from the
+Department of Veterans Affairs Regional Office in Montgomery, Alabama
+
+#Header#
+THE ISSUE
+
+#Procedure#
+Entitlement to service connection for an acquired psychiatric disorder to include schizophrenia.
+
+#Header#
+REPRESENTATION
+
+#Procedure#
+Appellant represented by:	John F. Cameron, Attorney
+
+#Header#
+ATTORNEY FOR THE BOARD
+
+#Procedure#
+E. Joyner, Counsel
+
+#Header#
+INTRODUCTION
+
+#Evidence#
+The Veteran served on active duty from January 1985 to January 1988 and from May 1989 to May 1993.  He also had additional service in the Army National Guard.
+
+#Procedure#
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a June 2004 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO) in Montgomery, Alabama.  
+
+#Procedure#
+When the case was previously before the Board in August 2009, June 2010, and September 2011 it was remanded for additional development.
+
+#Header#
+FINDING OF FACT
+
+#EvidenceBasedFinding#
+It is at least as likely as not that the Veteran's schizophrenia had its onset within one year of the Veteran's May 1993 discharge from service.
+
+#Header#
+CONCLUSION OF LAW
+
+#ConclusionOfLaw#
+In giving the Veteran the benefit of the doubt, schizophrenia was incurred in active service.
+
+#Citation#
+38 U.S.C.A. §§ 1101, 1110, 1112, 5103, 5103A, 5107 (West 2014); 38 C.F.R. §§ 3.102, 3.159, 3.303, 3.307, 3.309 (2014).
+
+#Header#
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+#Header#
+Duties to Notify and Assist
+
+#ConclusionOfLaw#
+In this decision, the Board grants entitlement to service connection for schizophrenia, which constitutes a complete grant of the Veteran's claim.
+
+#ConclusionOfLaw#
+Therefore, no discussion of VA's duty to notify or assist is necessary.
+
+#Header#
+Legal Analysis
+
+#LegalRule#
+Service connection may be established for disability resulting from personal injury suffered or disease contracted in line of duty in the active military, naval, or air service.
+
+#Citation#
+38 U.S.C.A. §§ 1110, 1131.
+
+#LegalRule#
+That an injury or disease occurred in service is not enough; there must be chronic disability resulting from that injury or disease.
+
+#LegalRule#
+If there is no showing of a resulting chronic condition during service, then a showing of continuity of symptomatology after service is required to support a finding of chronicity.
+
+#Citation#
+38 C.F.R. § 3.303(b).
+
+#LegalRule#
+Service connection may also be granted for any injury or disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease or injury was incurred in service.
+
+#Citation#
+38 C.F.R. § 3.303(d).
+
+#LegalRule#
+Other specifically enumerated disorders, including psychoses, will be presumed to have been incurred in service if manifested to a compensable degree within the first year following separation from active duty.
+
+#Citation#
+38 U.S.C.A. §§ 1101, 1112, 1113; 38 C.F.R. §§ 3.307, 3.309.
+
+#LegalRule#
+In Walker v. Shinseki, 708 F.3d 1331 (Fed. Cir. 2013), the Federal Circuit held that the theory of continuity of symptomatology can be used only in cases involving those conditions explicitly recognized as chronic in 38 C.F.R. § 3.309(a).
+
+#Citation#
+ Walker v. Shinseki, 708 F.3d 1331 (Fed. Cir. 2013).
+
+#Evidence#
+As discussed more thoroughly below, the Veteran is diagnosed with schizophrenia, a psychosis, which is recognized as a chronic disability in 38 C.F.R. § 3.309(a).
+
+#LegalRule#
+In relevant part, 38 U.S.C.A. § 1154(a) requires that VA give 'due consideration' to 'all pertinent medical and lay evidence' in evaluating a claim for disability benefits.
+
+#LegalRule#
+In order to establish direct service connection for a disorder, there must be (1) competent evidence of the current existence of the disability for which service connection is being claimed; (2) competent evidence of a disease contracted, an injury suffered, or an event witnessed or experienced in active service; and (3) competent evidence of a nexus or connection between the disease, injury, or event in service and the current disability.
+
+#Citation#
+Davidson v. Shinseki, 581 F.3d 1313 (Fed. Cir. Sept. 14, 2009); cf. Gutierrez  v. Principi, 19 Vet. App. 1, 5 (2004) (citing Hickson v. West, 12 Vet. App. 247, 253 (1999)).
+
+#LegalPolicy#
+In many cases, medical evidence is required to meet the requirement that the evidence be "competent."
+
+#LegalRule#
+However, when a condition may be diagnosed by its unique and readily identifiable features, the presence of the disorder is not a determination "medical in nature" and is capable of lay observation.
+
+#Citation#
+Barr v. Nicholson, 21 Vet. App. 303, 309 (2007).
+
+#LegalRule#
+In rendering a decision on appeal, the Board must analyze the credibility and probative value of the evidence, account for the evidence which it finds to be persuasive or unpersuasive, and provide the reasons for its rejection of any material evidence favorable to the claimant.
+
+#Citation#
+See Gabrielson v. Brown, 7 Vet. App. 36, 39-40 (1994); Gilbert v. Derwinski, 1 Vet. App. 49, 57 (1990).
+
+#LegalRule#
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the benefit of the doubt shall be given to the claimant.
+
+#Citation#
+38 U.S.C.A. § 5107(b).
+
+#LegalRule#
+When a reasonable doubt arises regarding service origin, such doubt will be resolved in the favor of the claimant.
+
+#LegalRule#
+Reasonable doubt is doubt which exists because of an approximate balance of positive and negative evidence which does not satisfactorily prove or disprove the claim.
+
+#Citation#
+38 C.F.R. § 3.102.
+
+#LegalPolicy#
+The question is whether the evidence supports the claim or is in relative equipoise, with the claimant prevailing in either event, or whether a fair preponderance of the evidence is against the claim, in which event the claim must be denied.
+
+#Citation#
+See Gilbert, 1 Vet. App. at 54.
+
+#Evidence#
+The Veteran contends that he is entitled to service connection for schizophrenia because it had its onset within one year of his separation from his second period of active duty in May 1993. 
+
+#EvidenceBasedFinding#
+The medical evidence of record confirms that the Veteran has a current diagnosis of schizophrenia.
+
+#Evidence#
+The service treatment records reflect that the Veteran was not diagnosed with schizophrenia in service.
+
+#Evidence#
+However, they do reflect that in October 1989, February 1990 and April 1990 the Veteran was in counseling and received Antabuse for alcohol abuse.
+
+#Evidence#
+The record shows that the first diagnosis of schizophrenia was in September 1995, according to a Social Security Administration (SSA) record.
+
+#Evidence#
+The SSA disability records also reflect that the Veteran began having mental problems in 1994 and that although he had been on medications, he had not had any for a year.
+
+#Evidence#
+A May 2003 VA treatment record reflects that the Veteran's mother had given a history of the Veteran having had mental problems since 1994, when he was hearing voices and pacing at night.
+
+#Evidence#
+As noted in the September 2011 Board remand, the Veteran has maintained that he was admitted to a VA hospital in Tuskegee, Alabama, in May 1995 for about a month, for psychiatric treatment.
+
+#Evidence#
+The remand notes that the Veteran's VA hospitalization and other records dated prior to August 2001 are not associated with the claims file.
+
+#Evidence#
+As such, the Board remanded the claim in September 2011, in part, in order to obtain any VA treatment records dating from May 1993 to August 2001.
+
+#Evidence#
+Although there are four requests for VA treatment records in the claims file (the first request is for records dated from May 1993 to August 2001, but the next three requests are only for records dating from May 1993 to May 1995), a letter from Central Alabama Veterans Health Care System indicates that the system of records does not contain a record retrievable from May 1, 1993 to May 1, 1995 in the system or in the federal record center.
+
+#Evidence#
+However, the claims file does contain an August 2001 VA social work initial assessment note, which indicates that the Veteran was admitted on August 8, 2001 to Tuskegee VA Medical Center, and importantly, that he had previously been admitted in 1994.  
+
+#Evidence#
+The claims file also contains two VA examination reports.
+
+#Evidence#
+A November 2009 VA examination report reflects that the Veteran was hospitalized for his psychiatric problems on two occasions, the last of which was in 2001.
+
+#Evidence#
+The examiner opined that the records suggest that the Veteran did not experience thought symptoms until he was 28 years old (1994), and he did not seek treatment for them until he was 29 years old (1995).
+
+#Evidence#
+The examiner stated that review of the Veteran's service discharge records suggests that he did not endorse thought symptoms upon discharge.
+
+#Evidence#
+The examiner further noted that the average age of onset for schizophrenia and other longitudinal thought disorders among males is 18 to 19 years old.
+
+#Evidence#
+In light of the above-noted considerations, the examiner opined that schizophrenia is less likely as not caused by or a result of military service.
+
+#Evidence#
+Pursuant to the directives in the June 2010 Board remand, which acknowledged that the November 2009 VA examiner had not addressed whether a psychosis became manifest to a compensable degree within one year of the Veteran's separation from active service in May 1993 despite indicating that the Veteran did not experience thought symptoms until 1994 (which the Board noted might be within one year of discharge from service), the Veteran underwent another VA examination in August 2010.
+
+#Evidence#
+The August 2010 VA examination report, authored by the same (November 2009) VA examiner, indicates that the Veteran's reports and demeanor remained consistent with the previous diagnosis and severity estimate.
+
+#Evidence#
+ The examiner noted that he specifically asked the Veteran if his thought symptoms became evident prior to May 1994, which is one year after discharge.
+
+#Evidence#
+The examiner noted that the Veteran denied thought symptoms prior to that time and he responded with certainty in this regard, impressing the examiner as being honest and forthcoming.
+
+#Evidence#
+In light of this, the examiner indicated that he must stand by his previous opinion that the Veteran's current thought symptoms (diagnosed as schizophrenia) are less likely than not caused by or a result of military service.
+
+#LegalRule#
+The Board notes that the weight of a medical opinion is diminished where that opinion is ambivalent, based on an inaccurate factual premise, based on an examination of limited scope, or where the basis for the opinion is not stated.
+
+#Citation#
+See Reonal v. Brown, 5 Vet. App. 548 (1993); Sklar v. Brown, 5 Vet. App. 140 (1993); Guerrieri v. Brown, 4 Vet. App. 467 (1993).
+
+#EvidenceBasedReasoning#
+Initially, the Board notes that neither VA medical opinion acknowledges the Veteran's alcohol abuse and counseling for such during service.
+
+#EvidenceBasedReasoning#
+Moreover, while the November 2009 opinion is against the claim, the rationale (that thought disorders typically manifest at age 18 or 19) does not actually support the conclusion reached.
+
+#EvidenceBasedFinding#
+With respect to the August 2010 opinion, the Board finds that the examiner's opinion it is not based entirely on the evidence of record.
+
+#EvidenceBasedReasoning#
+As noted above, the VA treatment records and SSA records note that the Veteran's symptoms began in 1994 and that the was in fact hospitalized in 1994 in Tuskegee VA Medical Center.
+
+#EvidenceBasedReasoning#
+Additionally, the Board notes that the Veteran's active duty for training dates during his National Guard service in 1993, 1994, 2000, and 2001 have not been obtained, nor have his service records from his national guard service.
+
+#EvidenceBasedFinding#
+Because this claim has been remanded three times and has been pending for approximately 10 years, the Board finds that the evidence of record, as it currently stands, it at least in equipoise with regard to whether the Veteran's schizophrenia had its onset within one year of his discharge from service in May 1993.
+
+#EvidenceBasedReasoning#
+The Board finds that the service treatment records showing alcohol abuse in service, which could certainly be the first signs of the Veteran trying to cope with his schizophrenia/thought symptoms, as well as Veteran's and his mother's lay statements, are significant.
+
+#EvidenceBasedReasoning#
+The Veteran and his mother are competent, even as laypersons, to attest to factual matters of which they have firsthand knowledge, such as experiencing and witnessing bizarre behavior consistent with a psychosis within one year of service.
+
+#Citation#
+See Washington v. Nicholson, 19 Vet. App. 362, 368 (2005); see also Buchanan v. Nicholson, 451 F.3d 1331, 1335 (Fed. Cir. 2006)(holding that lay evidence is one type of evidence that must be considered, and that competent lay evidence can be sufficient in and of itself).
+
+#EvidenceBasedReasoning#
+And, although the Veteran stated to the August 2010 VA examiner that his thought symptoms did not begin prior to May 1994, in giving the Veteran the benefit of the doubt as to whether the thought symptoms began prior to May 1994, the Board finds that the service treatment records showing treatment for alcohol abuse in service weigh heavily in the Veteran's favor regarding the likely onset of his symptoms.
+
+#EvidenceBasedFinding#
+In sum, rather than remand the matter for additional development, the Board finds that there are sufficient facts to favorably apply the benefit-of-the-doubt doctrine.  As such, the claim of entitlement to service connection for schizophrenia is granted.
+
+#Header#
+ORDER
+
+#ConclusionOfLaw#
+Entitlement to service connection for schizophrenia is granted.
+
+#Procedure#
+KATHLEEN K. GALLAGHER
+
+#Procedure#
+Veterans Law Judge, Board of Veterans' Appeals
+
+#Procedure#
+Department of Veterans Affairs
+

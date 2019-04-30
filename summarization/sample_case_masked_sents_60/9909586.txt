@@ -1,0 +1,180 @@
+round 0, index 95: 
+Service connection for PTSD is denied.
+
+round 1, index 10: 
+The veteran is not shown to have PTSD that was incurred in or aggravated by active service.
+
+round 2, index 94: 
+Such is decidedly not the case in this instance where, as noted above, the evidence does not demonstrate that there is a clear medical diagnosis of PTSD or establish a causal nexus between any claimed PTSD and a specific stressor or other verifiable event in service.
+
+round 3, index 91: 
+As such, there is no credible evidence which supports the veteran's allegations or meets the requirements of 38 C.F.R.
+
+round 4, index 90: 
+The medical evidence in this regard simply does not serve to establish that he had experienced a stressor on which a diagnosis of PTSD can be based.
+
+round 5, index 93: 
+However, it is noted that application of the benefit-of-the-doubt rule is only appropriate when the evidence is evenly balanced or in relative equipoise.
+
+round 6, index 96: 
+Gary L. Gick	Member, Board of Veterans' Appeals - 10 -- 1 -
+
+round 7, index 92: 
+In reaching its decision, the Board has considered the matter of resolution of the benefit of the doubt in the veteran's favor.
+
+round 8, index 31: 
+His service medical records do not show any reports, findings or a diagnosis of a psychiatric disorder during his period of active service.
+
+round 9, index 33: 
+An August 1968 record shows that he reported that he had had trouble sleeping the previous few nights.
+
+round 10, index 32: 
+His January 1965 service entrance examination reflects that psychiatric evaluation revealed normal findings.
+
+round 11, index 87: 
+Except for the veteran's uncorroborated statements, there is no evidence, whatsoever, that the veteran experienced any of his alleged stressors.
+
+round 12, index 9: 
+The veteran failed to report for these examinations and he did not provide adequate reason or good cause for failing to undergo such examinations.
+
+round 13, index 13: 
+Service connection may be granted for a disease or injury incurred in or aggravated by active service.
+
+round 14, index 7: 
+The evidence of record does not include a clear medical diagnosis of PTSD or establish a causal nexus between any PTSD and a specific stressor or other verifiable event in service.
+
+round 15, index 88: 
+As such, the Board finds that the preponderance of the evidence is against the veteran's claim.
+
+round 16, index 8: 
+The veteran was scheduled for VA examinations in December 1997, March 1998 and December 1998 in connection with his claim for service connection for PTSD.
+
+round 17, index 89: 
+To summarize, the Board finds that the veteran is not shown to have a clear diagnosis of PTSD due to a verified in-service stressor.
+
+round 18, index 34: 
+The examiner indicated that the veteran had had insomnia the previous few weeks, and that he did not exhibit any apparent personal or marital problems.
+
+round 19, index 35: 
+On December 1968 separation examination, psychiatric evaluation of the veteran did not reveal any abnormalities.
+
+round 20, index 14: 
+Service connection may also be granted for a disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.
+
+round 21, index 36: 
+In the accompanying Report of Medical History, the veteran indicated that he had not had frequent trouble sleeping, frequent or terrifying nightmares, depression or excessive worry or nervous trouble of any sort.
+
+round 22, index 37: 
+In support of his claim, the veteran submitted a psychological evaluation report, dated in May 1996, from Darlene J. Golas, L.C.S.W. (Licensed Clinical Social Worker), from Hamilton, Montana.  D. J.
+
+round 23, index 38: 
+Golas reported that the veteran had entered into readjustment counseling in January 1992 and then again in September 1994.  PTSD and alcohol dependency were diagnosed.
+
+round 24, index 39: 
+Several stressful incidents were reported as having occurred during the veteran's period of active service, including the stress he experienced while working triage aboard the U.S.S. REPOSE.
+
+round 25, index 78: 
+As such, his contentions regarding his stressors, by themselves, are not enough to establish their occurrence.
+
+round 26, index 75: 
+After careful review of the entire record, the Board agrees with the RO and finds that the veteran's claim for service connection for PTSD must be denied.
+
+round 27, index 30: 
+However, there is nothing in these records which demonstrate that the veteran served on combat duty during his period of active service.
+
+round 28, index 76: 
+Specifically, the Board finds that there is no clear medical diagnosis of PTSD or competent evidence of record which establishes a causal nexus between any claimed PTSD and a specific stressor or other verifiable event in service.
+
+round 29, index 77: 
+While the veteran's service personnel records show that he was awarded the Vietnam Service Medal, they do not establish that he served on combat duty during his period of active service.
+
+round 30, index 29: 
+They further show that he was awarded the Vietnam Service Medal among other decorations.
+
+round 31, index 0: 
+The veteran had active military service from January 1965 to December 1968.
+
+round 32, index 1: 
+This matter comes to the Board of Veterans' Appeals (Board) from a Department of Veterans Affairs (VA) Boise Regional Office (RO) July 1996 rating decision which denied service connection for PTSD.
+
+round 33, index 2: 
+The veteran failed to report for a hearing at the Boise RO scheduled in December 1996 without any indication of good cause for his failure to appear, and he has not otherwise expressed a desire to reschedule that hearing.
+
+round 34, index 3: 
+Board will proceed as though he has withdrawn his request for such hearing.
+
+round 35, index 5: 
+This case was previously before the Board in August 1998 at which time it was remanded for further development of the evidence.
+
+round 36, index 79: 
+Instead, the record must contain evidence which corroborates the veteran's contentions as to the occurrence of the claimed stressors.
+
+round 37, index 80: 
+Thus, it is necessary to address the matter of whether there is sufficient corroboration of the claimed stressors in this case.
+
+round 38, index 6: 
+The veteran then failed to report for VA psychiatric examination scheduled for December 1998.
+
+round 39, index 15: 
+In accordance with 38 C.F.R. § 3.304(f), service connection for PTSD requires: medical evidence establishing a clear diagnosis of the condition; credible supporting evidence that the claimed in-service stressors actually occurred; and medical evidence of a link between current symptoms and the claimed in-service stressor.
+
+round 40, index 4: 
+The veteran also failed to report for VA medical examinations scheduled for December 1997 and March 1998.
+
+round 41, index 69: 
+Southeast Asia during the period in question.
+
+round 42, index 28: 
+The veteran's service personnel records show that he served as a Hospital Corpsman aboard the U.S.S. REPOSE from December 1967 until his release from active service in December 1968.
+
+round 43, index 67: 
+Clinical social work consist of assessment, treatment and evaluation."
+
+round 44, index 20: 
+The matter of the sufficiency of the stressor is now a question of medicine, not law.
+
+round 45, index 27: 
+Simply stated, in general, the Board is not required to accept an appellant's uncorroborated account of his Vietnam experiences.
+
+round 46, index 44: 
+Two other incidents involved witnessing a jet fighter crash and seeing a Vietnamese fisherman being cut in half by a Coast Guard cutter.
+
+round 47, index 16: 
+A "clear diagnosis" of PTSD is, at a minimum, an unequivocal one.  Cohen, 10 Vet. App. 128, at 139.
+
+round 48, index 43: 
+Another incident involved holding a telephone for a soldier who had both of his arms blown off.
+
+round 49, index 66: 
+It includes but is not limited to individual, couples, family and group psychotherapy.
+
+round 50, index 18: 
+Under DSM-IV, a person must have been exposed to a traumatic event in which the person experienced, witnessed, or was confronted with, an event or events that involve actual or threatened death or serious injury of others, and his response must have involved intense fear, helplessness, or horror.
+
+round 51, index 17: 
+With respect to a diagnosis of PTSD, VA follows the criteria set out in Diagnostic and Statistical Manual of Mental Disorders (DSM- IV) as the basis for determining whether a person has PTSD for compensation purposes.
+
+round 52, index 42: 
+He also reported a general feeling of being trapped aboard the ship, and that the ship was overrun with cockroaches.
+
+round 53, index 40: 
+An example of such stress included an incident when the refrigeration system broke down and the rotting smell of forty bodies in bags infused the entire ship.
+
+round 54, index 19: 
+The question of whether the event involved actual or threatened death or serious injury or threat to physical integrity per DSM-IV is subjective.
+
+round 55, index 82: 
+However, the letter and command history do not specifically verify or corroborate the veteran's alleged stressors (e.g., rotting smell from the body bags, threats to his life from a psychiatric patient and incidents wherein he held a telephone for a soldier who had both of his arms blown off, witnessing a jet fighter crash and seeing a Vietnamese fisherman cut in half by a Coast Guard cutter).
+
+round 56, index 81: 
+The letter from the Department of the Navy, Naval Historical Center, with attached command history of the U.S.S. Repose (AH 16), does tend to support the veteran's descriptions of his stressors, as it shows that the REPOSE operated as a floating hospital throughout Southeast Asia, and that a hospital corpsman on such a ship would presumably have worked with doctors and nurses to care for the sick and wounded.
+
+round 57, index 21: 
+Whether a veteran engaged in combat with the enemy must be determined through recognized military citations or other service department evidence.
+
+round 58, index 22: 
+In other words, the claimant's assertions that he engaged in combat with the enemy are not sufficient, by themselves, to establish this fact.
+
+round 59, index 41: 
+The veteran also reported that his life had been threatened by a psychiatric patient whom he had been treating.
+

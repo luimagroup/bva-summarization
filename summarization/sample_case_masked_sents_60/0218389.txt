@@ -1,0 +1,180 @@
+round 0, index 168: 
+Entitlement to service connection for post-traumatic stress disorder is denied.
+
+round 1, index 5: 
+Post-traumatic stress disorder was not incurred in or aggravated by service.
+
+round 2, index 4: 
+The preponderance of the evidence is against a finding that the veteran suffers from PTSD.
+
+round 3, index 7: 
+These regulations provide that VA will assist a claimant in obtaining evidence necessary to substantiate a claim but is not required to provide assistance to a claimant if there is no reasonable possibility that such assistance would aid in substantiating the claim.
+
+round 4, index 16: 
+VA has obtained the veteran's service and VA medical records and private medical records from
+
+round 5, index 17: 
+The veteran thus has been advised of the evidence necessary to substantiate his claim and evidence relevant to the claim has been properly developed.
+
+round 6, index 10: 
+As part of the notice, VA is to specifically inform the claimant and the claimant's representative, if any, of which portion, if any, of the evidence is to be provided by the claimant and which part, if any, VA will attempt to obtain on behalf of the claimant.
+
+round 7, index 12: 
+The veteran was sent a letter by the RO in January 2002 which explained, among other things, the VCAA's duty to assist and what evidence was needed to substantiate his service connection claim for PTSD.
+
+round 8, index 13: 
+Further, the veteran was issued a statement of the case in April 2002.
+
+round 9, index 15: 
+The record on this claim also shows that VA has made reasonable efforts to obtain relevant records adequately identified by the appellant.
+
+round 10, index 9: 
+Specifically, they require VA to notify the claimant and the claimant's representative, if any, of any information, and any medical or lay evidence, not previously provided to the Secretary, that is necessary to substantiate the claim.
+
+round 11, index 91: 
+He was first in line and the plane came again to fire on them.
+
+round 12, index 19: 
+Therefore, the veteran will not be prejudiced as a result of the Board deciding this claim.
+
+round 13, index 11: 
+The record reflects that VA has made reasonable efforts to notify the veteran of the information and medical evidence necessary to substantiate his service connection claim for PTSD.
+
+round 14, index 14: 
+These documents provided the veteran notice of the law and governing regulations (including the implementing regulations noted above) as well as the reasons for the determinations made regarding his claim of service connection for PTSD.
+
+round 15, index 92: 
+The enemy was running from American Allied troops during this incident.
+
+round 16, index 8: 
+The VCAA and its implementing regulations also include new notification provisions.
+
+round 17, index 171: 
+We are in the process of updating the form to reflect changes in the law effective on December 27, 2001.
+
+round 18, index 165: 
+Thus, the reasonable doubt doctrine is not applicable in this case as the evidence is not evenly balanced.
+
+round 19, index 162: 
+To the extent that the veteran claims that he suffers from PTSD as a result of his in-service experiences, it is pointed out that, as a layman without proper medical training and expertise, the veteran is not competent to provide probative medical evidence on a matter such as the diagnosis or etiology of a claimed medical condition.
+
+round 20, index 164: 
+Given the foregoing, the Board finds that the preponderance of the evidence is against a diagnosis of PTSD in this case.
+
+round 21, index 172: 
+In the meanwhile, please note these important corrections to the advice in the form:
+
+round 22, index 174: 
+(1)
+
+round 23, index 175: 
+A "Notice of Disagreement filed on or after November 18, 1988" is no longer required to appeal to the Court.
+
+round 24, index 178: 
+?
+
+round 25, index 18: 
+As such, there is no further action necessary to comply with the provisions of the VCAA or its implementing regulations.
+
+round 26, index 63: 
+He described some loss of interest and some sense of being a failure.
+
+round 27, index 176: 
+(2)
+
+round 28, index 173: 
+These changes apply to the section entitled "Appeal to the United States Court of Appeals for Veterans Claims."
+
+round 29, index 20: 
+II.
+
+round 30, index 177: 
+You are no longer required to file a copy of your Notice of Appeal with VA's General Counsel.
+
+round 31, index 0: 
+The veteran had active service from March 1964 to March 1968.
+
+round 32, index 139: 
+In addition, service connection for PTSD requires: (1) medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a) (2002); (2) a link, established by medical evidence, between current symptoms and an in-service stressor; and (3) credible supporting evidence that the claimed in-service stressor occurred.
+
+round 33, index 97: 
+After being escorted for a good while by four jet fighters, a "sky-hop" dropped napalm and left, leaving the helicopter unable to land, and they were out at sea.
+
+round 34, index 1: 
+This matter comes before the Board of Veterans' Appeals (Board) on appeal of a March 2002 rating decision issued by the Department of Veterans Affairs (VA) Regional Office (RO) in Pittsburgh, Pennsylvania (PA), denying the veteran's claim of service connection for PTSD.
+
+round 35, index 47: 
+His judgment and insight were fair.
+
+round 36, index 170: 
+We have attached a VA Form 4597 that tells you what steps you can take if you disagree with our decision.
+
+round 37, index 137: 
+A chronic disease will be considered to have been incurred in service when manifested to a degree of 10 percent or more within 1 year from the date of separation from active service.
+
+round 38, index 138: 
+A psychosis shall be considered a chronic disease within the meaning of 38 C.F.R. § 3.307.
+
+round 39, index 166: 
+The Board also notes that further assistance to the veteran in developing this claim is not warranted, as there is no reasonable possibility that such assistance would aid in substantiating the claim.
+
+round 40, index 140: 
+If the evidence establishes that the veteran engaged in combat with the enemy, and the claimed stressor is related to that combat, his lay testimony-alone-may establish the occurrence of the claimed in-service stressor in the absence of clear and convincing evidence to the contrary, and provided that the claimed in-service stressor is consistent with the circumstances, conditions, or hardships of his service.
+
+round 41, index 3: 
+These matters are referred to the RO for appropriate consideration.
+
+round 42, index 136: 
+Service connection may be granted for disability resulting from disease or injury that was incurred in or aggravated by active service.
+
+round 43, index 62: 
+The veteran did not describe any particular flashbacks, but related that he did have occasional nightmares.
+
+round 44, index 141: 
+Taking into account all of the evidence listed above, the
+
+round 45, index 98: 
+Once out at sea, they had to jump out of the helicopter and their gear was thrown out of the helicopter as well.
+
+round 46, index 65: 
+There was no obvious evidence of delusions or hallucinations.
+
+round 47, index 142: 
+Board finds that the preponderance of the evidence is against the veteran's claim of service connection for PTSD.
+
+round 48, index 64: 
+He did not describe clear fears, but did indicate that everybody had fears.
+
+round 49, index 66: 
+The resulting diagnosis was of depression, neurotic type, mild to moderate severity, manifested by what appeared to be some feelings of depression.
+
+round 50, index 90: 
+The veteran stated that, after they were on the ground, a plane fired on them.
+
+round 51, index 89: 
+They had to jump out of the helicopter and were unable to make it to the landing zone.
+
+round 52, index 93: 
+Just about when the plane was in position to fire on them again, according to the veteran, a Green Beret with a radio contacted someone and got the plane off of them.
+
+round 53, index 28: 
+The provisional diagnosis was of rule out psychopathological disorders versus anxiety reaction.
+
+round 54, index 163: 
+Therefore, as with the veteran's assertions regarding his alleged in-service stressors, the Board also cannot assign any weight to the veteran's lay assertions of PTSD.
+
+round 55, index 68: 
+A review of Social Security Administration records provided by the veteran reflects that the veteran received an OHA Psychiatric Review, the results of which were contained in an OHA Psychiatric Review Technique Form and signed by an Administrative Law Judge (ALJ) in May 1998.
+
+round 56, index 67: 
+The examiner also commented that it was quite possible that the veteran's sensations of numbness had a psychological basis and might be related to anxiety.
+
+round 57, index 6: 
+I.  Veterans Claims Assistance ActThe Board observes that recently enacted law (the Veterans Claims Assistance Act of 2000, hereinafter "the VCAA") and its implementing regulations essentially eliminate the requirement that a claimant submit evidence of a well-grounded claim.
+
+round 58, index 94: 
+During this engagement, the veteran recalled later that he was very scared, that he knew it was over, and that he hoped that he was ready to die.
+
+round 59, index 46: 
+The veteran's Serial 7's, and his presidential sequence were good.
+

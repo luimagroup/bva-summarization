@@ -1,0 +1,180 @@
+round 0, index 73: 
+Service connection for PTSD is denied.
+
+round 1, index 12: 
+PTSD was neither incurred in nor aggravated by service.
+
+round 2, index 72: 
+As such, service connection is not found to be warranted.
+
+round 3, index 18: 
+inform the claimant about the information and evidence the claimant is expected to provide; and (4) request or tell the claimant to provide any evidence in the claimant's possession that pertains to the claim, or something to the effect that the claimant should "give us everything you've got pertaining to your claim(s)."
+
+round 4, index 20: 
+In a VCAA letter dated in October 2003, the RO notified the appellant of the information and evidence necessary to substantiate the claim, the information and evidence that VA would seek to provide, and the information and evidence the appellant was expected to provide.
+
+round 5, index 21: 
+In addition, the RO asked the appellant to submit any evidence in his possession that pertains to the claim.
+
+round 6, index 22: 
+This letter also provided sufficient notice as to what is needed in terms of new and material evidence so as to satisfy the notice provisions of Kent.
+
+round 7, index 17: 
+(3)
+
+round 8, index 63: 
+The remaining criteria were not relevant because they depended on the other criteria having been met.
+
+round 9, index 16: 
+In addition, the Court held that a notice consistent with 38 U.S.C.A. § 5103(a) and 38 C.F.R. § 3.159(b) must accomplish the following: (1) inform the claimant about the information and evidence not of record that is necessary to substantiate the claim; (2) inform the claimant about the information and evidence that VA will seek to provide;
+
+round 10, index 19: 
+Id.
+
+round 11, index 24: 
+Those five elements include:  1) veteran status; 2) existence of a disability; 3) a connection between the veteran's service and the disability;
+
+round 12, index 15: 
+In this regard, the Court has held that a notice, as required by 38 U.S.C.A. § 5103(a), must be provided to a claimant before the initial unfavorable agency of original jurisdiction (AOJ) decision on a claim for VA benefits.
+
+round 13, index 71: 
+As such, the Board is not able to find that a diagnosis of PTSD has been confirmed.
+
+round 14, index 23: 
+During the pendency of this appeal, on March 3, 2006, the United States Court of Appeals for Veterans Claims (Court) issued a decision in the consolidated appeal of Dingess v. Nicholson, 19 Vet. App. 473 (2006), which held that the VCAA notice requirements of 38 U.S.C.A. § 5103(a) and 38 C.F.R. § 3.159(b) apply to all five elements of a service connection claim.
+
+round 15, index 25: 
+4) degree of disability; and 5) effective date of the disability.
+
+round 16, index 26: 
+The Court held that upon receipt of an application for a service-connection claim, 38 U.S.C.A. § 5103(a) and 38 C.F.R. § 3.159(b) require VA to review the information and the evidence presented with the claim and to provide the claimant with notice of what information and evidence not previously provided, if any, will assist in substantiating or is necessary to substantiate the elements of the claim as reasonably contemplated by the application.
+
+round 17, index 27: 
+Id.
+
+round 18, index 28: 
+Additionally, this notice must include notice that a disability rating and an effective date for the award of benefits will be assigned if service connection is awarded.
+
+round 19, index 30: 
+In the present appeal, the veteran was provided with notice of what type of information and evidence was needed to substantiate his claim for service connection, but he/she was not provided with notice of the type of evidence necessary to establish a disability rating or effective date for the disability on appeal.
+
+round 20, index 11: 
+The diagnosis of PTSD as a result of service has not been clinically confirmed in the record.
+
+round 21, index 29: 
+Id.
+
+round 22, index 31: 
+Despite the inadequate notice provided to the veteran on these latter two elements, the Board finds no prejudice to the veteran in proceeding with the issuance of a final decision.
+
+round 23, index 32: 
+(where the Board addresses a question that has not been addressed by the agency of original jurisdiction, the
+
+round 24, index 34: 
+In that regard, as the Board concludes below that the preponderance of the evidence is against the appellant's claim(s) for service connection, any questions as to the appropriate disability rating or effective date to be assigned are rendered moot.
+
+round 25, index 14: 
+The law addresses the notification and assistance requirements of VA in the context of claims for benefits.
+
+round 26, index 9: 
+This has been taken as new evidence sufficient to reopen the claim.
+
+round 27, index 36: 
+If a condition noted during service is not shown to be chronic, then generally, a showing of continuity of symptoms after service is required for service connection.
+
+round 28, index 33: 
+Board must consider whether the veteran has been prejudiced thereby).
+
+round 29, index 62: 
+and described only minimal irritability, difficulty concentrating, hypervigilance, or other persistent symptoms of increased arousal.
+
+round 30, index 37: 
+Service connection for post-traumatic stress disorder requires medical evidence diagnosing the condition in accordance with Sec. 4.125(a) of this chapter; a link, established by medical evidence, between current symptoms and an in-service stressor;
+
+round 31, index 0: 
+The veteran served on active duty from December 1942 to December 1945.
+
+round 32, index 61: 
+It was specifically stated that the veteran did not meet the criteria of reexperiencing symptoms; avoidance of thinking, feeling, or talking about the traumatic war experiences;
+
+round 33, index 35: 
+In order to establish service connection for a claimed disability, the facts, as shown by the evidence, must demonstrate that a particular disease or injury resulting in current disability was incurred during active service or, if preexisting active service, was aggravated therein.
+
+round 34, index 38: 
+and credible supporting evidence that the claimed in-service stressor occurred.
+
+round 35, index 1: 
+He served in Combat in the Pacific during
+
+round 36, index 87: 
+An attorney or agent may charge you a reasonable fee for services involving a VA home loan or small business loan.
+
+round 37, index 2: 
+World War II, and has been awarded a Purple Heart Medal.
+
+round 38, index 39: 
+If the evidence establishes that the veteran engaged in combat with the enemy and the claimed stressor is related to that combat, in the absence of clear and convincing evidence to the contrary, and provided that the claimed stressor is consistent with the circumstances, conditions, or hardships of the veteran's service, the veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor.
+
+round 39, index 13: 
+The Board must first address the provisions of the Veterans Claims Assistance Act of 2000 (VCAA).
+
+round 40, index 10: 
+Therefore, the Board will review the claim de novo.
+
+round 41, index 92: 
+(When final regulations are published to implement the requirements of the new law, fee agreements must be filed with the VA Office of the General Counsel and not the Board.) Department of Veterans Affairs
+
+round 42, index 76: 
+Due to recent changes in the law, some of the information contained in the attached notice of appellate rights form is no longer accurate concerning the ability to pay attorneys and agents to represent you.
+
+round 43, index 88: 
+For more information, read section 5904, title 38, United States Code. Filing of Fee Agreements:
+
+round 44, index 4: 
+A motion to advance the case on the Board's docket has been granted.
+
+round 45, index 90: 
+Office of the Chief Counsel for Policy (01C3)
+
+round 46, index 79: 
+Do I have to pay an attorney or agent to represent me?
+
+round 47, index 5: 
+Service connection for PTSD was initially denied by rating decision dated in June 2002.
+
+round 48, index 6: 
+The veteran did not appeal this denial.
+
+round 49, index 89: 
+In all cases, a copy of any fee agreement between you and an attorney or accredited agent must be sent to the Secretary at the following address:
+
+round 50, index 91: 
+Board of Veterans' Appeals810 Vermont Avenue, NW,Washington, DC 20420
+
+round 51, index 7: 
+Correspondence received in August 2003 is considered to be an application to reopen his claim for service connection.
+
+round 52, index 74: 
+MICHAEL D. LYON Veterans Law Judge, Board of Veterans' AppealsImportant Notice:
+
+round 53, index 77: 
+Some additional information follows that summarizes the current law.
+
+round 54, index 40: 
+If the evidence establishes that the veteran was a prisoner-of-war under the provisions of Sec. 3.1(y) of this part and the claimed stressor is related to that prisoner-of-war experience, in the absence of clear and convincing evidence to the contrary, and provided that the claimed stressor is consistent with the circumstances, conditions, or hardships of the veteran's service, the veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor.
+
+round 55, index 48: 
+Board finds the evaluations that do not support the diagnosis to be more persuasive such that service connection is not warranted.
+
+round 56, index 49: 
+The evaluations that support a PTSD diagnosis consist of a statement from a Vet Center, dated in November 2001, and a statement from the veteran's private physician, dated in October 2003.
+
+round 57, index 75: 
+Attached to this decision is a VA Form that provides information concerning your rights to appeal our decision.
+
+round 58, index 58: 
+As such, the evidence does not support the diagnosis of PTSD.
+
+round 59, index 3: 
+This case comes to the Board of Veterans' Appeals (Board) on appeal of a rating decision of the Manchester, New Hampshire, Regional Office (RO) of the Department of Veterans Affairs (VA).
+

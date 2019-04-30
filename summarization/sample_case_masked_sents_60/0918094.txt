@@ -1,0 +1,180 @@
+round 0, index 134: 
+Entitlement to service connection for an anxiety disorder is denied.
+
+round 1, index 133: 
+Accordingly, Hickson element (3), medical nexus, has not been satisfied, and the claim fails on that basis as well.
+
+round 2, index 132: 
+Continuity of symptomatology after service has therefore not been demonstrated.
+
+round 3, index 17: 
+The evidence of record does not support a finding that a relationship exists between the Veteran's currently diagnosed anxiety disorder and his military service.
+
+round 4, index 16: 
+A preponderance of the competent medical evidence of record does not indicate that the Veteran has PTSD. 2.
+
+round 5, index 18: 
+An anxiety disorder was not incurred in or aggravated by military service.
+
+round 6, index 19: 
+The Veteran seeks entitlement to service connection for an anxiety disorder, claimed as PTSD.
+
+round 7, index 38: 
+March 2005 letter, whereby the Veteran was advised of the provisions relating to the VCAA.
+
+round 8, index 39: 
+Specifically, the Veteran was advised that VA would assist him with obtaining "relevant records from any Federal agency.
+
+round 9, index 37: 
+Crucially, the RO informed the Veteran of VA's duty to assist him in the development of his claim in the above-referenced
+
+round 10, index 40: 
+This may include medical records from the military, from VA Medical Centers (including private facilities where VA authorized treatment), or from the Social Security Administration."  With respect to private treatment records, the letter informed the Veteran that the VA would make reasonable efforts to obtain private or non-Federal medical records to include "records from
+
+round 11, index 112: 
+The statements offered in support of the Veteran's claim by him are not competent medical evidence and do not serve to establish the existence of a current disability.
+
+round 12, index 36: 
+The Board observes that the Veteran was informed of the evidentiary requirements for service connection in a letter from the RO dated March 22, 2005, including a request for evidence of "a relationship between your current disability and an injury, disease, or event in military service."
+
+round 13, index 42: 
+Furthermore, the VA included copies of VA Form 21-4142, Authorization and Consent to Release Information, which the Veteran could complete to release private medical records to the VA.
+
+round 14, index 43: 
+The March 2005 letter further emphasized:
+
+round 15, index 29: 
+Standard of reviewAfter the evidence has been assembled, it is the Board's responsibility to evaluate the entire record.
+
+round 16, index 135: 
+Veterans Law Judge, Board of Veterans' Appeals Department of Veterans Affairs
+
+round 17, index 20: 
+In the interest of clarity, the Board will first discuss certain preliminary matters.
+
+round 18, index 45: 
+If the holder of the evidence declines to give it to us, asks for a fee to provide it, or VA otherwise cannot get the evidence, we will notify you.
+
+round 19, index 131: 
+Such evidence is lacking in this case.
+
+round 20, index 30: 
+When there is an approximate balance of evidence regarding the merits of an issue material to the determination of the matter, the benefit of the doubt in resolving each such issue shall be given to the claimant.
+
+round 21, index 21: 
+The Board will then render a decision.
+
+round 22, index 31: 
+To deny a claim on its merits, the preponderance of the evidence must be against the claim.
+
+round 23, index 32: 
+The VCAA requires VA to notify the claimant and the claimant's representative, if any, of any information and any medical or lay evidence not previously provided to VA that is necessary to substantiate the claim.
+
+round 24, index 22: 
+The Veterans Claims Assistance Act of 2000 (VCAA)
+
+round 25, index 44: 
+"If [there is] evidence [that] is not in your possession, you must give us enough information about the evidence so that we can request it from the person or agency that has it.
+
+round 26, index 35: 
+After having carefully reviewed the record, the Board has concluded that the notice requirements of the VCAA have been satisfied with respect to the issue on appeal.
+
+round 27, index 33: 
+As part of the notice, VA is to specifically inform the claimant and the claimant's representative, if any, of which portion, if any, of the evidence is to be provided by the claimant and which part, if any, VA will attempt to obtain on behalf of the claimant.
+
+round 28, index 23: 
+The Board has given consideration to the VCAA.
+
+round 29, index 24: 
+The VCAA includes an enhanced duty on the part of VA to notify a claimant as to the information and evidence necessary to substantiate claims for VA benefits.
+
+round 30, index 25: 
+The VCAA also redefines the obligations of VA with respect to its statutory duty to assist claimants in the development of their claims.
+
+round 31, index 0: 
+The Veteran served on active duty in the United States Army from February 1947 to January 1947 and from September 1950 to October 1951.
+
+round 32, index 1: 
+This matter comes before the Board of Veterans' Appeals (Board) on appeal of a June 2005 rating decision by the Department of Veterans Affairs (VA) Regional Office (RO) in Indianapolis, Indiana, which denied service connection for PTSD.
+
+round 33, index 41: 
+State or local governments, private doctors and hospitals, or current or former employers."
+
+round 34, index 46: 
+It is your responsibility to make sure we receive all requested records that are not in the possession of a Federal department or agency."
+
+round 35, index 93: 
+Accordingly, the Board will proceed to a decision.
+
+round 36, index 34: 
+[a letter from VA to an appellant describing evidence potentially helpful to the appellant but not mentioning who is responsible for obtaining such evidence did not meet the standard erected by the VCAA].
+
+round 37, index 48: 
+If you have any evidence in your possession that pertains to your claim, please send it to us."  This informed the Veteran that he could submit or identify evidence other than what was specifically requested by the RO.
+
+round 38, index 69: 
+The Board also observes that the Veteran has not been accorded a VA compensation and pension examination with regard to his claim, and that a medical opinion regarding the etiology of the claimed disability has not been obtained.
+
+round 39, index 70: 
+The law provides that the assistance provided by VA shall include providing a medical examination or obtaining a medical opinion when such an examination or opinion is necessary to make a decision on the claim.
+
+round 40, index 52: 
+a connection between the veteran's service and the disability; (4) degree of disability; and (5) effective date.
+
+round 41, index 26: 
+The VCAA alters the legal landscape in three distinct ways:
+
+round 42, index 130: 
+He was first diagnosed with depression and generalized anxiety disorder in February 2009, more than 50 years after he left military service.
+
+round 43, index 50: 
+The final rule removes the third sentence of 38 C.F.R. § 3.159(b)(1), which had stated that VA will request the claimant to provide any evidence in the claimant's possession that pertains to the claim.
+
+round 44, index 51: 
+(3)
+
+round 45, index 27: 
+standard of review, notice and duty to assist.
+
+round 46, index 108: 
+This record not provide a diagnosis.
+
+round 47, index 68: 
+So it is in this case.
+
+round 48, index 92: 
+He exercised the option of a personal hearing and was afforded one in April 2009 as detailed in the Introduction.
+
+round 49, index 72: 
+For reasons explained immediately below, such an examination and medical opinion are not necessary.
+
+round 50, index 28: 
+The Board will now address these concepts within the context of the circumstances presented in this case.
+
+round 51, index 110: 
+he has failed to do so.
+
+round 52, index 71: 
+An examination is deemed "necessary" if the record does not contain sufficient medical evidence for VA to make a decision on the claim.
+
+round 53, index 73: 
+(3)
+
+round 54, index 2: 
+The Veteran requested de novo review by a Decision Review Officer (DRO).
+
+round 55, index 101: 
+(2)
+
+round 56, index 109: 
+The Veteran has been accorded ample opportunity to present medical evidence in support of his claim;
+
+round 57, index 3: 
+The DRO issued a statement of the case (SOC) in May 2006 that continued the denial of his claim.
+
+round 58, index 123: 
+In the absence of element (2), it follows that element (3), medical nexus, is necessarily lacking.
+
+round 59, index 91: 
+The Veteran has been accorded the opportunity to present evidence and argument in support of his claim.
+

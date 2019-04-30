@@ -1,0 +1,180 @@
+round 0, index 328: 
+Service connection for an acquired psychiatric disorder, to include PTSD, is denied.
+
+round 1, index 327: 
+However, as the preponderance of the evidence is against the Veteran's claim, that doctrine is not applicable in the instant appeal.
+
+round 2, index 326: 
+In reaching the above conclusion, the Board has considered the applicability of the benefit of the doubt doctrine.
+
+round 3, index 11: 
+Service connection for an acquired psychiatric disorder, to include PTSD, is not established.
+
+round 4, index 9: 
+The Veteran does not manifest an acquired psychiatric disorder, to include PTSD, which had its onset in service or is due to an in-service event.
+
+round 5, index 329: 
+Veterans Law Judge, Board of Veterans' AppealsDepartment of Veterans Affairs
+
+round 6, index 15: 
+that VA will seek to provide; and (3) that the claimant is expected to provide.
+
+round 7, index 16: 
+held that the VCAA notice requirements of 38 U.S.C.A. § 5103(a) and 38 C.F.R. § 3.159(b) apply to all five elements of a service connection claim.
+
+round 8, index 13: 
+Proper VCAA notice must inform the claimant of any information and evidence not of record (1) that is necessary to substantiate the claim;
+
+round 9, index 12: 
+I.  VA's Duties to Notify and AssistThe Veterans Claims Assistance Act of 2000 (VCAA) and implementing regulations impose obligations on VA to provide claimants with notice and assistance.
+
+round 10, index 14: 
+(2)
+
+round 11, index 17: 
+Those five elements include: 1) Veteran status; 2) existence of a disability; 3) a connection between the Veteran's service and the disability; 4) degree of disability; and 5) effective date of the disability.
+
+round 12, index 321: 
+Otherwise, the Veteran has expressed his own personal belief and opinions.
+
+round 13, index 18: 
+In the instant case, the Board finds that VA has satisfied its duty to notify under the VCAA.
+
+round 14, index 19: 
+The Veteran filed his service connection claim on appeal in August 2005.
+
+round 15, index 97: 
+The benefit of the doubt doctrine is not applicable based on pure speculation or remote possibility.
+
+round 16, index 20: 
+In a September 2005 letter, sent prior to the September 2006 rating decision on appeal, the AOJ notified the Veteran of the evidence and information necessary to substantiate his service connection claim as well as his and VA's respective responsibilities in obtaining such evidence and information.
+
+round 17, index 21: 
+This letter included a PTSD stressor questionnaire for the Veteran to complete and return to the AOJ.
+
+round 18, index 22: 
+Notably, the September 2005 AOJ letter did not advise the Veteran of the evidence and information necessary to establish a disability rating and an effective date in accordance with Dingess/Hartman.
+
+round 19, index 23: 
+However, as the service connection claim remains denied, this notice deficiency does not result in any prejudicial harm to the Veteran as these downstream issues from a service connection award are not implicated.
+
+round 20, index 258: 
+-
+
+round 21, index 44: 
+II.
+
+round 22, index 24: 
+Relevant to the duty to assist, all of the Veteran's service treatment records (STRs), service personnel records (SPRs), private treatment records and VA clinic records have been obtained and considered.
+
+round 23, index 43: 
+Hence, no further notice or assistance is required to fulfill VA's duty to assist the Veteran in the development of the claim.
+
+round 24, index 25: 
+Additionally, the record contains medical documents which supported the Veteran's award of disability benefits with the Social Security Administration (SSA) prior to the start of this appeal.
+
+round 25, index 26: 
+SSA provided additional documents in March 2014.
+
+round 26, index 10: 
+The Veteran's anti-social personality disorder is not considered a disability for VA purposes.
+
+round 27, index 27: 
+The record does not disclose the existence of any available records which are necessary to decide this case.
+
+round 28, index 28: 
+The Veteran has been afforded several VA examinations in connection with this appeal.
+
+round 29, index 47: 
+Service connection may be granted for a disability resulting from a disease or injury incurred in or aggravated by service.
+
+round 30, index 50: 
+in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service.
+
+round 31, index 0: 
+The Veteran served on active duty from February 1972 to April 1974.
+
+round 32, index 1: 
+This case comes before the Board of Veterans' Appeals (Board) on appeal from a September 2006 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO) in Houston, Texas (hereinafter Agency of Original Jurisdiction (AOJ)).
+
+round 33, index 104: 
+The Veteran served on active duty from February 1972 to April 1974.
+
+round 34, index 200: 
+Following mental status examination, the examiner offered Axis I diagnoses of alcohol dependence in early remission, cocaine dependence in full remission and impulse control disorder.
+
+round 35, index 2: 
+In his January 2008 substantive appeal, the Veteran requested a videoconference hearing at a local VA office before a Member of the Board.
+
+round 36, index 102: 
+Id.
+
+round 37, index 131: 
+The probative value of medical opinion evidence is based on the medical expert's personal examination of the patient, the physician's knowledge and skill in analyzing the data, and the medical conclusion that the physician reaches.
+
+round 38, index 132: 
+As is true with any piece of evidence, the credibility and weight to be attached to these opinions [are] within the province of the adjudicators;
+
+round 39, index 51: 
+Certain chronic diseases, such as psychosis, may be presumed to have been incurred in service if manifest to a compensable degree within one year from discharge from service, provided further that the rebuttable presumption provisions of 38 C.F.R. § 3.307 are also satisfied.
+
+round 40, index 49: 
+(2)
+
+round 41, index 42: 
+Overall, the Board finds that the evidence of record is sufficient to decide this claim, and that there is no reasonable possibility that any further assistance would aid in substantiating this claim.
+
+round 42, index 40: 
+The AOJ has associated all outstanding VA clinic records with the record, provided the Veteran VCAA notice, obtained available SSA records and obtained an adequate VA examination.
+
+round 43, index 133: 
+So long as the Board provides an adequate reason or basis for doing so, the Board does not err by favoring one competent medical opinion over another.
+
+round 44, index 41: 
+Based on the foregoing, the Board finds that the AOJ substantially complied with the mandates of its remands.
+
+round 45, index 94: 
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Board shall give the benefit of the doubt to the claimant.
+
+round 46, index 147: 
+The testimony is based upon sufficient facts or data;
+
+round 47, index 146: 
+(1)
+
+round 48, index 4: 
+He has neither requested a new hearing nor shown good cause for his failure to report to the prior hearing.
+
+round 49, index 103: 
+He reports performing training exercises in Korea wherein he often fired his machine gun at barrels, and being shot at by Koreans in the DMZ while not being provided ammunition to return fire.
+
+round 50, index 257: 
+He stated he "doesn't take it" from his wife when she gets mad at him.
+
+round 51, index 95: 
+Id.
+
+round 52, index 148: 
+(2)
+
+round 53, index 145: 
+The factors identified in Fed.R.Evid 702 are as follows:
+
+round 54, index 55: 
+Id.
+
+round 55, index 52: 
+Service connection may be established under 38 C.F.R. § 3.303(b) by (a) evidence of (i) the existence of a chronic disease in service or during an applicable presumption period under 38 C.F.R. § 3.307 and (ii) present manifestations of the same chronic disease, or (b) when a chronic disease is not present during service, evidence of continuity of symptomatology.
+
+round 56, index 56: 
+When the fact of chronicity in service is not adequately supported, then a showing of continuity after discharge is required to support the claim.
+
+round 57, index 149: 
+the testimony is the product of reliable principles and methods; and (3) the expert witness has applied the principles and methods reliably to the facts of the case.
+
+round 58, index 57: 
+Id.
+
+round 59, index 176: 
+He described the Koreans as shooting at them from a couple hundred yards away.
+

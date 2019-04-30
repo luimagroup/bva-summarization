@@ -1,0 +1,180 @@
+round 0, index 76: 
+Entitlement to service connection for a psychiatric disability, to include PTSD, is denied.
+
+round 1, index 75: 
+As the preponderance of the evidence is against the claim for service connection for a psychiatric disability, to include PTSD, the reasonable doubt doctrine is not for application.
+
+round 2, index 74: 
+There is no diagnosis of PTSD that is related to the veteran's claimed non-combat stressor.
+
+round 3, index 14: 
+In addition, VA must also request that the claimant provide any evidence in the claimant's possession that pertains to the claim.
+
+round 4, index 15: 
+In the present case, the veteran was provided with the notice required by the VCAA in July 2003, July 2004, and August 2006 letters.
+
+round 5, index 13: 
+As part of the notice, VA is to specifically inform the claimant and the claimant's representative, if any, of which portion, if any, of the evidence is to be provided by the claimant and which part, if any, VA will attempt to obtain on behalf of the claimant.
+
+round 6, index 16: 
+Collectively, these letters informed the veteran to submit any pertinent evidence he has in his possession, informed him of the evidence required to substantiate the claims being decided herein, the information required from him to enable VA to obtain evidence on his behalf, the assistance that VA would provide to obtain evidence on his behalf, and that he should submit such evidence or provide VA with the information necessary for VA to obtain such evidence on his behalf.
+
+round 7, index 12: 
+They also require VA to notify the claimant and the claimant's representative, if any, of any information, and any medical or lay evidence, not previously provided to the Secretary that is necessary to substantiate the claim.
+
+round 8, index 17: 
+Therefore, the Board finds that he was provided with the notice required by the VCAA.
+
+round 9, index 11: 
+I.  Duties to Notify and AssistThe Veterans Claims Assistance Act of 2000 (VCAA), codified in pertinent part at 38 U.S.C.A. §§ 5103, 5103A (West 2002), and the pertinent implementing regulation, codified at 38 C.F.R. § 3.159 (2006), provides that VA will assist a claimant in obtaining evidence necessary to substantiate a claim but is not required to provide assistance to a claimant if there is no reasonable possibility that such assistance would aid in substantiating the claim.
+
+round 10, index 18: 
+Moreover, all available evidence pertaining to the veteran's claim has been obtained.
+
+round 11, index 10: 
+An acquired psychiatric disability, including PTSD, was not incurred or aggravated in service, and a psychosis did not manifest itself to a compensable degree within one year after the date of separation from service.
+
+round 12, index 45: 
+There is also no evidence of a nexus between the veteran's current psychiatric disability and service.
+
+round 13, index 19: 
+The claims folder contains service medical records, a hearing transcript, records from the Social Security Administration (SSA) and post-service medical records from the VA Medical Center in San Juan, and private medical providers.
+
+round 14, index 51: 
+Therefore, the claim must be denied.
+
+round 15, index 22: 
+Therefore, the Board is satisfied that VA has complied with its duty to assist the veteran in the development of the facts pertinent to his service connection claim.
+
+round 16, index 20: 
+It appears that all obtainable evidence identified by the veteran relative to his service connection claim has been obtained and associated with the claims folder, and that neither he or his representative has identified any other pertinent evidence, not already of record, which would need to be obtained for a fair disposition of this appeal.
+
+round 17, index 21: 
+The Board is also unaware of any such evidence.
+
+round 18, index 24: 
+There is no indication in the record or reason to believe that the ultimate decision of the originating agency on the merits of the claim would have been different had complete VCAA notice been provided at an earlier time.
+
+round 19, index 23: 
+The record also reflects that the originating agency readjudicated the veteran's claim being decided herein following the provision of the required notice and the completion of all indicated development of the record.
+
+round 20, index 26: 
+II.
+
+round 21, index 25: 
+For the above reasons, it is not prejudicial to the veteran for the Board to proceed to finally decide the issue discussed in this decision.
+
+round 22, index 27: 
+For service connection to be established, there must be a current disability and evidence that such disability resulted from disease or injury incurred in or aggravated by service.
+
+round 23, index 77: 
+Veterans Law Judge, Board of Veterans' Appeals Department of Veterans Affairs
+
+round 24, index 30: 
+It is the responsibility of the Board to review all the evidence of record and reach a conclusion by applying the standard of review set forth above.
+
+round 25, index 28: 
+Regulations also provide that service connection may be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.
+
+round 26, index 9: 
+The veteran is not shown to have a diagnosis of PTSD due to any verified event during his period of military service.
+
+round 27, index 32: 
+"It is not error for the BVA to favor the opinion of one competent medical expert over that of another when the Board gives an adequate statement of reason or bases.
+
+round 28, index 29: 
+Psychoses may be presumed to have been incurred during active military service if they become manifest to a degree of at least 10 percent within the first year following active service in the case of any veteran who served for 90 day or more.
+
+round 29, index 33: 
+It is the responsibility of the BVA, . . . to assess the credibility and weight to be given to evidence."
+
+round 30, index 31: 
+The United States Court of Appeals for the Federal Circuit has recognized the Board's "authority to discount the weight and probity of evidence in light of its own inherent characteristics and its relationship to other items of evidence."
+
+round 31, index 8: 
+The veteran did not engage in combat with the enemy.
+
+round 32, index 5: 
+In December 2000, June 2004, and July 2006, the Board remanded the case for further development.
+
+round 33, index 0: 
+The veteran served on active military duty from August 1983 to March 1986.
+
+round 34, index 1: 
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from April 1993 and September 1993 rating decisions of the Department of Veterans Affairs Regional Office (RO) in San Juan, the Commonwealth of Puerto Rico.
+
+round 35, index 2: 
+In October 2000, the veteran testified before the undersigned
+
+round 36, index 3: 
+Veterans Law Judge at the VA Central Office.
+
+round 37, index 72: 
+While some treatment records reflect that the veteran has symptoms of PTSD or a history of PTSD, there is no diagnosis of PTSD that has been attributed to inservice stressors.
+
+round 38, index 4: 
+A transcript of the hearing is associated with the claims folder and has been reviewed.
+
+round 39, index 73: 
+Without a verified stressor, the assessments and history of PTSD have no probative value.
+
+round 40, index 44: 
+The first indication of psychiatric problems was in October 1992 when the veteran was initially admitted to a VA Medical Center for a non-psychiatric problem, but was transferred to the psychiatric unit just prior to discharge.
+
+round 41, index 46: 
+The Board also notes that the veteran's SSA determination that the veteran became disabled, in part, due to schizophrenic, paranoid and other functional psychotic disability as of October 8, 1992 does not help the veteran's service connection claim as it is based on different standards and does not find that the veteran's psychiatric disability is related to service.
+
+round 42, index 66: 
+This matter is an adjudicatory question involving both consideration of the facts as presented, as well as the credibility of the evidence contained in the claims folder.
+
+round 43, index 67: 
+On review, the veteran's claimed stressor has not been verified.
+
+round 44, index 43: 
+There is also no evidence of a psychosis within the first post-service year.
+
+round 45, index 42: 
+At his retirement evaluation, the veteran denied ever having experienced frequent trouble sleeping, depression or excessive worry, loss of memory or amnesia, nervous trouble of any sort, or periods of unconsciousness.
+
+round 46, index 34: 
+The veteran attributes his mental problems to in-service injuries that he reportedly sustained when, while on guard duty in 1985, an explosion occurred and he witnessed some of his companions burning.
+
+round 47, index 35: 
+Since that incident, he reports experiencing horrible nightmares and feelings of depression.
+
+round 48, index 71: 
+The preponderance of the evidence is against a finding that the veteran has a diagnosis of PTSD in accordance with 38 C.F.R. § 4.125, and as such, there is no medical evidence of a link between current symptomatology and the claimed in-service stressor.
+
+round 49, index 7: 
+The veteran did not have an acquired psychiatric disability in service, the current psychiatric disability is not related to service, and a psychosis was not manifested within the first post-service year.
+
+round 50, index 6: 
+The veteran's case has since returned to the Board for appellate review.
+
+round 51, index 70: 
+Furthermore, the evidence does not satisfy the first element of a successful PTSD claim.
+
+round 52, index 69: 
+Given this response, the record does not contain evidence of a verified stressor upon which a diagnosis of PTSD can be based.
+
+round 53, index 49: 
+However, the veteran failed to report to such examination.
+
+round 54, index 47: 
+Although the veteran attributes his current psychiatric disability to service, his opinion as to medical matters is without probative value because he, as a layperson, is not competent to establish a medical diagnosis or draw medical conclusions; such matters require medical expertise.
+
+round 55, index 68: 
+In this regard, in response to a request by VA, the U. S. Army and Joint Services Records Research Center (JSRRC) was unable to verify the veteran's claimed stressor.
+
+round 56, index 50: 
+In sum, while the veteran currently has a psychiatric disability, other than PTSD, it has not been linked to an in-service event.
+
+round 57, index 40: 
+A mental status evaluation completed in February 1986 included the examiner's determination that no diagnosis was appropriate.
+
+round 58, index 41: 
+The separation examination which was conducted in the following month also demonstrated that the veteran's psychiatric system was normal.
+
+round 59, index 63: 
+However, his personnel records fail to show that he received any awards, medals, or decorations conclusively indicating combat, therefore, the Board finds that the veteran did not engage in combat with the enemy.
+

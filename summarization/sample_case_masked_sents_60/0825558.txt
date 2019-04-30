@@ -1,0 +1,180 @@
+round 0, index 66: 
+Service connection for claimed PTSD is denied.
+
+round 1, index 65: 
+Consequently, the doctrine of reasonable doubt is not for application.
+
+round 2, index 64: 
+In summary, because all of the elements required for a finding of service connection for PTSD are not shown, the preponderance of the evidence is against the veteran's claim.
+
+round 3, index 59: 
+A layperson is not competent to make a determination that a particular disability is the result of service.
+
+round 4, index 9: 
+In June 2001, July 2005, September 2006, and November 2006, the RO sent the veteran a letter in which he was informed of the requirements needed to establish service connection.
+
+round 5, index 10: 
+In accordance with the requirements of VCAA, the letters informed the veteran what evidence and information he was responsible for and the evidence that was considered VA's responsibility.
+
+round 6, index 11: 
+Additional private evidence was subsequently added to the record after each letter.
+
+round 7, index 12: 
+The Board notes that the veteran was informed in the September 2006 letter that a disability rating and effective date would be assigned if his claim was granted.
+
+round 8, index 13: 
+VA has a duty to assist the claimant in obtaining evidence necessary to substantiate a claim.
+
+round 9, index 14: 
+VCAA also requires VA to provide a medical examination when such an examination is necessary to make a decision on the claim.
+
+round 10, index 8: 
+After having carefully reviewed the record on appeal, the Board has concluded that the notice requirements of VCAA have been satisfied with respect to the issue decided herein.
+
+round 11, index 7: 
+VA has a duty to notify the claimant of any information and evidence needed to substantiate and complete a claim.
+
+round 12, index 63: 
+Additionally, he does not report being personally threatened by a sea snake since he sailing was in a boat.
+
+round 13, index 57: 
+Hence, service connection for PTSD must be denied.
+
+round 14, index 58: 
+With respect to the written statements by and on behalf of the veteran in support of his service connection claim, lay statements alone, including those from the veteran and his wife, are not competent evidence to establish the diagnosis of PTSD due to service.
+
+round 15, index 15: 
+There is no nexus opinion on file on whether the veteran has PTSD due to service.
+
+round 16, index 22: 
+Finally, to the extent that VA has failed to fulfill any duty to notify and assist the veteran, the Board finds any such defect to be harmless.
+
+round 17, index 56: 
+Because the veteran has not provided sufficient evidence of service stressors that can be verified, all of the elements needed to support a diagnosis of PTSD have not been shown in this case.
+
+round 18, index 60: 
+Although the veteran contends that the 1991 letters home are proof of his service stressors, the Board notes that, while there are references to beheadings and sea snakes, the veteran does not say that he witnessed the beheadings himself.
+
+round 19, index 55: 
+Consequently, despite VA's efforts to obtain sufficient information from the veteran to verify his claimed stressors, the veteran is unable to provide any detailed information regarding the claimed events to warrant resubmission to the USASCRUR for verification.
+
+round 20, index 6: 
+The regulations implementing VCAA have been enacted.
+
+round 21, index 54: 
+Thus, the Board finds that the veteran is unable to provide any specific information to aid in verification of his service stressors, including the names and units of any person whom he witnessed or knew who was either injured or killed.
+
+round 22, index 16: 
+Such development is to be considered necessary if the information of record does not contain sufficient medical evidence to decide the claim, but contains competent evidence of diagnosed PTSD;
+
+round 23, index 17: 
+establishes a verified service stressor; and indicates that the claimed disability may be associated with the in-service stressor.
+
+round 24, index 18: 
+Because not all of these requirements have been met, as discussed hereinbelow, a VA examination or related medical opinion is not required with regard this issue.
+
+round 25, index 20: 
+The veteran has been given ample opportunity to present evidence and argument in support of his claim.
+
+round 26, index 23: 
+Of course, an error is not harmless when it "reasonably affect(s) the outcome of the case."
+
+round 27, index 19: 
+The Board concludes that all available evidence that is pertinent to the claim decided herein has been obtained and that there is sufficient medical evidence on file on which to make a decision on the issue.
+
+round 28, index 53: 
+The veteran failed to provide more specific information despite VA requests in September and November 2006.
+
+round 29, index 62: 
+He did not refer to having gone to a beheading or to being upset by them.
+
+round 30, index 67: 
+Veterans Law Judge, Board of Veterans' Appeals Department of Veterans Affairs
+
+round 31, index 21: 
+The Board additionally finds that general due process considerations have been complied with by VA.
+
+round 32, index 4: 
+The veteran does not have a disability manifested by PTSD due to disease or injury that was incurred in or aggravated by service.
+
+round 33, index 24: 
+ATD Corp. v. Lydall, Inc., 159 F.3d 534, 549 (Fed.Cir. 1998).
+
+round 34, index 25: 
+In this case, however, as there is no evidence that any failure on the part of VA to further comply with VCAA reasonably affects the outcome of this case, the Board finds that any such omission is harmless.
+
+round 35, index 27: 
+Service connection may also be granted for disability shown after service, when all of the evidence, including that pertinent to service, shows that it was incurred in service.
+
+round 36, index 26: 
+Law And RegulationsService connection may be granted for disability or injury incurred in or aggravated by active military service.
+
+round 37, index 2: 
+The veteran is not shown to have had combat with the enemy while serving on active duty, including during his active service in the Persian Gulf   2.
+
+round 38, index 3: 
+A medically supportable diagnosis of PTSD based on a verified stressor or a potentially verifiable stressor event or incident during a period of the veteran's service is not demonstrated.
+
+round 39, index 28: 
+In order to establish service connection for the claimed disorder, there must be (1) medical evidence of a current disability; (2) medical, or in certain circumstances, lay evidence of in-service incurrence or aggravation of a disease or injury; and (3) medical evidence of a nexus between the claimed in-service disease or injury and the current disability.
+
+round 40, index 45: 
+He was not awarded any medals or decorations indicative of combat, and his military specialty, information management technician, is also not indicative of combat.
+
+round 41, index 5: 
+The Board has given consideration to the provisions of the Veterans Claims Assistance Act of 2000 (VCAA).
+
+round 42, index 44: 
+The evidence in this case does not serve to show that the veteran was engaged in combat with the enemy.
+
+round 43, index 46: 
+Therefore, the provisions of 38 U.S.C.A. § 1154 are not applicable in this case.
+
+round 44, index 52: 
+It was also noted that stressors such as recovering Iraqi bodies or seeing civilians killed could not be verified.
+
+round 45, index 61: 
+In fact, he said "[t]hey still hold public beheadings down town here, and all are invited to come and watch these people get their heads chopped off for screwing up."
+
+round 46, index 37: 
+Photocopies of letters from the veteran to his wife and to his brother were added to the claims files in June 2005 and December 2007.  These letters, dated in 1991, talk about the Persian Gulf and contain references to beheadings and sea snakes.
+
+round 47, index 51: 
+According to a February 2005 statement from the United States Armed Services Center for Unit Records Research (USASCRUR), the stressors provided by the veteran were unable to be verified without more specific information from the veteran, to include names and branches of service of people involved.
+
+round 48, index 1: 
+This case initially comes to the Board of Veterans' Appeals (Board) on appeal from the RO.  1.
+
+round 49, index 43: 
+Moreover, a medical opinion diagnosing PTSD does not suffice to verify the occurrence of the claimed in-service stressor.
+
+round 50, index 50: 
+The veteran's stressors are reported as those of seeing civilians beheaded, recovering Iraqi bodies, witnessing a soldier being blown up by a booby-trapped AK-47, and being in Saudi Arabia when there was a breach of security.
+
+round 51, index 34: 
+The initial postservice evidence of a psychiatric problem was in February 2000, when mild PTSD was diagnosed.
+
+round 52, index 47: 
+In order to establish service connection for a veteran who had no combat experience, as here, there must be independent evidence of record to corroborate the veteran's statement as to the occurrence of a claimed stressor.
+
+round 53, index 41: 
+Where a determination is made that the veteran did not "engage in combat with the enemy," or the claimed stressor is not related to combat, a veteran's lay testimony alone will not be enough to establish the occurrence of the alleged stressor.
+
+round 54, index 42: 
+In such cases, the record must contain service records or other corroborative evidence that substantiates or verifies the veteran's testimony or statements as to the occurrence of the claimed stressor.
+
+round 55, index 29: 
+The veteran asserts that he has PTSD caused by stressful events to which he was exposed in service.
+
+round 56, index 36: 
+Additionally, there are private medical reports on file which link the veteran's PTSD to his service stressors.
+
+round 57, index 35: 
+Subsequent VA and private treatment records show continued psychiatric problems, including several diagnoses of PTSD.
+
+round 58, index 48: 
+The veteran's lay statements alone are not enough to establish the occurrence of an alleged stressor.
+
+round 59, index 31: 
+His military specialty was noted to be information management technician.
+

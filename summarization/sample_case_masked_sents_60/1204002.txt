@@ -1,0 +1,180 @@
+round 0, index 61: 
+Service connection for PTSD is granted.
+
+round 1, index 60: 
+Service connection for PTSD is therefore warranted.
+
+round 2, index 59: 
+In conclusion, evidence supports a finding that the Veteran suffers from PTSD as a result of stressors he experienced while on active duty.
+
+round 3, index 58: 
+And since VA psychiatrists have concluded that the Veteran has PTSD based on these in-service stressors, the Board will accept the Veteran's lay statement without corroborating evidence.
+
+round 4, index 57: 
+In addition, the type of stressors he identified (coming under rocket and mortar attack during convoys) meets the definition of "fear of hostile military or terrorist activity."
+
+round 5, index 56: 
+Since his service personnel records show that he was stationed in Vietnam from July 23, 1969, until October 8, 1970, during which time he was a heavy vehicle driver, his claimed stressors are consistent with the circumstances and conditions of his service.
+
+round 6, index 55: 
+Nevertheless, his stressors of coming under enemy attack during convoys appear to fall within the purview of this new version of subpart (f)(3).
+
+round 7, index 24: 
+The Veteran claims that he developed PTSD as a result of stressors he experienced while serving in Vietnam as a truck driver.
+
+round 8, index 54: 
+In light of these findings, there is no evidence confirming his involvement in combat while serving in Vietnam.
+
+round 9, index 25: 
+These stressors include coming under rocket and mortar attack while driving convoys carrying ammunition.
+
+round 10, index 27: 
+For the reasons set forth below, the Board finds that the evidence supports his claim.
+
+round 11, index 26: 
+He is seeking service connection for PTSD based on these claimed in-service stressors.
+
+round 12, index 23: 
+Since the Board is granting the claim for service connection for PTSD, there is no need to discuss whether there has been compliance with these notice and duty-to-assist provisions of the VCAA.
+
+round 13, index 28: 
+Service connection is granted for disability resulting from disease or injury incurred in or aggravated by active military service in the line of duty.
+
+round 14, index 29: 
+Service connection for PTSD, in particular, requires:  [1] a current medical diagnosis of the condition in accordance with 38 C.F.R. § 4.125(a), [2] credible supporting evidence that the claimed in-service stressor(s) actually occurred, and [3] medical evidence of a causal relationship between current symptomatology and the specific claimed in-service stressor(s).
+
+round 15, index 53: 
+Also, he was not awarded the Combat Infantryman Badge, Purple Heart Medal, or any other award typically associated with valor or heroism shown while engaged in combat with an enemy force.
+
+round 16, index 30: 
+A diagnosis of PTSD must be established in accordance with 38 C.F.R. § 4.125(a), which mandates that, for VA purposes, all mental disorder diagnoses must conform to the American Psychiatric Association's DSM-IV.
+
+round 17, index 31: 
+The Court has taken judicial notice of the mental health profession's adoption of the DSM-IV.
+
+round 18, index 32: 
+According to the current criteria, a diagnosis of PTSD requires exposure to a traumatic event, or stressor.
+
+round 19, index 33: 
+A stressor involves exposure to a traumatic event in which the person experienced, witnessed, or was confronted with an event or events that involved actual or threatened death or serious injury, or a threat to the physical integrity of self or others, and the person's response involved intense fear, helplessness, or horror.
+
+round 20, index 34: 
+The sufficiency of a stressor is a medical determination, and the occurrence of a claimed stressor is an adjudicatory determination.
+
+round 21, index 36: 
+With respect to the stressor element, the general rule is that there must be credible evidence to support the Veteran's assertion that the stressful event occurred.
+
+round 22, index 35: 
+Id.
+
+round 23, index 21: 
+The Veteran has been diagnosed with PTSD by VA psychiatrists based on in-service stressors which appear credible and consistent with the circumstances of his service in Vietnam.PTSD was incurred in service.
+
+round 24, index 37: 
+A medical opinion diagnosing PTSD does not suffice to verify the occurrence of the claimed in-service stressors.
+
+round 25, index 38: 
+Exceptions to this general rule are when the claimed in-stressors occurred during combat, while being held as a prisoner of war (POW), due to a personal assault, or due to "fear of hostile military or terrorist activity."
+
+round 26, index 39: 
+This last exception involving "fear of hostile or terrorist activity" was recently added.
+
+round 27, index 62: 
+Veterans Law Judge, Board of Veterans' AppealsDepartment of Veterans Affairs
+
+round 28, index 16: 
+In addition, the period for filing a substantive appeal also may be extended for good cause, 38 C.F.R. § 20.303, and, under certain circumstances, a statutory filing period may be equitably tolled due to conduct of VA.
+
+round 29, index 52: 
+While the Veteran claims to have been involved in combat, which is noted in his diagnosis, this has not been confirmed by his service personnel records.
+
+round 30, index 22: 
+Before addressing the underlying merits of a claim, the Board is generally required to ensure that VA's duties to notify and assist obligations have been satisfied under the Veterans Claims Assistance Act of 2000 (VCAA).
+
+round 31, index 0: 
+The Veteran served on active duty in the military from March 1969 to October 1970.
+
+round 32, index 1: 
+His appeal to the Board of Veterans' Appeals (Board) is from a September 2004 rating decision of a Department of Veterans Affairs (VA) Regional Office (RO), which denied service connection for PTSD.
+
+round 33, index 2: 
+An appeal to the Board consists of a timely filed notice of disagreement (NOD) in writing and, after a statement of the case (SOC) has been furnished, a timely filed substantive appeal (e.g., a VA Form 9 or equivalent statement).
+
+round 34, index 3: 
+After the Veteran filed a timely NOD with the September 2004 decision, the RO issued an SOC on January 23, 2006.
+
+round 35, index 43: 
+Applying these criteria to the facts of this case, the Board finds that the evidence supports the claim that the Veteran has PTSD as a result of service.
+
+round 36, index 15: 
+(holding that 38 U.S.C.A. § 7105(d)(3) does not operate as a mandatory jurisdictional bar precluding the Board from considering an appeal where the substantive appeal is untimely, rather, in light of the use of the term "may" in this statute, it merely gives the Board this discretionary authority not to.);
+
+round 37, index 20: 
+However, he has since withdrawn his hearing request.
+
+round 38, index 12: 
+Since the Veteran's hearing request occurred during the 60-day appeal period from the issuance of the SOC, the Board will accept his July 2009 substantive appeal as timely.
+
+round 39, index 17: 
+Under these circumstances, the Board finds that the time limit for filing the substantive appeal in response to the January 2006 SOC should be extended and the Veteran's July 2009 appeal accepted as timely.
+
+round 40, index 51: 
+It is also unclear whether the Veteran engaged in combat with an enemy force.
+
+round 41, index 45: 
+A January 2004 report lists a diagnosis of PTSD, chronic, based on findings from a mental status examination and an interview in which the Veteran claimed that his convoy in Vietnam had come under enemy attack.
+
+round 42, index 50: 
+In reaching this conclusion, the evidence does not indicate that the Veteran's claimed in-stressors occurred while being held as a prisoner of war (POW) or that they are due to a personal assault.
+
+round 43, index 13: 
+While the purpose for delaying the filing of a substantive appeal until after a hearing remains unclear, he clearly demonstrated his understanding of the need to file a substantive appeal and essentially conveyed his intent to do so.
+
+round 44, index 11: 
+The Veteran did so by filing a claim in August 2006, which eventually resulted in his submitting a substantive appeal in July 2009.
+
+round 45, index 14: 
+The Board emphasizes that the time limit for filing a substantive appeal is not a jurisdictional requirement and may be waived either explicitly or implicitly.
+
+round 46, index 48: 
+First, he clearly has a PTSD diagnosis in accordance with
+
+round 47, index 49: 
+Second, evidence also establishes that his PTSD is related to a verified in-service stressor.
+
+round 48, index 10: 
+Rather than schedule a hearing, however, the RO notified the Veteran in a July 2006 letter that the appeal period had expired and that if he wished to pursue his claim he would need to submit new and material evidence.
+
+round 49, index 47: 
+It thus appears that the Veteran has meet all three elements of a PTSD claim.
+
+round 50, index 8: 
+He indicated that he wished to have his hearing prior to perfecting his appeal.
+
+round 51, index 4: 
+As a general rule, the Veteran must file the substantive appeal within 60 days from the date the SOC is mailed or within the remainder of the one-year time period from the date of mailing of notice of the initial determination being appealed, whichever period ends later.
+
+round 52, index 46: 
+An October 2004 report also lists a diagnosis of combat-related PTSD based on the same stressor of his convoy coming under enemy attack in Vietnam, as well as additional stressors of seeing a helicopter get shot down and having to take cover in bunkers during mortar and rocket attacks.
+
+round 53, index 44: 
+Several VA psychiatrists have diagnosed the Veteran with PTSD based on alleged in-service stressors.
+
+round 54, index 42: 
+For purposes of this paragraph, "fear of hostile military or terrorist activity" means that a Veteran experienced, witnessed, or was confronted with an event or circumstance that involved actual or threatened death or serious injury, or a threat to the physical integrity of the Veteran or others, such as from an actual or potential improvised explosive device; vehicle-imbedded explosive device; incoming artillery, rocket, or mortar fire; grenade; small arms fire, including suspected sniper fire; or attack upon friendly military aircraft, and the Veteran's response to the event or circumstance involved a psychological or psycho-physiological state of fear, helplessness, or horror.
+
+round 55, index 41: 
+This new version of 38 CFR § 3.304(f)(3) eliminates the requirement for corroborating evidence of a claimed stressor is related to the Veteran's "fear of hostile military or terrorist activity" and a VA or VA-contracted psychiatrist or psychologist confirms that the claimed stressor is adequate to support a diagnosis of PTSD, the Veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor so long as there is not clear and convincing evidence to the contrary, and provided that the claimed stressor is consistent with the circumstances, conditions, or hardships of the Veteran's service.
+
+round 56, index 9: 
+In an April 2006 statement, the Veteran indicated that he was still waiting to hear back about his hearing.
+
+round 57, index 7: 
+During the 60-day appeal period after the SOC was issued, the Veteran's representative submitted a statement in February 2006 requesting that the Veteran be afforded a hearing with a Decision Review Officer at the RO prior to filing an appeal with the Board.
+
+round 58, index 40: 
+Specifically, 38 C.F.R. 3.304(f) was amended in order to liberalize the requirement of verification or corroboration of a Veteran's claimed in-service stressor events in a PTSD claim.
+
+round 59, index 6: 
+The Board disagrees with the RO's conclusion and will accept his appeal concerning the September 2004 decision as timely.
+

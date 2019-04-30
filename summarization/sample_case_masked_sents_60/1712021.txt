@@ -1,0 +1,180 @@
+round 0, index 119: 
+Service connection for an acquired psychiatric disorder, to include panic disorder with agoraphobia and depressive disorder NOS, is granted.
+
+round 1, index 11: 
+Resolving all doubt in favor of the Veteran, the criteria for entitlement to service connection for an acquired psychiatric disorder, to include panic disorder with agoraphobia and depressive disorder NOS, have been met.
+
+round 2, index 10: 
+The most probative evidence of record indicates that the Veteran's panic disorder with agoraphobia and depressive disorder NOS are etiologically related to service.
+
+round 3, index 118: 
+As such, the Board will resolve all reasonable doubt in favor of the Veteran and find that the Veteran's panic disorder and depressive disorder are etiologically related to service.
+
+round 4, index 117: 
+The Board finds that the record contains medical evidence both for and against the Veteran's claim, but, the most probative evidence of record is in favor of a finding of service connection.
+
+round 5, index 16: 
+(2)
+
+round 6, index 53: 
+In a November 2008 VA record, the Veteran was noted to have a significant history of chronic PTSD.
+
+round 7, index 52: 
+In an August 2008 VA record, the Veteran presented with and was treated for unremitting PTSD symptoms.
+
+round 8, index 51: 
+In a June 2008 VA record, the Veteran was given a provisional diagnosis of PTSD.
+
+round 9, index 54: 
+However, subsequent VA examinations have not revealed a diagnosis of PTSD.
+
+round 10, index 55: 
+In a September 2008 VA examination, the examiner opined that the DSM-IV criteria for a PTSD diagnosis were not met.
+
+round 11, index 13: 
+SDuties to Notify and AssistThe Veteran Claims Assistance Act of 2000 (VCAA), in part, describes VA's duties to notify and assist a claimant in substantiating a claim for VA benefits.
+
+round 12, index 56: 
+In an October 2009 VA examination, the Veteran received a diagnosis of panic disorder with agoraphobia and depressive disorder NOS, but a diagnosis of PTSD was ruled out.
+
+round 13, index 57: 
+The examiner opined that Vet Center records appeared consistent with a diagnosis of panic disorder rather than PTSD.
+
+round 14, index 36: 
+The probative value of medical opinion evidence is based on the medical expert's personal examination of the patient, the physician's knowledge and skill in analyzing the data, and the medical conclusion that the physician reaches.
+
+round 15, index 95: 
+In a July 2010 addendum opinion, C.H. provided another opinion.
+
+round 16, index 116: 
+Additionally, the examiner did not address the etiology of the Veteran's depressive disorder NOS.
+
+round 17, index 34: 
+Id.
+
+round 18, index 120: 
+Veterans' Law Judge, Board of Veterans' AppealsDepartment of Veterans Affairs
+
+round 19, index 58: 
+Moreover, the examiner stated that the May 2008 Vet Center opinion did not contain information about how a PTSD diagnosis was derived.
+
+round 20, index 59: 
+In a March 2016 VA examination, the examiner opined that the diagnostic criteria for a PTSD diagnosis were not met.
+
+round 21, index 115: 
+(finding that an examination was inadequate where the examiner did not comment on the Veteran's report of in-service injury and relied on the lack of contemporaneous medical evidence to provide a negative opinion).
+
+round 22, index 60: 
+Based on a review of the record, the Board finds that the evidence is against a finding of PTSD diagnosis during the appeal period.
+
+round 23, index 6: 
+In January 2012, the Board granted the Veteran's petition to re-open the claim and remanded the claim for additional development and an examination.
+
+round 24, index 73: 
+As such, the Board finds that there is credible evidence that an in-service event occurred.
+
+round 25, index 61: 
+The Board acknowledges that Vet Center records and early VA medical records indicate that the Veteran was diagnosed with PTSD.
+
+round 26, index 37: 
+As such, the Board may appropriately favor the opinion of one competent medical authority over another.
+
+round 27, index 62: 
+However, the Veteran's Vet Center diagnosis of PTSD is not shown to have been diagnosed in accordance with 38 C.F.R. § 4.125
+
+round 28, index 102: 
+However, the October 2009 and July 2010 opinions are internally inconsistent because the opinions appear to weigh both in favor and against the Veteran's claim.
+
+round 29, index 63: 
+Specifically, the provisions of § 4.125 applicable in this case require a diagnosis of PTSD in conformance with DSM-IV, which outlines six different criteria (A through F) that must be met.
+
+round 30, index 35: 
+The Board is required to assess the credibility and probative weight of all relevant evidence, and may consider factors such as facial plausibility, bias, self-interest, and consistency with other evidence of record.
+
+round 31, index 38: 
+The Veteran is entitled to the benefit of the doubt when there is an approximate balance of positive and negative evidence on any issue material to the claim.
+
+round 32, index 39: 
+When the evidence supports the claim or is in relative equipoise, the claim will be granted.
+
+round 33, index 17: 
+that VA will seek to provide; and (3) that the claimant is expected to provide.
+
+round 34, index 0: 
+The Veteran served on active duty from November 1965 to November 1968.
+
+round 35, index 1: 
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from an October 2008 rating decision by the Department of Veterans Affairs (VA) Regional Office (RO) in Huntington, West Virginia, which denied the Veteran's petition to re-open his claim for service connection for a claimed nervous disorder, to include PTSD, panic disorder, agoraphobia, and anxiety.
+
+round 36, index 40: 
+If the preponderance of the evidence weighs against the claim, it must be denied.
+
+round 37, index 15: 
+Proper notice from VA must inform the claimant of any information and evidence not of record: (1) that is necessary to substantiate the claim;
+
+round 38, index 28: 
+Generally, establishing service connection for a claimed disability requires medical or, in certain circumstances, lay evidence of: (1) a current disability; (2) an in-service incurrence or aggravation of a disease or injury; and (3) a nexus between the current disability and the disease or injury incurred or aggravated during service.
+
+round 39, index 9: 
+The Veteran has current diagnoses of panic disorder with agoraphobia and depressive disorder NOS, but the most probative evidence of record does not show a diagnosis of PTSD during the pendency of the appeal.
+
+round 40, index 50: 
+Early VA medical records indicate that the Veteran was provided with a provisional diagnosis of PTSD during the appeal period.
+
+round 41, index 14: 
+Upon receipt of a complete or substantially complete application for benefits, and prior to an initial unfavorable decision, VA is required to notify the claimant and his or her representative, if any, of any information, and any medical or lay evidence, that is necessary to substantiate the claim.
+
+round 42, index 12: 
+The criteria for service connection for PTSD are not met.
+
+round 43, index 104: 
+As such, the October 2009 examination and July 2010 opinion are of limited probative value.
+
+round 44, index 114: 
+However, the opinion is entitled to less probative weight because the examiner relied on the absence of contemporaneous medical evidence without reconciling her opinion with the Veteran's lay statements regarding onset.
+
+round 45, index 113: 
+The Board finds that the examiner is competent, and the opinion is credible.
+
+round 46, index 94: 
+He also opined that it was theoretically possible that the Veteran's panic disorder was related to service, but there was no available evidence to directly link the two and, as such, it was less likely than not related to the in-service event.
+
+round 47, index 103: 
+(emphasizing that "a medical opinion must contain clear conclusions and supporting data, as well as 'a reasoned medical explanation' connecting the two").
+
+round 48, index 96: 
+For the sake of clarity, the Board notes that the examiner initially addresses the Veteran's disorder as a panic disorder, but subsequently refers to it as an anxiety disorder.
+
+round 49, index 7: 
+In February 2016, the claim was remanded again for a new examination.
+
+round 50, index 8: 
+In March 2016, an examination was completed.
+
+round 51, index 93: 
+However, he did not address whether additional evidence was needed or whether his inability to provide an opinion was based on the limits of medical knowledge.
+
+round 52, index 88: 
+A nexus opinion was not provided.
+
+round 53, index 49: 
+In a May 2009 Vet Center record, a clinician noted that the Veteran's symptoms were significant, probable, and prominent with PTSD, but did not provide an assessment of the DSM-IV criteria.
+
+round 54, index 33: 
+However, there are specific circumstances in which lay testimony may be sufficient to establish a claimed stressor if, in the absence of clear and convincing evidence to the contrary, the stressor is consistent with the places, types, and circumstances of the Veteran's service.
+
+round 55, index 42: 
+Preliminarily, the Board notes that the evidence does not suggest, nor does the Veteran assert, that he was engaged in combat with the enemy or that his claimed PTSD is related to combat.
+
+round 56, index 41: 
+The Veteran contends that an acquired psychiatric disorder was incurred in active service.
+
+round 57, index 81: 
+(holding that the Board may reject a medical opinion based on an inaccurate factual basis).
+
+round 58, index 48: 
+The clinician addressed the DSM-IV diagnostic criteria A through D, but did not address criteria E and F.
+
+round 59, index 80: 
+As such, the Board finds the September 2006 opinion to be of limited probative value.
+

@@ -1,0 +1,180 @@
+round 0, index 34: 
+Service connection for PTSD is granted.
+
+round 1, index 35: 
+Veterans Law Judge, Board of Veterans' Appeals Department of Veterans Affairs
+
+round 2, index 32: 
+Nevertheless, all the legal requirements for establishing service connection for PTSD are met.
+
+round 3, index 33: 
+Service connection for PTSD is warranted.
+
+round 4, index 7: 
+The veteran has a VA diagnosis of PTSD; a VA examiner has opined that the veteran's PTSD is related to the corroborated stressor events in service.
+
+round 5, index 8: 
+Service connection for PTSD is warranted.
+
+round 6, index 6: 
+There is credible corroborating evidence that the veteran was subjected to sexual abuse and mental trauma in service.
+
+round 7, index 29: 
+A VA examiner has opined that her diagnosis of PTSD is related to the sexual trauma and mental abuse she suffered in the military.
+
+round 8, index 27: 
+The veteran has an Axis I diagnosis of PTSD (in accordance with DSM-IV), and receives VA treatment for such disability.
+
+round 9, index 15: 
+Service connection may be granted for disability due to disease or injury incurred in or aggravated by active military service.
+
+round 10, index 17: 
+When there is an approximate balance of positive and negative evidence regarding the merits of an issue material to the determination of matter, the benefit of the doubt in resolving each such issue shall be given to the claimant.
+
+round 11, index 16: 
+To establish service connection for PTSD requires medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a) [i.e., a diagnosis under DSM-IV]; a link, established by medical evidence, between current symptoms and a stressor event in service; and credible supporting evidence that the claimed stressor event in service occurred.
+
+round 12, index 14: 
+Hence, the Board will summarize the relevant evidence where appropriate, and the analysis below will focus specifically on what the evidence shows, or fails to show, as to the claim.
+
+round 13, index 18: 
+The veteran's service treatment records contain no mention of complaints, findings, or diagnosis of PTSD.
+
+round 14, index 9: 
+REASONS AND BASES FOR FINDING AND CONCLUSION        I. Veterans Claims Assistance Act of 2000 (VCAA)
+
+round 15, index 10: 
+The VCAA, in part, describes VA's duty to notify and assist claimants in substantiating a claim for VA benefits.
+
+round 16, index 13: 
+Board has an obligation to provide reasons and bases supporting its decision, there is no need to discuss, in detail, every piece of evidence of record.
+
+round 17, index 5: 
+no further evidence was received.1.
+
+round 18, index 19: 
+Service personnel records note that she requested, and was approved for, early separation from service due to pregnancy.
+
+round 19, index 11: 
+The VCAA applies in the instant case;
+
+round 20, index 12: 
+however, because the benefit sought is being granted, there is no reason to belabor its impact in this matter.        II. Legal Criteria, Evidence and AnalysisInitially, the Board notes all of the evidence in the veteran's claims file, with an emphasis on the evidence relevant to this appeal, has been reviewed.
+
+round 21, index 20: 
+In her October 2002 claim of service connection for PTSD, the appellant alleged that she was beaten and raped on numerous occasions in service, and that the Army did nothing to discourage it.
+
+round 22, index 21: 
+In her stressor statement she further reiterated that J. M., the soldier committing the abuse (and father of her child), physically, sexually and mentally abused her, even while she was pregnant.
+
+round 23, index 30: 
+The Board finds no reason in the record to question the competence of that VA care-provider.
+
+round 24, index 22: 
+She stated that she was not allowed to seek medical help while in the military because J. M. (who was then a married noncommissioned officer who was superior to her) prevented it.
+
+round 25, index 23: 
+Letters from J. M. in essence acknowledge that he gravely mistreated the veteran.
+
+round 26, index 3: 
+A transcript of the hearing is associated with the claims file.
+
+round 27, index 31: 
+The Board recognizes that the veteran was subjected to sexual abuse trauma prior to service and has (apparently) experienced abuse since.
+
+round 28, index 26: 
+Based on history elicited and mental status evaluation, the examiner provided an Axis I diagnosis of PTSD, and opined that the veteran has PTSD from physical, sexual, and mental abuse she incurred while she was in the military.
+
+round 29, index 28: 
+Her accounts of sexual and mental abuse in the military by a married noncommissioned officer are, in essence, corroborated by the fact that she bore the child of that individual, and by his letters acknowledging abuse.
+
+round 30, index 4: 
+At the hearing, the veteran was granted a 90 day abeyance period for submission of additional evidence;
+
+round 31, index 0: 
+The appellant is a veteran who served on active duty from
+
+round 32, index 1: 
+This matter is before the Board of Veterans' Appeals (Board) on appeal from a February 2003 rating decision by the Cleveland, Ohio Department of Veterans Affairs (VA) Regional Office (RO).
+
+round 33, index 2: 
+In July 2008, a Travel Board hearing was held before the undersigned.
+
+round 34, index 24: 
+VA treatment records from November 1988 to June 2007 show ongoing treatment for various psychiatric disorders to include PTSD.
+
+round 35, index 25: 
+On October 2005 VA mental health assessment, the examiner noted the veteran's history of several pre-service rapes and assaults, and that she requested an early discharge from the military in order to protect herself and her unborn child from her boyfriend (J.M., father of her child) who was severely mentally, physically and sexually abusing her.
+
+round 36, index 0: 
+The appellant is a veteran who served on active duty from
+
+round 37, index 0: 
+The appellant is a veteran who served on active duty from
+
+round 38, index 0: 
+The appellant is a veteran who served on active duty from
+
+round 39, index 0: 
+The appellant is a veteran who served on active duty from
+
+round 40, index 0: 
+The appellant is a veteran who served on active duty from
+
+round 41, index 0: 
+The appellant is a veteran who served on active duty from
+
+round 42, index 0: 
+The appellant is a veteran who served on active duty from
+
+round 43, index 0: 
+The appellant is a veteran who served on active duty from
+
+round 44, index 0: 
+The appellant is a veteran who served on active duty from
+
+round 45, index 0: 
+The appellant is a veteran who served on active duty from
+
+round 46, index 0: 
+The appellant is a veteran who served on active duty from
+
+round 47, index 0: 
+The appellant is a veteran who served on active duty from
+
+round 48, index 0: 
+The appellant is a veteran who served on active duty from
+
+round 49, index 0: 
+The appellant is a veteran who served on active duty from
+
+round 50, index 0: 
+The appellant is a veteran who served on active duty from
+
+round 51, index 0: 
+The appellant is a veteran who served on active duty from
+
+round 52, index 0: 
+The appellant is a veteran who served on active duty from
+
+round 53, index 0: 
+The appellant is a veteran who served on active duty from
+
+round 54, index 0: 
+The appellant is a veteran who served on active duty from
+
+round 55, index 0: 
+The appellant is a veteran who served on active duty from
+
+round 56, index 0: 
+The appellant is a veteran who served on active duty from
+
+round 57, index 0: 
+The appellant is a veteran who served on active duty from
+
+round 58, index 0: 
+The appellant is a veteran who served on active duty from
+
+round 59, index 0: 
+The appellant is a veteran who served on active duty from
+

@@ -1,0 +1,180 @@
+round 0, index 48: 
+This claim must be afforded expeditious treatment.
+
+round 1, index 47: 
+The Veteran and his representative have the right to submit additional evidence and argument on the matters the Board has remanded.
+
+round 2, index 46: 
+Thereafter, the case should be returned to the Board for appellate review.
+
+round 3, index 49: 
+The law requires that all claims that are remanded by the Board of Veterans' Appeals or by the United States Court of Appeals for Veterans Claims for additional development or other appropriate action must be handled in an expeditious manner.
+
+round 4, index 50: 
+Veterans Law Judge, Board of Veterans' AppealsUnder 38 U.S.C.A. § 7252 (West 2002), only a decision of the Board of Veterans' Appeals is appealable to the United States Court of Appeals for Veterans Claims.
+
+round 5, index 51: 
+This remand is in the nature of a preliminary order and does not constitute a decision of the Board on the merits of your appeal.
+
+round 6, index 32: 
+Schedule the Veteran for a comprehensive VA psychiatric examination to determine the diagnoses of all psychiatric disorders that are present.
+
+round 7, index 30: 
+Request treatment records from the Denver VAMC and Phoenix VAMC for the period January 1, 1980, to March 24, 1996, and obtain updated treatment records from the Phoenix VAMC for the period January 19, 2011.
+
+round 8, index 34: 
+The examiner should determine the diagnoses of any currently manifested psychiatric disorder(s).
+
+round 9, index 31: 
+If such efforts prove unsuccessful, documentation to that effect should be added to the claims folder.
+
+round 10, index 45: 
+If any of the benefits sought are not granted in full, the Veteran should be furnished an appropriate supplemental statement of the case and be afforded an opportunity to respond.
+
+round 11, index 29: 
+Accordingly, the case is REMANDED for the following actions:
+
+round 12, index 6: 
+The appeal is REMANDED to the RO via the Appeals Management Center (AMC), in Washington, DC.  VA will notify the Veteran if further action is required.
+
+round 13, index 33: 
+The claims folder and a copy of this remand must be provided to the examiner prior to the examination.
+
+round 14, index 15: 
+For purposes of this paragraph, "fear of hostile military or terrorist activity" means that a Veteran experienced, witnessed, or was confronted with an event or circumstance that involved actual or threatened death or serious injury, or a threat to the physical integrity of the Veteran or others, such as from an actual or potential improvised explosive device; vehicle-imbedded explosive device; incoming artillery, rocket, or mortar fire; grenade; small arms fire, including suspected sniper fire; or attack upon friendly military aircraft, and the Veteran's response to the event or circumstance involved a psychological or psycho-physiological state of fear, helplessness, or horror.
+
+round 15, index 39: 
+For purposes of this paragraph, "fear of hostile military or terrorist activity" means that a Veteran experienced, witnessed, or was confronted with an event or circumstance that involved actual or threatened death or serious injury, or a threat to the physical integrity of the Veteran or others, such as from an actual or potential improvised explosive device; vehicle-imbedded explosive device; incoming  artillery, rocket, or mortar fire; grenade; small arms fire, including suspected sniper fire; or attack upon friendly military aircraft, and the Veteran's response to the  event or circumstance involved a psychological or psycho-physiological state of fear, helplessness, or horror.
+
+round 16, index 37: 
+a)
+
+round 17, index 7: 
+An October 2000 VA treatment record reflects that the Veteran had sought mental health treatment at the Phoenix VA Medical Center (VAMC) since 1984.
+
+round 18, index 36: 
+A multiaxial evaluation based on the current DSM-IV diagnostic criteria is required.
+
+round 19, index 42: 
+All opinions and conclusions expressed must be supported by a complete rationale in a report.
+
+round 20, index 38: 
+The examiner should determine whether the Veteran currently suffers from PTSD related to his fear of hostile military or terrorist activity while on active duty, and whether it is adequate to support a diagnosis of PTSD.
+
+round 21, index 11: 
+While on remand, updated treatment records should be obtained from the Phoenix VAMC for the period January 19, 2011 to the present.
+
+round 22, index 43: 
+The examiner should reconcile any opinion with the service treatment records, service personnel records, and post-service diagnoses.
+
+round 23, index 41: 
+For any other psychiatric diagnosis, the examiner is requested to render an opinion as to whether it is at least as likely as not (i.e., a likelihood of 50 percent or more) that any currently diagnosed psychiatric disorder is a result of service or any incident therein.
+
+round 24, index 40: 
+b)
+
+round 25, index 5: 
+This is referred to the RO for appropriate action.
+
+round 26, index 27: 
+In light of the Court's holding in Clemons, the Board finds that the Veteran should be scheduled for a VA examination to determine the nature and etiology of all of his psychiatric symptomatology, including dysthymia, bipolar affective disorder, and major depression.
+
+round 27, index 28: 
+The RO should also ensure that the Veteran receives proper notice pursuant to the VCAA with regard to entitlement to service connection for an acquired psychiatric disability, other than PTSD.
+
+round 28, index 35: 
+The diagnosis(es) must be based on examination findings, all available medical records, complete review of comprehensive testing for PTSD, and any special testing deemed appropriate.
+
+round 29, index 10: 
+The Veteran's treatment records for the period January 1, 1980, to March 24, 1996, from the Denver and Phoenix VAMC's, should be associated with the claims folder.
+
+round 30, index 9: 
+The evidence of record contains VA inpatient and outpatient treatment records from March 25, 1996; however, there are no records on file prior to this period.
+
+round 31, index 26: 
+The medical evidence, however, reflects diagnoses of dysthymia, bipolar affective disorder, and major depression.
+
+round 32, index 0: 
+The Veteran served on active duty from March 1974 to March 1977.
+
+round 33, index 1: 
+This matter comes to the Board of Veterans' Appeals (Board) from a March 2004 rating decision of a Department of Veterans Affairs (VA) Regional Office (RO) that denied service connection for PTSD.
+
+round 34, index 2: 
+A notice of disagreement was filed in March 2004, a statement of the case was issued in February 2005, and a substantive appeal was received in April 2005.
+
+round 35, index 3: 
+The Veteran testified at a Board hearing in March 2011; the transcript is of record.
+
+round 36, index 14: 
+If a stressor claimed by a Veteran is related to the Veteran's fear of hostile military or terrorist activity and a VA psychiatrist or psychologist, or a psychiatrist or psychologist with whom VA has contracted, confirms that the claimed stressor is adequate to support a diagnosis of [PTSD] and that the Veteran's symptoms are related to the claimed stressor, in the absence of clear and convincing evidence to the contrary, and provided the claimed stressor is consistent with the places, types, and circumstances of the Veteran's service, the Veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor.
+
+round 37, index 44: 
+After completion of the above, review the expanded record and readjudicate entitlement to service connection for PTSD, to include under the provisions of 38 C.F.R. § 3.304(f)(3) (2010) and 75 Fed. Reg. 39843 - 39852 (July 13, 2010), and adjudicate entitlement to service connection for an acquired psychiatric disability.
+
+round 38, index 13: 
+Per the new regulations, service connection for PTSD requires medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a); an in-service stressor consistent with the places, types, and circumstances of service (satisfactorily established by lay testimony) that has been medically related to the Veteran's fear of hostile military or terrorist activity by a VA psychiatrist or psychologist, or one contracted with by VA; and the Veteran's PTSD symptoms have been medically related to the in-service stressor by a VA psychiatrist or psychologist, or one contracted with by VA.
+
+round 39, index 8: 
+At the Board hearing, the Veteran testified that he sought mental health treatment at the Denver, Colorado VAMC or the Phoenix VAMC in 1980 or thereafter.
+
+round 40, index 16: 
+Since the Veteran was not stationed in an area where hostile military or terrorist activity would normally take place, it is not clear that the regulatory change would relate to him.
+
+round 41, index 4: 
+In February 2011, the Veteran filed a claim of service connection for bilateral hearing loss and tinnitus.
+
+round 42, index 12: 
+With regard to the Veteran's claim of service connection for PTSD, the Board notes that new regulations have been implemented with regard to stressor determinations for PTSD.
+
+round 43, index 17: 
+The Veteran has submitted statements and has testified that he served as a combat engineer building bridges and retrieving World War II mines during his service in Germany.
+
+round 44, index 22: 
+The RO/AMC should notify the Veteran of the regulation changes and ensure that the Veteran's claim of service connection for PTSD is readjudicated under the amendments.
+
+round 45, index 19: 
+The Veteran testified that his unit was called out on "alerts" and he would be in the "field" for weeks at a time in Germany and along the Czechoslovakian border.
+
+round 46, index 25: 
+In this matter, the RO has denied entitlement to service connection for PTSD on the basis that claimed stressors have not been corroborated.
+
+round 47, index 18: 
+The Veteran testified that retrieving the land mines could be nerve-wracking.
+
+round 48, index 21: 
+He witnessed soldiers being injured in accidents and witnessed a soldier attempting suicide.
+
+round 49, index 20: 
+He has stated that he began to drink heavily and use drugs during his period of active service.
+
+round 50, index 23: 
+The Court noted that a layperson is not competent to diagnose a psychiatric disorder; therefore, any and all mental disorders eventually diagnosed during the course of a claim should be considered, even though the Veteran did not file a written claim for that disorder.
+
+round 51, index 0: 
+The Veteran served on active duty from March 1974 to March 1977.
+
+round 52, index 24: 
+The facts of the instant case are similar to those in Clemons.
+
+round 53, index 0: 
+The Veteran served on active duty from March 1974 to March 1977.
+
+round 54, index 0: 
+The Veteran served on active duty from March 1974 to March 1977.
+
+round 55, index 0: 
+The Veteran served on active duty from March 1974 to March 1977.
+
+round 56, index 0: 
+The Veteran served on active duty from March 1974 to March 1977.
+
+round 57, index 0: 
+The Veteran served on active duty from March 1974 to March 1977.
+
+round 58, index 0: 
+The Veteran served on active duty from March 1974 to March 1977.
+
+round 59, index 0: 
+The Veteran served on active duty from March 1974 to March 1977.
+

@@ -1,0 +1,117 @@
+Citation Nr: 1452723	
+Decision Date: 12/01/14    Archive Date: 12/10/14
+
+DOCKET NO.  12-14 864	)	DATE
+	)
+	)
+
+On appeal from the
+Department of Veterans Affairs Regional Office in St. Louis, Missouri
+
+
+THE ISSUE
+
+Entitlement to service connection for posttraumatic stress disorder (PTSD). 
+
+
+REPRESENTATION
+
+Appellant represented by:	Missouri Veterans Commission
+
+
+WITNESSES AT HEARING ON APPEAL
+
+The Veteran and his wife
+
+
+ATTORNEY FOR THE BOARD
+
+J. Davitian, Counsel
+
+
+INTRODUCTION
+
+The Veteran served on active duty from November 1968 to June 1971, and from September 1984 to February 2005.  
+
+This case is before the Board of Veterans' Appeals (BVA or Board) on appeal from a March 2010 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO) in St. Louis, Missouri, which denied the benefit sought on appeal.
+
+
+FINDING OF FACT
+
+The evidence does not show that the Veteran engaged in combat or experienced a stressor during active duty.
+
+
+CONCLUSION OF LAW
+
+PTSD was not incurred in or aggravated by active service.  38 U.S.C.A. §§ 1110, 1131, 5103, 5103A, 5107 (West 2002 & Supp. 2012); 38 C.F.R. §§ 3.303, 3.304 (2014).
+
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+Notice and Assistance
+
+VA has duties to notify and assist claimants in substantiating a claim for VA benefits.  38 U.S.C.A. §§ 5100, 5102, 5103, 5103A, 5107, 5126; 38 C.F.R. §§ 3.102, 3.156(a), 3.159 and 3.326(a).  See also Pelegrini v. Principi, 18 Vet. App. 112 (2004); Quartuccio v. Principi, 16 Vet. App. 183 (2002); Mayfield v. Nicholson, 444 F.3d 1328 (Fed. Cir. 2006); Dingess v. Nicholson, 19 Vet. App. 473 (2006).  Notice was provided in a September 2008 letter.  Accordingly, the duty to notify has been fulfilled. 
+
+With regard to the duty to assist, the claim's file contains the Veteran's available service treatment records, service personnel records, VA and private medical records, and the transcript of a September 2013 hearing before the undersigned Veterans Law Judge.  The Board has carefully reviewed the record and concludes that there has been no identification of further available evidence not already of record.  
+
+Service treatment records from November 1968 to June 1971 are unavailable.  An October 2009 VA memorandum states that VA had determined that these service medical records were unavailable, all procedures to obtain them had been correctly followed, all efforts to obtain them had been exhausted, further efforts were futile, and, based on these facts, the records were unavailable.  The memorandum lists the attempts made to obtain the records.  The Board is aware that in such situations, it has a heightened obligation to explain its findings and conclusions and carefully consider the benefit-of-the-doubt rule.  Cuevas v. Principi, 3 Vet. App. 542, 548 (1992); O'Hare v. Derwinski, 1 Vet. App. 365, 367 (1991).
+
+A VA examination was conducted in March 2012.  To that end, when VA undertakes to provide a VA examination or obtain a VA opinion, it must ensure that the examination or opinion is adequate.  Barr v. Nicholson, 21 Vet. App. 303, 312 (2007).  The Board finds that the March 2012 VA examination report is more than adequate in that it reflects a review of the Veteran's claims file, considers all of the pertinent evidence of record and provides a rationale for the opinion offered.  Parenthetically, the Board notes that, as discussed below, the opinion provided does not support the Veteran's claim as a stressor has not been established.
+
+The Board finds that all relevant facts have been properly and sufficiently developed in this appeal and no further development is required to comply with the duty to assist the Veteran in developing the facts pertinent to his claim.
+
+
+
+
+Legal Analysis
+
+The Veteran contends that he incurred PTSD during active duty.  During the hearing and the VA examination, he reported two stressors during active duty.  One occurred while he was with HQ Advisory Group 75th, U.S. Military Assistance Command (MACV), when a jeep in a convoy he was in was hit by a mortar.  The jeep driver was killed.  The Veteran was told that his name was Alfredo Gonzalez, and the Veteran was ordered to clean up the deceased's body parts.  The second stressor occurred when the Veteran was traveling by motorcycle in Thailand.  A friend named Jones, who was also riding a motorcycle, was decapitated as he drove with the Veteran.  In August 2008 correspondence and his claim for benefits, the Veteran stated that while with the MACV Advisory Team in Vietnam he engaged in firefights during which artillery was used. 
+
+The relevant law provides that service connection may generally be granted for a disability resulting from disease or injury incurred in or aggravated by active military service.  38 U.S.C.A. §§ 1110, 1131; 38 C.F.R. § 3.303(a).  In addition, service connection may be granted for any disease diagnosed after discharge, when all the evidence including that pertinent to service, establishes that the disease was incurred in service.  38 C.F.R. § 3.303(d). 
+
+In particular, service connection for PTSD requires: (1) medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a) (i.e., DSM-IV); (2) credible supporting evidence that the claimed in-service stressor(s) occurred; and (3) medical evidence establishing a link between the current diagnosis and the stressor(s) in service.  38 C.F.R. § 3.304(f).
+
+Effective July 13, 2010, VA amended its adjudication regulations governing service connection for PTSD by liberalizing, in certain circumstances, the evidentiary standard for establishing the required in-service stressor.  These amendments pertain to claimed stressors that are related to a veteran's fear of hostile military or terrorist activity.  
+
+In each case where a veteran is seeking service connection for any disability, due consideration shall be given to the places, types, and circumstances of such veteran's service as shown by such veteran's service record, the official history of each organization in which such veteran served, such veteran's medical records, and all pertinent medical and lay evidence.  38 U.S.C.A. § 1154(a).
+
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination, the benefit of the doubt is afforded the claimant.  38 U.S.C.A. § 5107(b).
+
+Based on a thorough review of the record, the Board finds that the preponderance of the evidence is against the Veteran's claim for service connection for PTSD.  In so finding, the Board observes that there is no evidence that the Veteran was in combat or that he experienced a stressful event during service. 
+
+The Veteran's service personnel records and DD 214 fail to show that he was in combat.  Although the Veteran asserted that he was in combat, the Veteran has offered no specific details as to dates and locations.  He stated that he was with MACV at the time of the combat.  However, the Veteran's service personnel records fail to show that he was ever attached to MACV.  
+
+VA treatment records dated during the appeal period reflects a diagnosis of PTSD; combat related.  The March 2012 VA examination report provides an Axis I diagnosis of PTSD.  The report states that it is at least as likely as not that the PTSD diagnosis was related to the two stressors the Veteran reported concerning the convoy and motorcycles.  The report relates that the Veteran did not report any other stressors.  
+
+However, even when a claimant seeking service connection for PTSD has an unequivocal diagnosis of PTSD, service connection for PTSD requires a confirmed military service stressor, unless the claimed stressor is related to combat and the evidence establishes that the Veteran engaged in combat with the enemy.
+
+In this case, as noted above, the Veteran's service personnel records and DD214 are negative for any evidence of combat.  Significantly, the Veteran has not provided any specific details in support of his contentions that he was in combat while attached to MACV.  In fact, as noted above, the Veteran's service personnel records fail to show that he was ever attached to MACV.  
+
+When a claimed stressor is not related to combat a veteran's lay testimony alone will not be enough to establish the occurrence of the alleged stressor.  Moreau, supra; Dizoglio v. Brown, 9 Vet. App. 163, 166 (1996).  The record must contain corroborative evidence that substantiates or verifies the Veteran's testimony or statements as to the occurrence of the claimed stressor.  West (Carlton) v. Brown, 7 Vet. App. 70, 76 (1994); Zarycki v. Brown, 6 Vet. App. 91, 98 (1993).
+
+There is no evidence in this case to confirm any of the Veteran's alleged stressors.  The diagnoses of PTSD in the Veteran's VA treatment records and the March 2012 VA examination report do not corroborate that any stressor occurred.  The diagnoses are based solely on the Veteran's unsubstantiated assertions regarding what occurred in service.  A medical opinion premised upon an unsubstantiated account of a claimant is of no probative value.  Swann v. Brown, 5 Vet. App. 229, 233 (1993) (generally observing that a medical opinion premised upon an unsubstantiated account is of no probative value, and does not serve to verify the occurrences described); Reonal v. Brown, 5 Vet. App. 458, 461 (1993) (the Board is not bound to accept a physician's opinion when it is based exclusively on the recitations of a claimant).
+
+VA has attempted to corroborate the Veteran's claimed stressors.  A March 2010 VA memorandum in the claims file notes that the Veteran's service personnel records do not record that he was ever attached to HQ Advisory Group 75th (MACV).  The Vietnam Casualty List did not contain the name of Specialist Alfredo Gonzalez as being killed in Vietnam.  A March 2010 statement from the Joint Service Records Research Center reflected that examined records did not document that a person named Jones was killed, or was killed in an accident, in Thailand during the relevant period.  
+
+The Board is not bound to accept the Veteran's uncorroborated account of his experiences.  Wood v. Derwinski, 1 Vet. App. 190 (1992); Swann, supra.  The question of whether a specific event reported by a veteran as a stressor actually occurred is a question of fact for the Board to decide, involving, as it does, factors as much historical as psychological.  Wilson v. Derwinski, 2 Vet. App. 614 (1992). 
+
+In the absence of a showing of combat with the enemy or evidence of a verifiable stressor, the Board concludes that the Veteran has failed to satisfy the criteria for service connection for PTSD.  As the Veteran bases his claim on the reported stressors, service connection cannot be granted without verification of them, regardless of the current diagnosis of PTSD or positive nexus opinion.
+
+In sum, the evidence demonstrates that the Veteran is not entitled to service connection for PTSD.  As the preponderance of the evidence is against the claim, the benefit of the doubt doctrine is not for application.  See generally Gilbert v. Derwinski, 1 Vet. App. 49 (1990); Ortiz v. Principi, 274 F. 3d 1361 (Fed. Cir. 2001).
+
+
+ORDER
+
+Service connection for PTSD is denied.
+
+
+
+____________________________________________
+MICHAEL MARTIN
+Veterans Law Judge, Board of Veterans' Appeals
+
+
+
+Department of Veterans Affairs
+
+

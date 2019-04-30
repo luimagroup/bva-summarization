@@ -1,0 +1,180 @@
+round 0, index 151: 
+Entitlement to service connection for PTSD is granted.
+
+round 1, index 152: 
+Veterans Law Judge, Board of Veterans' AppealsDepartment of Veterans Affairs
+
+round 2, index 149: 
+Although medical professional disagree as to whether a diagnosis of PTSD is appropriate, the Veteran's treating psychiatric professionals endorse a finding of PTSD associated with the verified combat stressors.
+
+round 3, index 148: 
+As noted above, in-service stressors which have been verified include being fired upon and sharing one foxhole barely large enough for 2 people with 15 people and witnessing soldiers operating a front loader and throwing dead bodies into a ditch.
+
+round 4, index 147: 
+The record reflects verified in-service stressor events related to the Veteran's combat experiences.
+
+round 5, index 24: 
+Service connection may also be established for a current disability on the basis of a presumption under the law that certain chronic diseases manifesting themselves to a certain degree within a certain time after service must have had their onset in service.
+
+round 6, index 145: 
+As noted above, VA treatment records noted that the Veteran reported difficulty sleeping, recurrent trauma-related nightmares, recurrent intrusive memories, trauma-related illusions or hallucinations of voices calling "incoming," emotional detachment from friends and family, decreased interest in social and recreational activities, avoidance of crowds due to feeling tense and hypervigilance, difficulty with concentration and sustaining attention, and irritability.
+
+round 7, index 25: 
+When a chronic disease is not present during service, service connection may be established under 38 C.F.R. § 3.303(b) by evidence of continuity of symptomatology.
+
+round 8, index 12: 
+The analysis below focuses on the most salient and relevant evidence and on what this evidence shows, or fails to show, on the claim.
+
+round 9, index 142: 
+Id.
+
+round 10, index 26: 
+When a disease is first diagnosed after service, service connection can still be granted for that condition if the evidence shows it was incurred in service.
+
+round 11, index 23: 
+Service connection means that the facts establish that a particular injury or disease resulting in disability was incurred in the line of duty in the active military service or, if pre-existing such service, was aggravated during service.
+
+round 12, index 27: 
+To prevail on the issue of service connection there must be medical evidence of a current disability; medical evidence, or in certain circumstances, lay evidence of in-service occurrence or aggravation of a disease or injury; and medical evidence of a nexus between an in-service injury or disease and the current disability.
+
+round 13, index 28: 
+Service connection for PTSD requires medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a) (2010); a link, established by medical evidence, between current symptoms and an in-service stressor; and credible supporting evidence that the claimed in-service stressor occurred.
+
+round 14, index 29: 
+38 C.F.R. § 4.125(a) requires that diagnoses of mental disorders conform to the Diagnostic and Statistical Manual for Mental Disorders (DSM-IV).
+
+round 15, index 22: 
+The Board observes that in light of the favorable outcome of this appeal, any perceived lack of notice or development under the VCAA should not be considered prejudicial.
+
+round 16, index 30: 
+On the question of the occurrence of an in-service stressor to support the diagnosis of PTSD, the evidence necessary to establish the occurrence of an in-service stressor varies depending on whether or not the Veteran engaged in combat with the enemy.
+
+round 17, index 11: 
+(the Board must review the entire record, but does not have to discuss each piece of evidence).
+
+round 18, index 150: 
+Therefore, resolving all reasonable doubt in favor of the Veteran, a diagnosis of PTSD is established.
+
+round 19, index 10: 
+Although the Board has an obligation to provide reasons and bases supporting this decision, there is no need to discuss, in detail, the extensive evidence submitted by the Veteran or on his behalf.
+
+round 20, index 7: 
+Two of the Veteran's alleged in-service stressors have been verified; the Veteran's treating psychiatric professionals endorse a finding of PTSD associated with the verified combat stressors.
+
+round 21, index 138: 
+The Board notes that there is a difference of opinion among the medical professionals.
+
+round 22, index 31: 
+If it is determined through military citation or other supportive evidence that a Veteran engaged in combat with the enemy, and the claimed stressor is related to combat, the Veteran's lay testimony regarding the reported stressor must be accepted as conclusive evidence as to the actual occurrence and no further development or corroborative evidence will be necessary, provided that the testimony is found to be satisfactory and consistent with the circumstances, conditions or hardships of such service.
+
+round 23, index 13: 
+The Veteran must not assume that the Board has overlooked pieces of evidence that are not explicitly discussed herein.
+
+round 24, index 97: 
+He was tearful during interview and his mood was of anxious depression.
+
+round 25, index 32: 
+The phrase "engaged in combat with the enemy" means that the Veteran must have personally participated in a fight or encounter with a military foe or hostile unit or instrumentality.
+
+round 26, index 96: 
+The Veteran was hyper alert, cooperative, restless, and fearful.
+
+round 27, index 33: 
+The fact that the Veteran served in a "combat zone" does not necessarily mean that he engaged in combat against the enemy.
+
+round 28, index 139: 
+In deciding whether the Veteran's has a current diagnosis of PTSD, it is the responsibility of the Board to weigh the evidence and decide where to give credit and where to withhold the same and, in so doing, accept certain medical opinions over others.
+
+round 29, index 66: 
+While there, he saw soldiers operating a front loader and throwing dead bodies into a ditch.
+
+round 30, index 34: 
+Whether or not a Veteran "engaged in combat with the enemy" must be determined through recognized citations or other official records.
+
+round 31, index 44: 
+There is no indication of receipt of such combat-related citations as the Purple Heart Medal or the Combat Infantryman Badge.  See 71 Fed. Reg. 17276-17334 (Apr. 6, 2006) (describing criteria for award of decorations, medals, ribbons and similar devices).
+
+round 32, index 35: 
+No single item of evidence is determinative, and VA must assess the credibility, probative value, and relative weight of each item.
+
+round 33, index 98: 
+Productions were coherent, relevant, and logical, there were no ideas of aggression to self or others, there were visual hallucinations and flash-back episodes related to the Vietnam conflict.
+
+round 34, index 140: 
+That responsibility is particularly onerous where medical opinions diverge.
+
+round 35, index 1: 
+This matter is before the Board of Veterans' Appeals (Board) following Board Remands in May 2006 and November 2009.
+
+round 36, index 0: 
+The Veteran had active military service from August 1967 to August 1969.
+
+round 37, index 137: 
+The DSM-IV criteria indicates persistent reexperiencing includes recurrent and distressing recollections of the event, recurrent distressing dreams of the event, acting or feeling as if the traumatic event were recurring, and intense psychological distress at exposure to or physiological reactivity on exposure to internal or external cues that symbolize or resemble an aspect of the traumatic event.
+
+round 38, index 95: 
+In September 2006, the Veteran underwent VA psychiatric evaluation.
+
+round 39, index 21: 
+With respect to service connection claims, the U.S. Court of Appeals for Veterans Claims held that, upon receipt of an application for a service-connection claim, 38 U.S.C. § 5103(a) and 38 C.F.R. § 3.159(b) require VA to review the information and the evidence presented with the claim and to provide the claimant with notice of what information and evidence not previously provided, if any, will assist in substantiating, or is necessary to substantiate, each of the five elements of the claim, including notice of what is required to establish service connection and that a disability rating and an effective date for the award of benefits will be assigned if service connection is awarded.
+
+round 40, index 136: 
+Initially, the Board notes that the psychiatrists noted that there were no symptoms of re-experiencing the traumatic event.
+
+round 41, index 141: 
+At the same time, the Board is mindful that it cannot make its own independent medical determinations and that there must be plausible reasons for favoring one medical opinion over another.
+
+round 42, index 16: 
+As provided for by the Veterans Claims Assistance Act of 2000 (VCAA), the United States Department of Veterans Affairs (VA) has a duty to notify and assist claimants in substantiating a claim for VA benefits.
+
+round 43, index 17: 
+Upon receipt of a complete or substantially complete application for benefits, VA is required to notify the claimant and his or her representative, if any, of any information, and any medical or lay evidence, that is necessary to substantiate the claim.
+
+round 44, index 99: 
+The Veteran complained of insomnia, anhedonia, lack of energy, and loss of libido.
+
+round 45, index 20: 
+that VA will seek to provide; and (3) that the claimant is expected to provide.
+
+round 46, index 19: 
+(2)
+
+round 47, index 100: 
+There were no gross cognitive deficits, and judgment and insight were lacking.
+
+round 48, index 58: 
+During the Veteran's tour in Vietnam, J.R. died on January [redacted], 1968 and J.W. died on June [redacted], 1968.
+
+round 49, index 101: 
+Assessment was signs and symptoms compatible with a major depressive episode.
+
+round 50, index 36: 
+Any assertions of combat service are not ignored, but are evaluated along with other evidence.
+
+round 51, index 102: 
+Diagnosis was major depression with psychotic features.
+
+round 52, index 88: 
+There were no problems in his interpersonal relations, and no significant problems except for disturbed sleep.
+
+round 53, index 43: 
+None of the medals that the Veteran received, to include the National Defense Service Medal, Vietnam Campaign Medal, and Vietnam Service Medal, denote combat service.
+
+round 54, index 18: 
+Proper notice from VA must inform the claimant of any information and evidence not of record (1) that is necessary to substantiate the claim;
+
+round 55, index 68: 
+This report shows the 11th Calvary in the Long Binh/Bien Hoa area.
+
+round 56, index 67: 
+The stressors described above are verified based upon the TET Offensive After-Action Report.
+
+round 57, index 60: 
+The TET Offensive After-Action Report found in the Military History share drive indicates that the 11th Calvary was in the Long Bing/Bien Hoa area in 1968.
+
+round 58, index 59: 
+Of record is Annex G (Artillery) to TET Offensive After Action Report and a Memorandum to Files indicating that the following was used to verify the Veteran's stressor:
+
+round 59, index 71: 
+The Board finds that these stressors have been verified by the service department, and that there is credible supporting evidence that these claimed in-service stressors occurred.
+

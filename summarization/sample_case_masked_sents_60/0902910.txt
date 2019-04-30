@@ -1,0 +1,180 @@
+round 0, index 94: 
+Service connection for PTSD is denied.
+
+round 1, index 93: 
+Consequently, the claim must be denied.
+
+round 2, index 92: 
+Accordingly, the Board finds that the preponderance of the evidence is against the veteran's claim for service connection for PTSD; hence, the reasonable doubt doctrine is not applicable.
+
+round 3, index 91: 
+Because the diagnosis of PTSD is based on an unconfirmed stressor, service connection for PTSD cannot be granted.
+
+round 4, index 90: 
+While the veteran has been diagnosed with post traumatic stress disorder, such diagnosis is not based upon an independently-verified stressor.
+
+round 5, index 88: 
+Indeed, the Board can find no reference to this March 1968 stressor in any clinical record.
+
+round 6, index 89: 
+As a result, the Board does not find a basis to grant service connection.
+
+round 7, index 17: 
+Thus, any questions as to the appropriate disability rating or effective date to be assigned are moot.
+
+round 8, index 18: 
+VA fulfilled its duty to assist the claimant in obtaining identified and available evidence needed to substantiate the claims including VA medical records and records relied upon by the Social Security Administration in granting the veteran disability benefits.
+
+round 9, index 19: 
+VA also submitted the veteran's in-service stressors to the proper agency in an attempt to verify them.
+
+round 10, index 16: 
+The record, however, shows that any prejudice that failure caused was harmless, as the preponderance of the evidence is against entitlement to service connection for PTSD.
+
+round 11, index 21: 
+The Board finds that an examination was not necessary to decide the merits of this claim.
+
+round 12, index 22: 
+Under the VCAA, VA is obliged to provide an examination when the record contains competent evidence that the claimant has a current disability or signs and symptoms of a current disability; the record indicates that the disability or signs and symptoms of disability may be associated with active service; and the record does not contain sufficient information to make a decision on the claim.
+
+round 13, index 15: 
+VA did fail to provide notice how disability evaluations and effective dates are assigned prior to initial consideration of the claim.
+
+round 14, index 20: 
+VA did not provide the veteran with an examination in connection with his claim for service connection for PTSD.
+
+round 15, index 23: 
+Admittedly, the threshold for the duty to provide an examination is rather low.
+
+round 16, index 95: 
+Veterans Law Judge, Board of Veterans' Appeals Department of Veterans Affairs
+
+round 17, index 48: 
+Service connection may also be warranted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.
+
+round 18, index 24: 
+Here, however, the evidence of record is sufficient to decide the claim for service connection for PTSD.
+
+round 19, index 47: 
+Service connection is warranted where the evidence of record establishes that a particular injury or disease resulting in disability was incurred in the line of duty in the active military service or, if pre-existing such service, was aggravated thereby.
+
+round 20, index 70: 
+The Board does not agree with the veteran that the after-the-fact diagnosis of PTSD meets
+
+round 21, index 46: 
+Rather, the Board's analysis below will focus specifically on what evidence is needed to substantiate the claim and what the evidence in the claims file shows, or fails to show, with respect to the claim.
+
+round 22, index 69: 
+An after-the-fact diagnosis of PTSD 40 years after discharge from service is not an in-service diagnosis of PTSD in service.
+
+round 23, index 77: 
+Reportedly, on the third night, the "ammo bunker was destroyed."
+
+round 24, index 71: 
+For these reasons, the Board finds that the VA examiner's postservice opinion does not constitute an in-service diagnosis of PTSD.
+
+round 25, index 12: 
+Veterans Claims Assistance ActThe requirements of the Veterans Claims Assistance Act of 2000 (VCAA) have been met.
+
+round 26, index 68: 
+The veteran's service treatment records do not show a diagnosis of PTSD.
+
+round 27, index 50: 
+and credible supporting evidence that the claimed in-service stressor occurred.
+
+round 28, index 8: 
+PTSD was not diagnosed in service.
+
+round 29, index 11: 
+PTSD was not incurred in or aggravated by service.
+
+round 30, index 49: 
+Service connection for PTSD requires medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a); a link, established by medical evidence, between the current symptoms and an in-service stressor;
+
+round 31, index 85: 
+Thus, the Board does not find that the veteran engaged in combat.
+
+round 32, index 67: 
+Id. at page 64209 (Emphasis added).
+
+round 33, index 0: 
+The veteran served on active duty from September 1967 to June 1970.
+
+round 34, index 1: 
+This case comes before the Board of Veterans' Appeals (Board) on appeal from a July 2004 rating decision of the Atlanta, Georgia, Department of Veterans Affairs (VA) Regional Office (RO), which denied entitlement to service connection for PTSD.
+
+round 35, index 86: 
+Hence, his statements alone are not be enough to establish the occurrence of the alleged stressors.
+
+round 36, index 13: 
+There is no issue as to providing an appropriate application form or completeness of the application.
+
+round 37, index 9: 
+The veteran did not engage in combat with the enemy during military service.
+
+round 38, index 76: 
+The veteran stated they received incoming rocket attacks on February 13, 1968 as well.
+
+round 39, index 10: 
+The veteran has not been diagnosed with PTSD based on an independently verified in-service stressor.
+
+round 40, index 57: 
+Board finds that the preponderance of the evidence is against the grant of service connection for PTSD.
+
+round 41, index 84: 
+While the veteran claims to have been in Tan Son Nhut, there is no documentation to substantiate the allegation that the airbase was attacked while he was there, to include lay statements from someone who served with him.
+
+round 42, index 72: 
+The fact that there is no diagnosis of PTSD in service is not, however, outcome determinative.
+
+round 43, index 14: 
+VA notified the veteran in correspondence dated in January and February 2004 of the information and evidence needed to substantiate and complete a claim for service connection for PTSD, to include notice of what part of that evidence is to be provided by the claimant, notice of what part VA will attempt to obtain, and the need for the veteran to provide specific information regarding his in-service stressors.
+
+round 44, index 45: 
+Board has an obligation to provide adequate reasons and bases supporting this decision, there is no requirement that the evidence submitted by the veteran or obtained on his behalf be discussed in detail.
+
+round 45, index 44: 
+Administration records, and VA medical records.
+
+round 46, index 30: 
+Indeed, the appellant has not suggested that such an error, prejudicial or otherwise, exists.
+
+round 47, index 31: 
+Hence, the case is ready for adjudication.
+
+round 48, index 43: 
+The Board has reviewed all the evidence in the veteran's claims file, which includes his written contentions, his testimony, service treatment records, Social Security
+
+round 49, index 56: 
+After having carefully reviewed the evidence of record, the
+
+round 50, index 41: 
+He noted he went absent without leave due to medical problems his wife was having.
+
+round 51, index 36: 
+The representative stated that such stressors had been verified.
+
+round 52, index 75: 
+He stated they boarded buses from the airport while incoming rounds were hitting the runway and went to the 90th Replacement Company.
+
+round 53, index 54: 
+In such cases, the record must contain service records or other credible evidence that supports and does not contradict the veteran's testimony.
+
+round 54, index 55: 
+Where the determinative issue involves medical causation or a medical diagnosis, there must be competent medical evidence to the effect that the claim is plausible; lay assertions of medical status do not constitute competent medical evidence.
+
+round 55, index 28: 
+Without a corroborated stressor, there is no reason for VA to provide an examination or obtain an opinion in connection with this claim.
+
+round 56, index 29: 
+There is not a scintilla of evidence that any VA error in notifying or assisting the appellant reasonably affects the fairness of this adjudication.
+
+round 57, index 74: 
+He stated he arrived in Tan Son Nhut Air Force base on February 12, 1968, while the base was being mortared and rocketed.
+
+round 58, index 78: 
+The veteran stated he arrived in Cam Ranh Bay Air Base approximately on February 17, 1968, and they received incoming rounds.
+
+round 59, index 7: 
+Thus, the Board may consider this evidence in the first instance.
+
