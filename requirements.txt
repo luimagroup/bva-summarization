@@ -6,7 +6,7 @@ gensim==3.3.0
 idna==2.6
 jmespath==0.9.3
 nltk==3.2.5
-numpy==1.14.0
+numpy==1.22.0
 python-dateutil==2.6.1
 requests==2.18.4
 s3transfer==0.1.13
